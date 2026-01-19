@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <!--<string id="" text="" />-->
+    <string id="XmVTQ0bH" text="战争疲敝" />
+
+    <string id="BXluvRnJ" text="惨败"/>
+    <string id="0aZCy0at" text="强制议和" />
+
+    <string id="vLfbqXjq" text="你方部曲与领民因同{ENEMY_KINGDOM}的战事已疲敝至极，无力再战。你必须接受战败条款，支付{REPARATIONS}{GOLD_ICON}贯文战争赔款，此费用将由领国所有氏族分摊。{?ADD_TRIBUTE}你还需承诺每日缴纳{TRIBUTE}{GOLD_ICON}贯文贡金。{?}{\?}{?FIEFS_TO_RETURN_LIST.ANY}{NEW_LINE} {NEW_LINE}除此之外，你需将{FIEFS_TO_RETURN_LIST.START}{?FIEFS_TO_RETURN_LIST.IS_PLURAL}及{?}{\?}{FIEFS_TO_RETURN_LIST.END}归还予{ENEMY_KINGDOM}。{NEW_LINE} {NEW_LINE}{?} {\?}战败之辱将使你损失{INFLUENCE}点威光。"/>
+    <string id="ghZCj7hb" text="最后的本据落入敌手，你已无力继续与{ENEMY_KINGDOM}交战。你必须接受战败条款{?TO_BE_DESTROYED}——失却领地与生计，你的领国已覆亡。{?}，并支付{REPARATIONS}{GOLD_ICON}贯文战争赔款，此费用将由领国所有氏族分摊。 {?ADD_TRIBUTE}你还需承诺每日缴纳{TRIBUTE}{GOLD_ICON}贯文贡金。 {?}{\?}战败之辱将使你损失{INFLUENCE}点威光。{\?}" />
+    <string id="cKV5Jded" text="{KINGDOM.NAME}的部曲与领民因同{ENEMY_KINGDOM}的战事已疲敝至极，无力再战。{KINGDOM_LEADER.NAME}必须接受战败条款，支付{REPARATIONS}{GOLD_ICON}贯文战争赔款（此费用将由领国所有氏族分摊）。{?ADD_TRIBUTE}{?KINGDOM_LEADER.GENDER}她{?}他{\?}还需承诺每日缴纳{TRIBUTE}{GOLD_ICON}贯文贡金。{?}{\?}{?FIEFS_TO_RETURN_LIST.ANY}{NEW_LINE} {NEW_LINE}除此之外，{KINGDOM_LEADER.NAME}需将{FIEFS_TO_RETURN_LIST.START}{?FIEFS_TO_RETURN_LIST.IS_PLURAL}及{?}{\?}{FIEFS_TO_RETURN_LIST.END}归还予{ENEMY_KINGDOM}。{NEW_LINE} {NEW_LINE}{?} {\?}战败之辱将使{?KINGDOM_LEADER.GENDER}其{?}其{\?}损失{INFLUENCE}点威光。" />
+    <string id="idAcjzXB" text="最后的本据落入敌手，你已无力继续与{ENEMY_KINGDOM}交战。{KINGDOM_LEADER.NAME}必须接受战败条款{?TO_BE_DESTROYED}——失却领地与生计，领国已覆亡。{?}，并支付{REPARATIONS}{GOLD_ICON}贯文战争赔款（此费用将由领国所有氏族分摊）。 {?ADD_TRIBUTE}{?KINGDOM_LEADER.GENDER}她{?}他{\?}还需承诺每日缴纳{TRIBUTE}{GOLD_ICON}贯文贡金。 {?}{\?}战败之辱将使{?KINGDOM_LEADER.GENDER}其{?}其{\?}损失{INFLUENCE}点威光。{\?}" />
+    <string id="a3W5zKQr" text="{KINGDOM.NAME}与{ENEMY_KINGDOM}双方的部曲与领民均因战事疲敝至极，无力再战。除议和外已别无选择{?TO_BE_DESTROYED}——失却领地与生计，{?IS_REBELLION}你的叛乱已终结{?}你的领国已覆亡{\?}{?}{\?}。" />
+
+    <string id="6eTtSKO4" text="纵观当前局势，{REBEL_KINGDOM}之乱已功成，负隅顽抗已无意义。是时候承认败北{?TO_BE_DESTROYED}——纵然失却领地与生计，你的领国将不复存在{?}，让这片四分五裂、饱经战火的领国重归太平{\?}。" />
+    <string id="2ptArJem" text="纵观当前局势，你的叛乱已败亡。是时候承认败北，让这片四分五裂、疲于战事的{ORIGINAL_KINGDOM}重归一统。" />
+
+    <string id="HWiDa4R1" text="{KINGDOM.NAME}的部曲与领民因同{PLAYER_KINGDOM}的战事已疲敝至极，无力再战。{NEW_LINE} {NEW_LINE}{KINGDOM_LEADER.NAME}提议缔结和平条约，愿支付{REPARATIONS}{GOLD_ICON}贯文战争赔款。{?ADD_TRIBUTE}{?KINGDOM_LEADER.GENDER}她{?}他{\?}还需承诺每日缴纳{TRIBUTE}{GOLD_ICON}贯文贡金。{?}{\?}{?FIEFS_TO_RETURN_LIST.ANY}{NEW_LINE} {NEW_LINE}除此之外，{KINGDOM_LEADER.NAME}需将{FIEFS_TO_RETURN_LIST.START}{?FIEFS_TO_RETURN_LIST.IS_PLURAL}及{?}{\?}{FIEFS_TO_RETURN_LIST.END}归还予{PLAYER_KINGDOM}。{?}{\?}" />
+    <string id="t0ZS9maD" text="最后的本据陷落，{KINGDOM.LINK}已无力继续与{PLAYER_KINGDOM}交战。{NEW_LINE} {NEW_LINE}{KINGDOM_LEADER.NAME}提议缔结和平条约{?TO_BE_DESTROYED}——纵然失却领地与生计，其领国亦将覆亡。{?}，并愿支付{REPARATIONS}{GOLD_ICON}贯文战争赔款。{?ADD_TRIBUTE} {?KINGDOM_LEADER.GENDER}她{?}他{\?}还需承诺每日缴纳{TRIBUTE}{GOLD_ICON}贯文贡金。{?}{\?}{\?}" />
+    <string id="ZrwszZww" text="{KINGDOM.NAME}与{PLAYER_KINGDOM}双方的部曲与领民均因战事疲敝至极，无力再战。 {NEW_LINE} {NEW_LINE}{KINGDOM_LEADER.NAME}提议缔结和平条约{?TO_BE_DESTROYED}——纵然失却领地与生计，{?IS_REBELLION}其叛乱已实质上终结{?}其领国将不复存在{\?}{?}，且无任何附加条件{\?}。" />
+    <string id="q02T8cyI" text="纵观当前局势，{REBEL_KINGDOM}之乱已败亡。是否该接受其求和请降之请，让这片四分五裂、疲于战事的领国重归一统？" />
+    <string id="PC5GdgKA" text="纵观当前局势，你反{ORIGINAL_KINGDOM.NAME}之举已功成——就连{ORIGINAL_KINGDOM_LEADER.NAME}亦已承认！是否该接受其求和之请，就此达成你的目标？" />
+    <string id="13G0c8RE" text="你的领国因战火满目疮痍，除接受议和外已别无选择。" />
+
+    <!-- 战报 -->
+    <string id="mCue7aFc" text="战报" />
+    <string id="hfa8LLqD" text="{EXHAUSTED_FACTION}因与{OTHER_FACTION}的战事已元气大伤，续战能力濒临极限。随着战争疲敝度逼近峰值，{?IS_CIVIL_WAR}越来越多的人认清议和已是必然{?}其对议和的态度愈发开放{\?}。" />
+    <string id="k0Dnf6cU" text="关联活跃任务！" />
+    <string id="xPHDtsC1" text="存在活跃任务阻止此战提前终结。为确保局势稳定，双方的战争疲敝度无论如何均不会超过{CRITICAL_THRESHOLD}%。" />
+    <string id="xoY6cYDK" text="曾关联活跃任务！" />
+    <string id="UvjMFpHs" text="此前存在活跃任务阻止此战提前终结，因此战报中的分项数据可能与整体战争疲敝度数值不符。" />
+    <string id="hAoIC2Iq" text="开战日期：{START_DATE}" />
+    <string id="qHrihV27" text="战事时长：{WAR_DURATION}日" />
+    <!-- 战报分项 -->
+    <string id="IlFEeNkY" text="战争疲敝度报告" />
+    <string id="zYVH0xYa" text="伤亡数" />
+    <string id="y7XY860U" text="商队遭袭数" />
+    <string id="elRjo1ab" text="村落遭袭数" />
+    <string id="DrNBDhx3" text="失陷封地数" />
+    <string id="X1MIWYzy" text="被俘豪杰数" />
+    <string id="6FLtWxSp" text="殒命豪杰数" />
+    <string id="sCRuliNO" text="全境沦陷" />
+    <string id="XIPMI3gR" text="战事时长" />
+    <string id="FVyFJShW" text="神意干预" />
+    <string id="1kGleqyk" text="累计战争疲敝度" />
+    <string id="i5VSEDE3" text="{START_DATE} - {END_DATE}：{?COUNT.PLURAL_FORM}此前共{COUNT}条记录{?}此前{COUNT}条记录{\?}" />
+
+    <string id="fnPa5bas" text="驻守兵力" />
+    <string id="rwFeQWky" text="{KINGDOM_NAME}商队" />
+
+    <!-- 事件记录 -->
+    <string id="Toa6V7RL" text="{START_DATE} - {END_DATE}：每日{PER_DAY_VALUE}%，持续{VALUE}整{?VALUE.PLURAL_FORM}日{?}日{\?}" />
+    <string id="wMVdLssJ" text="{START_DATE} - {END_DATE}：无封地状态下，每日{PER_DAY_VALUE}%，持续{VALUE}整{?VALUE.PLURAL_FORM}日{?}日{\?}" />
+    <string id="0nTpub9S" text="{START_DATE} - {END_DATE}：战事伤亡{VALUE}{?VALUE.PLURAL_FORM}人{?}人{\?}" />
+    <string id="SeWNvf1N" text="{DATE_STR}：{FACTION_PARTY}与{OTHER_FACTION_PARTY}的战役中，伤亡{VALUE}{?VALUE.PLURAL_FORM}人{?}人{\?}" />
+    <string id="9V6S05X3" text="{DATE_STR}：{SETTLEMENT}攻防战中，{FACTION_PARTY}与{OTHER_FACTION_PARTY}交战，伤亡{VALUE}{?VALUE.PLURAL_FORM}人{?}人{\?}" />
+    <string id="vhBKtne1" text="{DATE_STR}：{RAIDED_CARAVAN}遭{OTHER_FACTION_PARTY}劫掠" />
+    <string id="Hnxf9Ox3" text="{DATE_STR}：{RAIDED_VILLAGE}遭{OTHER_FACTION_PARTY}劫掠" />
+    <string id="SXhzqm2N" text="{DATE_STR}：{RAIDED_VILLAGE}遭{OTHER_FACTION_PARTY}劫掠（受边际效应影响）" />
+    <string id="6cSuGG87" text="{DATE_STR}：{FACTION_PARTY}驻守的{SETTLEMENT.NAME}{?SETTLEMENT.IS_CASTLE}城{?}{\?}被{OTHER_FACTION_PARTY}攻陷" />
+    <string id="fuaTMWpt" text="{DATE_STR}：{FACTION_PARTY}驻守的{SETTLEMENT.NAME}{?SETTLEMENT.IS_CASTLE}城{?}{\?}被{OTHER_FACTION_PARTY}夺回（受边际效应影响）" />
+    <string id="yRvZ37cx" text="{DATE_STR}：{HERO}被{OTHER_FACTION_PARTY}俘获" />
+    <string id="i2Moqprl" text="{DATE_STR}：{HERO}被{OTHER_FACTION_PARTY}俘获（受边际效应影响）" />
+    <string id="QkSVPgDF" text="{DATE_STR}：{HERO}自然身故{?YIELDS_DIMINISHING_RETURNS}（受边际效应影响）{?}{\?}" />
+    <string id="S0lkYB5P" text="{DATE_STR}：{HERO}遭{OTHER_FACTION_PARTY}暗杀{?YIELDS_DIMINISHING_RETURNS}（受边际效应影响）{?}{\?}" />
+    <string id="f6OIFaSj" text="{DATE_STR}：{HERO}难产而亡{?YIELDS_DIMINISHING_RETURNS}（受边际效应影响）{?}{\?}" />
+    <string id="PmOPed8Y" text="{DATE_STR}：{HERO}寿终正寝{?YIELDS_DIMINISHING_RETURNS}（受边际效应影响）{?}{\?}" />
+    <string id="Pp6wYS5m" text="{DATE_STR}：{HERO}于与{OTHER_FACTION_PARTY}的战役中阵亡{?YIELDS_DIMINISHING_RETURNS}（受边际效应影响）{?}{\?}" />
+    <string id="QvGjUrmL" text="{DATE_STR}：{HERO}于与{OTHER_FACTION_PARTY}的战役后因战伤不治身亡{?YIELDS_DIMINISHING_RETURNS}（受边际效应影响）{?}{\?}" />
+    <string id="5tBkM1O4" text="{DATE_STR}：{HERO}遭{OTHER_FACTION_PARTY}处决{?YIELDS_DIMINISHING_RETURNS}（受边际效应影响）{?}{\?}" />
+    <string id="moeUCyaq" text="{DATE_STR}：{HERO}于与{OTHER_FACTION_PARTY}的战役中失踪{?YIELDS_DIMINISHING_RETURNS}（受边际效应影响）{?}{\?}" />
+    <string id="VB1xpuMA" text="{DATE_STR}：{FACTION}全境被{OTHER_FACTION}攻陷" />
+    <string id="X9wHA6q3" text="{DATE_STR}：{FACTION}全境被{OTHER_FACTION}攻陷（受边际效应影响）" />
+    <string id="9vOZJpPu" text="{DATE_STR}：{FACTION}的战争疲敝度离奇降低（有传言称是神意干预）" />
+    <string id="S5tDXkgK" text="{DATE_STR}：有传言称某股神秘势力试图干预{FACTION}的战事，但最终未见任何变化" />
+    <string id="fJE6Y9mB" text="{DATE_STR}：{FACTION}领民突然战意全无（有传言称是神意干预）" />
+
+    <!-- 设置项 -->
+    <string id="V542tneW" text="战争疲敝度" />
+    <string id="lSttctYC" text="启用战争疲敝度机制" />
+    <string id="Cxyn9ROT" text="启用战争疲敝度相关机制。默认值为启用。" />
+    <string id="Yc2YUIva" text="启用边际效应" />
+    <string id="CaxxEEdC" text="计算战争疲敝度时，部分事件启用边际效应。默认值为启用。" />
+    <string id="HPFINWrc" text="独立战争疲敝度倍率" />
+    <string id="LFVkLcIp" text="为各势力启用独立的战争疲敝度倍率。若禁用，则所有战事均根据敌对双方的综合实力计算统一倍率。默认值为启用。" />
+    <string id="gW3eVr5E" text="启用封地归还机制" />
+    <string id="KEi0UykN" text="启用后，领国若在战事中惨败，可能需将部分攻占的封地归还原主。默认值为启用。" />
+    <string id="8TFQWL55" text="每日战争疲敝度增量" />
+    <string id="lgza5wDq" text="战事持续期间，每日新增的战争疲敝度数值。不受战争疲敝度倍率影响。默认值为0.25%。" />
+    <string id="PAmPVWgD" text="无封地倍率" />
+    <string id="SdjYeYM5" text="无封地势力相较有封地势力，每日新增战争疲敝度的乘数。默认值为10。" />
+    <string id="s6dNpM6M" text="每伤亡一人的战争疲敝度增量" />
+    <string id="NcJtGeM7" text="势力每出现一名战役伤亡人员时，新增的战争疲敝度数值。默认值为0.02%。" />
+    <string id="kr5zAufg" text="每劫掠一支商队的战争疲敝度增量" />
+    <string id="PinVMCUE" text="势力商队每遭一次劫掠，新增的战争疲敝度数值。默认值为2.0%。" />
+    <string id="qFJ23KxQ" text="每被俘一名豪杰的战争疲敝度增量" />
+    <string id="wctCn9uO" text="势力的名门豪杰每被俘一人，新增的基础战争疲敝度数值。受豪杰对势力的重要性影响，可能受边际效应制约。默认值为1.0%。" />
+    <string id="4vTzbsXD" text="每殒命一名豪杰的战争疲敝度增量" />
+    <string id="w80tUaVd" text="势力的名门豪杰每殒命一人，新增的基础战争疲敝度数值。受豪杰对势力的重要性影响，若同一氏族多名豪杰殒命，可能受边际效应制约。默认值为5.0%。" />
+    <string id="eWVGwf2m" text="每劫掠一处村落的战争疲敝度增量" />
+    <string id="ufHDJt8H" text="势力村落每遭一次劫掠，新增的战争疲敝度数值。可能受边际效应制约。默认值为3.0%。" />
+    <string id="gGIaLKHk" text="每失陷一处城塞的战争疲敝度增量" />
+    <string id="mCEa773h" text="势力每失陷一座城池，新增的战争疲敝度数值；失陷一座城砦则增量减半。可能受边际效应制约。默认值为10.0%。" />
+    <string id="JmUPtZdw" text="全境沦陷时的战争疲敝度增量" />
+    <string id="541jGrpb" text="势力失却所有封地时，新增的战争疲敝度数值。不受战争疲敝度倍率影响，可能受边际效应制约。默认值为15.0%。" />
+    <string id="pPHLRIml" text="分项提示框最大记录数" />
+    <string id="YMf0mSqy" text="战争疲敝度报告中，任意分项提示框内可显示的最大记录数。可设置为便于查看的任意数值。默认值为35。" />
+    <string id="F4iFH6un" text="大地图挂件" />
+    <string id="zTvbZ8Br" text="在大地图界面顶部，为每场进行中的战事启用专属的战争疲敝度挂件。默认值为启用。" />
+    <string id="jI9NSxtz" text="启用玩家领国战争疲敝度调试信息" />
+    <string id="LYyNbQds" text="启用针对玩家领国的战争疲敝度调试信息。默认值为禁用。"/>
+  </strings>
+</base>

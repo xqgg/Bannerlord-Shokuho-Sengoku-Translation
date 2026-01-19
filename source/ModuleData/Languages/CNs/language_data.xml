@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="简体中文">
+    <LanguageFile xml_path="CNs/CNs_module_localization_strings.xml" />
+    <LanguageFile xml_path="CNs/CNs_names_string.xml" />
+    <LanguageFile xml_path="CNs/CNs_civil_war_strings_xml.xml" />
+    <LanguageFile xml_path="CNs/CNs_help_strings_xml.xml" />
+    <LanguageFile xml_path="CNs/CNs_module_localization_wanderer_strings.xml" />
+    <LanguageFile xml_path="CNs/CNs_module_production_strings.xml" />
+    <LanguageFile xml_path="CNs/CNs_module_quest_strings.xml" />
+    <LanguageFile xml_path="CNs/CNs_std_module_strings_xml.xml" />
+    <LanguageFile xml_path="CNs/CNs_war_exhaustion_strings.xml" />
+    <!-- <LanguageFile xml_path="CNs/原版词条修改.xml" /> -->
+
+</LanguageData>

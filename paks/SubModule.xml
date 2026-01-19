@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <Module>
+     <Name value="Shokuho_CNs_HL"/>
+     <Id value="Shokuho_CNs_HL"/>
+     <Version value="v1.0.0.10"/>
+     <ModuleCategory value="Singleplayer"/>
+	 <ModuleType value ="Community" />
+     <DependedModules>
+		<DependedModule Id="Native" />
+		<DependedModule Id="SandBoxCore" />
+		<DependedModule Id="Sandbox" />
+		<DependedModule Id="Shokuho" />
+     </DependedModules>
+	<Xmls>
+
+		<XmlNode>
+			<XmlName id="Settlements" path="settlements"/>
+		</XmlNode>
+
+	</Xmls>
+ </Module>

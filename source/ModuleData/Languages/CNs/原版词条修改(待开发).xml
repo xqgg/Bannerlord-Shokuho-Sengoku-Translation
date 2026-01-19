@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="简体中文" />
+    </tags>
+    <strings>
+        <!-- 弩（火器） -->
+        <string id="LCsu8rXa" text="使用火器的瞄准速度+{VALUE}%。" />
+        <string id="W0Zu4iDz" text="弩装填速度：+{a0}%" />
+    
+        <string id="1B8ZDOLs" text="马匹" />
+    </strings>
+</base>

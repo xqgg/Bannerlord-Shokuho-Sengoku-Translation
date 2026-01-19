@@ -1,0 +1,3845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+  type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="eyYSXAYZ" text="水战专精" />
+    <string id="yULrgzDc" text="山阳水军加成" />
+    <string id="O4taxYRX" text="山阴道地形加成" />
+    <string id="URx8JRet" text="这比武大会的规矩，在全日本都是一样的。咱们靠抽签配对，有时是组队厮杀，有时是单人应战。" />
+    <string id="EyRAR9Kg"
+      text="那是自然！这大会可是老祖宗传下来的规矩，如今早就在日本遍地开花了。想当年啊，还会给上百个死囚分发刀剑，让他们互砍到黄沙都浸透鲜血才罢休！[if:convo_merry]" />
+    <string id="liYvZ9FU" text="一杯清酒" />
+    <string id="9RDSUiHI" text="一碗味噌汤" />
+    <string id="khqKZM8U" text="「要换那黑船满载的金银\n要换那大明上贡的珍宝\n要换那云南苍山的美玉……」" />
+    <string id="52wFk01W"
+      text="哎，不是这样的。如今人贩子已经少见了。想当年氏族混战的时候，战败的人多半会被掳去当奴隶，这样也能补贴军费开支！可到了现在，不管是好是坏，这法子已经行不通了。日本眼下的战事规模越来越大，俘虏逃跑的机会太多了。但这可不代表打仗赚不到钱！照样能赚！" />
+    <string id="Fz3GMD2k" text="如今还是会抓不少俘虏，他们的家人会花钱来赎人。像我这样的人，常年在日本各地奔走，手里攥着俘虏，再去联系他们的亲属，谈个合适的赎金。" />
+    <string id="gOOnDfCh"
+      text="哼，实在不行，我也能把他们卖给琉球的海贼，让他们去划战船。不过如今琉球那边，也更愿意用自由人当桨手了……但一般也到不了那步。你绝对想不到，一个乡下农夫，能从自家牛棚里翻出多少值钱东西，又能从亲戚那里凑出多少赎金！" />
+    <string id="nusayWyH"
+      text="赎金多少可没个准数。我自认为看人的眼光很准，能估出合适的赎金。从一个人的言行举止里，能看出不少门道——他是饿着肚子睡觉，还是餐餐用胡椒丁香调味肉食。当然，真正赚大钱的还是那些名门贵族。你要是也想干我这行，就得把日本所有的地主豪族、部族首领的底细摸透——他们的领地田产、嫡子庶出，还有，跟那些商人的赊账信用，都得门儿清。" />
+    <string id="aEEQlMqZ"
+      text="那是自然。日本的各个大名府邸，我都能畅通无阻。放眼天下，没几个人能有这能耐！所以啊，你得记得，在哪个犄角旮旯埋一罐铜钱，再留个忠心的家仆，能在急用时挖出来救急。" />
+    <string id="FBuhv8Jg" text="松间猿声啼，自言「窃得大名酒一壶」。{newline}鸦雀咧嘴笑，回道「甲斐之虎又醉倒」。" />
+    <string id="JsW9KxLD" text="三好一族镇大阪，府邸之内匕首寒。{newline}明灯一盏盏熄灭，流言蜚语满厅堂。" />
+    <string id="ttL93wls" text="信长胸中藏诡谋，整日念叨铁炮与洋洲。{newline}一日筑起安土城，沿途焚毁十座寺。" />
+    <string id="9maEg7Ua" text="家康端坐不动容，静观稻田五谷丰。{newline}一语既出无人逆，龟甲忍功定乾坤。" />
+    <string id="dWF3fKhE" text="长宗我部耕稻田，子孙兴旺如鼠族。{newline}岛屿今朝暂安寝，农夫亦授弓马术。" />
+    <string id="Zs3yoCF0" text="延历寺中僧敲钟，欲驱恶鬼回冥府。{newline}恶鬼大笑留夜宿，笑言「经文无力，快上米饭」。" />
+    <string id="ZCGsUe7B" text="三郎三郎斗野猪，逼得凶兽嚎啕伏。{newline}不用长刀不用矛，蒜臭口气配酒壶。" />
+    <string id="rC4A84Dg" text="你已一统日本！" />
+    <string id="Nig8IGuH" text="你在町城里长大，年少时的大部分时光，都……" />
+    <string id="Znc9hdLh" text="和所有的农家孩童一样，你从小就得干活糊口。那些日子里，你……" />
+    <string id="5u2MmR2h" text="年少时的日本，战火从来都不远。你……" />
+    <string id="zaV5QQ6u"
+      text="年少时，你和其他伙伴一起练剑度日。不管是握着真刀真剑，还是拿着木棍竹竿，不管是实打实的切磋，还是凭空想象的决斗，你都在一招一式的劈砍格挡里磨练技艺，从不用满地打滚耍无赖。" />
+    <string id="i4l7Nx6r" text="你被送去跟着儒学者读书，钻研算数之学，也学些格物入门的道理。日复一日，你参透了算学与营造的奥秘，慢慢能画出自己的图纸，写出详实的账册。" />
+    <string id="DmRWqB6n" text="你跟着一个商人当学徒，学他的营生手段，也练就了一副能说会道的好口才。年少时光都耗在市集与货仓之间，你摸透了讨价还价、通商交易的门道。" />
+    <string id="6RMJbJmq"
+      text="年少时，你在锻冶坊里跟着铸刀师傅当学徒，把锻铁成钢、淬炼成刃的秘诀都学到了手。学徒期满的时候，你已经能偷偷打造出一把好刀，闲来无事，也能耍上几招。" />
+    <string id="rCZNkJPi"
+      text="你被送去给城里的豪族当小仆役。从洒扫庭院的杂活，慢慢做起了更繁杂的差事，到最后竟成了宅邸的管事，帮着打理库房物资，也替主人招待宾客。等你离开这位豪族的时候，已是个能掌管家产、应对町中上流人物的成年人了。" />
+    <string id="VVBoNDUp"
+      text="年少时，你在町街的市井里厮混，常常惹是生非，也渐渐和当地的黑道走得近了，最后干脆加入了一个少年混混团伙。在这种环境里摸爬滚打几年，你把作奸犯科、脱身善后的门道，全都烂熟于心。" />
+    <string id="hiH4tYkC"
+      text="小时候，你几乎每天都去跟一位在村里住了几年的地侍习武。这位师傅似乎很喜欢你，愿意免费教你武艺。等你长大成人，师傅也离开了村子，而你已经成了个身手利落、沉稳可靠的武者。" />
+    <string id="TSBPydfM"
+      text="年少时，你在锻冶坊里跟着老铁匠当学徒，学着打造农具，供村里的农活和杂役使用。学徒期满的时候，你已经成了个手艺精湛的铁匠，能打造也能使唤各式各样的工具。" />
+    <string id="12m4zoBf" text="地头家臣" />
+    <string id="Zfp7ETaN"
+      text="你的父亲是一位地头的心腹家臣。地头虽是掌管庄园的小领主，父亲却凭着多年忠心护主、执行政令的功劳，被提拔为武士。从此他有了佩刀的资格，也能得到马匹与铠甲，伴主君左右。" />
+    <string id="xstxACHd" text="清酒商人" />
+    <string id="v7Jm4aIX"
+      text="你家世代以贩卖清酒为生。在日本数一数二的大町里，你家开了好几家酒坊，酿出的酒销往全国各地。虽说这些年赚得盆满钵满，在地方上也颇有势力，但他们对待同行的手段太过狠辣，落了个寡恩薄情的名声，被众人忌惮。" />
+    <string id="JSothlQp" text="町中铸刀师" />
+    <string id="Z8OYdwhU"
+      text="你的父亲是个手艺精湛的铸刀师，虽说家境普通，却凭着一身力气和炉火纯青的技艺，能把粗铁锻成利刃。他打造的刀剑品质上乘，在一方之地颇有名气。你从小就在锻冶坊里帮衬，耳濡目染学会了不少手艺，身子骨也练得结实。" />
+    <string id="64rQYYgV" text="町中浪人" />
+    <string id="acXF60Sj"
+      text="你的父亲曾是武士，却因故触怒主君，沦为浪人。他失去了主家，只能在乡间四处漂泊，一边寻找机会，一边惹是生非。他没能为主君复仇，也没能恢复旧日身份，最后只能靠当佣兵、做杀手勉强糊口。虽说祖上也曾是名门，可父亲的落魄潦倒、颠沛流离，终究是你家抹不去的耻辱。" />
+    <string id="gvyRsNrQ" text="前足轻" />
+    <string id="7xApWTo4"
+      text="你的父亲是个靠打仗糊口的足轻。他常年在日本各地辗转，寻找新的雇主，只盼着下一趟差事能多赚些钱，也能保住性命。经历了无数场血战，身上添了不少伤疤之后，他终于卸甲归田。攒下的钱不算多，却也足够在乡下买块地，过上安稳简朴的日子。" />
+    <string id="7l4SVlcH" text="本地茶农" />
+    <string id="uRLHnue8"
+      text="你的父亲是一家兴旺茶田的主人。他凭着祖传的手艺，用心培育着娇嫩的茶叶。虽说身为田主，能分到不少收成，他却从不偷懒，事事都亲力亲为。你从小就在茶田里长大，对农具和草药，都熟悉得很。" />
+    <string id="ZmHGrOjl" text="村落猎户" />
+    <string id="zcBPhKgR"
+      text="你的父亲住在村子的边缘，是个技艺高超的猎户。他精通山林里的追踪狩猎之术，能一箭射中飞奔的猎物。虽说打猎赚来的钱，只够一家人过简朴的日子，父亲却把自己的一身本事，都教给了你。" />
+    <string id="u4FbKgYE" text="流浪猿乐师" />
+    <string id="XdQSvTo1"
+      text="你的父母是一个有名的猿乐剧团成员。他们跟着剧团走遍日本各地，用一出出流传百年的剧目取悦观众，勉强维持生计。虽说常年漂泊、居无定所，父母的这份营生，却让你见识了日本各地的风土人情，也学会了和三教九流打交道的本事。" />
+    <string id="g9iEm5Ln" text="你的统御之才。" />
+    <string id="uFgAaNm2" text="你的一身蛮力。" />
+    <string id="JP5BNtQW" text="你的细致入微。" />
+    <string id="HTYi6Q0e" text="你的算数天赋。" />
+    <string id="KgHsPYxs" text="你的待人接物之道。" />
+    <string id="bs5SNA24" text="你的驭马之术。" />
+    <string id="4cOq5Qmb" text="勤练剑术。" />
+    <string id="g5LdeHiQ" text="跟着本地儒学者读书。" />
+    <string id="awr3v0bJ" text="做商人的学徒。" />
+    <string id="f5NdcP7G" text="做铸刀师的学徒。" />
+    <string id="PvhUZrxy" text="给豪族当仆役。" />
+    <string id="rPiZmlVU" text="做市井混混。" />
+    <string id="LSNRmtMX" text="跟着云游地侍习武。" />
+    <string id="rVx5v34O" text="给村里的铁匠打下手。" />
+    <string id="76Sq1Qdn" text="做村里木匠的学徒。" />
+    <string id="ZqZEhUUl"
+      text="年少时，你被送去木匠工坊当学徒，跟着师傅学习木石工艺，也学着建造村里必需的房舍。学徒期满的时候，你牵头盖起了村里的新粮仓，也证明了自己精通算数营造的本事。" />
+    <string id="zZN07GtG" text="在田地里劳作。" />
+    <string id="JOceSvJP"
+      text="年少时，你整日在田地里干活。这份营生虽说枯燥乏味，却是养家糊口的根本。顶着日晒雨淋种地运粮的岁月，把你的身子练得结实，也让你对农具得心应手。" />
+    <string id="ML2WtaFt" text="跟着村里的猎户打猎。" />
+    <string id="SNDAPMpA" text="小时候，你最爱跟着村里的猎户进山，看他们打猎，学他们的本事。在他们的指点教导下，过了几年，你也成了猎户里的一员，身手十分矫健。" />
+    <string id="7RLU5MN9" text="做猿乐剧团的少年伶人。" />
+    <string id="BAjdAXrD"
+      text="十几岁的时候，你离家加入了一个猿乐剧团，跟着他们走南闯北、登台表演。几年下来，你不仅演技愈发精湛，更从观众的反应里摸透了人心，仅凭三寸不烂之舌，就能说服人、蒙骗人。" />
+    <string id="UP9cHsey" text="在寺庙里被僧人抚养长大。" />
+    <string id="NpN1Sk5j"
+      text="不知是迫于生计，还是自幼便成了孤儿，你从小就被托付给一座禅寺照料。抚养你的僧人，不仅教你佛法经义，还教你读书写字、分辨草木，更教你用草药治病救人的法子。" />
+    <string id="xKVBFqwi" text="做了大将的侍童。" />
+    <string id="zlD4Q596"
+      text="凭着家里的钱财或是门第，你参军时没去当普通足轻，反而成了大将的侍童——说白了就是随身侍从，也是主君的门生。不管是在中军大帐里，还是在厮杀的战场上，你都跟着这位身经百战的大将，亲身体会到了领兵打仗的门道。" />
+    <string id="g2uYs1fP" text="加入了町里的黑道团伙。" />
+    <string id="fy27ird2" text="有时候啊，与其受人欺压，不如干脆加入欺压人的一方。你投靠了当地的黑道团伙，靠着人多势众求得安稳，也把市井黑道的规矩摸得一清二楚。" />
+    <string id="Kzk8QjOA" text="参军当了骑兵。" />
+    <string id="7QjPeuqF"
+      text="你入伍的时候，骑兵大将看中了你的骑术。再加上家里有钱，能给你置办马匹，他便直接把你招入了骑兵队。你成了一名轻骑兵，常常跟着队伍去侦察敌情、骚扰敌军。" />
+    <string id="B6zr1jey" text="做了地方军队的信使。" />
+    <string id="9Y6VWELy"
+      text="你记性好，骑术也过得去，被军队大将看中，让你负责传递军情——有些写在纸上，有些则记在心里。你骑着快马，穿着轻便的铠甲，在战场上穿梭往来，往往能靠着传递的消息，影响战局的走向。" />
+    <string id="CnKI4ZNX" text="入伙当了山贼。" />
+    <string id="wDDVKsa4"
+      text="在这战火纷飞的乱世乡间，想活下去，就得豁出脸面。你加入了一伙山贼，靠劫掠乡邻为生。跟着团伙烧杀抢掠，和那些过境的乱军没什么两样，你也成了个心狠手辣的盗匪。" />
+    <string id="Cd87rlhu" text="投靠倭寇" />
+    <!-- ========== 角色经历/战斗相关 ========== -->
+    <string id="0w89fxxD"
+      text="若在陆地上寻不到太平，海上也未必全然安稳。为躲开武士间的权斗纷争，你选择投靠一伙倭寇，专挑那些贸然闯入海贼控制航线的商船下手。虽说对付商人比跟武士厮杀容易些，但商船往往有武装护卫，久而久之，你除了驾船的本事，也攒下了不少拼杀的经验。" />
+    <string id="zgLDdi9D" text="应征入伍，做了足轻枪兵。" />
+    <string id="Fq9vldxc"
+      text="在战火纷飞的日本，大编制的足轻枪兵是每支军队的中坚力量，却也是最容易折损、最易补充的兵源。身为普通一兵，你与同袍并肩作战，靠着配发的薙刀（枪）学会了保命的本事，也攒下了实战经验。" />
+    <string id="q5QNvsWA" text="协助修筑营地防御工事。" />
+    <string id="VHy4ijEp"
+      text="军队里并非人人都要上阵拼杀——后勤补给是任何战事的命脉，打理后勤的人，和前线厮杀的士兵同样重要。你加入了后勤队伍，帮忙扎营立寨、修筑防御工事。" />
+    <string id="k3PbLW5P" text="参军当了弓手。" />
+    <string id="TYotqrOf"
+      text="入伍时，你的射箭技艺被长官看中，被编入弓手队，在远处为近战的同袍提供支援。日复一日的训练与实战，让你成了队伍里可靠的一员，凭着和弓与箭矢，总能打出关键的支援。" />
+    <string id="qDExlOFu" text="为军队充当斥候。" />
+    <string id="lItutECY"
+      text="刚加入军队时，你几乎是轻装简行，被派去为行军的大部队侦察前方地形。随着技艺愈发纯熟、经验日渐丰富，你敢深入未知地域，摸清敌军布防，收集关键情报——这些情报，往往能决定我军战术的成败。" />
+    <string id="Y7KrwdLc" text="入寺为僧" />
+    <string id="F79kyoCB"
+      text="年少时，你躲进寺庙，逃过了战火纷扰。寺庙不只是修行之地，更是求学之所。身为僧人，你夜夜研读兵法、律法、诗词、哲学等诸般学问，这些学识让你对战法与治政之道，有了旁人不及的独到见解。" />
+    <string id="d1PGDrmt" text="你曾驻守一座被敌军围困的城下町。作为众多守军中的一员，你奉命死守防御阵地，直到敌军最终败退、解除围城。" />
+    <!-- ========== 游戏功能/提示文案 ========== -->
+    <string id="gWVGQvCE" text="编译着色器" />
+    <!-- 游戏技术类术语，直译 -->
+    <string id="kFF2aD97" text="新游戏" />
+    <string id="uofCOlnh" text="你的船只数量不足，无法运载全部军队。" />
+    <string id="1K74yfpJ" text="你的船只数量不足，无法运载全部军队。你有船只正在建造中，可打开海军管理界面查看详情。" />
+    <string id="MDKmoYew" text="你携带的金币不足，无法搭乘渡轮。" />
+    <string id="S7MiX8hI" text="你携带的金币不足，无法搭乘渡轮。" />
+    <string id="dhoZA1gf" text="你携带的金币不足，无法搭乘渡轮。" />
+    <string id="4zDKXIqj" text="你携带的金币不足，无法搭乘渡轮。" />
+    <string id="9vu1pMOE" text="你携带的金币不足，无法搭乘渡轮。" />
+    <string id="3eVYaVtU" text="你携带的金币不足，无法搭乘渡轮。" />
+    <string id="YUn3eA7n" text="你已负伤。" />
+    <string id="jH1rrCtQ" text="你的部众带回了劫掠所得。" />
+    <string id="rXC5sXWc" text="{HIDEOUT_DESCRIPTION}。你的部众带回了劫掠所得。" />
+    <!-- 保留变量占位符 -->
+    <!-- ========== 剧情事件/历史节点 ========== -->
+    <string id="tXAPV1Pg" text="新幕府建立" />
+    <string id="AmYy6WSI" text="新幕府建立" />
+    <string id="sCLh7mME" text="本庄之乱平定" />
+    <string id="CS2JkTTl" text="本庄之乱平定" />
+    <string id="ftuYyTpA" text="肝付之乱平定" />
+    <string id="TFKyQDkG" text="肝付之乱平定" />
+    <string id="odlWBhL0" text="三国同盟瓦解" />
+    <string id="zLSSZO7s" text="三国同盟瓦解" />
+    <string id="ibYLFbG7" text="上洛之征" />
+    <!-- 战国核心术语，“进军京都”的专属译法 -->
+    <string id="uqdQELSc" text="上洛之征" />
+    <string id="kifybRte" text="本庄之乱获胜" />
+    <string id="IBGPWW6K" text="本庄之乱获胜" />
+    <string id="RQLJILLq" text="肝付之乱获胜" />
+    <string id="lgVA80Fn" text="肝付之乱获胜" />
+    <string id="Zs4oQDld" text="测试通知" />
+    <!-- ========== 剧情描述文本 ========== -->
+    <string id="n3a0gYWt"
+      text="织田信长成功上洛，拥立足利义昭为新任征夷大将军。尽管此举本是为了重振足利幕府权威，但义昭很快便会发现，自己不过是继义荣之后，又一位傀儡将军。眼下，幕府的中央权威依旧衰微。" />
+    <string id="28v5K4Jf" text="本庄之乱已被上杉氏平定。所有叛乱氏族均被迫承认上杉氏的宗主权，重新归降麾下。" />
+    <string id="D2pz95kj" text="肝付之乱已被岛津氏平定。肝付氏被迫向岛津氏宣誓效忠，其独立图谋就此终结。" />
+    <string id="fwFVIKuz"
+      text="武田、北条、今川三家缔结的脆弱三国同盟最终瓦解。武田氏在德川氏的协助下入侵今川氏的骏河国，而上杉氏已应允出兵驰援今川。如今武田氏陷入两线作战的困境，盟友寥寥无几——这场战事，将决定中部地区的归属。" />
+    <string id="58dSykhX" text="足利义昭在织田信长的支持下，宣布自己为日本正统征夷大将军。织田氏大军挥师上洛，若能扫清沿途所有抵抗，义昭便将成为日本新任幕府将军。" />
+    <string id="Y4PtI5ZX" text="本庄叛军击败了上杉氏，为自己开拓出一方新的领地。上杉氏被迫承认其独立地位。" />
+    <string id="ct2luxgw" text="肝付叛军击败了岛津氏，为自己开拓出一方新的领地。岛津氏被迫承认其独立地位。" />
+    <!-- ========== 经济/财政相关 ========== -->
+    <string id="wPJYRmf5" text="船只维护费" />
+    <string id="4TWfU55y" text="俸禄" />
+    <string id="TNB0RpDt" text="船只维护费" />
+    <string id="nZH91waq" text="驻营中" />
+    <string id="FqZHKqCA" text="道路" />
+    <string id="bZnuyRtJ" text="山阳文化" />
+    <string id="IpGnHz35" text="山阳文化" />
+    <string id="JkVr31bc" text="港口" />
+    <string id="VHL5RrsC" text="村落收入的5%需作为赋税上缴给统治氏族{newline}氏族的村落收入减少5%" />
+    <string id="F54WozWc" text="推行检地之法，评估农地赋税时，不仅考量土地面积，亦需核算收成丰歉。" />
+    <!-- 检地：战国核心政策，专译 -->
+    <string id="vYPCiRBE" text="检地" />
+    <string id="MFcAnzED" text="指定一名商人统管领内所有商众——此人将执掌市集商贩监管之权、征收商税之权，独揽市集事务。此举虽能增加赋税收入，却会牺牲部分市集自由。" />
+    <string id="lA0mPm9W" text="特权商人" />
+    <string id="6qnhZeSs" text="驶入港口的船只，需按船体规模、载货数量与品类缴纳赋税。" />
+    <string id="nkD0DZL0" text="港关税" />
+    <string id="6AMcEE9C" text="推行经济政策，取消町镇与港口中部分商人的特权，同时为商户提供特定保障与免税待遇。" />
+    <string id="wSsysW7A" text="市集自由化" />
+    <string id="V0D9CQx3" text="可向寺院、神社与商人征收战时赋税（称为“矢钱”）。此举能增加赋税收入，但会降低町镇繁荣度，且宣战所需的影响力也会增加。" />
+    <!-- 矢钱：战国战时赋税专属术语 -->
+    <string id="x7veeMf0" text="战时赋税（矢钱）" />
+    <!-- ========== 行政/律法相关 ========== -->
+    <string id="k1gfysGK" text="允许统治者任命代官" />
+    <!-- 代官：战国地方行政官专属译法 -->
+    <string id="H47ATnu9" text="任命代官（称为“代官”）处理纠纷、裁决罪案，有助于遏制帮派活动与不法行径。但遗憾的是，相关地区的民众往往对此怨声载道。" />
+    <string id="3sObWneW" text="允许流通劣币" />
+    <string id="BsTxHnOQ" text="允许外来钱币与战时铸币流通，可缓解货币短缺问题。但民众大概率不愿接受这类新货币。" />
+    <string id="jYFwdo2g" text="允许劣币流通" />
+    <string id="nTYKvGaF" text="统治者可听取下层人员的意见以平息不满，但最终决策权仍归统治者独有。确立此制后，统治者否决各类决议时，将拥有更高的权威。" />
+    <string id="nyjtKOxv" text="否决权" />
+    <string id="D8wehYJB" text="可将武士氏族纳入朝廷官制体系，进一步划分各氏族的权力层级。" />
+    <string id="PRumNcaW" text="任命朝廷官员" />
+    <string id="Hh90ygaB" text="辅政大臣会议" />
+    <string id="05Qjtn2c" text="可对战场上立功的勇武武士论功行赏，赏赐包括封地与感状，为其氏族与家族带来荣耀。" />
+    <!-- 感状：战国军功凭证专属译法 -->
+    <string id="eE54jEQr" text="颁发感状与分封领地" />
+    <string id="TBvCYBNp" text="各藩可制定严苛且规范的继承律法，使得收回土地的难度加大。" />
+    <string id="ONo3jqpz"
+      text="农民若逃离村落，虽能躲过战火，却会导致土地荒芜。此举不仅会让留守者生计维艰，也会加重邻地民众的负担——他们需承担逃民留下的劳作。可颁布法令勒令农民返乡：遵令者免予劳役负担，抗命者严加惩处。" />
+    <string id="AoaVOvpW" text="归乡令" />
+    <string id="xqBUVSc3" text="自此，贵族需组建规模可观的私兵，这类私兵统领被称为“与力”。" />
+    <!-- 与力：战国贵族私兵专属译法 -->
+    <string id="TJ9wNxZ8" text="贵族及其他土地所有者，将独享在田猎场狩猎的权利。" />
+    <string id="YxIGyxtd" text="土地所有者与海路掌控者，将获权向商旅征收过路费。" />
+    <string id="58dF5qGa" text="过路费" />
+    <!-- ========== 军事/制度相关 ========== -->
+    <string id="DQTIUpyl" text="为整备更强战力、完善军制，可将下级领主编入前线部曲序列，以汇聚兵力、强化战力。" />
+    <string id="mS2iTES5" text="扩充并整编军队" />
+    <string id="AdhGIkTC" text="招募武艺出众的骁勇武士组建“马廻”——一支直属于统治者的制式护卫队。" />
+    <!-- 马廻：战国大名亲卫专属译法 -->
+    <string id="Hk7pdbqU" text="组建马廻众" />
+    <!-- ========== 行政/律法政策 ========== -->
+    <string id="MUecyiQC" text="委任军权时，向来优先选用名望显赫的武士氏族。" />
+    <string id="XaI0fmpd" text="名门家臣制" />
+    <string id="Xmi7zKeE" text="每位名士每日为城邑所属氏族提供0.1点影响力{newline}城防设施赋税减免5%" />
+    <string id="ZSOk03ZL" text="地界、水利、山林归属之类的陈年纠纷，往往耗时耗力。若由统治者亲断裁决，便能迅速平息此类争端。" />
+    <string id="l9wbd5gC" text="争端裁断令" />
+    <string id="du0Z03Z5" text="提拔统治氏族的亲信执掌领内要职，可实现权力的高度集中。" />
+    <string id="JsnkAQba" text="任人唯亲制" />
+    <string id="0GXnvsPI" text="可下令债主与放贷者赦免债务，为穷困藩地纾困解难。此举虽能改善底层民生，却会对领内部分经济领域造成损害。" />
+    <string id="rGlQBC96" text="颁布赦债令" />
+    <string id="rvIRhZJG" text="设立诉讼意见箱，保障庶民的诉讼权利。此举可避免地方官员徇私枉法，防止民众纠纷升级为暴力冲突。" />
+    <string id="hpb2htpi" text="设诉讼意见箱" />
+    <string id="GuMxVwvA" text="地方领主可授权寺院、神社、武士与乡绅，代表乡里管理山林。此举既能促进资源合理管控，避免木材争夺，亦可防止山林遭肆意破坏。" />
+    <string id="SXYPmx72" text="任命山奉行" />
+    <!-- 山奉行：战国管理山林的官职，专属译法 -->
+    <string id="f1piSGja"
+      text="推广茶道、连歌、猿乐等文化活动，促进诸藩之间的交流往来。此举可凝聚领主、公家、商人的力量，壮大自身势力，但会遭那些被视为“粗鄙无文”之辈的非议。" />
+    <string id="yo9AvBkT" text="文化振兴策" />
+    <string id="KqToK1ta" text="赋予村落更多自治权，通过订立村规民约增强村落凝聚力。但此举可能导致村落首领权力膨胀，削弱领主权威，进而引发双方冲突。" />
+    <string id="qirmHGQJ" text="村落自治权" />
+    <!-- ========== 军事政策/动员 ========== -->
+    <string id="xUCN6EHi" text="可颁布法令，勒令境内百姓——无论农夫、商人还是工匠——皆须武装起来，整军备战。这些临时征召的兵力虽非精锐，却也聊胜于无。" />
+    <string id="RRh7tpYZ" text="全民动员令" />
+    <string id="jIBNcHK5" text="派遣军队在领内收缴兵器，可降低叛乱成功的风险。此举同时会进一步割裂贵贱阶层——武士可保留武器，庶民则被尽数收缴。" />
+    <string id="rkxUnIPf" text="刀狩令" />
+    <!-- 刀狩令：战国标志性政策，固定译法 -->
+    <string id="ELA02msn" text="对村落施行户籍普查，并驱逐外来流民。如此一来，山贼与滋事浪人便难以在此立足。但此举会严重限制村落发展，同时能降低辖区内的匪患风险。" />
+    <string id="eLaOLHCX" text="村落清野令" />
+    <!-- ========== 外交/宗教/贸易政策 ========== -->
+    <string id="yuGHxYwt" text="听取外国顾问的谏言，可吸纳新思想，缔结对外邦交。此举有助于发展外交与贸易，但国内贵族可能会忌惮外来势力的渗透。" />
+    <string id="IxbGb5os" text="任用外国顾问" />
+    <string id="JVR5WVFs" text="以人质作为外交筹码" />
+    <string id="SSl4gkwh" text="以家族子弟作为谈判筹码，是巩固势力联盟、确保条约履行的有效手段。人质外交对邦交事务助益极大，但会导致本势力的影响力受损。" />
+    <string id="UGrZNVUg" text="人质外交策" />
+    <string id="khuPBoIW" text="宗教影响力遍及全国之际，狂热信徒也会随之增多。煽动这种宗教狂热，可促使宗教领袖派遣更多信徒，为信仰相合的领主效命沙场。" />
+    <string id="MWwnFMyX" text="宗教狂热策" />
+    <string id="UOJciCIl"
+      text="拓展远洋贸易、提升舰船质量的需求，意味着优质资源应优先供应造船工匠。此举可让本势力的舰船造价更低、建造速度更快，同时推动港口城市发展，但会牺牲村落的赋税收入。" />
+    <string id="7Hpm5QtC" text="海防优先策" />
+    <string id="jdOF6aeb" text="捐地予宗教宗门" />
+    <string id="9ggpdQ2k" text="领主可将部分领地捐赠给宗教宗门。此类捐赠的土地，即便是统治者也难以收回。" />
+    <string id="O0Tyn8EQ" text="捐地兴教令" />
+    <string id="BrPGVFVw"
+      text="开放本地市集引入异域商品，可为辖区带来独特物产、先进技术与多元文化。此举虽能开拓新的进出口渠道，但部分名士与商人会因本土贸易遭受冲击而心怀不满。" />
+    <string id="oiIiCvRk" text="通商惠工策" />
+    <string id="jdXFG0m4" text="为避免围城战时出现补给危机，町镇需调拨部分市集物资充作军需。此举可保障攻城部队的物资供应，但会对町镇的繁荣度造成负面影响。" />
+    <string id="jSJruOkV" text="战时囤粮令" />
+    <!-- ========== 游戏数值/状态提示 ========== -->
+    <string id="zVxGmYAL"
+      text="城邑繁荣度每日提升2点{newline}氏族每日损失1点影响力{newline}城邑赋税收入提升15%{newline}城邑忠诚度每日下降1点{newline}城邑治安度每日下降1点{newline}每位名士每日为城邑所属氏族减少0.25点影响力{newline}围城战时可动用舰载火炮" />
+    <string id="3MOWcJtw" text="城邑繁荣度每日下降2点{newline}城邑赋税收入降低5%{newline}攻城战时可动用弹药库" />
+    <string id="7rVB5l3B" text="诸教宗门" />
+    <string id="HDm2PYc6" text="织丰政权" />
+    <!-- 指织田信长、丰臣秀吉主导的政权，专称 -->
+    <string id="FVlKe6zp" text="无效男性姓名" />
+    <string id="9XDz0XWt" text="无效女性姓名" />
+    <string id="CCP9WRpk" text="（{SHIP_COUNT}艘）" />
+    <string id="xMZarEbH" text="{SHIP_COUNT}艘" />
+    <string id="xKr1gKEv" text="你无法在水面上停留。" />
+    <string id="3TTK05OC" text="{HERO}的军队" />
+    <string id="v9WXXzOF" text="{HERO}的队伍" />
+    <string id="8SKuKDrK" text="你本不应看到此提示。若触发，请提交Bug报告并标记“Foozle”，同时务必描述当前操作步骤！" />
+    <string id="WSyMXUGE" text="你本不应看到此提示。若触发，请提交Bug报告并标记“Foozle”，同时务必描述当前操作步骤！" />
+    <string id="qTKHXD8z" text="我" />
+    <string id="z67d7xSR" text="我" />
+    <string id="bQSc0rZS" text="我" />
+    <string id="PdCGMjjk" text="我" />
+    <string id="4lbpRo9r" text="你财力不足，无法参与。" />
+    <string id="kj91FkjI" text="资金短缺。" />
+    <string id="QwKutvoR" text="义昭" />
+    <string id="R0b1swdW" text="足利义昭" />
+    <string id="sQhlKwNo" text="沙狐" />
+    <!-- 人名音译，无历史原型 -->
+    <string id="jWxjvzFc" text="足利沙狐" />
+    <string id="h4V8OBPq" text="你负伤在身，不可背弃主君。" />
+    <string id="K1jcEV7B" text="你伤势过重，无法参与此战。" />
+    <string id="FaT0SBNz" text="此战双方实力悬殊，你可选择留守军阵后方。若选此选项，你将无法获得本次战役的经验值。" />
+    <string id="PM0BoTGA" text="此战双方实力悬殊，你可选择留守军阵后方。若选此选项，你将无法获得本次战役的经验值。" />
+    <string id="T0EhRlNg" text="主君期望你投身此战。" />
+    <string id="ncTf9uAU" text="京都" />
+    <string id="jcnbxDop" text="战场已被搜刮一空" />
+    <string id="f52QW5gI" text="玩家队伍" />
+    <string id="PzXoVVOi" text="其他队伍" />
+    <string id="o021u2Jl" text="水手" />
+    <string id="hIAjPL6p" text="{KEY}键 使用" />
+    <string id="ApBXhvZx" text="多艘舰船建造完成" />
+    <string id="DjkCTOR9" text="部队运载量" />
+    <string id="j4lUrFwg" text="货物运载量" />
+    <string id="IcJXuQ6m" text="每日维护费" />
+    <string id="0dEAx8p4" text="{KEY}键 拾取弹药" />
+    <string id="7KL6IPrU" text="弹药库" />
+    <string id="BbfQsWhf" text="木栅栏" />
+    <string id="k2BVG5x9" text="木栅栏" />
+    <string id="d3wln31q" text="战利品" />
+    <string id="FibVA33i" text="火盆" />
+    <string id="ApbDUy6T" text="立盾" />
+    <string id="lrX85tOP" text="立盾" />
+    <!-- ========== 任务对话/剧情文本 ========== -->
+    <string id="238PAamR"
+      text="你强夺了{QUEST_GIVER.LINK}之子的所有货物。刀剑已归你所有，但你盗取了整批货物，因此无法再完成{QUEST_GIVER.LINK}的委托。" />
+    <string id="pCyrrjls" text="{QUEST_GIVER}之子" />
+    <string id="NPkSwy1f" text="名士之子" />
+    <string id="Cmsp8IqT" text="形迹可疑之人" />
+    <string id="bFDcw6ku" text="既如此，后会有期。" />
+    <string id="t5KdHb4f" text="且慢。我无意动手，这就告辞。" />
+    <string id="Qo43Umx4" text="武士" />
+    <string id="ZXoqNwge" text="寻找{HERO.LINK}的传家宝，并将其归还于他" />
+    <string id="naPQeidR" text="你已与{HERO.LINK}交谈。" />
+    <string id="Z3h49tWq" text="好大的胆子！不如罚你跑上{DISTANCE}里路，就当是消遣一番。" />
+    <string id="G2v0nE9P" text="于磐石之上" />
+    <string id="3CGtW7Eb" text="工匠已告知你山贼的大致藏匿地点，前去剿灭他们吧" />
+    <string id="xpa3BxwE" text="木材单位" />
+    <string id="mrtyYomm" text="你必须收集木材" />
+    <string id="np0qngcy" text="真是功德无量！信众们将永世感激你！我们会为你祈祷，愿你一路平安、早日凯旋！以天主之名，愿你前行顺利！" />
+    <!-- 最后一句为天主教祷词，贴合战国南蛮文化背景 -->
+    <string id="n1Yo5QGp" text="阁下安好！不知驾临寒舍，有何贵干？" />
+    <string id="jx18sZ7y" text="我正在寻找某件物品的失主。他说在此地附近遭劫，想必那些盗贼定会急于销赃。" />
+    <string id="8PNrndxK" text="此话当真？那可真是奇事一桩。就在几天前，有一伙衣衫褴褛的汉子来市集叫卖，手里拿着一件看起来颇为贵重的东西。" />
+    <string id="i5ubrHgv" text="当真？你可看到他们往哪个方向去了？" />
+    <string id="m8bx2hey" text="我不想惹祸上身，并未细看。不过——传闻附近有一处山贼巢穴。若是你要找的人就在里面，不妨前去碰碰运气。（任务结束）" />
+    <string id="RZrnG3EV" text="那么，你找回我的传家宝了吗？" />
+    <string id="cYjIw6Yd" text="自然找回了。现在，把赏金给我吧。" />
+    <string id="8IkbmFSh" text="好，很好。你可以走了，这是你的赏金。" />
+    <string id="eBYexU7y" text="哼，想得美。除非你再出个好价钱，否则休想要赏金。" />
+    <string id="I5o43gfd" text="什么？！你这阴险小人！拿着钱，滚出去，别再让我见到你！" />
+    <string id="dWtj036l" text="话说回来，我凭什么要把这东西还你？" />
+    <string id="OAgsKR8Z" text="什么？！你这无耻窃贼！立刻从我眼前消失！" />
+    <string id="cqA0b1Zy" text="你获得了{CHANGE}{GOLD_ICON}" />
+    <string id="XtaljYuX" text="你真是个坏小子。" />
+    <string id="txqRggI1" text="部队溃散了。" />
+    <string id="goYoPsuA" text="你可真是个捣蛋鬼。" />
+    <string id="l97EhNPn" text="于磐石之上" />
+    <string id="Rpn9hsMU" text="我们为新信徒修建礼拜堂时遇上了麻烦，不知你是否愿意出手相助？" />
+    <string id="iR1Js0Uj" text="当然可以，神父。请吩咐！" />
+    <string id="Iy6GvBpM"
+      text="这片土地上的百姓一直期盼着能有一座新教堂——一座能为信徒、也为那些尚未接纳天主的人带来福祉的圣殿。我们雇了些工匠负责建造，可他们却只能闲坐度日，因为一批本该运到的建材迟迟没有踪影。我听闻近来山贼横行、盗贼猖獗，可他们竟敢盗取天主的财物，真是罪大恶极。恳请你帮我们找回失窃的物资。" />
+    <string id="5FkNEcOO" text="请放心，我们定会将天主的荣光播撒到这片土地的每一个角落。" />
+    <string id="vYNjPfBr" text="哦？此话怎讲？说来听听。" />
+    <!-- ========== 游戏功能/状态提示 ========== -->
+    <string id="5OcgZQf4" text="形迹可疑的商人" />
+    <string id="Zxt1s4tm" text="已击败的敌人" />
+    <string id="6nWZKIpM" text="已侦察的城邑" />
+    <string id="ze44FYK3" text="这本书很快就能读完" />
+    <string id="6oKVS4TC" text="这本书需要花些时间才能读完" />
+    <string id="G0iBhHdI" text="这本书要读很久才能读完" />
+    <string id="hBwAZ2Dk" text="有人正在阅读这本书" />
+    <string id="3N4FrWGj" text="你已不再持有这本书" />
+    <string id="QuLbXQEY" text="你已经读过这本书了" />
+    <string id="zf6FUxX5" text="头部防具" />
+    <string id="RS8AfmpI" text="躯干防具" />
+    <string id="03Ffo6gy" text="手臂防具" />
+    <string id="hklJW5Pk" text="腿部防具" />
+    <string id="3dqQJpXm" text="马匹防具" />
+    <string id="GlySombt" text="测试" />
+    <string id="1OYhDEa0" text="你已达到等级上限" />
+    <string id="zK5YX07w" text="你可以升级了" />
+    <string id="KtnGp62L" text="你还需要{XP}点经验值才能升级" />
+    <!-- ========== 舰船类型（战国日式战船专称） ========== -->
+    <string id="DcoXwjqz" text="弁才船" />
+    <string id="deZ1kddN" text="旗船" />
+    <string id="RQvZDO8r" text="北国船" />
+    <string id="WLSf4HSI" text="小早船" />
+    <string id="8YfFgG7E" text="关船" />
+    <string id="F6jG2NRK" text="安宅船" />
+    <string id="tGaKDcyJ" text="大安宅船" />
+    <string id="ntTNZtNh" text="铁甲船" />
+    <string id="lmJ50k2g" text="弁才船" />
+    <string id="WILqvCTy" text="旗船" />
+    <string id="aS79KXsq" text="北国船" />
+    <string id="RqYotDYs" text="小早船" />
+    <string id="MvlUjRMR" text="关船" />
+    <string id="ROqT6Ouq" text="安宅船" />
+    <string id="jnreT1n3" text="大安宅船" />
+    <string id="bXOuf7bI" text="铁甲船" />
+    <!-- ========== 海军系统说明 ========== -->
+    <string id="DJ32b9ft" text="这是你的海军可运载的部队总人数。启航时，舰船的部队运载量必须大于你的队伍总人数。" />
+    <string id="QGCm0lX1" text="这是你的海军可运载的货物总重量。启航时，舰船的货物运载量必须大于你的背包总重量。" />
+    <string id="yrhAARva" text="这是你的舰队可容纳的最大舰船数量。提升名望等级，即可提高该上限。" />
+    <string id="vyua3DAV" text="左侧栏中的舰船将会被凿沉销毁。" />
+    <string id="1R7MxsfO" text="这是你的舰队每日所需的维护费用总额。" />
+    <string id="juttbS06" text="部队详情" />
+    <string id="uZzDMUQb" text="晋升部队" />
+    <string id="A5dCSCU0" text="部队运载量" />
+    <string id="FDUiHhiD" text="当前暂不可用" />
+    <string id="CjtzV2nx" text="舰船" />
+    <string id="ODl6PMy4" text="选择船员" />
+    <!-- ========== 武学/兵法典籍 ========== -->
+    <string id="Sa9X6NnL" text="这是一卷记载影流剑术招式与图谱的卷轴。影流由相州斋藤氏于永享十年（1438年）创立，是日本剑术发展史上三大源流之一。" />
+    <string id="LZgp1XsH" text="这是一卷详述神道流剑术的卷轴。神道流由饭筱长威斋家直开创，是日本剑术三大源流之一。" />
+    <string id="AdaDocYA" text="这是一卷阐释新阴流剑术的卷轴。新阴流由上泉信纲创立，脱胎于影流剑术。" />
+    <string id="fSHsjzwC" text="这是一卷总结天流剑术的卷轴。天流是一门兼容枪术、投掷术与柔术的综合武道流派。" />
+    <string id="43Qyl6a1" text="这是一卷记载户田流剑术的卷轴。户田流由伊藤景久拜访中条流宗师兼圆后创立。" />
+    <string id="Q4dwDikE" text="这是一卷收录丸目长惠武学思想的卷轴。丸目长惠是神道流传人，亦是丸目新阴流的开创者。" />
+    <string id="YDassFgV" text="这是一卷记载宝蔵院流枪术的卷轴。宝蔵院流专精十文字镰枪，其招式攻守兼备、变化多端。" />
+    <string id="IUww3Wm5" text="这是一本由足利义教时期的弓术宗师小笠原持长所著的兵书，详细讲解了和弓的握持之法与破损后的处置之道。" />
+    <string id="JG93otWp" text="这是一本记载武田氏秘传弓术的兵书，由武田氏分家之主武田元信编撰，世代相传。" />
+    <string id="OJgoEU16" text="这是一本讲解大坪流马术的典籍。大坪流是日本古典马术流派之一，足利幕府历代将军皆修习此流马术。" />
+    <string id="DY9tJx32" text="这是一卷详述养马医术的卷轴，绘有马医守护神的画像，同时记载了各类治马草药的用法。" />
+    <string id="zDkXRI5J" text="这是一卷收录安西流马医理论的卷轴，阐述了密宗哲学与马匹病症的关联，同时记载了针灸疗马的方法与疗效。" />
+    <string id="Nqt9jf0G" text="这是一本由桑岛弘纲所著的治马秘术典籍，详细讲解了马匹的身体构造，以及各类艾灸疗马的手法。" />
+    <string id="VNF4HoAS" text="这是一本收录八条流马术理论的典籍，作者为八条流开创者八条房重。" />
+    <string id="uchnzXJ3" text="这是一本由足利义教时期的弓术宗师小笠原持长所著的典籍，讲解了流镝马骑射的礼法与招式。" />
+    <string id="u2cqrvgL" text="这是一本由足利幕府弓术宗师小笠原持长之子小笠原元长所著的典籍，详述了笠悬骑射的礼法与招式。" />
+    <string id="FtTUGDMu" text="这是一本由足利义教时期的弓术宗师小笠原持长所著的典籍，记载了犬追物骑射的礼法与招式。" />
+    <string id="OyqAdyhX" text="这是一卷记载秘传火药配方的卷轴，其配方源自大友宗麟。卷轴中详述了火药的炼制方法、注意事项与原料配比。" />
+    <string id="fILAeW5I" text="这是一卷记载津田流火炮术的卷轴，详述了火药的炼制工艺。" />
+    <string id="zPKXoJ7N" text="这是一卷讲解弹药制作工艺的卷轴，记载了三十余种弹丸的制法，包括铁丝串联弹与空心弹等特殊弹种。" />
+    <string id="5Id7cGyB" text="这是一本讲解炮术的典籍，由神保氏的火炮教官唐童近广所著。" />
+    <string id="3zsuNC4G"
+      text="这是一套记载岸和田流炮术的卷轴，由吉田盛贞编撰。卷轴中详述了火炮的发射技巧与火药配方，同时融入大量密宗思想，将火炮与密教佛法相联系，称其具有驱邪避凶之效。" />
+    <!-- ========== 宗教/文史典籍 ========== -->
+    <string id="2wY88rzX" text="这是一卷收录三十余年密宗图像与经文的卷轴，由金泰坊覚禅编撰，全书共计百余卷，是密宗典籍中卷帙浩繁的巨著之一。" />
+    <string id="RuQ4TZhh" text="这是一卷收录诸派密宗经义与口传心法的卷轴，由极乐坊浄澄编撰，全书共计二百二十八卷，历时三十余年方才成书。" />
+    <string id="OBbYaTVr" text="这是一卷收录诸派密宗口传心法、典故仪轨的卷轴，由天台宗高僧宗空院光宗编撰。光宗曾登临比叡山，研习山中独传的佛教宗派。" />
+    <string id="unC8XMbS" text="这是一本收录修验道山岳修行仪轨与教义的典籍，由日光山修验者悪熊坊息伝所著。" />
+    <string id="pYmNTiMK" text="这是一本记载修验道仪轨传承的书信集，由日光山修验者悪熊坊息伝所著。" />
+    <string id="AYhzKPj2" text="这是一套由足利义满时期的太刀奉行宇都宫定宗所著的五卷本典籍。书中按年代对太刀进行分类，梳理了刀匠谱系，同时记载了诸多名刀的形制尺寸。" />
+    <string id="EwYMTiHV" text="这是一卷按地域分类记载刀匠名录的卷轴，收录了各位刀匠的款识、刀具特征、轶事典故与家族谱系。" />
+    <string id="b5wKRFvG" text="这是一本由斋藤利政继承其父遗志编撰而成的典籍，收录了约八百四十柄太刀，涵盖粟田口、相州、中国四国、北陆、备前备中、九州等诸多流派。" />
+    <string id="kCaKCo01" text="这是一本将各国刀匠分为五等进行品评的典籍，记载了各位刀匠的铸刀特色、锻刀年代与代表名刀。" />
+    <string id="sLDnkOCe" text="这是一本讲解近畿地区山岳信仰、起源与历史的典籍。" />
+    <string id="z0uNk7ZU"
+      text="这是一本成书于贞应二年（1223年）的纪行典籍，记载了从镰仓前往京都的旅途见闻。书中引经据典，收录大量汉籍文句、诗词佛典，同时对沿途的山川风物进行了细致描摹。" />
+    <string id="Docmd9xI" text="这是一本成书于仁治三年（1242年）的纪行典籍，记载了从京都东山前往镰仓的旅途见闻，对沿途的山川风物进行了详尽记述。" />
+    <string id="415dA2QQ" text="这是一本由藤原為家之妻阿仏尼所著的日记集，记载了她从京都前往镰仓，为儿子与异母兄弟的领地纠纷向镰仓幕府申诉的全过程。" />
+    <string id="PGtz6eGJ" text="这是一本由圣护院道兴所著的纪行典籍，记载了他游历北陆道的见闻。书中收录了大量关于奥州地区的文字、诗歌、传说与古迹记载。" />
+    <string id="UPBYYWDk" text="这是一本记载日本室町时代武士生活与各藩文化的典籍。" />
+    <string id="0juzWg0C" text="这是一本由奉命赴日协助剿灭倭寇的丁子峻所著的典籍，是一部关于日本地理、风俗、礼仪与博物的综合志书。" />
+    <string id="efFEbXCp" text="这是一本由朝鲜李氏王朝外交官申叔舟编撰的日韩关系典籍，记载了日本与琉球的政治状况、外交史与使节接待礼仪。" />
+    <string id="ZTWHS0RH" text="这是一本成书于平安时代末期的日本兵法典籍，是对《孙子兵法》的补充与阐释。" />
+    <string id="YligB2sz"
+      text="这是一部被誉为中国兵学圣典的典籍，由孙武所著。随着战争形态的发展，这部典籍也成为日本兵法家的重要参考，武田信玄的用兵之道便多有借鉴于此。" />
+    <string id="SPfjkxAC" text="这是一部被誉为中国兵学圣典的典籍，由吴起所著。随着战争形态的发展，这部典籍也成为日本兵法家的重要参考。" />
+    <string id="JQq34w3V" text="这是一部被誉为中国兵学圣典的典籍。随着战争形态的发展，这部典籍也成为日本兵法家的重要参考。" />
+    <string id="6R5Bg134"
+      text="这是一本讲解连歌创作理论的典籍，由公家二条良基所著。书中阐述了连歌的历史渊源与创作规则，讲解了连歌创作的精神内核、服饰礼仪与歌会组织之法。" />
+    <string id="vMQT3wfW" text="这是一本讲解室町时代连歌创作理论的典籍，由连歌宗师宗祇所著。书中以问答形式阐述了连歌的历史渊源与创作技巧，并附有多则范例。" />
+    <string id="19KEPyJH" text="这是一部收录了两千零五十二首连歌的诗集，其中多有武士所作之篇，由一条冬良、三条西实隆、宗祇等人共同编撰。" />
+    <string id="zTf4tDVo"
+      text="这是一本由僧人玄恵所著的百科典籍，收录了社会生活所需的各类知识。内容涵盖衣食住行、领地经营、建筑营造、司法制度、百工技艺、佛教义理、甲胄兵器、文化艺术与养生之道。" />
+    <string id="hKNscAQA"
+      text="这是一本由公家一条兼良所著的杂学典籍，内容包罗万象，涵盖武士与公家的社会生活、马匹、甲胄、锻冶、寺院、名画家、酒、古迹、祭祀、茶道等诸多领域。" />
+    <string id="HwMZdP7F" text="这是一本由公家一条兼良所著的典籍，收录了神道与佛教的各类仪轨、祭祀、游行、节庆、服饰、秘宴、禳灾之法、圣旨文书等诸多内容。" />
+    <string id="zyv9c1x4" text="这是一本记载室町幕府武家礼法制度的典籍，收录了公家与武士的交涉记录，由山城国守伊势贞丈所著。" />
+    <string id="LJHypGfx" text="这是一部讲述平氏与源氏两大武家集团的兴衰起落，以及平安时代公家众生相的战记物语。" />
+    <string id="3N5nee3C" text="这是一部八卷本的叙事典籍，讲述了源义经与其家臣的传奇故事。" />
+    <string id="cwqXvgWV" text="这是一本记载后醍醐天皇即位始末的典籍，内容涵盖镰仓幕府的灭亡、建武新政的推行与崩溃。" />
+    <string id="eT7w6xyJ" text="这是一部镰仓时代的传记物语，以藤原为赖之子曾我兄弟在藤泽复仇的故事为主线，采用军记物语的笔法撰写而成。" />
+    <string id="XflIVwxR" text="这是一部由四部儒家经典与五部诗、书、礼等典籍组成的合集，相传由孔子编纂整理。" />
+    <string id="SjVaQf1a" text="这是一部由源顺所著的百科辞典，收录了约三千条词条，是作者对各类事物的见解汇编。" />
+    <string id="edDbDSHL"
+      text="这是一部收录六百二十个词条的辞书，讲解了各类和汉词语的含义，内容涵盖天文现象、神祇、邦国、地域、地理、草木、鸟兽虫鱼、人事、人体、佛教、珍宝、服饰、乐器、杂物、饮食等诸多领域。" />
+    <string id="AspEeudR" text="这是一部由洞院公贤所著的中世纪百科辞典，内容涵盖天文、地理、官制、文学、风俗、工艺、宗教、禁忌等诸多领域。" />
+    <string id="xFWvS5gM" text="这是一部由桃鹿直翁所著的百科辞典，全书分为十八个门类，涵盖社会、节令、度量、语言、人伦等诸多内容。" />
+    <string id="r13LNEG0" text="这是一部内容驳杂的卷轴，涵盖天文、地理、文学、官制、风俗、物产、工艺、宗教、禁忌等诸多领域。" />
+    <!-- ========== 法典/规章 ========== -->
+    <string id="qYy1U6EE" text="这是一部收录三十一条濑户内海商人习惯法的典籍，内容涵盖船舶、船主、水手、海上救助与航海仪轨等诸多规定。" />
+    <string id="sBKwO1Rh" text="这是一部由镰仓幕府制定的五十一条法典，内容包罗万象，涵盖守护与地头的职责，确立了区别于传统公家法与庄园法的武家司法体系。" />
+    <string id="er6VQ05c" text="这是一部由清原宣贤所著的《御成败式目》注释典籍。书中引用并阐释了诸多公家法理论，探讨了武家内部各类公家法的融合之道。" />
+    <string id="tRpBlqV8"
+      text="这是一部由朝仓孝景制定的十七条家训，传予其子朝仓氏景。内容涵盖家臣统御、人才招揽、军备强化、民政重视、领地文化培育、司法严明与邻藩警戒等诸多训诫。" />
+    <string id="gsOIC4l7"
+      text="这是一部由伊达稙宗制定的领地治理法规，其特点是对杀人、抢劫等刑事犯罪规定详尽，广泛承认领主的统治权，同时对武具与农具工匠的土地买卖给予优待。" />
+    <string id="XKXBAN3A"
+      text="这是一部由今川义元制定的领地治理法规，内容涵盖领主与百姓的关系、地界纠纷、冲突与匪患的应对、领地买卖限制、家臣制度规定、无犯领主特权、继承与诉讼程序等诸多方面。" />
+    <string id="3ybFlk33" text="这是一部由武田晴信为武田氏领地制定的法典，共计五十五条，规定了禁止私斗、规范对他国的书信往来、禁止宗门纷争、禁止私结盟约等诸多内容。" />
+    <string id="l5m8ME5Y"
+      text="这是一部由相良晴广为相良氏领地制定的法典，内容涵盖稻田买卖规定、主仆关系、水利使用权、窝藏逃犯的罚金，同时明令禁止一向宗，规定除佛教、神道与修验道僧人外，其余人等不得擅自祈祷。" />
+    <!-- ========== 医学/建筑/兵法典籍 ========== -->
+    <string id="peUDJ52f" text="这是一部由出云广贞编撰的平安时代医学典籍，收录了日本各地的草药。" />
+    <string id="16fh1qth"
+      text="这是一部由平安时代的针灸医丹波康赖所著的医学典籍，全书共计三十卷，内容涵盖医德、基础医学理论、各类疾病的疗法、养生之道、医疗技术与医学思想。" />
+    <string id="vq0zLdDx"
+      text="这是一部镰仓时代的医学名著，由医师梶原性全编撰。梶原性全结合自身行医经验，参考当时传入日本的最新汉医典籍，编成此书。书中详细记载了各类病症，同时附有脏腑图谱。" />
+    <string id="irBHhwiz" text="这是一部由梶原性全于正和二年（1313年）所著的医学典籍，全书以汉文写成，旨在传承与保存医学技艺。" />
+    <string id="WOuDgTfK" text="这是一部由堺町商人浅井宗瑞翻刻出版的明代医学家虞抟的十卷本医学典籍。此书面向大众发售，对各类疾病知识的普及起到了至关重要的作用。" />
+    <string id="PtJNY3zY" text="这是一部由曲直濑道三所著的八卷本疾病诊疗典籍，收录了诸多古今汉籍中的病因记载，对日本各地的多种病症的诊疗具有重要的参考价值。" />
+    <string id="hWxWyNii" text="这是一部关于筑城之法的综合性典籍，详细记载了不同地形、不同规模城池所需的建材、人力与建造技艺。" />
+    <string id="jXNpbKGC" text="这是一部由宋代军事家苏洵编撰的兵学典籍合集，全书各卷收录了各类军事理论与学说，同时记载了多种攻城器械与防御装备的形制。" />
+    <!-- ========== 游戏内部资源标识（保留原文） ========== -->
+    <string id="6daF7Znq" text="sho_ashigaru" />
+    <string id="tZRYsmrp" text="sho_jinbaori" />
+    <string id="g9pnFwtv" text="sho_kamishimono++" />
+    <string id="trJVF2ZX" text="sho_kashimono" />
+    <string id="mR6mSBLC" text="sho_legs" />
+    <string id="QBKyZB6l" text="sho_legs_2" />
+    <string id="DYhBXqZj" text="sho_monk_cape" />
+    <string id="5BPkrFql" text="sho_new_kozane" />
+    <string id="sn5ug1sE" text="sho_osode" />
+    <string id="HYncAZKd" text="sho_oyoroi" />
+    <string id="bvs7UM4R" text="sho_peasant" />
+    <string id="gtkleVY2" text="sho_ship_mast" />
+    <!-- ========== 游戏玩法机制说明 ========== -->
+    <string id="hKRUVU17" text="战后搜刮" />
+    <string id="i0g76dhq"
+      text="战后搜刮区域，源于两支军队在战场交锋后留下遍地尸骸的地方。这些尸体身上的甲胄与武器价值不菲，但获取这些物资需要承担极高风险。各地的拾荒者会蜂拥而至抢夺战利品，你必须与其他人竞争，尽可能多捞好处，然后在被团团包围前脱身。
+
+当两支军队交战且伤亡人数达到特定阈值时，便会出现战后搜刮区域，该阈值可在游戏设置中调整。进入战后搜刮区域时，你可以挑选少量部队随行。能带多少人，取决于你的「流氓习气」技能等级。进入区域后，你会发现其他拾荒者已经在搜罗上一场战斗的遗留物资。地图上散落着若干物资堆，你可以互动搜刮。按下“Alt”键，就能显示所有物资堆的位置。你也可以下达指令，让部队去搜刮物资堆——只需选定阵型，左键点击目标物资堆即可。
+
+敌方拾荒者一心只顾搜刮，只有在你干扰他们的搜刮进程，或是你满载而归、他们想黑吃黑时，才会对你发起攻击。这些拾荒者比常规部队更加胆小，一旦负伤就很可能溃逃。他们会不断搜刮物资堆，抢走本该属于你的战利品，因此你必须争分夺秒抢运物资；要是胆子够大，也可以直接攻击他们，抢夺他们手中的赃物。你也可以选择无视他们，专心搜刮，之后像在普通地图一样穿过红色边界撤离区域。只要这样撤退，你搜刮到的所有物资都能保留。
+
+随着时间推移，会出现更多装备远程武器、身披精良甲胄的敌人。一旦你携带战利品，就会成为他们的目标。因此务必小心，不要逗留太久，否则你会被敌人彻底包围。" />
+    <string id="dHyVxYSO" text="火器" />
+    <string id="TmU0OGY8"
+      text="火器在这段日本历史中扮演了关键角色。其设计源自西洋，后在日本本土大量仿制生产。这种火器名为「铁炮」，本质是火绳式滑膛枪，威力极为恐怖，能够轻松洞穿日式甲胄。《织丰》游戏中的火器种类繁多，既有手枪、步枪，甚至还有被称为「大筒」的手持小型火炮。
+
+火器伤害巨大，搭配相应技能后精准度极高，但装填速度十分缓慢。火枪手极易遭到骑兵冲锋的重创，因此需要让近战步兵为他们保驾护航。若你难以应对敌方火枪部队，可以尝试引诱他们在远处齐射一轮，随后立刻派遣骑兵冲锋，趁他们装填的间隙打乱其阵型。
+
+处于阵型前排的火枪手会蹲下身体，方便后排士兵越过他们射击。玩家操控角色持枪时也能蹲下射击，蹲姿射击的精准度更高。部队在阵型中会自动执行这一动作，即便阵型中混编有弓箭手，该机制同样生效。" />
+    <string id="j6jVT4t8" text="港口" />
+    <string id="quokpMTR"
+      text="日本由多个岛屿组成，岛屿之间的往来必须依靠船只，而港口正是船只的停靠与出发之地。日本全境分布着数十座港口。若想周游日本，你必须拥有自己的船队。港口是购买或建造船只的场所，大型船只需要耗费时间建造。按下“H”键，或点击屏幕左下角的图标，打开「海军管理」界面，就能查看正在建造的船只进度。
+
+当你拥有足够运载整支军队的船只后，点击「启航」按钮即可出海。要是你囊中羞涩买不起船，也可以搭乘渡船前往指定港口。渡船的费用会根据你队伍的人数与所携带物资的重量浮动。最后需要说明的是，港口是购买或建造船只的场所，大型船只需要耗费时间建造。按下“H”键，或点击屏幕左下角的图标，打开「海军管理」界面，就能查看正在建造的船只进度。" />
+    <string id="uTu4F2nl" text="海战" />
+    <string id="WRnHpCFa"
+      text="海战是《织丰》独有的特色玩法，完全为还原16世纪日本海战的风貌量身打造。
+
+海战玩法同时支持自定义战役与战役模式。在自定义战役中，系统会根据双方选定的部队数量，自动分配船只。在战役模式的海战中，则会提供专属界面，供玩家自选出战船只，以及安排各船搭载的部队。所有海战均在开阔海域进行，交战双方初始位置相互远离。玩家可以通过简单指令操控己方船只，每艘船都有独立的阵型。选定某艘船的阵型后，下达「移动」指令，再点击目标位置，即可命令该船驶往指定地点。你也可以下达「冲锋」指令，让船只径直冲向最近的敌舰；若指定某支敌方船阵为目标，船只则会驶向该特定敌舰。下达「停止」指令，可让船只原地待命。其余所有移动指令在海战中均不生效。
+
+你也可以手动操控船只：走到每艘船尾部的舵手位置并互动，即可接管操控权，通过移动按键控制船只航向。
+
+船只若承受过量损伤，就会沉没损毁，船上船员几乎必死无疑。船只沉没最常见的原因是碰撞伤害，反复撞击会造成严重损毁，损伤累积到一定程度后，船只便会开始下沉。火器同样能对船只造成巨额伤害。船只开始下沉后，会逐渐进水，直至彻底沉入海底。即便你赢得海战胜利，沉没的己方船只也会从你的舰队列表中移除；若海战失利，你投入此战的所有船只都会损失殆尽。
+
+任何落入水中的单位都会溺水身亡，并触发专属的溺水动画。这也是船只沉没时，船上部队伤亡惨重的原因之一。
+
+接舷战是海战的核心战斗方式。当两艘船相距较近、处于静止状态，且船身保持平行（同向或反向均可）时，即可发起接舷战。接舷战启动后，两艘船会缓缓调整位置，相互对齐，随后侧向靠拢直至相撞。碰撞发生后，接舷战正式开始，一方部队会登上另一方的船只。哪方部队发起登船，取决于玩家是否对该船阵下达了「冲锋」指令。玩家也可以在两船船身相接的位置，按下互动键登上敌船。当一方部队全军覆没后，幸存的另一方部队会返回己方船只，各就各位，随后驾船驶离，寻找下一个攻击目标。" />
+    <string id="LloqrmHl" text="决斗" />
+    <string id="m2AfE7ai"
+      text="决斗地点遍布日本全境。你可以进入这些地点，向决斗者发起一对一挑战。这类决斗难度较高，配有专属过场动画，以及精心打造的场景来烘托氛围。赢得决斗，将为你在日本全境赢得名望与尊重。" />
+    <string id="lXePKGIt" text="寺庙" />
+    <string id="9N832L1k"
+      text="寺庙是中立性质的聚居地，玩家与AI均可在此招募特殊的寺庙专属部队，购买能提升技能的书籍，或是向寺庙捐赠财物以改善关系。寺庙依据不同宗教派系，分为多种类型。向某一座寺庙捐赠，不仅能提升与该寺庙的关系，还能提升与所有同派系寺庙的关系。" />
+    <string id="oyHxRlfY" text="营地" />
+    <string id="q9tuSkwf"
+      text="营地功能让玩家能以丰富多样的方式与自己的军队互动。你可以在此将部队晋升为同伴、选择书籍阅读，或是单纯休整，让军队恢复状态。在营地休整时的生命值恢复速度，快于野外，但慢于在聚居地休整的速度。" />
+    <string id="cNfkrTA9" text="书籍" />
+    <string id="QqHevSvW"
+      text="玩家可以购买书籍阅读，借此提升自身技能。你需要通过营地功能选择要阅读的书籍。阅读书籍是一个需要时间逐步推进的过程。无论在聚居地还是营地中休整时阅读，都能提升阅读速度。游戏中的书籍种类多达数十种，部分极为稀有的书籍，甚至能为玩家提供技能专精点。" />
+    <string id="xciWk0FG" text="可晋升部队" />
+    <string id="gby5uRZS"
+      text="在战斗中表现优异的部队，可以被晋升为同伴。每场战斗结束后，若有部队满足晋升条件，你会收到相应提示。若要晋升部队，需进入营地并选择「晋升部队」选项。在该界面中，你能看到所有可晋升的部队名单，部队的各项技能会显示在屏幕左侧。选中目标部队后，点击「晋升」按钮，即可将其转化为同伴；{newline}若点击「奖励」按钮，则会为该类型的所有部队提供经验值加成，但这些部队将失去晋升资格。" />
+    <string id="niQJr7Gr" text="投军效力" />
+    <string id="ciELdzfe"
+      text="投军效力功能，让你能以普通士兵的身份投靠某位领主，就像其他部队加入你的队伍一样。若要投靠领主，只需在对话中选择「我愿加入你的军队效力」选项。加入后，你将跟随领主的军队行动，参与他们发起的所有战斗。随着时间推移，你会积累经验值并晋升为更高等级的兵种。你会获得对应兵种的制式装备，{newline}也可以换上自己搜刮到的装备。在和平时期，领主可能会下令，让麾下部队分为两方进行模拟对战。这是你在不卷入战争的情况下，获取宝贵经验的绝佳途径。当你晋升至4级贵族兵种后，领主会开始向你指派任务，你需要暂时离开军队去完成这些任务。任务类型多种多样，包括侦察敌方聚居地、在城镇领取补给、袭击敌方队伍，或是在和平时期清剿流寇。当你晋升至最高等级兵种，且积累了足够的经验值后，即便你的名望未达到常规要求，也能成为该氏族的直属家臣。" />
+    <!-- ========== 宗教背景介绍 ========== -->
+    <string id="N6rT0EFe"
+      text="神道教，意为「神道」，是日本本土的传统宗教，根植于自然崇拜与泛灵信仰。神道教信徒尊崇「神明」——一种寄宿在世间万物中的灵体，上至巍峨山岳，下至潺潺溪流，皆有神明栖息。神道教神社多建于山林之中或山巅之上，是信徒的朝拜之所，由神职人员与巫女共同打理。他们既是宗教传统的守护者，也是沟通人类与神明的中介。" />
+    <string id="H2nZxMg6"
+      text="临济宗是禅宗的一个分支，主张通过严苛的修行与顿悟追求觉悟，其修行方式不仅包含经义研读，更注重坐禅苦修与公案参禅。{newline}数百年前，临济宗从大陆传入日本，长期受到武士阶层的推崇，并在诸多寺院中发扬光大。许多临济宗寺院建有防御工事，寺中僧人兼修武道，在他们看来，手持刀剑与潜心修禅之间并无矛盾。" />
+    <string id="uDmgp8Hy"
+      text="真言宗是日本佛教的主要宗派之一，传承自中国唐代的密宗教法。真言宗崇尚仪轨、象征与密法修行，借此引导信徒走向觉悟。{newline}寺中僧人守护着神圣的曼荼罗、真言与手印，这些都是开启智慧的关键法门。" />
+    <string id="yw6hLM21"
+      text="天台宗是日本历史最悠久、地位最尊崇的佛教宗派之一，与京都的皇室有着深厚且悠久的渊源。天台宗的根本道场是坐落于圣山比叡山的延历寺，{newline}其教义体系完备，无论贵族还是平民均可修习。天台宗僧人奉《妙法莲华经》为至高经典，宣扬「众生皆可成佛」的理念。{newline}另一方面，天台宗的各大寺院势力庞大，部分寺院甚至能组建僧兵军团，成为一方不容小觑的力量。" />
+    <string id="pDRw90Ji"
+      text="曹洞宗是禅宗的一个分支，常被视为临济宗的「同门师弟」，主张以「只管打坐」的默照禅法，作为觉悟的真实体现。{newline}曹洞宗在乡村民间与小型寺院中传播更广，与领主、武士阶层的联系相对淡薄，更注重服务乡村社群与隐居修行，曹洞宗僧人素以简朴的作风闻名。" />
+    <string id="B1muhS5n"
+      text="净土真宗是日本佛教中最年轻的宗派，由前天台宗僧人亲鸾创立。净土真宗又名「净土真宗」，摒弃了宗教的精英主义，{newline}主张佛法应普度众生，认为觉悟无法单靠个人努力或坐禅苦修实现，唯有诚心皈依佛陀，方能得以往生。正因如此亲民的教义，净土真宗在饱经大名战乱之苦的平民阶层中迅速传播。在部分藩国，{newline}由农民信徒组成的武装团体「一向一揆」揭竿而起，捍卫自身信仰与家园，公然挑战武士阶层的统治。" />
+    <!-- ========== 游戏测试标识 ========== -->
+    <string id="DxEzfAU0" text="织丰MOD 功能测试A（织丰）" />
+    <!-- ========== 游戏场景/地图标识 ========== -->
+    <string id="cbomGbmj" text="城郭地图B（织丰）" />
+    <string id="03I2HSYO" text="城郭地图E（织丰）" />
+    <string id="V5az8S3s" text="城郭地图C（织丰）" />
+    <string id="K67hukBd" text="城郭地图D（织丰）" />
+    <string id="RylGzwit" text="城郭地图H（织丰）" />
+    <string id="nwoUImAL" text="城郭地图I（织丰）" />
+    <string id="AT0yqBIa" text="城郭地图J（织丰）" />
+    <string id="oZNT6AZM" text="城郭地图K（织丰）" />
+    <string id="BLJGF47r" text="城镇A（织丰）" />
+    <string id="yS9RnZ2F" text="城镇B（织丰）" />
+    <string id="VKyZARmF" text="城镇C（织丰）" />
+    <string id="1Q2wKbus" text="海战场景（织丰）" />
+    <string id="B7h0jhvw" text="海岸A（织丰）" />
+    <string id="Eg26gMoP" text="农田A（织丰）" />
+    <string id="W5gWgGJh" text="农田B（织丰）" />
+    <string id="qUEVIEyC" text="农田C（织丰）" />
+    <string id="eWfJkOlG" text="农田D（织丰）" />
+    <string id="eguaZmhF" text="山麓A（织丰）" />
+    <string id="pn93crYc" text="山麓B（织丰）" />
+    <string id="ZyAjqrfa" text="山麓C（织丰）" />
+    <string id="9ozY6aQ6" text="山麓D（织丰）" />
+    <string id="We7PPdnk" text="山麓E（织丰）" />
+    <string id="jUny20B6" text="森林A（织丰）" />
+    <string id="ga4D6wMb" text="森林B（织丰）" />
+    <string id="tSd1PydX" text="森林C（织丰）" />
+    <string id="hrvYSyvD" text="森林D（织丰）" />
+    <string id="oYbo7ePj" text="岛屿A（织丰）" />
+    <string id="PINYkjWA" text="平原A（织丰）" />
+    <string id="fFmqJrkr" text="平原B（织丰）" />
+    <string id="6zIJiNPJ" text="平原C（织丰）" />
+    <string id="Wsc3R5eG" text="平原D（织丰）" />
+    <string id="YVZHBwX5" text="平原E（织丰）" />
+    <string id="LXrKHChh" text="平原F（织丰）" />
+    <string id="unjLZ2wl" text="平原G（织丰）" />
+    <string id="SHqEzRa9" text="平原H（织丰）" />
+    <string id="lBWkMM5N" text="平原I（织丰）" />
+    <string id="jd8T9XYw" text="平原J（织丰）" />
+    <string id="6xz95lJL" text="平原K（织丰）" />
+    <string id="Nc40Hzjf" text="山谷A（织丰）" />
+    <string id="XZadR2dg" text="山谷B（织丰）" />
+    <string id="jQx4tL9T" text="山谷C（织丰）" />
+    <string id="EySu7EgD" text="山谷D（织丰）" />
+    <string id="R54GCPQR" text="桥梁A（织丰）" />
+    <string id="UPm6ZsyP" text="村庄A（织丰）" />
+    <string id="eQ8kbRrJ" text="村庄B（织丰）" />
+    <string id="fKA5VPyZ" text="村庄C（织丰）" />
+    <string id="unt66UlF" text="村庄D（织丰）" />
+    <string id="1bHXmG3u" text="村庄F（织丰）" />
+    <string id="FJJfpbiF" text="村庄H（织丰）" />
+    <!-- ========== 物品/单位属性前缀 ========== -->
+    <string id="cmNJ45Xl" text="矫健的{ITEMNAME}" />
+    <string id="DXzpdjAq" text="执拗的{ITEMNAME}" />
+    <string id="yIZDvo8I" text="桀骜的{ITEMNAME}" />
+    <string id="uh2w0Ehh" text="骁勇的{ITEMNAME}" />
+    <string id="Bb618GDp" text="凶猛的{ITEMNAME}" />
+    <string id="wIcAgF0D" text="壮硕的{ITEMNAME}" />
+    <string id="2k8qk1KD" text="魁梧的{ITEMNAME}" />
+    <string id="YuzBp6p4" text="迅捷的{ITEMNAME}" />
+    <string id="D1eK25tu" text="迅疾的{ITEMNAME}" />
+    <string id="NX2FkbdC" text="迟缓的{ITEMNAME}" />
+    <string id="ICfSXUvV" text="孱弱的{ITEMNAME}" />
+    <string id="Rxt7m2Sl" text="羸弱的{ITEMNAME}" />
+    <string id="nSILI9b9" text="胆怯的{ITEMNAME}" />
+    <string id="gsNgwoAq" text="怯懦的{ITEMNAME}" />
+    <string id="NuViWQIf" text="健硕的{ITEMNAME}" />
+    <string id="XyaeTnrM" text="温驯的{ITEMNAME}" />
+    <string id="egOcNUMs" text="温顺的{ITEMNAME}" />
+    <string id="OOtfJCaJ" text="弓背的{ITEMNAME}" />
+    <string id="MC29cHra" text="纯血的{ITEMNAME}" />
+    <!-- ========== 港口通用标识 ========== -->
+    <string id="q4PALffF" text="中心区域" />
+    <string id="oCxs6toP" text="港口区域" />
+    <string id="zEXjYqDm" text="此处为港口。" />
+    <!-- ========== 日本战国港口名称（音译+规范译法） ========== -->
+    <string id="dmNn1iRw" text="新岛港" />
+    <string id="ei2gsY4H" text="黒瀬港" />
+    <string id="hTC8JuAs" text="日之江港" />
+    <string id="Bco2qodf" text="中村港" />
+    <string id="5shgbY6h" text="大河港" />
+    <string id="ow0uuaTv" text="牛来港" />
+    <string id="NQNBpp3I" text="天雾港" />
+    <string id="njJsUigv" text="柚木港" />
+    <string id="aMTCBY4X" text="神峰港" />
+    <string id="SEpXExUQ" text="尾道港" />
+    <string id="bZ3wOaQc" text="冈山港" />
+    <string id="r9tteL13" text="河野港" />
+    <string id="ztyUiV1B" text="西之岛港" />
+    <string id="lno26pYr" text="熊本港" />
+    <string id="zLo1kVre" text="村中港" />
+    <string id="YDR4z6iK" text="松山港" />
+    <string id="9QoNmdLF" text="神山港" />
+    <string id="yzwX9kou" text="和泉港" />
+    <string id="MlIOP9DE" text="堂崎港" />
+    <string id="3aWetb8q" text="板咋港" />
+    <string id="mabLOStm" text="内港" />
+    <string id="2CohLCgU" text="高须港" />
+    <string id="oj04oU5M" text="佐土原港" />
+    <string id="MOhKsfTE" text="千振港" />
+    <string id="QeriZyE3" text="美保关港" />
+    <string id="7SBMzKEw" text="青木港" />
+    <string id="ge54k9iV" text="宫浦港" />
+    <string id="tUNVNhlq" text="石见港" />
+    <string id="XtDqvbjN" text="须佐港" />
+    <string id="hFhpFG2K" text="赤间关港" />
+    <string id="bIuI88bB" text="中庄港" />
+    <string id="FcS5y7Hz" text="姬路港" />
+    <string id="qGXvd8Eg" text="大阪港" />
+    <string id="I3vRjPfC" text="堺港" />
+    <string id="L5m9Y8U4" text="洲本港" />
+    <string id="K9zQvBDo" text="鸟屋港" />
+    <string id="ZMsghzsM" text="朽木港" />
+    <string id="cI6e6Zwy" text="神栖山港" />
+    <string id="S6HYWQyw" text="鸟羽港" />
+    <string id="nrLReGFO" text="长岛港" />
+    <string id="VAaXYzk9" text="升山港" />
+    <string id="TbIzhjae" text="小山港" />
+    <string id="3CR4mFPR" text="与板港" />
+    <string id="yl0zzzXE" text="鹿鹿ヶ岛港" />
+    <string id="DhClW9IC" text="下田港" />
+    <string id="NlznDDm5" text="滨松港" />
+    <string id="9yS2RBqp" text="大久保港" />
+    <string id="WDYh305G" text="小田原港" />
+    <string id="YJihLrsc" text="江户港" />
+    <string id="puuqlRZm" text="饭沼港" />
+    <string id="SalUETQ2" text="讃岐港" />
+    <string id="mHdDMayp" text="小高港" />
+    <string id="ReVfe0NF" text="戸次凑港" />
+    <string id="VXRdkiBV" text="石卷港" />
+    <string id="o1XXcFEZ" text="千徳港" />
+    <string id="TOysuqoi" text="根港" />
+    <string id="xQ1Z7KBR" text="巡法寺港" />
+    <string id="tW8oIaVj" text="土崎港" />
+    <string id="xNlFGjFX" text="春日山港" />
+    <string id="HoKuRuB7" text="新潟港" />
+    <!-- ========== 玩法场景标识 ========== -->
+    <string id="Q47m8zth" text="战后搜刮区域" />
+    <string id="KEX5sbP0" text="替换描述" />
+    <string id="stpD675i" text="后街" />
+    <string id="fR2M5ZdV" text="林间空地" />
+    <string id="MAusOuPK" text="滨水区" />
+    <!-- ========== 宗教派系标识 ========== -->
+    <string id="wqGUjgrp" text="神道教" />
+    <string id="lHzRv41P" text="神道教信徒" />
+    <string id="aeKSwLj2" text="临济宗僧人" />
+    <string id="L1BBQe3R" text="真言宗僧人" />
+    <string id="Cya6ST9A" text="天台宗僧人" />
+    <string id="7pyR761G" text="曹洞宗僧人" />
+    <string id="sfXeoNJk" text="净土真宗僧人" />
+    <!-- ========== 城郭/地名标识（战国标准汉字译法） ========== -->
+    <string id="R6gnCH7g" text="河野城" />
+    <string id="k1yojJ4A" text="西之岛" />
+    <string id="Nw6vXG2r" text="千振" />
+    <string id="UvTpCUpH" text="栉崎" />
+    <string id="kD3Q4P0u" text="赤间关" />
+    <string id="VIWC07Rb" text="长府" />
+    <string id="GuFaRjgy" text="相生" />
+    <string id="kO0l01wy" text="三本松" />
+    <string id="vHOOBCB9" text="萩" />
+    <string id="aK0HSc4W" text="大井" />
+    <string id="GxkGnl8i" text="三日月" />
+    <string id="NSAkQv1M" text="吉田郡山城" />
+    <string id="ntbMy243" text="东乡" />
+    <string id="uxffoc1I" text="壁" />
+    <string id="YhbInKsq" text="三好" />
+    <string id="ihU3yZM0" text="石见" />
+    <string id="ryejJvC5" text="友ヶ浦" />
+    <string id="VDGlQJwd" text="石金" />
+    <string id="r5ANVqKb" text="羽根" />
+    <string id="5CN8ewVp" text="月山富田城" />
+    <string id="LwUShO8j" text="安来" />
+    <string id="EOMv6L5Q" text="美保关" />
+    <string id="9aMOSRHh" text="淀江" />
+    <string id="qti2YofG" text="冈山" />
+    <string id="7MPxSfAc" text="吉备津" />
+    <string id="U5Vy1oxO" text="八幡浜" />
+    <string id="wwAiZo2v" text="西大寺" />
+    <string id="sZfJiRtF" text="新高山城" />
+    <string id="rdMHs0On" text="比集" />
+    <string id="Tk7cr6rz" text="瀬戸崎" />
+    <string id="ggBeWjpi" text="神峰城" />
+    <string id="hYa3ko4i" text="三田尻" />
+    <string id="vuFxEg9A" text="宫市" />
+    <string id="vsTEVmuj" text="妹背山城" />
+    <string id="ScnAHUPM" text="须佐" />
+    <string id="jX87tqV5" text="中津" />
+    <string id="CKaQktOo" text="三尾岳城" />
+    <string id="s36OCLVb" text="室积" />
+    <string id="P01HZUoY" text="岩国" />
+    <string id="xkmklOPf" text="樱尾城" />
+    <string id="OPAS78bG" text="久场" />
+    <string id="glsWfxE7" text="严岛" />
+    <string id="9iUfpjzA" text="日野山城" />
+    <string id="1nlzOWW9" text="三角凑" />
+    <string id="p15FKoXR" text="江津" />
+    <string id="rQfnY5ul" text="能美城" />
+    <string id="dZN5LLR7" text="濑户" />
+    <string id="jIQ8ABmU" text="吴" />
+    <string id="cw2phJPG" text="松尾城" />
+    <string id="dYC6hZpp" text="竹原" />
+    <string id="eqDZ9V5G" text="白石" />
+    <string id="MGzfCArb" text="沟口城" />
+    <string id="QNTlHbu0" text="杵筑" />
+    <string id="BSLeHhbG" text="白方" />
+    <string id="H4uQyBi6" text="来岛城" />
+    <string id="i2U342nt" text="王城" />
+    <string id="ZyJVH3pK" text="宫浦" />
+    <string id="D2EylgG7" text="青木城" />
+    <string id="gqR6QX1Z" text="中庄" />
+    <string id="6lrC1jYV" text="濑户田" />
+    <string id="nag3Cuo5" text="新高山城" />
+    <string id="E9fVF5iD" text="尾道" />
+    <string id="MCoAiEZz" text="笠冈" />
+    <string id="RYsEuRur" text="江山城" />
+    <string id="uyVTNrO8" text="鹤岛" />
+    <string id="bBkiYp7q" text="下津" />
+    <string id="p6Qi9gzt" text="保木城" />
+    <string id="v81uLwPi" text="牛窗" />
+    <string id="qMUrlmZh" text="因美" />
+    <string id="aWGi78Ll" text="天王山城" />
+    <string id="Nr6GaOhH" text="塩汤" />
+    <string id="MTe8tb9b" text="戸川" />
+    <string id="6ccxu05w" text="上杉城" />
+    <string id="0WX9hA8s" text="桥津" />
+    <string id="04PwDqo1" text="苅吕" />
+    <string id="VqVNevKA" text="一乘谷" />
+    <string id="cT34Ebdw" text="沟落" />
+    <string id="t2wPJnTl" text="北ノ庄" />
+    <string id="6yl5DIfX" text="平泉寺" />
+    <string id="6PgvlbUT" text="小山" />
+    <string id="JyG9eqDR" text="牛久保" />
+    <string id="6HTGkGwu" text="安宅" />
+    <string id="VPbrsyV3" text="宫之越" />
+    <string id="WYXGfvnF" text="七尾" />
+    <string id="JwZnAQwK" text="能登福良" />
+    <string id="NgWPLmrQ" text="羽咋" />
+    <string id="30Bb9CUF" text="冰见" />
+    <string id="O2PYgcG1" text="春日山" />
+    <string id="POZGi4zI" text="府内" />
+    <string id="fLVmeCsk" text="直江津" />
+    <string id="RVCdQOAQ" text="新居" />
+    <string id="CK6roQ1s" text="新潟" />
+    <string id="2UhVzhNg" text="蒲原" />
+    <string id="FXLQqRDx" text="新发田" />
+    <string id="4Hvmfg62" text="津川" />
+    <string id="vwKTR3B3" text="深志" />
+    <string id="4J5DeSPz" text="塩尻" />
+    <string id="Epzs9bvB" text="浅香" />
+    <string id="jewHO3R5" text="诹访" />
+    <string id="za4xFjbt" text="甲府" />
+    <string id="9ZpFMf9j" text="岩间" />
+    <string id="etBS08Ko" text="姥里" />
+    <string id="hKFfL2SM" text="远山" />
+    <string id="D5Jcm1JC" text="骏府" />
+    <string id="RiByzBoT" text="石津" />
+    <string id="BUEoaNBS" text="久纳寺" />
+    <string id="RLbLgutH" text="清水" />
+    <string id="o7IPA6R2" text="滨松" />
+    <string id="piCQps0D" text="筿冢" />
+    <string id="TCosghZ8" text="朝场" />
+    <string id="pQeaKfeW" text="浜ノ浦" />
+    <string id="CrOG8PLd" text="冈崎" />
+    <string id="DDYwxAgB" text="内海" />
+    <string id="Unk1zUdF" text="大滨" />
+    <string id="yXgoIejT" text="刈谷" />
+    <string id="7o6576n8" text="清洲" />
+    <string id="vJbZkdX7" text="对马" />
+    <string id="YiKQhjoQ" text="永野" />
+    <string id="JjNW477Q" text="热田" />
+    <string id="lXdj1TtH" text="樱洞" />
+    <string id="3rm0moPF" text="下吕" />
+    <string id="5MsVakpv" text="马濑" />
+    <string id="yOZsTIzn" text="萩原" />
+    <string id="2TMu4lC2" text="岐阜" />
+    <string id="bjDeU9E6" text="可儿" />
+    <string id="yjHtAEEM" text="各务原" />
+    <string id="HTo81wy6" text="护手山城" />
+    <string id="BdXzJLer" text="敦贺" />
+    <string id="ijmNcreb" text="小滨" />
+    <string id="kePZsN6S" text="府中城" />
+    <string id="qEewJDux" text="木浦" />
+    <string id="DUDOlYTC" text="惠曽福" />
+    <string id="BznGdbFo" text="沟江城砦" />
+    <string id="P5SW4Or6" text="三国凑" />
+    <string id="9VFHLA3r" text="金津" />
+    <string id="Y7mNSs2D" text="大圣寺城" />
+    <string id="T2Q4WFMt" text="吉崎" />
+    <string id="Ecd8IGJg" text="御幸冢" />
+    <string id="MXbySYjt" text="升山城" />
+    <string id="y0hE60ln" text="保女津" />
+    <string id="CepFf3AB" text="鱼津" />
+    <string id="p9IiDYf9" text="穴水城砦" />
+    <string id="xvGZzqHc" text="中居" />
+    <string id="h7DlJtQC" text="轮岛" />
+    <string id="4atk7P2g" text="根知城砦" />
+    <string id="5rC2HuFe" text="近江" />
+    <string id="6sQmsU2E" text="能生" />
+    <string id="OZD9byGd" text="猿毛城" />
+    <string id="7JtnPd3c" text="柿崎" />
+    <string id="VB9q8lt1" text="柏崎" />
+    <string id="fhMckOAE" text="与板城" />
+    <string id="vcwfVYcz" text="出云崎" />
+    <string id="Lsn74WcF" text="寺泊" />
+    <string id="c149C2cR" text="鹿鹿ヶ岛城" />
+    <string id="7t3vyHmx" text="泽根" />
+    <string id="d7QHPRHE" text="松ヶ崎" />
+    <string id="HwZEw9mI" text="平林城" />
+    <string id="8qvbF7TU" text="平林" />
+    <string id="hWQ6aSCk" text="岩舟" />
+    <string id="BSK7ThAp" text="本庄城" />
+    <string id="Ko1h36Co" text="村上" />
+    <string id="J9ywrIPV" text="猿沢" />
+    <string id="NudqZujm" text="栃尾城" />
+    <string id="n7NdjTwb" text="蔵王堂" />
+    <string id="F0FJSIJ3" text="三条" />
+    <string id="6MHOv64n" text="坂戸城" />
+    <string id="RJ7ntwZm" text="饭山" />
+    <string id="1soJweIO" text="米沢" />
+    <string id="JDqrBEiT" text="海津城" />
+    <string id="ESwxpHkr" text="妹石" />
+    <string id="0auCw7Uk" text="日野" />
+    <string id="cRX7KAze" text="上田城" />
+    <string id="Hu5KORDr" text="坂城" />
+    <string id="whinybNk" text="山家" />
+    <string id="Hd7GiElO" text="小诸城" />
+    <string id="RLsQENAd" text="蓼科" />
+    <string id="YsHcsOZG" text="岩村田" />
+    <string id="W35XhvjQ" text="岩殿山城" />
+    <string id="jDTmVPMc" text="吉田" />
+    <string id="RbZ6aQZJ" text="鹤" />
+    <string id="ZlC6XmVV" text="山中城" />
+    <string id="N3c8Rw9g" text="小鹿ノ宫" />
+    <string id="gx1JDkqp" text="三岛" />
+    <string id="tJhgPPS6" text="长浜城" />
+    <string id="XZY1KrYO" text="沼津" />
+    <string id="ckiCB6KN" text="土肥" />
+    <string id="TbEP7yGe" text="下田城" />
+    <string id="0rDc1SBx" text="伊东" />
+    <string id="nykU8Y8J" text="下田" />
+    <string id="VqLXxRhc" text="大宫城" />
+    <string id="u3qEz2Sj" text="大宫" />
+    <string id="uGXJfGNs" text="吉原" />
+    <string id="gJxWqKpJ" text="挂川城" />
+    <string id="9u6MWvx2" text="挂川" />
+    <string id="BAkfKBd7" text="相良凑" />
+    <string id="pP3Z8ZKy" text="饭野山城" />
+    <string id="zulU0Gkq" text="邑久" />
+    <string id="2chHj54l" text="吉田城" />
+    <string id="xqyUiSCO" text="室" />
+    <string id="1rfay3TH" text="小松原" />
+    <string id="OzxYpqps" text="大垣城" />
+    <string id="63YZvplM" text="宫川" />
+    <string id="gVfxpn0b" text="养老" />
+    <string id="d1uSH7Lb" text="常願寺城" />
+    <string id="drRb1eJx" text="常願寺" />
+    <string id="ZwLyRZ4l" text="前波" />
+    <string id="bMmdlGU7" text="帰雲城" />
+    <string id="ccQlu1Kg" text="帰雲" />
+    <string id="ckPgXqYM" text="白河" />
+    <string id="yyGbsWow" text="鍋山城" />
+    <string id="RYgkBrwy" text="鉢賀" />
+    <string id="JddcPSQa" text="吉木" />
+    <string id="3iExDKs3" text="小鷹狩城" />
+    <string id="zNtx1PQ0" text="古河" />
+    <string id="AIzmEXqU" text="児島" />
+    <string id="NY1GGm2P" text="毛利城" />
+    <string id="sNI8ZZHb" text="池田" />
+    <string id="Jo0WieRJ" text="更級" />
+    <string id="JXcJCRXa" text="木曽福島城" />
+    <string id="4nFCr6ZB" text="瀬場" />
+    <string id="qVMNO1bw" text="妻籠" />
+    <string id="xsrz8R6S" text="高遠城" />
+    <string id="kpvsA1WL" text="寺" />
+    <string id="Gc9lqI9K" text="福地" />
+    <string id="SPg1xeg2" text="韮崎" />
+    <string id="A3cOvSag" text="市川" />
+    <string id="6JVWOV78" text="小田原" />
+    <string id="rSHDe4X7" text="熱海" />
+    <string id="wpQ2ndaa" text="菅" />
+    <string id="w4XrPFPx" text="鎌倉" />
+    <string id="0V7RNUk1" text="江戸" />
+    <string id="dIIiTxyA" text="品川" />
+    <string id="TbCoWKJH" text="船橋" />
+    <string id="aTuhwpl9" text="太田" />
+    <string id="3afDSFUm" text="額田" />
+    <string id="OeVsHQQJ" text="葛浜" />
+    <string id="BEXJ1F23" text="大久保" />
+    <string id="9iMMapjE" text="宇都宮" />
+    <string id="71698EPm" text="鹿沼" />
+    <string id="jVHfshhL" text="飯山" />
+    <string id="9hFMeM35" text="塩谷" />
+    <string id="g5NTSS2Y" text="箕輪" />
+    <string id="BuDdh2hN" text="安中" />
+    <string id="IwK2OW0t" text="倉賀野" />
+    <string id="BYtxHdvg" text="厩橋" />
+    <string id="qmGxdT6U" text="三崎城" />
+    <string id="m6eYZWMH" text="三崎" />
+    <string id="AcrA0peb" text="浦賀" />
+    <string id="mQQksGbP" text="小机城" />
+    <string id="UmtiRMvI" text="六浦" />
+    <string id="qsDR6nPt" text="神奈川" />
+    <string id="JkjaieKD" text="本桜城" />
+    <string id="8K5XNHMS" text="佐倉" />
+    <string id="8uc0Kj7G" text="成田" />
+    <string id="MKOOPTCF" text="土気城" />
+    <string id="4Qm8SgWv" text="市原" />
+    <string id="Gv5tERn8" text="大弓" />
+    <string id="CfzXQacm" text="石津城" />
+    <string id="VBw6AtIt" text="木更津" />
+    <string id="6OLFNFPW" text="石津" />
+    <string id="fUMpuOOb" text="讃岐城" />
+    <string id="1s4zTkO1" text="讃岐" />
+    <string id="cPnEh9c9" text="富津" />
+    <string id="Ij0Ax0W7" text="岡本城" />
+    <string id="o9lZQluw" text="館山" />
+    <string id="3vIIUJfX" text="保田" />
+    <string id="LWEAx25N" text="大多喜城" />
+    <string id="JaeqMZbL" text="小湊" />
+    <string id="1czltRYb" text="勝浦" />
+    <string id="wP9NMb9t" text="久留里城" />
+    <string id="mlDukSZk" text="久留里" />
+    <string id="vRxccLfw" text="鞠谷" />
+    <string id="zSObBDHa" text="飯沼城" />
+    <string id="2cLzFoE1" text="廿日市" />
+    <string id="vehvdeEq" text="飯沼" />
+    <string id="63kkGmr0" text="高浜" />
+    <string id="t7zPXy1y" text="鉾田" />
+    <string id="5GFPjyZy" text="水戸城" />
+    <string id="unBMdPnQ" text="水戸" />
+    <string id="S3r12ca1" text="那珂湊" />
+    <string id="QR0ARLZq" text="烏山城" />
+    <string id="dr8GFyIJ" text="福原" />
+    <string id="EalLYsws" text="大田原" />
+    <string id="r6clYwLT" text="沼田城" />
+    <string id="GuVB0o4t" text="渋川" />
+    <string id="yNbrNqwD" text="沼田" />
+    <string id="1BrRu6lB" text="国峰城" />
+    <string id="t1inD5Lx" text="小幡" />
+    <string id="o57onn7Q" text="奥平" />
+    <string id="PWixu1jO" text="忍城" />
+    <string id="9FKbt4zD" text="深谷" />
+    <string id="J65jYwD3" text="熊谷" />
+    <string id="4PWgvY7u" text="川越城" />
+    <string id="JndaZB2w" text="川越" />
+    <string id="zRanyUdc" text="浦和" />
+    <string id="x0qpsNZw" text="金山城" />
+    <string id="8UOoxztL" text="新田" />
+    <string id="rZXDni5c" text="館林" />
+    <string id="fVwXqwlO" text="烏山山城" />
+    <string id="xRwhSNem" text="赤见" />
+    <string id="TuSOLp1h" text="佐野" />
+    <string id="C8avRQxs" text="结城城" />
+    <string id="VWIh1O6T" text="壬生" />
+    <string id="CwUpZL5t" text="下馆" />
+    <string id="Rw5bAtwn" text="增子城" />
+    <string id="GXGaCaHX" text="芳贺" />
+    <string id="9OKrr8tM" text="真冈" />
+    <string id="S931liPY" text="笠间城" />
+    <string id="uapC71GC" text="笠间" />
+    <string id="lKDCjpUw" text="赤沢" />
+    <string id="2nt5o1X2" text="小田城" />
+    <string id="NBk1hBZz" text="小田" />
+    <string id="XneOdQah" text="土浦" />
+    <string id="UWvQEtSF" text="牛久城" />
+    <string id="5JkMs0GN" text="牛久" />
+    <string id="Q2NujO9N" text="谷田部" />
+    <string id="RvzQHYRy" text="岩槻城" />
+    <string id="B0U7VE21" text="小金" />
+    <string id="02LbyErE" text="松山" />
+    <string id="dteKiJUQ" text="古河城" />
+    <string id="XpOX5VFs" text="古河" />
+    <string id="kX8k2MwY" text="関宿" />
+    <string id="lwTLUV3T" text="鹿岛城" />
+    <string id="qtzqW2Oy" text="佐原" />
+    <string id="dvlPiU2U" text="鹿岛" />
+    <string id="VMkkWy2l" text="钵形城" />
+    <string id="KHJX6ldN" text="藤田" />
+    <string id="dVLQGITS" text="秩父" />
+    <string id="Ix4mcLNc" text="姫路" />
+    <string id="LSCpqFPj" text="那波" />
+    <string id="hl01ZaFi" text="阿贺" />
+    <string id="wFbatASK" text="大坂" />
+    <string id="qMS6rcJ7" text="尼崎" />
+    <string id="PNF5BqUL" text="枚方" />
+    <string id="NU4XA4XB" text="若江" />
+    <string id="m6qrzyCa" text="堺" />
+    <string id="qh0lJtT0" text="日下部" />
+    <string id="43fknY0a" text="羽曳野" />
+    <string id="gvK789wT" text="奈良" />
+    <string id="YJwLUC98" text="郡山" />
+    <string id="HPJqbRGp" text="斑鸠" />
+    <string id="kEOZW3MW" text="今井" />
+    <string id="nvCkXHAa" text="京都" />
+    <string id="UombAy1F" text="亀冈" />
+    <string id="fc4uciRX" text="大津" />
+    <string id="SqhunkSg" text="山科" />
+    <string id="fxIwAwp3" text="観音寺" />
+    <string id="svF9a3AO" text="坂本" />
+    <string id="zPlJZ4Et" text="坚田" />
+    <string id="GdmtbPuu" text="安土" />
+    <string id="RL5Xo8fq" text="小谷" />
+    <string id="Z6IR3pmc" text="长浜" />
+    <string id="nvn46but" text="国友" />
+    <string id="idWuOFGc" text="塩津" />
+    <string id="4fxOILfF" text="塩田城" />
+    <string id="8zJovLxd" text="宍喰" />
+    <string id="fif8CY4b" text="岩" />
+    <string id="UORxMVZv" text="生野城" />
+    <string id="B4rIgAXu" text="朝来" />
+    <string id="kvIfk7Pn" text="粟贺" />
+    <string id="b5ROKqKn" text="籾曽山城" />
+    <string id="FQrxDEty" text="藪" />
+    <string id="AKm44xSa" text="城崎" />
+    <string id="jIlbYCaV" text="建部山城" />
+    <string id="31sB29eI" text="宮津" />
+    <string id="I64Wuxzl" text="田辺" />
+    <string id="R4vwFE7h" text="五位坂城" />
+    <string id="TNmMVECR" text="塩尾" />
+    <string id="wjCmFvz8" text="高砂" />
+    <string id="9HBXGwhM" text="三木城" />
+    <string id="ZqMNObKk" text="三木" />
+    <string id="CQHwBFdV" text="明石" />
+    <string id="M0osfYXn" text="滝山城" />
+    <string id="TA6vAIHp" text="兵庫" />
+    <string id="HCBBJbxX" text="有馬" />
+    <string id="PKP1FMJk" text="芥川山城" />
+    <string id="1lijcoPq" text="伊丹" />
+    <string id="8RAd0mOi" text="富田" />
+    <string id="eqwquYnl" text="朽木城" />
+    <string id="ssuKNazT" text="海津" />
+    <string id="XqDclA04" text="佐和山城" />
+    <string id="kJ7GSg2b" text="多賀" />
+    <string id="eiBJgTd6" text="高良" />
+    <string id="VDk55ikU" text="信貴山城" />
+    <string id="8BeZLj90" text="富" />
+    <string id="d6koZFZX" text="平群" />
+    <string id="X1XNarZc" text="高屋城" />
+    <string id="H96dzZca" text="九品寺" />
+    <string id="hJXbIbcC" text="富田林" />
+    <string id="JHkqe79H" text="岸和田城" />
+    <string id="jxkb3kzF" text="貝塚" />
+    <string id="zDhlobyA" text="淡轮" />
+    <string id="PYM45AKb" text="洲本城" />
+    <string id="AvIvF9cQ" text="由良" />
+    <string id="4E2Osk84" text="袋" />
+    <string id="3XWs4TyE" text="岩室城" />
+    <string id="LZQI2qYV" text="加太" />
+    <string id="JiCy0cGU" text="木ノ港" />
+    <string id="My5AlIjm" text="鳥屋城" />
+    <string id="dfHStZUp" text="湯浅" />
+    <string id="dXkBXUQ2" text="紀伊由良" />
+    <string id="td8qkkz0" text="鳥羽城" />
+    <string id="scbRMDG2" text="桑崎" />
+    <string id="Z06Isd7R" text="大湊" />
+    <string id="t2ioc3tv" text="津城" />
+    <string id="vYdmdRjj" text="有滝" />
+    <string id="mV7Ib8JR" text="細久米" />
+    <string id="hN7GTqtN" text="安濃津" />
+    <string id="iYjZ69ZO" text="上野城" />
+    <string id="WhNyyoAt" text="名張" />
+    <string id="t93lkmYo" text="柘植" />
+    <string id="5Dg2vkaC" text="日野城" />
+    <string id="DT6ynFvP" text="水口" />
+    <string id="vecUUwJp" text="音羽" />
+    <string id="rogs3NNl" text="伊勢亀山城" />
+    <string id="4VCQnnAN" text="白子" />
+    <string id="8ikUEhbQ" text="久須" />
+    <string id="tJBWAjyZ" text="長島城" />
+    <string id="ZnlA58aj" text="桑名" />
+    <string id="P5GkX0F8" text="中江" />
+    <string id="1VIjjKWB" text="松尾山城" />
+    <string id="JrStOL0U" text="大山崎" />
+    <string id="02pX6hRh" text="宇治" />
+    <string id="RmvKSL4R" text="紀伊亀山城" />
+    <string id="HbMqTOlK" text="御坊" />
+    <string id="bbUOxTCp" text="神山" />
+    <string id="j25R8lHH" text="高須" />
+    <string id="kWIpce0W" text="姶良" />
+    <string id="LUmsTlq0" text="鹿屋" />
+    <string id="DvfCu92X" text="内" />
+    <string id="L6kjepZF" text="川上" />
+    <string id="p6O0gMzu" text="井牟田" />
+    <string id="eJyaOfUD" text="知覧" />
+    <string id="9w6vlX8J" text="佐土原" />
+    <string id="4XJg880P" text="宮崎" />
+    <string id="SVbVfUM2" text="木脇" />
+    <string id="BNks4KgV" text="津摩" />
+    <string id="bXE3Eti6" text="人吉" />
+    <string id="4HuxiIxy" text="大庭" />
+    <string id="oFXG6Da7" text="木之上" />
+    <string id="5eaNziO9" text="山田" />
+    <string id="sgEq01Iv" text="丹牛島" />
+    <string id="ffcYS6qW" text="疋地" />
+    <string id="sRoPcqQk" text="一舎屋" />
+    <string id="HHWkdmFT" text="鬼谷" />
+    <string id="ASyaMblp" text="本荘" />
+    <string id="ZqZ1vTUG" text="広津" />
+    <string id="mlSVyux6" text="嬉野" />
+    <string id="p7K9495f" text="柳川" />
+    <string id="HsmYTQSG" text="塩塚" />
+    <string id="ul6hJmhX" text="猿垣" />
+    <string id="FfxSAyD5" text="太刀洗" />
+    <string id="k2e9Z4Cn" text="熊本" />
+    <string id="r0VfhBU0" text="御船" />
+    <string id="RGjU5dz5" text="梅尾" />
+    <string id="DAWFhgck" text="菊池" />
+    <string id="tfwfgbGr" text="橘山" />
+    <string id="vAe5refA" text="水城" />
+    <string id="CpUJiWgf" text="菰野" />
+    <string id="eL3o2vmZ" text="村中" />
+    <string id="XVb1ehch" text="徳島" />
+    <string id="0aitRUqP" text="猿串" />
+    <string id="NjWKX8LI" text="日之江" />
+    <string id="EjeToav7" text="口之津" />
+    <string id="9YfwfCjt" text="小路" />
+    <string id="UxE57P3d" text="浜野" />
+    <string id="oAgVFI62" text="富田城" />
+    <string id="rRgHbmlr" text="根占" />
+    <string id="WZH3w9tF" text="野间" />
+    <string id="MoJR4iq9" text="志布志城" />
+    <string id="tQmhIOIF" text="志布志津" />
+    <string id="OIi5cXVf" text="安楽" />
+    <string id="72CP6gNY" text="傘下ヶ城" />
+    <string id="1Fr3VoTo" text="垂水" />
+    <string id="hLETw6Gd" text="直方" />
+    <string id="Z6xvSsd1" text="都之城" />
+    <string id="GKxseaL3" text="梅北" />
+    <string id="NH7hv1F0" text="宝来" />
+    <string id="VDOHxziL" text="加治木城" />
+    <string id="yIiSFFeh" text="蒲生" />
+    <string id="NahCzVBn" text="平松" />
+    <string id="V4l3uOOV" text="板付城" />
+    <string id="DHj4tjcO" text="田尻" />
+    <string id="J9ojWArl" text="坊津" />
+    <string id="YlHG1uim" text="江城" />
+    <string id="1PXeijMQ" text="山川" />
+    <string id="f1qlejME" text="指宿" />
+    <string id="cVBxmTT1" text="飯野城" />
+    <string id="fCbUH9xs" text="池島" />
+    <string id="ABY7N8bq" text="白鳥" />
+    <string id="kQ3nFXBb" text="一宇治城" />
+    <string id="5cBCgUn1" text="串木野" />
+    <string id="fzrGQOuD" text="藤川" />
+    <string id="e0V4GJYO" text="出水城" />
+    <string id="FKAHnPeI" text="阿久根" />
+    <string id="HT1TJQRB" text="堂崎" />
+    <string id="m9VjNH76" text="飫肥城" />
+    <string id="cXYrWwnD" text="坂谷" />
+    <string id="hih1prHh" text="油津" />
+    <string id="0peuGHvI" text="清武城" />
+    <string id="JHhvCoXG" text="鏡水" />
+    <string id="o7OrcwcK" text="曽於" />
+    <string id="UVF2azp9" text="綾城" />
+    <string id="3DfoUkQy" text="野尻" />
+    <string id="UysYG0ST" text="三尾" />
+    <string id="0LHvahhd" text="門川城" />
+    <string id="qiAah3xb" text="塩見" />
+    <string id="8sz0tXhd" text="県" />
+    <string id="J0Mo41hV" text="鍋城" />
+    <string id="RnY20xbi" text="久米" />
+    <string id="xRmEtOTl" text="大口城" />
+    <string id="7CLX8g0B" text="初月" />
+    <string id="UiKJPgNh" text="牛玖惣院" />
+    <string id="dENmoFnW" text="古麓城" />
+    <string id="VtJMB9Su" text="徳分" />
+    <string id="MnzEGhcs" text="佐敷" />
+    <string id="kXl5DF4d" text="鶴崎城" />
+    <string id="3E9YRaFR" text="寺地浜" />
+    <string id="TLZ8fwHD" text="千歳" />
+    <string id="r0l7lIjW" text="岡城" />
+    <string id="RJwm8sOR" text="藤北" />
+    <string id="OHnTDMNl" text="市又" />
+    <string id="6weMf3aJ" text="杵築城" />
+    <string id="QsnLEOc2" text="那太" />
+    <string id="GP8I3F8l" text="高田" />
+    <string id="HrvBj1b6" text="高井田城" />
+    <string id="dCD739MX" text="石松" />
+    <string id="MfCOiZMx" text="山下城" />
+    <string id="eBLaHjSJ" text="溝口" />
+    <string id="YIGWJwKV" text="矢部" />
+    <string id="EOUbYBPk" text="玉丘城" />
+    <string id="5OrsY3Wz" text="巻" />
+    <string id="Ucg7oX28" text="高葉" />
+    <string id="LKUxUR8Y" text="河原岳城" />
+    <string id="aopAmhHp" text="奥山" />
+    <string id="XqBNIq9G" text="添田" />
+    <string id="Eux6uT73" text="松山城" />
+    <string id="0QTdZKo2" text="門司" />
+    <string id="aALll4Gm" text="長野" />
+    <string id="lJKoL9IH" text="蓮池城" />
+    <string id="qTl7CJAl" text="鼎" />
+    <string id="5u0Pc117" text="崎村" />
+    <string id="Qhvj6XO9" text="清福寺城" />
+    <string id="SBckHhdZ" text="知夫" />
+    <string id="2lDJWmDh" text="今山" />
+    <string id="bsA0vCZ7" text="加美根城" />
+    <string id="TMiJJOHo" text="狭間" />
+    <string id="kYDrfyq9" text="春鹿" />
+    <string id="MBqlRZU5" text="三条城" />
+    <string id="nBaMGgNo" text="岩松" />
+    <string id="b7yO79tn" text="長崎" />
+    <string id="40woqJi6" text="巣鷹城" />
+    <string id="0AIh4sLQ" text="小島" />
+    <string id="pyqR4PGc" text="杵島" />
+    <string id="DhFnievF" text="御船城" />
+    <string id="j1XEMyqn" text="益城" />
+    <string id="Tr73jAZQ" text="鵜戸" />
+    <string id="TvyJMitP" text="岩尾城" />
+    <string id="y19oi5PN" text="堅田" />
+    <string id="ROS1fAAN" text="古佐" />
+    <string id="Xycc7oGz" text="中村" />
+    <string id="r2zh2zgG" text="柏島" />
+    <string id="htHL9YA2" text="清水" />
+    <string id="v1JzXhFl" text="入野" />
+    <string id="2W7Fq6SK" text="黒瀬" />
+    <string id="nP4eDvur" text="板島" />
+    <string id="5RlNrax2" text="八幡浜" />
+    <string id="Y3U6iVbc" text="穂傑" />
+    <string id="buxaDLVS" text="柚木" />
+    <string id="cOkHyAGW" text="荏原" />
+    <string id="nlTcnzDH" text="真崎" />
+    <string id="wQMWYpmM" text="三津浜" />
+    <string id="BkQ18hKt" text="大口" />
+    <string id="q6ybFEVI" text="浦戸" />
+    <string id="7XDTcaQb" text="本山" />
+    <string id="nmm8Bu6b" text="古曽" />
+    <string id="uqoP6awr" text="天城" />
+    <string id="AnrHVvKK" text="仁尾" />
+    <string id="aMpkMmHq" text="多度津" />
+    <string id="0R2n2Ghr" text="牛敷" />
+    <string id="ku69fD7c" text="橘" />
+    <string id="x0ujuUWA" text="平島" />
+    <string id="vOc88PUp" text="結城" />
+    <string id="KDinodgg" text="姫野城" />
+    <string id="k2dvsiaD" text="四ツ" />
+    <string id="vEYNurYp" text="無解説" />
+    <string id="nAzazSPE" text="須崎" />
+    <string id="gv26VlxV" text="大洲城" />
+    <string id="kPVN94M0" text="内子" />
+    <string id="xnMIkc2w" text="常盤城" />
+    <string id="IOanxV4Y" text="深浦" />
+    <string id="zmnn621o" text="宿毛" />
+    <string id="PLiqyrst" text="国府山城" />
+    <string id="VtFXe1Li" text="今治" />
+    <string id="FmvBJPlM" text="大浦" />
+    <string id="WZE9iw0B" text="吉良城" />
+    <string id="Tz4Dextk" text="伊野" />
+    <string id="Dt7tVVZ2" text="宇佐" />
+    <string id="mFN2WlLP" text="金子城" />
+    <string id="jdzhgkfo" text="新居滨" />
+    <string id="NR5KAE14" text="川之江" />
+    <string id="ehKkRG65" text="大西城" />
+    <string id="3Gtl1ZWV" text="马路" />
+    <string id="Ydi2eMWL" text="新居" />
+    <string id="o1iKzaRQ" text="安艺城" />
+    <string id="NbT4Swom" text="名烟" />
+    <string id="PlKW3dYT" text="崎滨城" />
+    <string id="BwdDTePk" text="室津" />
+    <string id="tC73LOrW" text="甲浦" />
+    <string id="cvw8Hsv2" text="惣乡城" />
+    <string id="hxnWpK6g" text="广济" />
+    <string id="hE6MmVcF" text="宍道" />
+    <string id="PaZTWp5t" text="土佐泊城" />
+    <string id="5Y2Acdc9" text="别久" />
+    <string id="yMHAPvF7" text="小松岛" />
+    <string id="5avzU4Vd" text="黑川" />
+    <string id="lUgrIbsy" text="新宫" />
+    <string id="RCqlfDCy" text="米泽" />
+    <string id="ucQBmrCG" text="长井" />
+    <string id="F5azEbwE" text="小松" />
+    <string id="2vWUQEjx" text="高畠" />
+    <string id="dzB5r5rJ" text="山形" />
+    <string id="gaUB4BnH" text="樫仓" />
+    <string id="df4bDfVc" text="成泽" />
+    <string id="tVLZhzFJ" text="岩波" />
+    <string id="dedDT7v0" text="石卷" />
+    <string id="uz57gbic" text="茂生" />
+    <string id="I7PkmB8a" text="横浦" />
+    <string id="7rgGkG5A" text="萩滨" />
+    <string id="iIBfwKXU" text="酒田" />
+    <string id="mv5V2ut6" text="吹浦" />
+    <string id="HYWVIvb5" text="龟ヶ崎" />
+    <string id="hMUcPr79" text="出羽大浦" />
+    <string id="KGp4U6ZT" text="土崎凑" />
+    <string id="31TCIXhh" text="胁本" />
+    <string id="74v8alVP" text="秋田滩" />
+    <string id="H1j9IJpL" text="利岛" />
+    <string id="YUFX5LdB" text="三户" />
+    <string id="REnRF8j7" text="奥州" />
+    <string id="g5nOB4NF" text="斗内" />
+    <string id="JD0A5H5Z" text="多胡" />
+    <string id="d2r4B3vq" text="土佐凑" />
+    <string id="PUlURumW" text="三厩" />
+    <string id="fBj65a4D" text="矶松" />
+    <string id="1SYbPUL2" text="牛ヶ形" />
+    <string id="cSv4dDYF" text="船冈城" />
+    <string id="bQNPHfvT" text="关柴" />
+    <string id="QaEH7Dir" text="船冈" />
+    <string id="Yz5C61wb" text="猪苗代城" />
+    <string id="0nigus9o" text="白子" />
+    <string id="DYJqFlFJ" text="猪苗代" />
+    <string id="s7rze40X" text="二本松城" />
+    <string id="PyJrv2Zi" text="安达" />
+    <string id="6EjtiE1h" text="二本松" />
+    <string id="yHyulJvD" text="三春城" />
+    <string id="umB4cBex" text="田村" />
+    <string id="4JR9iFkF" text="须川城" />
+    <string id="gJ8oFcbF" text="岩濑" />
+    <string id="YYwosnpB" text="饭之平城" />
+    <string id="uJ6CdWHi" text="白土" />
+    <string id="7Hq10uGX" text="船尾" />
+    <string id="f2CeLPNG" text="小高城" />
+    <string id="i3yQgaJa" text="草野" />
+    <string id="QF5ogRWa" text="小高" />
+    <string id="WyYgoD82" text="相马中村城" />
+    <string id="C2H4DaQK" text="筧田" />
+    <string id="6lW35QHG" text="中牟田" />
+    <string id="2O1LTj6A" text="梁川城" />
+    <string id="QOPgjGHV" text="西山" />
+    <string id="bD7XR9fp" text="丸森" />
+    <string id="UZpcsghh" text="亘理城" />
+    <string id="FXqfnZn9" text="坂蔦田" />
+    <string id="ZwoRpuj0" text="亘理" />
+    <string id="oaO9LGPD" text="天童城" />
+    <string id="bK3dj8lF" text="白岩" />
+    <string id="gBu1s21m" text="值泽" />
+    <string id="uUTWektF" text="岩切城" />
+    <string id="OMLWJ5Fr" text="盐釜" />
+    <string id="vsV1qXqp" text="仙台" />
+    <string id="iB14AOiv" text="中新井田城" />
+    <string id="FvBaL0TE" text="大平" />
+    <string id="sofCUqLo" text="岩出山城" />
+    <string id="76tvhW5p" text="市来" />
+    <string id="Z4W1hXLz" text="礒田" />
+    <string id="eehsgWjf" text="鹰清水城" />
+    <string id="wqtco3R9" text="宫泽" />
+    <string id="KySQHYm3" text="寺池城" />
+    <string id="nWaehi3F" text="砂沼" />
+    <string id="hodlaZbm" text="松崎" />
+    <string id="bdNND23Q" text="延泽城" />
+    <string id="9FV8t8dZ" text="尾花泽" />
+    <string id="pJZ7r6bs" text="延泽" />
+    <string id="xyaQJs4i" text="酒部城" />
+    <string id="Zofovajl" text="象潟" />
+    <string id="UKEAbrPY" text="庭月" />
+    <string id="RDni1NjO" text="仁贺保城" />
+    <string id="Slnm1ecp" text="安津附" />
+    <string id="ocaoj1QX" text="木浦" />
+    <string id="v3MePHaA" text="稻庭城" />
+    <string id="vjlhfzst" text="岩崎" />
+    <string id="Euog4rMA" text="横手城" />
+    <string id="Izs9VpaL" text="亥冈" />
+    <string id="6gi0UGoC" text="锅仓" />
+    <string id="P9LlpXym" text="赤水城" />
+    <string id="BONgbdKq" text="唐桑" />
+    <string id="hEKTynbL" text="气仙沼" />
+    <string id="ZT8MEupe" text="横田城" />
+    <string id="7CRT9rFq" text="远野" />
+    <string id="7wjzzonU" text="大槌" />
+    <string id="c6WgdqDP" text="千徳城" />
+    <string id="UogO5FoZ" text="宅摺" />
+    <string id="5c3BJNVM" text="宫古" />
+    <string id="2UZWHWxt" text="香椎寺城" />
+    <string id="pbXTKvQy" text="细小田" />
+    <string id="AzsAhFFD" text="栄ヶ崎" />
+    <string id="Aq4agpBP" text="角馆城" />
+    <string id="FVZd8Tl0" text="奈良冈" />
+    <string id="o9liYcr7" text="苫木" />
+    <string id="Ob5vJ7q3" text="桧山城" />
+    <string id="YxF2cu41" text="能代" />
+    <string id="0V9ZvruS" text="米内泽" />
+    <string id="ld7y4DJs" text="大馆城" />
+    <string id="uces05JF" text="花冈" />
+    <string id="YlXMYatL" text="杉沢" />
+    <string id="YSsAfEU9" text="九戸城" />
+    <string id="QZ9ZAS3I" text="浄法寺" />
+    <string id="kcAqbMj0" text="葛巻" />
+    <string id="MR2TmeTe" text="久慈城" />
+    <string id="IrLmW3mx" text="久慈" />
+    <string id="uk7bwWFE" text="玉川" />
+    <string id="4gUUbuqA" text="根城" />
+    <string id="pAmrC57D" text="八戸" />
+    <string id="Yyc80YCh" text="七戸城" />
+    <string id="j8k6HP7X" text="横浜" />
+    <string id="aUExdpE1" text="辺地" />
+    <string id="fVzszw07" text="大浦城" />
+    <string id="0gDY3o31" text="鰺ヶ沢" />
+    <string id="2YQh9dGU" text="一打田" />
+    <string id="FHNWihyd" text="浪冈城" />
+    <string id="EUW4qdGe" text="油川" />
+    <string id="hXqRZVEA" text="広田" />
+    <string id="FTjRvoSv" text="准宝寺城" />
+    <string id="w65n9Jva" text="大畑" />
+    <string id="ojRLdFub" text="隐秘据点" />
+    <string id="8zqqDTbp" text="火盆" />
+    <string id="kpzK0X9u" text="大筒" />
+    <string id="uPDOEMCR" text="大筒（复数）" />
+    <string id="8Ewallt6" text="竹垣" />
+    <string id="U53M9G9W" text="舰载火炮" />
+    <string id="yVf1b2wm" text="楯盾" />
+    <string id="Gc0UxEgr" text="弹药库" />
+    <!-- ========== 城郭/地名背景描述（贴合战国历史语境） ========== -->
+    <string id="BDnW3J67" text="栉崎地处山阳道最西端，毗邻分隔本州与九州的关门海峡，这座港口城郭最初由内藤氏筑造，掌控此地即可扼守西海航路，垄断西国的商贸与人员往来。" />
+    <string id="sRgUwjnw"
+      text="三本松城郭坐落于中国地方数条核心商道的交汇处，早已成为各路扩张大名的觊觎目标。尽管其军事价值看似无足轻重，但作为关键补给线的必经之地，这里是势力巩固区域控制权的必争之所。" />
+    <string id="mW8IM8PG"
+      text="这座沿海城郭最初仅是毛利氏的一座小型城馆，随着城主势力的不断扩张，其战略地位日益凸显。城郭建于山顶之上，凭此地势可将周边领土与海上航路尽收掌控之中。" />
+    <string id="GYTyXmZN" text="石见因盛产优质银矿而闻名，是日本境内最为富庶的聚居地之一。多年来，西国各大名围绕石见银山征战不休，这座宝库如今已落入毛利氏之手。" />
+    <string id="eDhJwiwf"
+      text="月山富田城是山阴地区的一座城郭，其历史可追溯至镰仓时代，更早的平安时代，此地便筑有要塞，用以守护商道与当地久负盛名的制铁产业。近年间，月山富田城成为了昔日霸主尼子氏的最终战场，他们在此抵御崛起的大内氏与毛利氏联军，而毛利元就的最终征服，也标志着这一地区的权力格局彻底洗牌。" />
+    <string id="ALnnHm7B" text="冈山是一座位于中国地方西部的城郭，凭借便捷的海上贸易航路，以及连通本州与四国的战略通道，这里兼具军事与经济双重优势。" />
+    <string id="0GYO9OBo"
+      text="一乘谷是北陆道西部的一座防御性城郭，四周山河环绕，凭借天然屏障构建起易守难攻的防线，令来犯之敌束手无策。这座城郭由朝仓氏筑造，应仁之乱期间，朝仓氏收留了大量从京都流亡而来的难民，此举也让一乘谷逐渐发展为文化、工艺与宗教的繁盛之地，其璀璨风貌足以与皇都京都比肩。" />
+    <string id="lVVZzX8n" text="小山原本是加贺一向一揆的一座寺堡，如今已发展为北陆地区的重要据点。因其兼具战略与宗教双重价值，小山早已引得周边强邻虎视眈眈。" />
+    <string id="EGOIuaaC" text="七尾是畠山氏的本城，亦是能登半岛最重要的城郭之一。此地依山傍海，防御坚固，港口则支撑着繁盛的海上贸易。" />
+    <string id="uk2xGbQl"
+      text="春日山城郭雄踞陡峭山巅，最初是长尾氏的领地。自出身长尾氏的上杉谦信入主之后，这里便成为了上杉氏的主城。谦信将春日山打造成越后地区的军事中心，曾多次率领大军自此出征，与宿敌武田氏争锋。" />
+    <string id="mhnNNG3m"
+      text="新潟坐落于越后国沿海地带，凭借海上贸易与肥沃的农田，此地发展为一座繁荣的港口城镇。信浓川为稻米与各类物资的内陆运输提供了关键通道。新潟处于上杉谦信的势力范围之内，得益于领主的强势治理，区域内安定祥和。渔民、盐商与造船工匠共同支撑起新潟的经济，使其成为谦信征战四方的重要后盾。" />
+    <string id="bF0R3AqG"
+      text="深志是一座建于信浓群山之中的城郭，最初由小笠原氏筑造，用以守护家族领地。武田信玄率军围城并将其攻克后，这座城郭便被纳入武田氏麾下，成为武田势力扩张的前沿据点。" />
+    <string id="G1Gwql28"
+      text="甲府是位于东山道南部甲斐国腹地的城郭，自诞生之初便是武田氏的居城。在武田信玄的治理下，这座城郭迎来了空前发展，不仅被定为武田氏势力的政治中心，信玄还主持修建了大规模治水工程，以此提升农业产量，改善民生。" />
+    <string id="KoEdsC34"
+      text="数十年来，骏府一直是强势的今川氏的主城，凭借地处东海道要冲的区位优势，这座城郭逐渐发展为政治、贸易与文化的繁盛之地。然而，自今川氏在桶狭间之战中惨败于织田信长后，其势力便急剧衰落，骏府与今川氏的其他领地，也自此暴露在周边大名的觊觎之下。" />
+    <string id="Bt4eiXyI" text="滨松是东海地区的一座城郭，由今川氏筑造，用以镇守交通要道东海道。桶狭间之战后，崛起的德川家康入主此地，将滨松收归己有。" />
+    <string id="pZBrZ9j6"
+      text="冈崎是崛起大名德川家康的出生地，亦是三河国的核心城郭。德川氏入主此地后，将其加固为军事要塞，以此巩固家族对三河地区的控制权。如今的冈崎城郭愈发繁荣，武士、商人与工匠聚居于此，人口日益增长。因其地处东海道要道，这里也成为旅人往来、军队调动的必经之地。" />
+    <string id="iyxZXmq2"
+      text="清洲城建于镰仓时代，最初的功用是镇守京都与幕府都城之间的要道。长久以来，这里一直是尾张织田氏的主城，围绕织田氏的权谋纷争与军事冲突在此不断上演。这种局面一直持续到年轻的大名织田信长将主城迁往岐阜为止。尽管主城迁移令清洲的地位有所下降，但这座防御坚固的城郭依旧十分兴盛，市井间一派欣欣向荣之景。" />
+    <string id="zIIebF6g"
+      text="日本国内流传着一句俗语：“得岐阜者得天下”，足见这座城郭的战略地位之重。岐阜曾是斋藤氏的领地，不久前被织田信长攻占。信长以中国古代统一华夏的名山为名，将此地改名为“岐阜”，向天下昭示自己一统日本的雄心。" />
+    <string id="Kpqqt4hJ"
+      text="小田原是强势的北条氏的本城，这座坚不可摧的要塞雄踞关东地区。城郭外围环绕着层层城墙、壕沟与卫星堡垒，堪称日本防御体系最完善的城郭之一。城下町十分繁荣，商人、农民与工匠在此安居乐业，北条氏的治理为这片土地带来了安定的秩序。凭借得天独厚的区位优势，北条氏得以掌控关东的交通命脉，巩固自身的霸主地位。" />
+    <string id="xs9RSzg0"
+      text="江户最初只是平安时代当地豪族的一座小型城馆，自发展为城郭后，如今已雄踞武藏野台地与江户湾畔。关东地区近期的战乱让江户几易其主，发展进程严重受阻，但这座城郭依然蕴藏着巨大的发展潜力。" />
+    <string id="Jco28GN3" text="太田原本是太田氏的主城，这座城郭地处关东，紧邻连通京都的要道东海道，凭借这一优势，太田逐渐发展为区域内重要的军事与行政中心。" />
+    <string id="6B4SIOWm" text="宇都宫城郭建于平安时代，数百年来一直是宇都宫氏的主城，也是关东地区最重要的据点之一，掌控着周边多条陆路交通要道。" />
+    <string id="luiLYflb"
+      text="箕轮城最初是长野氏的城馆，这座城郭长期以来都是掌控周边区域的战略要地，因此也成为上杉氏与武田氏争夺的焦点。最终，武田信玄率军攻破箕轮，长野氏一族尽数覆灭，这座城郭也落入武田氏之手。" />
+    <string id="gECCFBvx"
+      text="姫路城始建于室町时代初期，由赤松氏筑于姫山之巅，扼守西进京都的要道。此城历经数次拆毁与重建，方成如今的雄城样貌，成为阻挡来犯之敌的坚固城砦。" />
+    <string id="TGw7giTg"
+      text="大坂以石山本愿寺的寺堡为核心，已然发展为宗教与经济并重的重镇。这座寺堡由好战的一向一揆掌控，乃是净土真宗一派的本据，始终抗拒着各路武士大名的辖制。" />
+    <string id="WV6XuHT5"
+      text="堺町是日本境内最为富庶且自治度极高的城町，凭借商贸往来日渐兴盛。町内的商人众不受战乱大名的节制，常年与大明国、南蛮商人直接通商。此地以精良的铁炮、刀剑与珍奇奢品闻名，纵使周遭战火纷飞，堺町的经济依旧繁盛不衰。" />
+    <string id="Rfd9cOAd"
+      text="奈良曾是日本的皇都所在，至今仍是佛教势力与文化传承的重镇。东大寺、兴福寺等巨刹巍然矗立，见证着这座古都往昔的荣光，寺内更盘踞着实力雄厚的僧兵众。" />
+    <string id="bYxqhFC3"
+      text="京都曾是日本无可匹敌的帝都，却因中央权柄之争沦为一片焦土。足利氏的威光早已烟消云散，整座都城任由各路大名肆意摆布，皇居之中的朝廷只能束手旁观。即便如此，京都依旧是世俗传统的传承之地，虽已不复往日的权柄中枢之位，其宗教与文化的影响力却从未消减。" />
+    <string id="8xv7T88d"
+      text="観音寺城建在衣笠山之巅，看似是座安宁的城町，却因历代领主六角氏的争乱屡遭波及。唯有凭藉天险构筑的防御，才让这座城郭数次抵挡住敌军的围城攻势。" />
+    <string id="OZsf12k6"
+      text="小谷城乃是浅井氏的居城，为统御周边领国所筑，雄踞陡峭山脊之上。其坚固的防御令此城成为难攻的坚垒，加之地处核心商道要冲，城町的富庶程度也与日俱增。" />
+    <string id="7o1ufRGz" text="神山乃是九州南部的战略要冲，坐落在大隅国崎岖的山地之间，此地的山道连通着内陆领国与西海岸，是控扼九州南部的关键所在。" />
+    <string id="GyIr6NHT" text="内町虽规模不大，却是地处要冲的聚居地，乃是往来行旅与商人穿梭领国的必经之所。但凡有心掌控周边区域的大名，都会视这座町的归属为要务。" />
+    <string id="7zKX3k7y"
+      text="佐土原城町地处九州南部，乃是伊东氏数代以来的居城。凭借肥沃的平原与临近海路的地利，佐土原既为行政中枢，亦是农产重地，日渐繁盛，更成了伊东氏图谋扩张领国的核心据点。" />
+    <string id="reqICg9a"
+      text="人吉城町深藏于九州西南部的群山之中，自镰仓时代起便是相良氏的本城。相传筑城之时，曾掘出一轮月形巨石，故此城亦有「月城」的俗称。抛开坊间传闻不谈，人吉城本就是一座易守难攻的坚垒，历年来仅遭一次敌军来犯，且来犯之敌最终全军覆没。" />
+    <string id="1OHDyEtH" text="丹牛島凭藉关键的海上商路位置，加之毗邻九州北部诸领，再得大友氏的扶持，被立为地方治政的中心，如今已是一座繁盛的城町。" />
+    <string id="DFE7hHDt"
+      text="鬼谷深藏于九州北部的险峻高地，历来皆是设防严密的聚居地，扼守着进入日本西岛的要道。此地俯瞰内陆核心通路，在九州控制权之争日趋激烈的当下，战略价值愈发凸显；往昔大内氏与大友氏也曾为争夺鬼谷，在此掀起数次争乱。" />
+    <string id="fOOOFAf4" text="柳川地处九州西北部，坐落在筑后川沿岸的要冲，乃是连通区域内多数商路的交汇点，无论商贸往来还是兵马调动，都可借此地之便。" />
+    <string id="JwSGTyTV" text="熊本地处九州西部的沿海商路与山地要塞之间，凭藉商贸流通与本地物产，日渐发展为一座守备坚固、市井繁盛的城町。" />
+    <string id="QK5trJCE" text="橘山雄踞九州北部的高地之上，最初是橘氏为镇守一方所筑的城町。掌控此地，便能扼守核心商路，兼得水陆往来之利，对周边领国的掌控至关重要。" />
+    <string id="kw7kEnWY"
+      text="村中历来是九州西部的一处地方要塞，曾是阿苏氏麾下的治政小据点，阿苏氏的威光一度遍及中央高地。如今阿苏氏受南边岛津、东边大友的压迫，势力急剧衰退，村中也随之陷入岌岌可危的境地。" />
+    <string id="rRdiqxwR"
+      text="日之江城町坐落在九州西海岸的岛原半岛之上，始建于镰仓时代初期。此地既是有马氏的本据，也是其重要的财源之地，有马氏从这里掌控海上商路，近年更垄断了南蛮通商之利。" />
+    <string id="RzWkXm61" text="中村乃是四国西部的一座城町，被山河环绕，坐拥天险之利。周遭沃土盛产稻米与木材，让这座城町愈发富庶殷实。" />
+    <string id="lhPHAUHU" text="黒瀬地处四国内陆腹地，是一座控扼要道的城町。掌控此地便能把持内陆通路，更可凭险要地势抵御邻境大名的来犯，战略价值举足轻重。" />
+    <string id="nyUeGzWY" text="柚木是四国西部的一座海防城町，由河野氏所筑，乃是海上通商的门户。虽规模不大，但河野氏暗结本地水贼，再加上城防坚固，柚木町就此日渐繁盛。" />
+    <string id="wWXECumA" text="大口地处四国南部的要冲之地，自镰仓时代起便是长宗我部氏的世代居城。近年长宗我部元亲能顺利整合领国势力，大口城的支撑功不可没。" />
+    <string id="QF8vgBEz" text="天城筑于天城山巅，是香川氏在四国北部的本据。此地城防坚固且毗邻濑户内海，既能控扼周边领国，又能把持海上商路，乃是一方战略重镇。" />
+    <string id="McWUwCaM"
+      text="牛敷地处南海道东海岸，是一座战略地位显要的港口城町。此地扼守濑户内海航路，如今诸氏战乱不休，海上商贸与兵马调动愈发频繁，牛敷的价值也随之水涨船高。" />
+    <string id="eIQDsF1J" text="黑川城町由芦名氏筑造，作为本据立于奥羽地区最南端；此地地处偏远，令黑川得以避开邻近诸氏间无休止的纷争，稳步发展壮大。" />
+    <string id="mq4zhe9z" text="米泽城町始建于镰仓时代，伊达氏驱逐旧主后便以此为本据，自此处筹谋对周边领国的制霸之策。" />
+    <string id="ullPdzCT" text="山形自最上氏未冠此名前便为其本据，境内群山环绕、河川纵横，既为之构筑天然屏障，亦使其成为周边地域往来联结的要冲。" />
+    <string id="P7woV3wC"
+      text="石卷是奥羽南部的一处繁华港町，凭借松岛湾的天然屏障与北上川贯通内陆的水运优势，发展为商贸与渔业并重的要地。其战略要冲的地位虽带来了繁荣，却也沦为地方诸氏扩张图谋中的兵家必争之地。" />
+    <string id="69FUsSqB" text="酒田是东北地区北部的核心港埠，这座城町凭借日本海的通航之便，以及邻近周边肥沃农地的地利，已然发展为举足轻重的商贸枢纽。" />
+    <string id="oUeaHLhb"
+      text="土佐凑坐落于本州最北端，曾是与北海道阿依努人通商的枢纽；奈何此地冬日酷寒且地处偏远，守备实属不易，时常遭袭扰之患。这里一度是安东氏的繁荣商港与治政中心，却因氏族遭驱逐而走向衰落。" />
+    <string id="QBjyZBVp" text="土崎凑地处本州北部海风凛冽的海岸，长久以来都是海上通商的要冲，亦是本岛与北方诸国间转运货物的关键之地。" />
+    <string id="4i6COw8g" text="三户地处要害山口，乃是一座军防重镇，作为戍卫关卡扼守着商贸要道与行军通路，正立于诸强争锋的边境之地。" />
+    <string id="5CFJRxEX"
+      text="Serdar" />
+    <string id="Vsguc1Lx"
+      text="ashigaru_lord_male_medium" />
+    <string id="sdOtGck6"
+      text="ashigaru_lord_female_medium" />
+    <string id="GbDv1icE"
+      text="buddhists_lord_male_medium" />
+    <string id="m4K0OYw7"
+      text="buddhists_lord_female_medium" />
+    <string id="MaSkmJNV"
+      text="Saikai_lord_male_medium" />
+    <string id="vBwIgcny"
+      text="Saikai_lord_female_medium" />
+    <string id="99zwO24i"
+      text="Nankai_lord_male_medium" />
+    <string id="lBkE3R6F"
+      text="Nankai_lord_female_medium" />
+    <string id="t7PimHDx"
+      text="sanyo_lord_male_medium" />
+    <string id="zQSTAUW8"
+      text="sanyo_lord_female_medium" />
+    <string id="zza15b86"
+      text="kinai_lord_male_medium" />
+    <string id="3gpYElrn"
+      text="kinai_lord_female_medium" />
+    <string id="2Ps9NMLR"
+      text="hokuriku_lord_male_medium" />
+    <string id="skxW79Zp"
+      text="hokuriku_lord_female_medium" />
+    <string id="GP4yEOC5"
+      text="tosan_lord_male_medium" />
+    <string id="bqfXC4cC"
+      text="tosan_lord_female_medium" />
+    <string id="SzvgTuSx"
+      text="tokai_lord_male_medium" />
+    <string id="lr3mT0r7"
+      text="tokai_lord_female_medium" />
+    <string id="azP1adC6"
+      text="kanto_lord_male_medium" />
+    <string id="b1AEBITk"
+      text="kanto_lord_female_medium" />
+    <string id="JXEKBgra"
+      text="ou_lord_male_medium" />
+    <string id="mdtmu3O5"
+      text="ou_lord_female_medium" />
+    <string id="EaGHKTSd"
+      text="ashigaru_lord_male_noncom" />
+    <string id="aoYJE4uC"
+      text="ashigaru_lord_female_noncom" />
+    <string id="IIsgOIvi"
+      text="buddhists_lord_male_noncom" />
+    <string id="YYeT0OEU"
+      text="buddhists_lord_female_noncom" />
+    <string id="RHCjoJlb"
+      text="saikai_lord_male_noncom" />
+    <string id="0NFqOCWr"
+      text="saikai_lord_female_noncom" />
+    <string id="S6PYiprG"
+      text="nankai_lord_male_noncom" />
+    <string id="XFulZeG8"
+      text="nankai_lord_female_noncom" />
+    <string id="7atyprrF"
+      text="sanyo_lord_male_noncom" />
+    <string id="ijotfwAA"
+      text="sanyo_lord_female_noncom" />
+    <string id="CD3aAB20"
+      text="kinai_lord_male_noncom" />
+    <string id="awoVTLmW"
+      text="kinai_lord_female_noncom" />
+    <string id="mkwYVnXA"
+      text="hokuriku_lord_male_noncom" />
+    <string id="qQQg3q6F"
+      text="hokuriku_lord_female_noncom" />
+    <string id="LXrdrTMd"
+      text="tosan_lord_male_noncom" />
+    <string id="FwhVU70r"
+      text="tosan_lord_female_noncom" />
+    <string id="60OOy5ia"
+      text="tokai_lord_male_noncom" />
+    <string id="5wK2kbIW"
+      text="tokai_lord_female_noncom" />
+    <string id="UuJU4i5k"
+      text="kanto_lord_male_noncom" />
+    <string id="4lttvj0j"
+      text="kanto_lord_female_noncom" />
+    <string id="J8sGPqm1"
+      text="ou_lord_male_noncom" />
+    <string id="6S0rpE6T"
+      text="ou_lord_female_noncom" />
+    <string id="iuUFimFm"
+      text="wanderer_equipment" />
+    <!-- 功能 / 职业 / 设施标识 -->
+    <string id="Yy1o9iCp" text="武者" />
+    <string id="n7TzRCjv" text="女儿" />
+    <string id="9H1k1JL6" text="酱油酿造坊" />
+    <string id="TfxYxPz8" text="制箭坊" />
+    <string id="TGMup0Ff" text="制烛匠" />
+    <string id="X5G2beiF" text="工具锻冶坊" />
+    <string id="gBF09O2c" text="甲胄锻冶坊" />
+    <string id="vWrIKShP" text="武器锻冶坊" />
+    <string id="nW6uwC4B" text="珠宝匠" />
+    <string id="dGVQG6sj" text="苎麻织造坊" />
+    <string id="P7lq8RkL" text="棉花织造坊" />
+    <string id="S8dquqCL" text="丝绸织造坊" />
+    <string id="RQzaCz8L" text="铁炮锻冶坊" />
+    <string id="0DQupUdt" text="寺院据点标识" />
+    <string id="VyHuxRms" text="稻米被收取后酿造成清酒。能让庶民与兵卒舒心之物，少有能及清酒者。" />
+    <string id="2J6ZB6wc" text="我等以大豆发酵制作味增与酱油。世人皆爱豆制品！" />
+    <string id="vf74vJIL" text="紫苏油或鲸油经压榨提炼为顺滑油脂，可作点灯、制皂之用，亦有诸多其他用途。" />
+    <string id="gyESp13H" text="我等以木料与苎麻制作精良弓矢。" />
+    <string id="biUdC18Z" text="我等以鲸脂或漆料制作蜡烛。" />
+    <string id="dS3pNauF" text="我等专精各类工具打造，所制之器供其他行当所用。" />
+    <string id="Rax8DwLH" text="甲胄锻冶坊乃武家根基之所，为兵卒打造护身甲胄。" />
+    <string id="ZE1qhIyX" text="武器锻冶坊乃武家根基之所，为兵卒打造近战兵刃。" />
+    <string id="T3Mvk8r2" text="珠宝匠以稀有贵金属打造名贵饰品，此类饰品堪称最上等的通商货品。" />
+    <string id="4934rF0B" text="我等将苎麻原纤维纺成可用布料。" />
+    <string id="hL3S1ZrR" text="我等将棉花原纤维纺成可用布料。" />
+    <string id="35QTSptg" text="我等将生丝织成可用面料，以制作最为华贵的衣物。" />
+    <string id="JESzISwn" text="我等以铁、木、硫磺打造种子岛铁炮。" />
+    <string id="Si4k8WmG" text="一处寺院据点。" />
+    <string id="vwJYFEGl" text="此处为寺院之地。" />
+    <!-- 神社 / 寺院名称标识 -->
+    <string id="R4JpXvY0" text="福昌寺" />
+    <string id="87LciUCw" text="长善寺" />
+    <string id="TuOaIlxm" text="阿苏神社" />
+    <string id="aYlihxWz" text="神明宫" />
+    <string id="iQjU16zu" text="英彦山神社" />
+    <string id="2kgUIre0" text="宗像大社" />
+    <string id="4nOGmlY9" text="宇佐神宫" />
+    <string id="Fh93w5KA" text="鹈户神社" />
+    <string id="aw4yZS3Z" text="都农神社" />
+    <string id="506uOr0t" text="八坂寺" />
+    <string id="zf2Nix5X" text="黒滝寺" />
+    <string id="FTb5qBNu" text="大宁寺" />
+    <string id="CzFzF6JY" text="严岛神社" />
+    <string id="8HaDQkiS" text="安国寺" />
+    <string id="ND6k2VtX" text="出云大社" />
+    <string id="5df7Fkj0" text="大山寺" />
+    <string id="s4HcHt8z" text="吉备津神社" />
+    <string id="eFFFYdX4" text="宇部神社" />
+    <string id="4km8JvuA" text="円通寺" />
+    <string id="UhssI9wI" text="相国寺" />
+    <string id="Ip43Hzlk" text="阿贺神社" />
+    <string id="5XYyFXoo" text="延历寺" />
+    <string id="J45GVL0N" text="清修寺" />
+    <string id="3jL1K7Kl" text="山岳寺" />
+    <string id="460iveMd" text="伊势神宫" />
+    <string id="x0PqiBJo" text="兴福寺" />
+    <string id="Lv2Livt5" text="金刚峰寺" />
+    <string id="pIXzEmMC" text="粉河寺" />
+    <string id="KIwlIEWa" text="根来寺" />
+    <string id="29o58h8m" text="熊野大社" />
+    <string id="ngGmkx81" text="平乐寺" />
+    <string id="GNqy3kcD" text="热田神宫" />
+    <string id="UO9D69pD" text="天园寺" />
+    <string id="mehE9vcH" text="昌徳寺" />
+    <string id="TARKzLog" text="大円寺" />
+    <string id="fgxZttfG" text="善徳寺" />
+    <string id="NB4iE6LD" text="恵林寺" />
+    <string id="AjDRS76B" text="诹访大社" />
+    <string id="Ccdy6bqL" text="善光寺" />
+    <string id="nQn0ACae" text="戸隠神社" />
+    <string id="nR7WMWdY" text="平泉寺" />
+    <string id="nOnqP9yy" text="松林寺" />
+    <string id="JSicPK3A" text="広徳寺" />
+    <string id="0dsvBndi" text="天平寺" />
+    <string id="3slk01d5" text="林泉寺" />
+    <string id="CVwSl3hk" text="瑞林寺" />
+    <string id="ejDtH8Y0" text="赤城神社" />
+    <string id="GUFqF8DN" text="贯前神社" />
+    <string id="2oq4lE3Y" text="長楽寺" />
+    <string id="yUnpSlWs" text="冰川神社" />
+    <string id="GYBhJBcH" text="法要寺" />
+    <string id="OZevhEZP" text="寒川神社" />
+    <string id="h9MNfQeF" text="安房神社" />
+    <string id="H6ijkAJT" text="延命寺" />
+    <string id="Cp3EojqA" text="鹿岛神宫" />
+    <string id="0HlO0Dos" text="善重寺" />
+    <string id="ydJ6Rh2V" text="五十猛神社" />
+    <string id="9YK5P3zV" text="瑞巌寺" />
+    <string id="ykaB9sA8" text="二荒山神社" />
+    <string id="d0Kti2EG" text="轮王寺" />
+    <string id="dkIkCHIA" text="円地寺" />
+    <string id="tB7LnnOo" text="汤殿山神社" />
+    <string id="sF2SuBSg" text="立石寺" />
+    <string id="aMP9NGXm" text="玉轮寺" />
+    <string id="F3HACKlw" text="百沢寺" />
+    <string id="0UCCvP98" text="当愿寺" />
+    <string id="BqiXh4Ub" text="中尊寺" />
+    <string id="bBB5fI4t" text="此处为练武场。" />
+    <!-- 角色 / 兵种标识 -->
+    <string id="O1w7CPkZ" text="日式女形01" />
+    <string id="HgU8Wnnu" text="日式女形02" />
+    <string id="bFRVnSs1" text="日式男形01" />
+    <string id="x9TNJVGG" text="日式男形02" />
+    <string id="M8GWvzbw" text="日式男形03" />
+    <string id="TiXYz9WA" text="日式男形04" />
+    <string id="sBkP4nS4" text="农兵" />
+    <string id="rtAvqXGW" text="枪足轻" />
+    <string id="ewTpHuyj" text="刀足轻" />
+    <string id="xYtmwDt9" text="精锐刀足轻" />
+    <string id="ibQwi0Qr" text="训练枪足轻" />
+    <string id="usvcQQ84" text="老练枪足轻" />
+    <string id="TbDwJVJ8" text="长卷足轻" />
+    <string id="wCqkAsze" text="训练长卷足轻" />
+    <string id="oMyPArfv" text="老练长卷足轻" />
+    <string id="Di60diK8" text="弓足轻" />
+    <string id="0I8VRRLT" text="训练弓足轻" />
+    <string id="LygB4rO6" text="老练弓足轻" />
+    <string id="iRwjhpb0" text="水夫" />
+    <string id="cyE7XNwX" text="葡萄牙佣兵" />
+    <string id="qaYb5hje" text="葡萄牙浪人" />
+    <string id="BUWEaHih" text="葡萄牙队长" />
+    <string id="FZtdwQ4V" text="杂贺盗贼" />
+    <string id="cvBABVo7" text="杂贺山贼" />
+    <string id="3qM67XQy" text="夜盗盗贼" />
+    <string id="wJYT5tVD" text="夜盗山贼" />
+    <string id="5ZOcEB6S" text="倭寇海贼" />
+    <string id="MXCi6WOZ" text="悍勇倭寇海贼" />
+    <string id="2C3it3ki" text="倭寇劫掠者" />
+    <string id="Le6ThE0e" text="山贼" />
+    <string id="5tgCGSbh" text="山匪" />
+    <string id="fZdn2auT" text="山岳劫掠者" />
+    <string id="Tomp9Yzy" text="追剥掠夺者" />
+    <string id="7JNGAn3W" text="落武者狩武士猎人" />
+    <string id="uBkmKcHp" text="杂贺山贼头目" />
+    <string id="XOHBJvqv" text="夜盗山贼头目" />
+    <string id="K2xezHwA" text="倭寇海贼头目" />
+    <string id="eOrpylEl" text="山贼头目" />
+    <string id="9jeZHqMo" text="落武者狩山贼头目" />
+    <string id="Noz4SMwu" text="北陆农兵" />
+    <string id="aXQDWyzS" text="北陆雇僧" />
+    <string id="tDwGG5SC" text="北陆雇僧佣兵" />
+    <string id="kI3gGyrc" text="北陆老练雇僧佣兵" />
+    <string id="zJkFrwxZ" text="北陆地侍" />
+    <string id="3HIAzt5F" text="北陆弓武士" />
+    <string id="PWX01ZyC" text="北陆精锐弓武士" />
+    <string id="uxCW6mzI" text="北陆铁炮武士" />
+    <string id="JMnON1xV" text="北陆步兵武士" />
+    <string id="q0FHBEe6" text="北陆精锐薙刀步兵" />
+    <string id="Q6eCiC1p" text="北陆老练薙刀步兵" />
+    <string id="g8SzppsJ" text="北陆大太刀武士" />
+    <string id="RbkzHmBA" text="北陆骑马大太刀武士" />
+    <string id="2J9ESrSd" text="北陆骑马武士" />
+    <string id="HG656qfJ" text="北陆精锐骑马弓武士" />
+    <string id="ZOGmrbwu" text="北陆精锐骑马铁炮武士" />
+    <string id="7mW7PoKG" text="北陆精锐卡宾枪武士" />
+    <string id="BR6x2fcb" text="北陆精锐骑马武士" />
+    <string id="khXGTo7V" text="关东农兵" />
+    <string id="T8LR1dFO" text="足轻斥候" />
+    <string id="g2IgvOHQ" text="精锐足轻斥候" />
+    <string id="NFCowZVV" text="关东骑马斥候" />
+    <string id="PsPqc0XB" text="关东地侍" />
+    <string id="Lu2H5IpT" text="关东弓武士" />
+    <string id="3FKUeXTE" text="关东精锐弓武士" />
+    <string id="pPIGQxFx" text="关东铁炮武士" />
+    <string id="Vi8qF6id" text="关东步兵武士" />
+    <string id="IfOBf8B4" text="关东精锐步兵" />
+    <string id="zbREA4Pu" text="关东骑马武士" />
+    <string id="tj5lmhCW" text="关东重骑兵" />
+    <string id="OzZSiIOw" text="关东精锐重骑兵" />
+    <string id="ckFpyMVK" text="关东精锐骑兵" />
+    <string id="UhDkDkXL" text="畿内农兵" />
+    <string id="DTUm6qBx" text="足轻先锋" />
+    <string id="JBRLsoOo" text="训练足轻先锋" />
+    <string id="tRMJwmVQ" text="重步兵足轻" />
+    <string id="msgtvfRd" text="畿内地侍" />
+    <string id="XTQhVPxY" text="畿内弓武士" />
+    <string id="bt6zJ2yy" text="畿内精锐弓武士" />
+    <string id="gR66eaD5" text="畿内铁炮武士" />
+    <string id="aeJhfFXp" text="畿内枪武士" />
+    <string id="9lqE8ai5" text="畿内精锐枪兵" />
+    <string id="g0WuT34k" text="畿内刀武士" />
+    <string id="KJr3Zh3e" text="畿内精锐刀武士" />
+    <string id="IYD9q6JF" text="畿内大太刀武士" />
+    <string id="MDneXnk1" text="畿内骑马武士" />
+    <string id="5xvaUm3B" text="畿内骑马弓武士" />
+    <string id="ju02cSVk" text="寺社徒众" />
+    <string id="FfNG75zJ" text="一向一揆反乱兵" />
+    <string id="doIao55l" text="一向一揆煽动者" />
+    <string id="DTr9oKVe" text="一向一揆激进者" />
+    <string id="oBpU8kRM" text="寺社弓足轻" />
+    <string id="p9iexGaQ" text="弓僧兵" />
+    <string id="aCJy2ogc" text="精锐弓僧兵" />
+    <string id="X8XZnfsN" text="虔信弓僧兵" />
+    <string id="YwKqWFL9" text="铁炮僧兵" />
+    <string id="ebETdZyJ" text="铁炮僧兵神射手" />
+    <string id="k774phxj" text="寺社步卒" />
+    <string id="jHV83W07" text="枪僧兵" />
+    <string id="GvsSrHH9" text="精锐枪僧兵" />
+    <string id="LU5ok6mZ" text="虔信枪僧兵" />
+    <string id="mU2e6YVN" text="刀僧兵" />
+    <string id="QysA2xlf" text="精锐刀僧兵" />
+    <string id="zKEHRXdE" text="虔信刀僧兵" />
+    <string id="MXXtQsrJ" text="虔信大太刀僧兵" />
+    <string id="Hu4z4pef" text="薙刀僧兵" />
+    <string id="kxJsFWnJ" text="精锐薙刀僧兵" />
+    <string id="6e8bkLFB" text="虔信薙刀僧兵" />
+    <string id="xemW9WXU" text="女武者" />
+    <string id="O1frsPCr" text="虔信铁炮女武者" />
+    <string id="VDrfiVkh" text="虔信薙刀女武者" />
+    <string id="pN8PGmAs" text="女武者骑马弓手" />
+    <string id="7JoFIqDX" text="南海农兵" />
+    <string id="C4qf7Os5" text="一领具足" />
+    <string id="BPvsiHtl" text="训练一领具足刀手" />
+    <string id="so2tZvRw" text="老练一领具足刀手" />
+    <string id="2600GRNA" text="训练一领具足弓手" />
+    <string id="wECmocCZ" text="老练一领具足弓手" />
+    <string id="YBOCDPFj" text="训练一领具足枪手" />
+    <string id="jfmjxtWZ" text="老练一领具足枪手" />
+    <string id="XQaGCTch" text="南海地侍" />
+    <string id="LUQ9DXyF" text="南海弓武士" />
+    <string id="fIeoazxW" text="南海精锐弓武士" />
+    <string id="WcAwB4s2" text="南海铁炮武士" />
+    <string id="EAUTD0Tl" text="南海步兵武士" />
+    <string id="FMXiOJAV" text="南海精锐步兵" />
+    <string id="X8RNt7Qg" text="南海骑马武士" />
+    <string id="Wb6pRriG" text="南海精锐骑马弓武士" />
+    <string id="V8OSzyEr" text="南海精锐骑马武士" />
+    <string id="7dRBOAtr" text="奥羽农兵" />
+    <string id="BpQ3JdPJ" text="奥羽樵夫兵" />
+    <string id="kjXrpdwY" text="奥羽游猎兵" />
+    <string id="PR8BaAnN" text="老练奥羽游猎兵" />
+    <string id="n4NdIRr7" text="奥羽地侍" />
+    <string id="R7qDYYLt" text="奥羽弓武士" />
+    <string id="sB1vizX4" text="奥羽精锐弓武士" />
+    <string id="vV8NvH9X" text="奥羽步兵武士" />
+    <string id="ytt81yez" text="奥羽精锐步兵" />
+    <string id="upBcYVET" text="奥羽金砕棒武士" />
+    <string id="vmEtech4" text="奥羽精锐金砕棒兵" />
+    <string id="hhyHshW6" text="奥羽骑马武士" />
+    <string id="TjQVvFXH" text="奥羽骑马弓武士" />
+    <string id="sjAMJHX5" text="老练奥羽骑马弓武士" />
+    <string id="ynb5jwnS" text="奥羽精锐骑马弓武士" />
+    <string id="OXyJuJof" text="西海农兵" />
+    <string id="W803h9dT" text="足轻铁炮手" />
+    <string id="tcmPWQvJ" text="精锐足轻铁炮手" />
+    <string id="MLvjnJZF" text="足轻神射手" />
+    <string id="PwXAImnS" text="西海地侍" />
+    <string id="e9aZweaG" text="西海弓武士" />
+    <string id="6zwycBme" text="西海精锐弓武士" />
+    <string id="xygN2d0a" text="西海铁炮武士" />
+    <string id="jOPEyttO" text="西海精锐铁炮武士" />
+    <string id="0QKB711W" text="西海武士神射手" />
+    <string id="ClreU3ev" text="西海大筒武士" />
+    <string id="U6PqbXTr" text="西海步兵武士" />
+    <string id="1nZFXSW4" text="西海精锐步兵武士" />
+    <string id="THEGTlDf" text="西海骑马武士" />
+    <string id="xupnxgLN" text="西海骑马铁炮武士" />
+    <string id="k9XR3cp8" text="西海精锐骑马武士" />
+    <string id="RQFUsPMM" text="西海手枪骑兵" />
+    <string id="8RiGNJ8B" text="西海精锐骑马铁炮骑兵" />
+    <string id="g1aUdHN7" text="山阳农兵" />
+    <string id="la4EPVHN" text="山阳水手" />
+    <string id="XWnpbrAT" text="山阳海寇" />
+    <string id="Y39BL4ai" text="悍勇海寇" />
+    <string id="w7c6o7rJ" text="海寇弓手" />
+    <string id="5WHqZSAf" text="海寇铁炮手" />
+    <string id="KFHZaIxh" text="山阳地侍" />
+    <string id="qvhtYNHH" text="山阳弓武士" />
+    <string id="16t7nHvG" text="山阳精锐弓武士" />
+    <string id="2LNvtWzI" text="山阳铁炮武士" />
+    <string id="Kog3vrbq" text="山阳精锐枪武士" />
+    <string id="Mi02lR76" text="山阳步兵武士" />
+    <string id="wrcZ4lcA" text="山阳精锐刀武士" />
+    <string id="t0TZ3Og3" text="山阳骑马武士" />
+    <string id="TTa9vEfF" text="山阳精锐骑马弓武士" />
+    <string id="6EjDXBuK" text="山阳精锐骑马武士" />
+    <string id="32rPLbMS" text="东海农兵" />
+    <string id="nY1m9kWA" text="长柄枪足轻" />
+    <string id="nEPF9jIh" text="训练长柄枪足轻" />
+    <string id="SKioqpnM" text="老练长柄枪足轻" />
+    <string id="3FE5lRBn" text="东海旗本" />
+    <string id="v7URckR6" text="老练铁炮旗本" />
+    <string id="ZrM4tFt3" text="老练弓旗本" />
+    <string id="UtaOb29l" text="老练枪旗本" />
+    <string id="GxFpNu1k" text="老练骑马弓旗本" />
+    <string id="pVzA4Kzn" text="老练骑马旗本" />
+    <string id="fjAyuw5W" text="东山农兵" />
+    <string id="CIunBP5V" text="东山猎人" />
+    <string id="E3Kn41Ev" text="东山追踪兵" />
+    <string id="T4m1UWNv" text="老练东山追踪兵" />
+    <string id="i2EJ4DOA" text="东山地侍" />
+    <string id="fmEcCNcn" text="东山骑马武士" />
+    <string id="LUaZPhju" text="东山重骑兵" />
+    <string id="gukow8sw" text="东山弓武士" />
+    <string id="q2d4SJ8F" text="东山精锐弓武士" />
+    <string id="f2Qvr2Zq" text="东山铁炮武士" />
+    <string id="L3Ob42St" text="东山枪武士" />
+    <string id="pupkjMFv" text="东山精锐枪武士" />
+    <string id="fvsCjYvj" text="东山斧武士" />
+    <string id="rs3Rowmx" text="东山金砕棒武士" />
+    <string id="GOnu4MZv" text="东山精锐金砕棒武士" />
+    <!-- 武器部件标识 -->
+    <string id="EjMCCW7z" text="木制斧柄" />
+    <string id="NQU75CRQ" text="长斧柄" />
+    <string id="rdpMyJWO" text="银纹斧柄" />
+    <string id="0vOYQXFq" text="铜纹斧柄" />
+    <string id="TJd0APDo" text="铁斧刃" />
+    <string id="gV8kqN7q" text="双面斧刃" />
+    <string id="KOubITlD" text="亥鼻斧刃" />
+    <string id="yPyZjPKZ" text="带护柄" />
+    <string id="jw3IWUYy" text="红柄" />
+    <string id="nfqkavPq" text="木柄" />
+    <string id="HzrFgOOR" text="粗制柄" />
+    <string id="aNE7qwgG" text="大型镰刃" />
+    <string id="FnIX0ioo" text="粗制镰刃" />
+    <string id="DZSD0sVL" text="镰刃" />
+    <string id="SBzNRj8W" text="十字镰刃" />
+    <string id="6krSQWJ5" text="小太刀刃1" />
+    <string id="Knb4nOFw" text="小太刀刃2" />
+    <string id="xT4Qr6eY" text="小太刀刃3" />
+    <string id="dWkVjpYt" text="小太刀刃4" />
+    <string id="G6iJSivL" text="小太刀刃5" />
+    <string id="NbEUwAtC" text="小太刀刃6" />
+    <string id="b3BCyavy" text="小太刀刃7" />
+    <string id="6sUSK0y4" text="小太刀刃·虎纹" />
+    <string id="FlBmAXdT" text="小太刀刃·熊纹" />
+    <string id="9y4qKNLI" text="小太刀刃·鹿纹" />
+    <string id="xqp2AYY1" text="小太刀刃·狸纹" />
+    <string id="s6EJrsW6" text="小太刀刃8" />
+    <string id="0qfR1K0l" text="小太刀刃9" />
+    <string id="KGIqeJXQ" text="小太刀刃10" />
+    <string id="SpBXKZvq" text="小太刀刃11" />
+    <string id="zvPhpMJE" text="小太刀刃12" />
+    <string id="EV42mzKb" text="小太刀刃13" />
+    <string id="niL4f8kO" text="小太刀刃14" />
+    <string id="LP9SzE5x" text="小太刀刃15" />
+    <string id="QvEvoCot" text="小太刀刃16" />
+    <string id="arKC37kC" text="小太刀刃17" />
+    <string id="G1f6rxS9" text="小太刀刃18" />
+    <string id="FqlXPLdx" text="小太刀刃19" />
+    <string id="P87Pr5hd" text="小太刀刃20" />
+    <string id="9Og7X6Is" text="钝打刀刃1" />
+    <string id="gsEUH8S3" text="钝打刀刃2" />
+    <string id="Vu2UVwg7" text="小太刀弯柄1·黑色" />
+    <string id="KaR0LWaJ" text="小太刀弯柄1·棕色" />
+    <string id="0rAx0JdH" text="小太刀弯柄1·藏青" />
+    <string id="uSn136zf" text="小太刀弯柄1·金色" />
+    <string id="foa6RJKW" text="小太刀弯柄1·绿色" />
+    <string id="iUfPfnLc" text="小太刀弯柄1·浅蓝" />
+    <string id="ZRB0WHpw" text="小太刀弯柄1·橙色" />
+    <string id="Hd1nnKzw" text="小太刀弯柄1·紫色" />
+    <string id="fdiSvoNQ" text="小太刀弯柄1·红色" />
+    <string id="VG3n3RcG" text="小太刀弯柄1·黄色" />
+    <string id="X2XzZ3de" text="小太刀弯柄2·黑色" />
+    <string id="xKV2SFxK" text="小太刀弯柄2·棕色" />
+    <string id="pIRGwGCE" text="小太刀弯柄2·藏青" />
+    <string id="s1vr2P3H" text="小太刀弯柄2·金色" />
+    <string id="y3x8nKNP" text="小太刀弯柄2·绿色" />
+    <string id="lwGbZF1I" text="小太刀弯柄2·浅蓝" />
+    <string id="Gyki810p" text="小太刀弯柄2·橙色" />
+    <string id="ODDpvoHm" text="小太刀弯柄2·紫色" />
+    <string id="XQjjg1Nj" text="小太刀弯柄2·红色" />
+    <string id="6Mitcntk" text="小太刀弯柄2·黄色" />
+    <string id="2TTWjP7B" text="小太刀弯柄3·黑色" />
+    <string id="pBRpSduC" text="小太刀弯柄3·棕色" />
+    <string id="jaMNHJDD" text="小太刀弯柄3·藏青" />
+    <string id="ibO8uvdS" text="小太刀弯柄3·金色" />
+    <string id="dgkhAJGW" text="小太刀弯柄3·绿色" />
+    <string id="JaW49Fca" text="小太刀弯柄3·浅蓝" />
+    <string id="IxTPlQai" text="小太刀弯柄3·橙色" />
+    <string id="0JwtdTFC" text="小太刀弯柄3·紫色" />
+    <string id="LToyTnrp" text="小太刀弯柄3·红色" />
+    <string id="ryFOix7r" text="小太刀弯柄3·黄色" />
+    <string id="wfgRl5sp" text="小太刀弯柄4·黑色" />
+    <string id="EaoH1UUV" text="小太刀弯柄4·棕色" />
+    <string id="6EHasY0L" text="小太刀弯柄4·藏青" />
+    <string id="2KTM1j2b" text="小太刀弯柄4·金色" />
+    <string id="yU9aNUXq" text="小太刀弯柄4·绿色" />
+    <string id="yXSWLxdy" text="小太刀弯柄4·浅蓝" />
+    <string id="Eujk407f" text="小太刀弯柄4·橙色" />
+    <string id="eW4pNLAr" text="小太刀弯柄4·紫色" />
+    <string id="mUwr79SL" text="小太刀弯柄4·红色" />
+    <string id="3swn6Y5d" text="小太刀弯柄4·黄色" />
+    <string id="TraKbVQD" text="小太刀弯柄5·黑色" />
+    <string id="WwV39bFa" text="小太刀弯柄5·棕色" />
+    <string id="o5XgqDwU" text="小太刀弯柄5·藏青" />
+    <string id="50SddFPk" text="小太刀弯柄5·金色" />
+    <string id="8zeiQKIS" text="小太刀弯柄5·绿色" />
+    <string id="IhEkY9iZ" text="小太刀弯柄5·浅蓝" />
+    <string id="ASpY55L8" text="小太刀弯柄5·橙色" />
+    <string id="hVfhPAcN" text="小太刀弯柄5·紫色" />
+    <string id="SsuJIezG" text="小太刀弯柄5·红色" />
+    <string id="tt4NSVVF" text="小太刀弯柄5·黄色" />
+    <string id="rkZm174T" text="小太刀柄1·黑色" />
+    <string id="Bo9F7d3x" text="小太刀柄1·棕色" />
+    <string id="t31rwPwz" text="小太刀柄1·藏青" />
+    <string id="6RnjYgGh" text="小太刀柄1·金色" />
+    <string id="PfsMcb4M" text="小太刀柄1·绿色" />
+    <string id="ivGk2IzL" text="小太刀柄1·浅蓝" />
+    <string id="tGnuWh4R" text="小太刀柄1·橙色" />
+    <string id="qsBgehFw" text="小太刀柄1·紫色" />
+    <string id="SrjgJP0E" text="小太刀柄1·红色" />
+    <string id="VxGHpuQm" text="小太刀柄1·黄色" />
+    <string id="pqUeahAh" text="小太刀柄2·黑色" />
+    <string id="hZ5aYUBF" text="小太刀柄2·棕色" />
+    <string id="dFqyrq9M" text="小太刀柄2·藏青" />
+    <string id="ymN0lsrL" text="小太刀柄2·金色" />
+    <string id="JVbRYrET" text="小太刀柄2·绿色" />
+    <string id="ffJYEG8Q" text="小太刀柄2·浅蓝" />
+    <string id="K4wLrswI" text="小太刀柄2·橙色" />
+    <string id="0ivuEOaA" text="小太刀柄2·紫色" />
+    <string id="G2qHUS6K" text="小太刀柄2·红色" />
+    <string id="sS9I4tEr" text="小太刀柄2·黄色" />
+    <string id="o9zWL2Hr" text="小太刀柄3·黑色" />
+    <string id="3p1dA4Wp" text="小太刀柄3·棕色" />
+    <string id="6bRLA5FQ" text="小太刀柄3·藏青" />
+    <string id="9FfxQZUg" text="小太刀柄3·金色" />
+    <string id="DJUep9ri" text="小太刀柄3·绿色" />
+    <string id="JE6LZBPr" text="小太刀柄3·浅蓝" />
+    <string id="PE4zQPN0" text="小太刀柄3·橙色" />
+    <string id="48LgxaNC" text="小太刀柄3·紫色" />
+    <string id="qZfWizoD" text="小太刀柄3·红色" />
+    <string id="ZrIH9Xba" text="小太刀柄3·黄色" />
+    <string id="rLiO5joO" text="小太刀柄4·黑色" />
+    <string id="DN7UiAyB" text="小太刀柄4·棕色" />
+    <string id="xn5rE9DC" text="小太刀柄4·藏青" />
+    <string id="pUSo33Nz" text="小太刀柄4·金色" />
+    <string id="nTyl8BjX" text="小太刀柄4·绿色" />
+    <string id="O0Ccm2XZ" text="小太刀柄4·浅蓝" />
+    <string id="INTvuxrA" text="小太刀柄4·橙色" />
+    <string id="n8Q6FqCt" text="小太刀柄4·紫色" />
+    <string id="mRhwdFxz" text="小太刀柄4·红色" />
+    <string id="pfG58xIH" text="小太刀柄4·黄色" />
+    <string id="GWSIKUmt" text="小太刀柄5·黑色" />
+    <string id="lQS5xFIc" text="小太刀柄5·棕色" />
+    <string id="FeAvhlUk" text="小太刀柄5·藏青" />
+    <string id="pZS2h7gF" text="小太刀柄5·金色" />
+    <string id="eZqPHapl" text="小太刀柄5·绿色" />
+    <string id="KDGl67BT" text="小太刀柄5·浅蓝" />
+    <string id="8oiVtW9x" text="小太刀柄5·橙色" />
+    <string id="mNVe7uR8" text="小太刀柄5·紫色" />
+    <string id="SEqXbpC6" text="小太刀柄5·红色" />
+    <string id="QbIutkVi" text="小太刀柄5·黄色" />
+    <string id="IwamgaXG" text="名品刀镡" />
+    <string id="c7YQKmdp" text="极品刀镡" />
+    <string id="Gst4VU1T" text="粗制刀镡" />
+    <string id="hX4KyzOo" text="易损刀镡" />
+    <string id="BrAQAiTP" text="素面刀镡" />
+    <string id="XNjAihXK" text="简约刀镡" />
+    <string id="uNpA8xaW" text="优质刀镡" />
+    <string id="yLPzzvrE" text="钝涩刀镡" />
+    <string id="z6iMxZPC" text="精工刀镡" />
+    <string id="uNNR8CvG" text="陈旧长卷柄" />
+    <string id="uRctUHpw" text="简约长卷柄" />
+    <string id="2oM8XJZC" text="坚固长卷柄" />
+    <string id="pADNP1n8" text="名品长卷柄" />
+    <string id="pckX4eJB" text="无双长卷柄" />
+    <string id="fQJDr4BA" text="传说长卷柄" />
+    <string id="mm8KmMY5" text="粗制弯长刃" />
+    <string id="bSQgXXPS" text="锋利弯长刃" />
+    <string id="byFQxvcO" text="传说弯长刃" />
+    <string id="PQqP7KrC" text="简约弯长刃" />
+    <string id="Im9TdJgu" text="耐用弯长刃" />
+    <string id="DiOnZBe8" text="钝薙刀刃" />
+    <string id="BvcrF1UJ" text="粗糙薙刀刃" />
+    <string id="pq0jfruQ" text="耐用薙刀刃" />
+    <string id="HRAAb2sM" text="精工薙刀刃" />
+    <string id="ayRxAS2T" text="传说薙刀刃" />
+    <string id="5fbGiqfb" text="钢制长薙刀刃" />
+    <string id="cGBQ4zZp" text="应急薙刀刃" />
+    <string id="GvidNDfx" text="坚韧直长刃" />
+    <string id="2EeTkXyO" text="名品直长刃" />
+    <string id="FwEL8m41" text="陈旧直长刃" />
+    <string id="RsMVvZFz" text="粗糙直长刃" />
+    <string id="ow22Lloo" text="坚固直长刃" />
+    <string id="aPRfMPY0" text="粗制长柄" />
+    <string id="rJhdf7vW" text="钝太刀刃" />
+    <string id="3PW7ATaw" text="陈旧太刀刃" />
+    <string id="kYu7gRGF" text="简约太刀刃" />
+    <string id="VG5qZigb" text="粗糙太刀刃" />
+    <string id="8numArY7" text="坚固太刀刃" />
+    <string id="JPj0loOt" text="刚性太刀刃" />
+    <string id="Va0veGYk" text="耐用太刀刃" />
+    <string id="L8r8jrSl" text="老练太刀刃" />
+    <string id="JFlh3ONX" text="锋利太刀刃" />
+    <string id="xxCgvJqi" text="钢制太刀刃" />
+    <string id="R6KWKHb7" text="传说太刀刃" />
+    <string id="cyv6NJSc" text="杰作太刀刃" />
+    <string id="QwINw2Ny" text="虎纹太刀刃" />
+    <string id="9tkUnjgG" text="熊纹太刀刃" />
+    <string id="I6X04Vws" text="狸纹太刀刃" />
+    <string id="SFZXT0nK" text="鹿纹太刀刃" />
+    <string id="KpOwQfXz" text="陈旧太刀柄" />
+    <string id="V4VBhldd" text="粗糙太刀柄" />
+    <string id="Fg7VsNF2" text="简约太刀柄" />
+    <string id="SHNbATuv" text="坚固太刀柄" />
+    <string id="1kXWWtFZ" text="耐用太刀柄" />
+    <string id="sOis0zI7" text="极品太刀柄" />
+    <string id="I62S878h" text="老练太刀柄" />
+    <string id="98MTYgWM" text="传说太刀柄" />
+    <string id="Legjdvth" text="太刀镡" />
+    <string id="n1TEHaDd" text="钝长脇差刃" />
+    <string id="35sheF2e" text="简约长脇差刃" />
+    <string id="UKRdmc7w" text="粗糙长脇差刃" />
+    <string id="uGk75fUy" text="耐用长脇差刃" />
+    <string id="NADwtamg" text="老练长脇差刃" />
+    <string id="wNqyUrko" text="传说长脇差刃" />
+    <string id="zLrnehjq" text="钝脇差刃" />
+    <string id="3oGF3b86" text="简约脇差刃" />
+    <string id="kKd2zvEN" text="耐用脇差刃" />
+    <string id="ngcopM9C" text="杰作脇差刃" />
+    <string id="ebqPpjHI" text="小脇差弯柄1·黑色" />
+    <string id="069HUJb0" text="小脇差弯柄1·棕色" />
+    <string id="sezw8tI3" text="小脇差弯柄1·藏青" />
+    <string id="DGcY4zDc" text="小脇差弯柄1·金色" />
+    <string id="o4ks2Hq4" text="小脇差弯柄1·绿色" />
+    <string id="oMGDeMO9" text="小脇差弯柄1·浅蓝" />
+    <string id="HCmZ0Tl8" text="小脇差弯柄1·橙色" />
+    <string id="SQE3QJY5" text="小脇差弯柄1·紫色" />
+    <string id="lRXl6PVm" text="小脇差弯柄1·红色" />
+    <string id="ASLoXHMQ" text="小脇差弯柄1·黄色" />
+    <string id="uHDZNlYP" text="小脇差弯柄2·黑色" />
+    <string id="sel4PfK6" text="小脇差弯柄2·棕色" />
+    <string id="gRxAaLDK" text="小脇差弯柄2·藏青" />
+    <string id="8U4KrU5O" text="小脇差弯柄2·金色" />
+    <string id="MoYPYavV" text="小脇差弯柄2·绿色" />
+    <string id="VsEGquWh" text="小脇差弯柄2·浅蓝" />
+    <string id="SKMODZWp" text="小脇差弯柄2·橙色" />
+    <string id="kOubzvxI" text="小脇差弯柄2·紫色" />
+    <string id="LtmFHQVA" text="小脇差弯柄2·红色" />
+    <string id="VZpNvimK" text="小脇差弯柄2·黄色" />
+    <string id="RulPMoVg" text="小脇差弯柄3·黑色" />
+    <string id="EUP3Iavp" text="小脇差弯柄3·棕色" />
+    <string id="9fYLYSQy" text="小脇差弯柄3·藏青" />
+    <string id="D4SuMjMm" text="小脇差弯柄3·金色" />
+    <string id="lKHFusG5" text="小脇差弯柄3·绿色" />
+    <string id="72SdKGjG" text="小脇差弯柄3·浅蓝" />
+    <string id="IaKLw2h4" text="小脇差弯柄3·橙色" />
+    <string id="htRy7oZj" text="小脇差弯柄3·紫色" />
+    <string id="dleb4Ls4" text="小脇差弯柄3·红色" />
+    <string id="MqQX6vw1" text="小脇差弯柄3·黄色" />
+    <string id="yd6TPowS" text="小脇差弯柄4·黑色" />
+    <string id="bt1kLXj3" text="小脇差弯柄4·棕色" />
+    <string id="XhuVh3An" text="小脇差弯柄4·藏青" />
+    <string id="Q0PDDLlf" text="小脇差弯柄4·金色" />
+    <string id="SKjkOLvl" text="小脇差弯柄4·绿色" />
+    <string id="0YM34uyI" text="小脇差弯柄4·浅蓝" />
+    <string id="WwVVOBc0" text="小脇差弯柄4·橙色" />
+    <string id="JT6neSxj" text="小脇差弯柄4·紫色" />
+    <string id="Za7qOHk7" text="小脇差弯柄4·红色" />
+    <string id="HPBftFDu" text="小脇差弯柄4·黄色" />
+    <string id="2bOHaE4W" text="小脇差弯柄5·黑色" />
+    <string id="jiossIrC" text="小脇差弯柄5·棕色" />
+    <string id="KmEos0yg" text="小脇差弯柄5·藏青" />
+    <string id="hlM03usn" text="小脇差弯柄5·金色" />
+    <string id="EwqgYHin" text="小脇差弯柄5·绿色" />
+    <string id="UIfetzfY" text="小脇差弯柄5·浅蓝" />
+    <string id="f1e6Kz5M" text="小脇差弯柄5·橙色" />
+    <string id="NeMN78Pp" text="小脇差弯柄5·紫色" />
+    <string id="ql1s4QWl" text="小脇差弯柄5·红色" />
+    <string id="E71vAcxG" text="小脇差弯柄5·黄色" />
+    <string id="fI36iYnC" text="小脇差柄1·黑色" />
+    <string id="13xEIke0" text="小脇差柄1·棕色" />
+    <string id="dfcbowRh" text="小脇差柄1·藏青" />
+    <string id="JUkoiQkN" text="小脇差柄1·金色" />
+    <string id="UO8rqBTE" text="小脇差柄1·绿色" />
+    <string id="p1uxPgkP" text="小脇差柄1·浅蓝" />
+    <string id="xGNXwRB8" text="小脇差柄1·橙色" />
+    <string id="M2oIWtXh" text="小脇差柄1·紫色" />
+    <string id="O4kr7mWV" text="小脇差柄1·红色" />
+    <string id="gIi5S14H" text="小脇差柄1·黄色" />
+    <string id="KCOhPLF1" text="小脇差柄2·黑色" />
+    <string id="K7BMCX0n" text="小脇差柄2·棕色" />
+    <string id="7NbFWoeH" text="小脇差柄2·藏青" />
+    <string id="7ItDYEb3" text="小脇差柄2·金色" />
+    <string id="qNfb8hLz" text="小脇差柄2·绿色" />
+    <string id="fstx6Ck9" text="小脇差柄2·浅蓝" />
+    <string id="FooQnBVG" text="小脇差柄2·橙色" />
+    <string id="M1lO0tpE" text="小脇差柄2·紫色" />
+    <string id="ddpEeCaw" text="小脇差柄2·红色" />
+    <string id="Sr9M6E4J" text="小脇差柄2·黄色" />
+    <string id="8dwLHdHl" text="小脇差柄3·黑色" />
+    <string id="pXoZbOSj" text="小脇差柄3·棕色" />
+    <string id="ART6qHoM" text="小脇差柄3·藏青" />
+    <string id="iyLUPlgo" text="小脇差柄3·金色" />
+    <string id="r1ovK46K" text="小脇差柄3·绿色" />
+    <string id="pDBLe94m" text="小脇差柄3·浅蓝" />
+    <string id="Zu6SHSNz" text="小脇差柄3·橙色" />
+    <string id="j3ApiTGm" text="小脇差柄3·紫色" />
+    <string id="pSfHmZR4" text="小脇差柄3·红色" />
+    <string id="ftxieLJ5" text="小脇差柄3·黄色" />
+    <string id="I2cZv7eb" text="小脇差柄4·黑色" />
+    <string id="FF48zXjW" text="小脇差柄4·棕色" />
+    <string id="g23QmpNU" text="小脇差柄4·藏青" />
+    <string id="xNF8ba7v" text="小脇差柄4·金色" />
+    <string id="wvfebG9q" text="小脇差柄4·绿色" />
+    <string id="XBrBe4Op" text="小脇差柄4·浅蓝" />
+    <string id="KvL0YqbS" text="小脇差柄4·橙色" />
+    <string id="EMWP3VfO" text="小脇差柄4·紫色" />
+    <string id="QvsW9eVd" text="小脇差柄4·红色" />
+    <string id="GIH2Phxp" text="小脇差柄4·黄色" />
+    <string id="MhBhM20i" text="小脇差柄5·黑色" />
+    <string id="kSaXsICd" text="小脇差柄5·棕色" />
+    <string id="E8RIY661" text="小脇差柄5·藏青" />
+    <string id="WA2Xt1RC" text="小脇差柄5·金色" />
+    <string id="NRRWDW4B" text="小脇差柄5·绿色" />
+    <string id="1jLfIBYL" text="小脇差柄5·浅蓝" />
+    <string id="oQIw0ipq" text="小脇差柄5·橙色" />
+    <string id="yCeC6AvH" text="小脇差柄5·紫色" />
+    <string id="Dy9bBEPd" text="小脇差柄5·红色" />
+    <string id="8ELSx2BR" text="小脇差柄5·黄色" />
+    <string id="KbFFpobi" text="粗制近江枪刃" />
+    <string id="sBsuQTdZ" text="镰枪刃" />
+    <string id="Ur2TppcT" text="细笹穗枪刃" />
+    <string id="VncxCbv5" text="笹穗枪刃" />
+    <string id="jv16YJLV" text="钩枪刃" />
+    <string id="qXvlWFPY" text="月成枪刃" />
+    <string id="5C3iljcw" text="简约飞燕枪刃" />
+    <string id="HJ3pa3CF" text="刺又枪刃" />
+    <string id="arC7n29e" text="近江枪刃" />
+    <string id="eJEc63g2" text="锋利近江枪刃" />
+    <string id="38tHyVC6" text="坚固十文字枪刃" />
+    <string id="pLHs1mwP" text="简约枪杆" />
+    <string id="6SIgOjXf" text="坚韧枪杆" />
+    <string id="x1gTqIsc" text="名品枪杆" />
+    <string id="qnvIYYFW" text="极品枪杆" />
+    <string id="ZyUa9VRC" text="简约枪镡" />
+    <string id="ot7qoTjZ" text="坚固枪镡" />
+    <string id="Nz81gC7Q" text="精工枪镡" />
+    <string id="ERjI2Y6z" text="训练用枪刃" />
+    <string id="duyCmbKQ" text="训练用枪杆" />
+    <string id="pl3XMM0n" text="训练用枪镡" />
+    <string id="Bcg6BahH" text="亥鼻斧" />
+    <string id="sUeowQpk" text="粗制镰" />
+    <string id="q2Vsio86" text="简约镰" />
+    <string id="fS5sr8gs" text="赤色镰" />
+    <string id="WO3J90Rm" text="带护镰" />
+    <string id="DHRls4Z8" text="射程拔擢旗" />
+    <string id="aDHkLCVu" text="鸣门旗" />
+    <string id="ub8ZUT6a" text="刚勇旗" />
+    <string id="AInORbTr" text="极致刚勇旗" />
+    <string id="cGy4pi7l" text="雷神怒焰旗" />
+    <string id="0Gadzaq8" text="铁壁之旗" />
+    <string id="drWCtLlz" text="军旗" />
+    <string id="jMQBjjFi" text="誉望旌旗" />
+    <string id="7HHrUYJL" text="爱洲阴流目录" />
+    <string id="YYOAy662" text="神道流极意皆传书" />
+    <string id="DIXsxyaD" text="新阴流影目录" />
+    <string id="w7qeAydI" text="天流诸目录" />
+    <string id="3sx8VYLl" text="户田流秘传书" />
+    <string id="frd6g7E0" text="圆流新阴流目录" />
+    <string id="7oGHcWiG" text="宝藏院流兵法目录" />
+    <string id="qQ5Qe8Wa" text="枪术试割术" />
+    <string id="EXkXfJZA" text="空堀之次第" />
+    <string id="je3n5qAB" text="狮子脚之次第" />
+    <string id="6ojmtwR3" text="梅葱纸" />
+    <string id="pB9o3dAO" text="梅传书" />
+    <string id="RKFy2nfR" text="両马图说" />
+    <string id="RukLXS5c" text="缰锁之事" />
+    <string id="Fc6fFeIM" text="流镝马次第" />
+    <string id="PHjULD4d" text="笠悬记" />
+    <string id="FBLYEYkh" text="骑射秘抄" />
+    <string id="3qyIiLlH" text="铁炮用法并长筥次第" />
+    <string id="8qvAXz9z" text="玉缲长筥次第" />
+    <string id="zHV5iFpv" text="玉拵之事" />
+    <string id="AD9DmG2I" text="真传之集" />
+    <string id="geRKOU03" text="铁炮目缔之大意" />
+    <string id="0cxuFVQZ" text="百战抄" />
+    <string id="MDUF6dFs" text="朝庭抄" />
+    <string id="iRp0l1Nj" text="溪岚拾叶抄" />
+    <string id="P1uqYOn0" text="三部营造法式私记" />
+    <string id="dFKJ15IC" text="修验宗要用秘诀集" />
+    <string id="C1r69eSR" text="秘谈抄" />
+    <string id="ocT1p1U6" text="加茂明神考" />
+    <string id="9ur29XYx" text="大堰集" />
+    <string id="SAucissd" text="永禄名器尽" />
+    <string id="Bgdi8AOs" text="诸山缘起" />
+    <string id="7JBmkj8x" text="东鉴记考" />
+    <string id="kwdX0sXa" text="街道记" />
+    <string id="DzRtTokT" text="十六夜日记" />
+    <string id="IGw1F6NE" text="开国雑记" />
+    <string id="f9NQFLGe" text="尽国记" />
+    <string id="KzzriYoO" text="日本一鉴" />
+    <string id="XVSN8760" text="海道诸国记" />
+    <string id="xddPDjBw" text="腾潜镜" />
+    <string id="wtuE6Ll9" text="孙子" />
+    <string id="yt7Uv0U9" text="吴子" />
+    <string id="GXle1JL8" text="尉缭子" />
+    <string id="M6t6WQ51" text="六韬" />
+    <string id="fcDYAFnd" text="三略" />
+    <string id="ie46ITLX" text="司马法" />
+    <string id="pkYCz3JJ" text="李卫公问对" />
+    <string id="Svsj5eBn" text="李卫公兵法" />
+    <string id="G9luekCQ" text="吾妻问答" />
+    <string id="byz0t5lF" text="新撰菟玖波集" />
+    <string id="AUqLkz89" text="庭训往来" />
+    <string id="Do2iFyeg" text="关曹往来" />
+    <string id="cvVFMBpA" text="玉园机抄" />
+    <string id="OZkvtG5H" text="城将服装" />
+    <string id="vCxWE1Mz" text="平家物语" />
+    <string id="XHu6RqD5" text="义经记" />
+    <string id="6ciNxHnD" text="太平记" />
+    <string id="sPKN0rSw" text="曾我物语" />
+    <string id="66235LB1" text="四书五经" />
+    <string id="GzpOzopK" text="和名类聚抄" />
+    <string id="iWBtmfhY" text="尘袋" />
+    <string id="VEuXwb4n" text="集外抄" />
+    <string id="8nWqHiiH" text="雅学集" />
+    <string id="0OzFc2Cb" text="节用集" />
+    <string id="IAfPmCEO" text="皆戦仕置" />
+    <string id="gfTwgNWr" text="御成败式目" />
+    <string id="sAs2rbg4" text="仕置抄" />
+    <string id="rQ1RiaVi" text="朝仓景高状" />
+    <string id="vLNuXwK3" text="人身集" />
+    <string id="uSDoJYGa" text="今川假名目录" />
+    <string id="CEjhDvd7" text="甲州法度次第" />
+    <string id="6Gqxd9s2" text="相良法度" />
+    <string id="LVwq6jaC" text="大同类聚方" />
+    <string id="dWCGYQD6" text="医心方" />
+    <string id="ZvOqsITf" text="遁异抄" />
+    <string id="3qPZwQmw" text="万安方" />
+    <string id="RZNHzUvJ" text="医済大全" />
+    <string id="TIBuEAb7" text="経済集" />
+    <string id="gQb6YCnw" text="地镜记" />
+    <string id="vlCFfp1l" text="武家诸用" />
+    <string id="c6TFxi8r" text="野伏弓" />
+    <string id="tsfA0q0T" text="南蛮弓" />
+    <string id="jJ9mAeR5" text="和弓" />
+    <string id="KGuj7W99" text="半弓" />
+    <string id="exUcsHT9" text="大弓" />
+    <string id="pkgJHe6Z" text="坚固和弓" />
+    <string id="BUyjiBfN" text="坚固半弓" />
+    <string id="gjbTXBIU" text="坚固大弓" />
+    <string id="pu8gIwOI" text="雅制和弓" />
+    <string id="S0yg2aub" text="雅制半弓" />
+    <string id="E6Ov3SdY" text="雅制大弓" />
+    <string id="QFhTrfAZ" text="基础和弓" />
+    <string id="x9BDfXdi" text="基础半弓" />
+    <string id="miPWykil" text="基础大弓" />
+    <string id="Fqwfyopb" text="练习和弓" />
+    <string id="krKgaoRz" text="简约半弓" />
+    <string id="v1KZHOKY" text="简约大弓" />
+    <string id="ffVjgMBR" text="镝矢破甲箭" />
+    <string id="VQsSmtIb" text="镝矢穿刺箭" />
+    <string id="TSutODel" text="镝矢鸣镝箭" />
+    <string id="MSN8TO7X" text="半弓用箭" />
+    <string id="sJ0lkR3w" text="练习箭" />
+    <string id="3MZmeNhd" text="空堀穿刺箭" />
+    <string id="6wE7xpcu" text="空堀鸣镝箭" />
+    <string id="aD7eDagd" text="空堀破甲箭" />
+    <string id="pevalQVx" text="马上筒" />
+    <string id="N23dcv8c" text="短筒" />
+    <string id="FSQBKQfP" text="铁绳铳" />
+    <string id="elFuMatP" text="侍筒" />
+    <string id="pmslilcc" text="种子岛铳" />
+    <string id="b2H3pbSq" text="小型大筒" />
+    <string id="PzGFwFj9" text="大型大筒" />
+    <string id="cZ4rg27o" text="铁炮炸裂弹" />
+    <string id="0IZlpSDy" text="大筒炸裂弹" />
+    <string id="dfzeWUCf" text="大筒弹药" />
+    <string id="jASYDOcA" text="铁炮弹药" />
+    <string id="q1KgboXi" text="大铠笼手" />
+    <string id="v60sSwHB" text="生笼手" />
+    <string id="nfrAzQOE" text="锁子笼手" />
+    <string id="CoaDkHgm" text="雕纹锁子笼手" />
+    <string id="XSdMBA4v" text="强化锁子笼手" />
+    <string id="QKKouZeR" text="带护笼手" />
+    <string id="eI5qxTh6" text="镶板笼手" />
+    <string id="6roxcVNP" text="装甲笼手" />
+    <string id="CslTh2YM" text="针钵兜" />
+    <string id="kwkyk1kE" text="头无兜" />
+    <string id="N3x8iSeO" text="粟鹿形兜" />
+    <string id="1q5oRKEM" text="乌帽子" />
+    <string id="Oeo0q3wU" text="猿乐面" />
+    <string id="bDoglJX7" text="网笠" />
+    <string id="xnfE57id" text="相合笠" />
+    <string id="Ke3iOAek" text="一夜着" />
+    <string id="5MkZxjuj" text="阵笠" />
+    <string id="bbBYq8rX" text="角笠" />
+    <string id="Trz6pkzv" text="浪人笠" />
+    <string id="R9CSFKs7" text="龙造" />
+    <string id="WURmQCrE" text="三度笠" />
+    <string id="Yk0ki91Y" text="菅笠" />
+    <string id="KaHphD5i" text="天盖" />
+    <string id="aGVtKB6L" text="烟吸阵笠" />
+    <string id="SvjpgJsk" text="生皮阵笠" />
+    <string id="fIajNosg" text="桃割兜" />
+    <string id="pg3de8Ur" text="侍用桃割兜" />
+    <string id="lG53cqAg" text="日根野头无兜" />
+    <string id="SJzIarVY" text="长乌帽子兜" />
+    <string id="UObFo01T" text="乌帽子兜" />
+    <string id="nMWNtO3i" text="筋兜" />
+    <string id="YOiJXHji" text="筋兜并面颊" />
+    <string id="cfgAVkkE" text="钵金" />
+    <string id="Lbn87Amk" text="僧侣头布" />
+    <string id="Z1WAw0K0" text="握出兜" />
+    <string id="3crkKrnE" text="雕纹杂贺兜" />
+    <string id="xrBpMY26" text="杂贺兜" />
+    <string id="us1vjvyv" text="杂贺兜并面颊" />
+    <string id="oQeZ3wkn" text="莫里恩头盔" />
+    <string id="vx8eDfim" text="母衣" />
+    <string id="8hk1uBJe" text="指物" />
+    <string id="3okewylz" text="短指物" />
+    <string id="UdSBJkso" text="小型驮马{@Plural}小型驮马群{\@}" />
+    <string id="Rp6xjjXN" text="驮马{@Plural}驮马群{\@}" />
+    <string id="08UrTM4m" text="辎重马{@Plural}辎重马群{\@}" />
+    <string id="IT6P76Li" text="木曾栗毛{@Plural}木曾栗色马群{\@}" />
+    <string id="Zcaf6IQf" text="木曾影毛{@Plural}木曾枣色马群{\@}" />
+    <string id="koCOckUC" text="木曾黑影毛{@Plural}木曾深枣色马群{\@}" />
+    <string id="8EW1vQwL" text="木曾青毛{@Plural}木曾黑色马群{\@}" />
+    <string id="5yvWjQ83" text="木曾月毛{@Plural}木曾淡栗色马群{\@}" />
+    <string id="JD2V14wg" text="木曾苅毛{@Plural}木曾鹿皮色马群{\@}" />
+    <string id="bZ8KE3yD" text="木曾苇毛{@Plural}木曾灰色马群{\@}" />
+    <string id="XrVPlNns" text="木曾白毛{@Plural}木曾白色马群{\@}" />
+    <string id="DkRXpuZK" text="木曾青白力毛{@Plural}木曾黑白花色马群{\@}" />
+    <string id="goz962Y6" text="木曾褐白力毛{@Plural}木曾褐白花色马群{\@}" />
+    <string id="sFmpdNIU" text="木曾栃栗毛{@Plural}木曾深棕色马群{\@}" />
+    <string id="Ms9iJAUA" text="木曾暗栗毛{@Plural}木曾浅棕色马群{\@}" />
+    <string id="irvhZ32i" text="木曾鲛毛{@Plural}木曾奶油色马群{\@}" />
+    <string id="IjvclffY" text="南部栗毛{@Plural}南部栗色马群{\@}" />
+    <string id="wOIr3uuC" text="南部影毛{@Plural}南部枣色马群{\@}" />
+    <string id="Xa26qPQ9" text="南部黑影毛{@Plural}南部深枣色马群{\@}" />
+    <string id="kSNOKVcH" text="南部青毛{@Plural}南部黑色马群{\@}" />
+    <string id="E3R1pmAI" text="南部月毛{@Plural}南部淡栗色马群{\@}" />
+    <string id="q40MxTN9" text="南部苅毛{@Plural}南部鹿皮色马群{\@}" />
+    <string id="0N2CJcP4" text="南部苇毛{@Plural}南部灰色马群{\@}" />
+    <string id="bP3L29Vh" text="南部白毛{@Plural}南部白色马群{\@}" />
+    <string id="PDCzJAp8" text="南部青白力毛{@Plural}南部黑白花色马群{\@}" />
+    <string id="hrexRFGl" text="南部褐白力毛{@Plural}南部褐白花色马群{\@}" />
+    <string id="nPSh549p" text="南部栃栗毛{@Plural}南部深棕色马群{\@}" />
+    <string id="2WP2k2pV" text="南部暗栗毛{@Plural}南部浅棕色马群{\@}" />
+    <string id="1IzjBIYp" text="南部鲛毛{@Plural}南部奶油色马群{\@}" />
+    <string id="Ou3LFnga" text="鬼栗毛{@Plural}南部栗色马群{\@}" />
+    <string id="07997dLo" text="鬼影毛{@Plural}南部枣色马群{\@}" />
+    <string id="HGbxnoOr" text="鬼黑影毛{@Plural}南部深枣色马群{\@}" />
+    <string id="2fJME0aA" text="鬼青毛{@Plural}南部黑色马群{\@}" />
+    <string id="42eKVBmG" text="鬼月毛{@Plural}南部淡栗色马群{\@}" />
+    <string id="HzVJRSUI" text="鬼苅毛{@Plural}南部鹿皮色马群{\@}" />
+    <string id="o5xMBBmz" text="鬼苇毛{@Plural}南部灰色马群{\@}" />
+    <string id="aKaOhgpm" text="鬼白毛{@Plural}南部白色马群{\@}" />
+    <string id="oiORMY1K" text="鬼青白力毛{@Plural}南部黑白花色马群{\@}" />
+    <string id="WbTPxDND" text="鬼褐白力毛{@Plural}南部褐白花色马群{\@}" />
+    <string id="doY2Vmiy" text="鬼栃栗毛{@Plural}南部深棕色马群{\@}" />
+    <string id="kfdafaMt" text="鬼暗栗毛{@Plural}南部浅棕色马群{\@}" />
+    <string id="k7PLhmXC" text="鬼鲛毛{@Plural}南部奶油色马群{\@}" />
+    <string id="xTLznzRB" text="雕纹马鞍" />
+    <string id="Fa9cDVg8" text="优质马鞍" />
+    <string id="AmsJ1tMN" text="马上铠" />
+    <string id="UpBWGUY0" text="轻型马上铠" />
+    <string id="Ndme1yuG" text="带面马上铠" />
+    <string id="G5gOvODt" text="轻型带面马上铠" />
+    <string id="kYmLjA6A" text="农民用鞍" />
+    <string id="E5L8zSrM" text="练习用太刀" />
+    <string id="8BLJ7tEJ" text="无刃太刀" />
+    <string id="mBR3AsWm" text="钝刃太刀" />
+    <string id="7aUj72qK" text="应急打造的太刀" />
+    <string id="MbKvPvYH" text="老旧太刀" />
+    <string id="qAeOqEfi" text="粗制太刀" />
+    <string id="6JUD7YaO" text="普通太刀" />
+    <string id="UMBOj05N" text="廉价太刀" />
+    <string id="CkUDAF1H" text="尚可的太刀" />
+    <string id="Ywc23O0H" text="常规太刀" />
+    <string id="1N8vmmt0" text="耐用太刀" />
+    <string id="yDvQJibW" text="坚固太刀" />
+    <string id="gQmVwgif" text="优质太刀" />
+    <string id="HsKHrObU" text="精良太刀" />
+    <string id="juKNNx88" text="上等太刀" />
+    <string id="AqqOlzyn" text="雅致太刀" />
+    <string id="UAEmZT2R" text="卓越太刀" />
+    <string id="Kz8V2sVu" text="稀有太刀" />
+    <string id="kLMhnN7c" text="精制太刀" />
+    <string id="Z9WHcgrz" text="精美太刀" />
+    <string id="Qeh5lFPp" text="闻名太刀" />
+    <string id="XqMCjSRX" text="著名太刀" />
+    <string id="FPjvwjlo" text="显赫太刀" />
+    <string id="xkWAuUYi" text="威名远扬的太刀" />
+    <string id="bYOKujpb" text="平凡太刀" />
+    <string id="QDeSPyGz" text="普通品质太刀" />
+    <string id="M460EDCI" text="劣质太刀" />
+    <string id="sR4razoq" text="稳固太刀" />
+    <string id="TQfGjvKn" text="坚实太刀" />
+    <string id="9ieHxrqg" text="坚韧太刀" />
+    <string id="ZIW8Urnh" text="平衡太刀" />
+    <string id="wSYyoYhc" text="锋利太刀" />
+    <string id="QwsCML80" text="虎皮纹太刀" />
+    <string id="6Ey2sWrU" text="熊皮纹太刀" />
+    <string id="y8fn9D9l" text="鹿皮纹太刀" />
+    <string id="siP5Zlut" text="狸皮纹太刀" />
+    <string id="Bnhchkdv" text="华丽筒缀雪駄" />
+    <string id="BTbFe7YS" text="立挙萩缀雪駄" />
+    <string id="ZEAspayX" text="萩缀雪駄" />
+    <string id="gzyTfOUS" text="西班牙长靴" />
+    <string id="O5nFZ4vF" text="草鞋" />
+    <string id="w7ublENG" text="赤足布制雪駄" />
+    <string id="pp01Hcyc" text="布制雪駄" />
+    <string id="TcYIXW4C" text="筒缀雪駄" />
+    <string id="uvzoh6Ri" text="毛皮筒缀雪駄" />
+    <string id="E2QlAoyf" text="锁子甲筒缀雪駄" />
+    <string id="jtXzAqSU" text="毛皮锁子甲筒缀雪駄" />
+    <string id="e2b5I0ph" text="稻米{@Plural}数担稻米{\@}" />
+    <string id="u9uJ9vFm" text="大豆{@Plural}数担大豆{\@}" />
+    <string id="gVjlpiFD" text="紫苏{@Plural}数担紫苏{\@}" />
+    <string id="XHtfjtHp" text="苎麻{@Plural}数担苎麻{\@}" />
+    <string id="s3eoLPZx" text="根茎蔬菜{@Plural}数担根茎蔬菜{\@}" />
+    <string id="iBqOxkr1" text="栗子{@Plural}数担栗子{\@}" />
+    <string id="88tPPVe4" text="柑橘{@Plural}数担柑橘{\@}" />
+    <string id="W5OFMDbz" text="鲸脂{@Plural}数担鲸脂{\@}" />
+    <string id="hmcbBs9e" text="龙虾{@Plural}数担龙虾{\@}" />
+    <string id="5tsKVnqy" text="螃蟹{@Plural}数担螃蟹{\@}" />
+    <string id="yx6BE9Ga" text="海草{@Plural}数捆海草{\@}" />
+    <string id="D1Jo4o5e" text="茶叶{@Plural}数捆茶叶{\@}" />
+    <string id="p5hMwovx" text="铜料{@Plural}数担铜料{\@}" />
+    <string id="ctNc1YlX" text="清酒{@Plural}数坛清酒{\@}" />
+    <string id="yfhl2VBI" text="酱油{@Plural}数坛酱油{\@}" />
+    <string id="UikL5otl" text="味增{@Plural}数担味增{\@}" />
+    <string id="K8G17sc4" text="食用油{@Plural}数坛食用油{\@}" />
+    <string id="IQEwFhvE" text="工具{@Plural}若干工具{\@}" />
+    <string id="NzBqs9k4" text="棉布{@Plural}数匹棉布{\@}" />
+    <string id="Ga1YH1B8" text="丝绸{@Plural}数匹丝绸{\@}" />
+    <string id="OojobBYZ" text="苎麻布{@Plural}数匹苎麻布{\@}" />
+    <string id="5mZjzDV5" text="金币" />
+    <string id="1uZ1NNgF" text="御赐太刀" />
+    <string id="bJgwkEq6" text="西洋细剑" />
+    <string id="rdQYTTI4" text="军用品" />
+    <string id="oIBBRf9w" text="猫_a" />
+    <string id="hNooutyj" text="猫_b" />
+    <string id="LOb3oCPa" text="猫_c" />
+    <string id="7r3hlK7Q" text="狗_a" />
+    <string id="Oeq3LuTs" text="狗_b" />
+    <string id="ICcFC9ic" text="狗_c" />
+    <string id="rlEcph0p" text="牛皮制" />
+    <string id="IYefgNFb" text="牛皮制_2" />
+    <string id="RCUgFFj9" text="试作船" />
+    <string id="mrmN9Ssl" text="可用的长卷" />
+    <string id="c4sjBKmH" text="坚固的长卷" />
+    <string id="L5ESquk8" text="威力强劲的长卷" />
+    <string id="rl2cupDI" text="传说中的长卷" />
+    <string id="nrA9Aztc" text="粗糙的长卷" />
+    <string id="8f4zEw22" text="老兵用长卷" />
+    <string id="qNomDOkw" text="传奇长卷" />
+    <string id="Coig5PQw" text="锋利的长卷" />
+    <string id="H89q0cck" text="家臣用长卷" />
+    <string id="llPuWNMJ" text="粗劣的长卷" />
+    <string id="tfWhincm" text="坚固的曲身野太刀" />
+    <string id="7sIWrBnu" text="闻名的曲身野太刀" />
+    <string id="QJ4qdK6d" text="普通的曲身野太刀" />
+    <string id="zd318OIO" text="可靠的曲身野太刀" />
+    <string id="FdDnltys" text="传说中的直身野太刀" />
+    <string id="sVC9Ht6h" text="老旧的直身野太刀" />
+    <string id="S3stBthx" text="粗糙的直身野太刀" />
+    <string id="hjDclRN3" text="坚固的直身野太刀" />
+    <string id="q2bIcqLi" text="粗制的直身野太刀" />
+    <string id="JstR3q8B" text="锋利的曲身野太刀" />
+    <string id="YAiwQ5ar" text="竹枪" />
+    <string id="M0ylD4qT" text="无刃薙刀" />
+    <string id="jqCTZuvY" text="普通近江枪" />
+    <string id="NMpgBieK" text="粗制近江枪" />
+    <string id="Bmx2LAnm" text="钝刃笹穗枪" />
+    <string id="V1BsWSsg" text="长柄粗制笹穗枪" />
+    <string id="wBHTjf0g" text="粗制钩枪" />
+    <string id="3ZW5C5X0" text="普通飞燕枪" />
+    <string id="gchwJFj5" text="老旧镰枪" />
+    <string id="MRHmgVUe" text="普通笹穗枪" />
+    <string id="VySyanq6" text="普通八木枪" />
+    <string id="mg35aEMk" text="长柄镰枪" />
+    <string id="YDxvbE82" text="笹穗枪" />
+    <string id="bUUaQilR" text="飞燕枪" />
+    <string id="7BZHXv5X" text="月成枪" />
+    <string id="hYQTnp56" text="刺又枪" />
+    <string id="Tesn1HLa" text="短枪" />
+    <string id="UctETje4" text="坚固的十文字枪" />
+    <string id="dAdZFb9m" text="精良的十文字枪" />
+    <string id="uq5f5ogO" text="闻名的十文字枪" />
+    <string id="W0vGkIp1" text="坚固的近江枪" />
+    <string id="rblmdgxM" text="传说中的近江枪" />
+    <string id="cNXKUQX7" text="普通尾张近江枪" />
+    <string id="WPxY0RTQ" text="古老的十文字枪" />
+    <string id="iYPPHwXa" text="传奇近江枪" />
+    <string id="OnOvaRTI" text="高贵的十文字枪" />
+    <string id="rso9zQtp" text="神圣的十文字枪" />
+    <string id="JnjIgiXD" text="古雅的十文字枪" />
+    <string id="i8TMmnq3" text="英雄之近江枪" />
+    <string id="7ogCF4QM" text="坚固的镰枪" />
+    <string id="5AKr6qk0" text="可靠的镰枪" />
+    <string id="C6zh5DoX" text="尾张近江枪" />
+    <string id="h9vqUlJE" text="粗糙的薙刀" />
+    <string id="lF14FTg1" text="坚韧的薙刀" />
+    <string id="4TJ0UTh3" text="普通薙刀" />
+    <string id="xJWsCVuj" text="优质薙刀" />
+    <string id="boMsG0bP" text="坚实的薙刀" />
+    <string id="nyjeSHrj" text="传说中的薙刀" />
+    <string id="kz1QVq8O" text="冠军之薙刀" />
+    <string id="SdSbCBOe" text="上等薙刀" />
+    <string id="AYe9hgrA" text="雅致的薙刀" />
+    <string id="0m87TpDt" text="老兵用薙刀" />
+    <string id="0uG557qr" text="钝刃薙刀" />
+    <string id="yosm3hpF" text="粗制薙刀" />
+    <string id="AG8Vfduf" text="神话级薙刀" />
+    <string id="uDJpQarA" text="致命薙刀" />
+    <string id="xi7HZlTl" text="普通品质薙刀" />
+    <string id="nK6JV2Ck" text="老旧薙刀" />
+    <string id="eLe7VFAF" text="可靠的薙刀" />
+    <string id="6jh6vjde" text="大师打造的薙刀" />
+    <string id="BzV8iZGW" text="钢制薙刀" />
+    <string id="cFL3f28k" text="磨损的薙刀" />
+    <string id="IXWgp1Kb" text="蓑衣" />
+    <string id="yANNztZH" text="阵羽织（异体字）" />
+    <string id="RN0CjgA0" text="阵羽织" />
+    <string id="kxzCYmvt" text="追鹤僧衣" />
+    <string id="vJJSYEjX" text="小札袖甲" />
+    <string id="JYnKmPLU" text="大袖甲" />
+    <string id="ulaqb6QQ" text="当世袖甲" />
+    <string id="qBWo71k9" text="最上袖甲" />
+    <string id="M9ydEbyA" text="钝刃太刀" />
+    <string id="VCHYYr4t" text="粗糙的太刀" />
+    <string id="a2Bix8mL" text="普通太刀" />
+    <string id="QxkXXM8Q" text="坚实的太刀" />
+    <string id="YrxntvRg" text="可靠的太刀" />
+    <string id="4kNmSeRQ" text="大师打造的太刀" />
+    <string id="aU4uZTuf" text="致命的太刀" />
+    <string id="fgK91Jpu" text="锋利的太刀" />
+    <string id="aj6o7vdl" text="传说中的太刀" />
+    <string id="IbZ9wOCJ" text="冠军之太刀" />
+    <string id="YE7Cdbal" text="传奇太刀" />
+    <string id="gULRRBwd" text="老旧的太刀" />
+    <string id="R36zCRrS" text="尚可的太刀" />
+    <string id="S0rZvSto" text="凶猛的太刀" />
+    <string id="mXP9SJuy" text="威力强劲的太刀" />
+    <string id="HtX8vAHu" text="坚固的太刀" />
+    <string id="U1MhXSc1" text="钢制太刀" />
+    <string id="dU90Mvo6" text="复仇之太刀" />
+    <string id="xGl8nnxJ" text="无情的太刀" />
+    <string id="6sFVGQKQ" text="虎皮纹太刀" />
+    <string id="xdltvfIu" text="熊皮纹太刀" />
+    <string id="GXPMYk9j" text="鹿皮纹太刀" />
+    <string id="j5ZhZQGD" text="狸皮纹太刀" />
+    <string id="9vQ7nAuu" text="小新丸胴" />
+    <string id="e3la5uPS" text="雪下胴甲" />
+    <string id="TsWFLwTv" text="雪下胴佩楯" />
+    <string id="LBUQx99u" text="缝延胴甲" />
+    <string id="tLruHIuy" text="挡板胴佩楯" />
+    <string id="NGoLjn7q" text="普通桶川胴甲" />
+    <string id="3e1V0Ziy" text="叠盾胴甲" />
+    <string id="ilWimvg5" text="小札胴佩楯" />
+    <string id="6oWrfo7c" text="仁王胴佩楯" />
+    <string id="v94m3bws" text="最上胴甲" />
+    <string id="bbMwlr3V" text="最上胴佩楯" />
+    <string id="vDXmF9nx" text="浪人服" />
+    <string id="eJK1kPV3" text="桶川胴甲" />
+    <string id="wqZRgWso" text="桶川胴佩楯" />
+    <string id="WjvswJs2" text="大鎧" />
+    <string id="6gpCytKe" text="大鎧胴甲" />
+    <string id="56EX4QYD" text="裃" />
+    <string id="VO0yxSgI" text="西班牙铠甲" />
+    <string id="PKye4haM" text="川堤胴甲" />
+    <string id="TIDwOG8g" text="五枚胴甲" />
+    <string id="iLoknD6a" text="尾张胴佩楯" />
+    <string id="ZFySTbaG" text="仏胴甲" />
+    <string id="9G3Qcppk" text="袴（裤装）" />
+    <string id="gxYGrgU3" text="平民服饰" />
+    <string id="WEoq4e6a" text="小札胴甲" />
+    <string id="fyWQFmQS" text="小袖袴" />
+    <string id="x7TOEYZ8" text="腹当 川堤" />
+    <string id="LiSN5ZA6" text="腹当 最上" />
+    <string id="pcF58mMm" text="腹当 小札" />
+    <string id="6CxSdwpp" text="钝刃脇差" />
+    <string id="YEXh9UQp" text="迅捷脇差" />
+    <string id="sdcHw4r2" text="轻灵脇差" />
+    <string id="TEGildws" text="粗糙的脇差" />
+    <string id="EuZ1al2n" text="凶猛的脇差" />
+    <string id="G06999Op" text="隐秘脇差" />
+    <string id="R5nEtBxv" text="普通脇差" />
+    <string id="UKADExyn" text="致命脇差" />
+    <string id="sALYhBf1" text="凶狠的脇差" />
+    <string id="0qSeopW3" text="老旧脇差" />
+    <string id="KskhLVCq" text="耀眼脇差" />
+    <string id="T7zML82Z" text="隐匿脇差" />
+    <string id="dTGeDvXZ" text="威力强劲的脇差" />
+    <string id="XXZLmrJF" text="无情的脇差" />
+    <string id="jXRWbQ3J" text="易碎脇差" />
+    <string id="8rVwVUFz" text="坚固的脇差" />
+    <string id="dI9OAvuq" text="复仇之脇差" />
+    <string id="sDe5Pdt7" text="可靠的脇差" />
+    <string id="wD1Wx904" text="钢制脇差" />
+    <string id="kzOMrWFN" text="长柄钝刃脇差" />
+    <string id="nz66MB1W" text="长柄粗糙脇差" />
+    <string id="yqzz2phd" text="长柄普通脇差" />
+    <string id="0z5kIzmE" text="长柄可靠脇差" />
+    <string id="dkHp8Lwi" text="长柄钢制脇差" />
+    <string id="BHpi3XZY" text="长柄老兵用脇差" />
+    <string id="NW51XgB4" text="长柄传说脇差" />
+    <string id="KwCaTbns" text="长柄精美脇差" />
+    <string id="P8wsW9Uk" text="无刃脇差" />
+    <string id="FguhKirf" text="追剥" />
+    <string id="FZjVu6zx" text="杂寇" />
+    <string id="sTvDztWN" text="八幡徒贼" />
+    <string id="MEQv3Fvs" text="倭寇海贼" />
+    <string id="4S24PmMZ" text="山贼众" />
+    <string id="rW0j3kZA" text="落武者狩猎人众" />
+    <string id="Vfsbslpv" text="逃兵" />
+    <string id="gVZxlFB4" text="足轻" />
+    <string id="5HSblONo" text="龙造寺" />
+    <string id="uIMPOA8l" text="龙造寺の両国" />
+    <string id="hCsqAorV" text="决斗武士" />
+    <string id="gNJVca2H" text="普通武士" />
+    <string id="zkA950i3" text="畿内番头" />
+    <string id="jqIYvA8q" text="北陆番头" />
+    <string id="SAZxQxZ3" text="东山番头" />
+    <string id="f0dGru9x" text="东海番头" />
+    <string id="PHy6bqmI" text="关东番头" />
+    <string id="SRtabgmr" text="奥羽番头" />
+    <string id="fDJnHdgf" text="婴儿" />
+    <string id="ZsIZM9BT" text="孩童" />
+    <string id="CVBEoYWL" text="少年" />
+    <string id="953W3FGg" text="乞丐" />
+    <string id="tvPacBBE" text="装备测试人偶" />
+    <string id="WFtmpK97"
+      text="tp_1_1" />
+    <string id="v72aXyZ1"
+      text="tp_1_2" />
+    <string id="sxTbrhX9"
+      text="tp_1_3" />
+    <string id="EAFBoYjJ"
+      text="tp_1_4" />
+    <string id="azRq5BC4"
+      text="tp_2_1" />
+    <string id="EaUSxQzB"
+      text="tp_2_2" />
+    <string id="lpPC3wcC"
+      text="tp_2_3" />
+    <string id="MILp566E"
+      text="tp_2_4" />
+    <string id="XnanKlha"
+      text="tp_2_5" />
+    <string id="50aExYSz"
+      text="Practice Fight T1" />
+    <string id="ZAUwxBUY"
+      text="Practice Fight T2" />
+    <string id="EwR9Dyyz"
+      text="Practice Fight T3" />
+    <string id="I0sEHwDL"
+      text="tournament_template_saikai_one_participant_set_v1" />
+    <string id="FemgdgPp"
+      text="tournament_template_nankai_one_participant_set_v1" />
+    <string id="xGrcB7wX"
+      text="tournament_template_sanyo_one_participant_set_v1" />
+    <string id="GOI7KNfu"
+      text="tournament_template_kinai_one_participant_set_v1" />
+    <string id="sblMrceF"
+      text="tournament_template_hokuriku_one_participant_set_v1" />
+    <string id="PFMcJKCP"
+      text="tournament_template_tosan_one_participant_set_v1" />
+    <string id="0hnJJ6Im"
+      text="tournament_template_tokai_one_participant_set_v1" />
+    <string id="u6RI0ofc"
+      text="tournament_template_kanto_one_participant_set_v1" />
+    <string id="zB6KrNXs"
+      text="tournament_template_ou_one_participant_set_v1" />
+    <!-- 神职类 -->
+    <string id="i4cbh9JR" text="僧侣" />
+    <string id="IiWKrT2f" text="住持" />
+    <string id="G8Gs9Jnz" text="信奉救世主的京畿布道者" />
+    <string id="LcpGR7Qx" text="清教徒式的京畿布道者" />
+    <string id="bZaL4757" text="女性京畿密宗行者" />
+    <!-- 商工类 -->
+    <string id="Nvd0m2Az" text="形迹可疑的商人" />
+    <string id="Mc4JptO8" text="谨慎的京畿商人" />
+    <string id="70sJoxsr" text="{FIRSTNAME} 酿酒商" />
+    <string id="P6v4Mo3Y" text="西海商人3，冷酷无情" />
+    <string id="8z2i23JG" text="冷漠的京畿商人" />
+    <string id="YbKmPFwr" text="{FIRSTNAME} 制盐匠" />
+    <string id="qUo3hQEn" text="西海商人6，谨慎小心" />
+    <string id="eFqSl9jC" text="西海商人7，白手起家" />
+    <string id="MqxkVDJU" text="西海商人8，诙谐幽默" />
+    <string id="YKan2Odx" text="西海商人9，女继承人" />
+    <string id="4TdvpHus" text="西海商人10，狡诈多端" />
+    <string id="TEA3nJCU" text="南海商人3，冷酷无情" />
+    <string id="xkfmZTDl" text="南海商人6，谨慎小心" />
+    <string id="Y8qeRqAC" text="南海商人7，白手起家" />
+    <string id="MCx40Js4" text="南海商人8，诙谐幽默" />
+    <string id="KxN2SHcb" text="南海商人9，女继承人" />
+    <string id="ODFls0De" text="南海商人10，狡诈多端" />
+    <string id="F0QMkriL" text="山阳商人3，冷酷无情" />
+    <string id="0aMXhJwM" text="山阳商人6，谨慎小心" />
+    <string id="0TYPidOw" text="山阳商人7，白手起家" />
+    <string id="dSx5JGgq" text="山阳商人8，诙谐幽默" />
+    <string id="d4IVVWsY" text="山阳商人9，女继承人" />
+    <string id="AkjKPG5V" text="山阳商人10，狡诈多端" />
+    <string id="6UDvUAgb" text="畿内商人3，冷酷无情" />
+    <string id="J2TZscPD" text="畿内商人6，谨慎小心" />
+    <string id="8D2PJdc5" text="畿内商人7，白手起家" />
+    <string id="4DEZMKBT" text="畿内商人8，诙谐幽默" />
+    <string id="TbMzJjfB" text="畿内商人9，女继承人" />
+    <string id="Tm5SK5QG" text="畿内商人10，狡诈多端" />
+    <string id="OpxzT3OO" text="北陆商人3，冷酷无情" />
+    <string id="YaI8iLR8" text="北陆商人6，谨慎小心" />
+    <string id="6z5l1n5P" text="北陆商人7，白手起家" />
+    <string id="KAYaRJPs" text="北陆商人8，诙谐幽默" />
+    <string id="P774spSS" text="北陆商人9，女继承人" />
+    <string id="H0RsmI5C" text="北陆商人10，狡诈多端" />
+    <string id="dlVjdBZA" text="东山商人3，冷酷无情" />
+    <string id="xbNlGXkS" text="东山商人6，谨慎小心" />
+    <string id="IUU4NehN" text="东山商人7，白手起家" />
+    <string id="ijxOChbB" text="东山商人8，诙谐幽默" />
+    <string id="5SX38lDk" text="东山商人9，女继承人" />
+    <string id="y5MqNQwz" text="东山商人10，狡诈多端" />
+    <string id="GAuVEwJ5" text="东海商人3，冷酷无情" />
+    <string id="02XUA95u" text="东海商人6，谨慎小心" />
+    <string id="vjBCru66" text="东海商人7，白手起家" />
+    <string id="EVeJmQvJ" text="东海商人8，诙谐幽默" />
+    <string id="sWB1snMg" text="东海商人9，女继承人" />
+    <string id="ghKMaLsm" text="东海商人10，狡诈多端" />
+    <string id="iF6Qqyu2" text="关东商人3，冷酷无情" />
+    <string id="DlqcxTWj" text="关东商人6，谨慎小心" />
+    <string id="H3zV2dQN" text="关东商人7，白手起家" />
+    <string id="pOx5u2fP" text="关东商人8，诙谐幽默" />
+    <string id="T5Q1Baw1" text="关东商人9，女继承人" />
+    <string id="XVlerLgl" text="关东商人10，狡诈多端" />
+    <string id="Al5YxWyQ" text="奥羽商人3，冷酷无情" />
+    <string id="NZrDnjfz" text="奥羽商人6，谨慎小心" />
+    <string id="dY2QXTbD" text="奥羽商人7，白手起家" />
+    <string id="1MpRGp6x" text="奥羽商人8，诙谐幽默" />
+    <string id="0f4713X7" text="奥羽商人9，女继承人" />
+    <string id="ZSV8Rizt" text="奥羽商人10，狡诈多端" />
+    <!-- 头目类 -->
+    <string id="LIUPnJH9" text="性格粗莽的京畿劳工头目" />
+    <string id="NqMcUPe0" text="外向的京畿劳工头目" />
+    <string id="UNzUhmsZ" text="护短的男性京畿帮派头目" />
+    <string id="RXXwuRXp" text="言语反讽的京畿帮派头目" />
+    <string id="PybHUAiH" text="面露凶相的男性京畿帮派头目" />
+    <string id="N4lGbs2X" text="凶残暴戾的男性京畿帮派头目" />
+    <string id="Oqw8LyRt" text="女性京畿帮派头目" />
+    <string id="3C2X5iI0" text="杀气腾腾的女性京畿帮派头目" />
+    <string id="zZWlKaCW" text="西海性格粗莽的乡绅" />
+    <string id="hxFiY5ao" text="西海随和亲善的乡绅" />
+    <string id="bCGz40Pm" text="西海桀骜不驯的庄头" />
+    <string id="jcn1QeWE" text="西海保守的庄头" />
+    <string id="4zRpp9ut" text="西海狡诈的庄头" />
+    <string id="FuAcLDX0" text="南海性格粗莽的乡绅" />
+    <string id="6L9oduFg" text="南海随和亲善的乡绅" />
+    <string id="H8oBi2nN" text="南海桀骜不驯的庄头" />
+    <string id="vu4yr6N6" text="南海保守的庄头" />
+    <string id="hVUtjeuk" text="南海狡诈的庄头" />
+    <string id="v6aBQhf9" text="山阳性格粗莽的乡绅" />
+    <string id="WGjniBWT" text="山阳随和亲善的乡绅" />
+    <string id="WQ7EVKt7" text="山阳桀骜不驯的庄头" />
+    <string id="vu7LU8Hy" text="山阳保守的庄头" />
+    <string id="jw0zdkCV" text="山阳狡诈的庄头" />
+    <string id="FmmplxDj" text="畿内性格粗莽的乡绅" />
+    <string id="UxZknmHp" text="畿内随和亲善的乡绅" />
+    <string id="m9cz50ix" text="畿内桀骜不驯的庄头" />
+    <string id="aGa5OQ23" text="畿内保守的庄头" />
+    <string id="U0vmxHpo" text="畿内狡诈的庄头" />
+    <string id="vHlKYQDZ" text="北陆性格粗莽的乡绅" />
+    <string id="TJbALtdd" text="北陆随和亲善的乡绅" />
+    <string id="eZenr40D" text="北陆桀骜不驯的庄头" />
+    <string id="7Kwpykzr" text="北陆保守的庄头" />
+    <string id="xgVRdkpo" text="北陆狡诈的庄头" />
+    <string id="WMSfmuM4" text="东山性格粗莽的乡绅" />
+    <string id="rQZNPZMy" text="东山随和亲善的乡绅" />
+    <string id="Z1m2PKbK" text="东山桀骜不驯的庄头" />
+    <string id="pTlbcbrv" text="东山保守的庄头" />
+    <string id="Cjn0dJfZ" text="东山狡诈的庄头" />
+    <string id="b4xehLHP" text="东海性格粗莽的乡绅" />
+    <string id="rPlWs919" text="东海随和亲善的乡绅" />
+    <string id="liTz9Ejf" text="东海桀骜不驯的庄头" />
+    <string id="Aahqgkzb" text="东海保守的庄头" />
+    <string id="iF1N1wB7" text="东海狡诈的庄头" />
+    <string id="uq78Gyga" text="关东性格粗莽的乡绅" />
+    <string id="DFMWJDhC" text="关东随和亲善的乡绅" />
+    <string id="RmB7jmDn" text="关东桀骜不驯的庄头" />
+    <string id="GRkuq7jn" text="关东保守的庄头" />
+    <string id="isIFFUkI" text="关东狡诈的庄头" />
+    <string id="IYJB5rn6" text="奥羽性格粗莽的乡绅" />
+    <string id="1bfcRGED" text="奥羽随和亲善的乡绅" />
+    <string id="KI7HzyzG" text="奥羽桀骜不驯的庄头" />
+    <string id="sr41aBJq" text="奥羽保守的庄头" />
+    <string id="hbnlojVk" text="奥羽狡诈的庄头" />
+    <string id="gvj5GUOS" text="{FIRSTNAME} 师弟" />
+    <string id="zVp7PDAV" text="山潜众 春长坊" />
+    <string id="BPyoOEPM" text="山潜众 心莲坊" />
+    <string id="GCsq3ig0" text="山潜众 长久坊" />
+    <string id="drBumCCI" text="山潜众 莲长坊" />
+    <string id="AyM70U5G" text="塩饱众 传太夫" />
+    <string id="l31cZiIC" text="塩饱众 彦左卫门" />
+    <string id="0KCQiQmk" text="塩饱众 又左卫门" />
+    <string id="fvYQ5nHm" text="塩饱众 四郎左卫门" />
+    <string id="Hdq26xGh" text="丹后海贼 大和介" />
+    <string id="DWZqFWSE" text="丹后海贼 市之助" />
+    <string id="94gcq8Bv" text="丹后海贼 惣右卫门" />
+    <string id="WevSXhb9" text="丹后海贼 源右卫门" />
+    <string id="RyLMu95p" text="雑贺众 重秀" />
+    <string id="mCyE8J6q" text="雑贺众 吉长" />
+    <string id="hFpmPMVr" text="雑贺众 政长" />
+    <string id="fa3anLu5" text="雑贺众 胤次" />
+    <string id="KWrYKrXN" text="白山众徒 法光院" />
+    <string id="ro5HIPkS" text="白山众徒 大学院" />
+    <string id="7PyHI5XI" text="白山众徒 宝珠坊" />
+    <string id="n1AUVAjG" text="白山众徒 大圆坊" />
+    <string id="A34GSK7R" text="桂山众 与助" />
+    <string id="pmRhqZjW" text="桂山众 源左卫门" />
+    <string id="7JS920AH" text="桂山众 彦四郎" />
+    <string id="0PMZzRqy" text="桂山众 丹左卫门" />
+    <string id="TIwhbX3R" text="骏河众 政胜" />
+    <string id="6OLny6KG" text="骏河众 贞纲" />
+    <string id="sTlnXgkr" text="骏河众 政纲" />
+    <string id="ghSClYDk" text="骏河众 景高" />
+    <string id="ROAQ3r08" text="风间众 小太郎" />
+    <string id="tDyOs33I" text="风间众 新蔵" />
+    <string id="4MEC7NCo" text="风间众 辰五郎" />
+    <string id="FAMP0ZXN" text="风间众 源助" />
+    <string id="xw0Kltyn" text="黒羽枭众 蔵人" />
+    <string id="PBCfHu7Z" text="黒羽枭众 藤兵卫" />
+    <string id="2hJS88Ov" text="黒羽枭众 金兵卫" />
+    <string id="3bY5KuXN" text="黒羽枭众 春海" />
+    <string id="fBoiescJ" text="暴徒" />
+    <string id="HTLKGRI7" text="产婆" />
+    <string id="CvQoBHzQ" text="婚仪僧" />
+    <string id="HFvtbXSJ" text="护卫" />
+    <string id="aargOvTM" text="西海番头" />
+    <string id="cExrGOdl" text="南海番头" />
+    <string id="6TqLlctU" text="山阳番头" />
+    <string id="0XbH81fA" text="决斗侍" />
+    <string id="A8YrI6XH" text="大名" />
+    <!-- 身份/宗教类 -->
+    <string id="Zexkzij5" text="老兵" />
+    <string id="mW1MVc2r" text="农兵" />
+    <string id="d1wVlKKo" text="禅宗" />
+    <string id="Lzz5gc1g" text="真言宗" />
+    <string id="27cVja0G" text="神道教" />
+    <!-- 武器类 -->
+    <string id="IilS7uTN" text="枪" />
+    <string id="kH3iUyvW" text="薙刀" />
+    <string id="Mrb17sF6" text="长卷" />
+    <string id="4LCvbRHs" text="脇差" />
+    <string id="6CWKuvcj" text="太刀" />
+    <string id="L51mmx1Y" text="打刀" />
+    <string id="ukjtYL70" text="镰" />
+    <string id="oQxIUUB1" text="野太刀" />
+    <string id="6D9iLFzI" text="金砕棒" />
+    <string id="xM4xB5Fh" text="斧" />
+    <string id="2zUJ4gYg" text="苦无" />
+    <string id="oiqrzRI2" text="手里剑" />
+    <!-- 物品/资源类 -->
+    <string id="TeojAjR1" text="船只" />
+    <string id="CSNEzu93" text="购买或建造船只" />
+    <string id="EF4DF4OL" text="选择一本书阅读" />
+    <string id="OxLiQqrv" text="肉类" />
+    <string id="zREZhWfK" text="兽皮" />
+    <string id="13L3nxia" text="清酒" />
+    <string id="aijDxFXD" text="稻米" />
+    <string id="WPDlKJZe" text="大豆" />
+    <string id="D3VFdHtO" text="味噌" />
+    <string id="lDQ3ncq3" text="酱油" />
+    <string id="dQSzTuX8" text="铁" />
+    <string id="nFJcc4V3" text="工具" />
+    <string id="4sPIl2Ck" text="紫苏" />
+    <string id="sGWvaOtn" text="油" />
+    <string id="xi5UCvZI" text="鲸" />
+    <string id="ZyJkj3c9" text="银" />
+    <string id="A2NA9ZkO" text="石材" />
+    <string id="w9lCboHB" text="黄金" />
+    <string id="d0ARbWxa" text="皮革" />
+    <string id="lskIga2B" text="硬木" />
+    <string id="skaVrmO4" text="陶器" />
+    <string id="eknzsT2v" text="书籍" />
+    <string id="XhARCMAD" text="蜡烛" />
+    <string id="T1vAh4YQ" text="鱼类" />
+    <string id="U6ZTohq3" text="蔬菜" />
+    <string id="fzD75MVK" text="茶叶" />
+    <string id="nec0hSy0" text="龙虾" />
+    <string id="oMoBp4OM" text="海草" />
+    <string id="cadijGKW" text="柑橘" />
+    <string id="ELNvdoNz" text="栗子" />
+    <string id="kLJFEXiz" text="染料" />
+    <string id="lgXSrIk8" text="漆" />
+    <string id="UMOtwQsm" text="铜" />
+    <string id="BIwSi5kz" text="硫磺" />
+    <string id="lOSo32du" text="盐" />
+    <string id="MFkuPiGY" text="苎麻" />
+    <string id="S8QwoEas" text="苎麻布" />
+    <string id="ZM5IsFgk" text="棉花" />
+    <string id="hMGcjb5H" text="棉布" />
+    <string id="Y6JMp8a0" text="生丝" />
+    <string id="PfWGRuRC" text="丝绸" />
+    <string id="KfuejPzq" text="木炭" />
+    <string id="6ck63sTD" text="黏土" />
+    <string id="3TyGuqff" text="鲸脂" />
+    <string id="8vJ4dMGW" text="珠宝" />
+    <string id="gHkJB9lB" text="弹丸" />
+    <!-- 技能/装备等级类 -->
+    <string id="PraPzUNh" text="铁炮术I" />
+    <string id="LQPjxxkh" text="铁炮术II" />
+    <string id="80RMPIqz" text="铁炮术III" />
+    <string id="ZnW7Bbww" text="铁炮术IV" />
+    <string id="4dARLR3h" text="铁炮术V" />
+    <string id="gE8WJhua" text="近战武器术I" />
+    <string id="Ew6iTvaS" text="近战武器术II" />
+    <string id="ICCp34Of" text="近战武器术III" />
+    <string id="ftGU2r88" text="近战武器术IV" />
+    <string id="Bcj8PrZj" text="近战武器术V" />
+    <string id="YK1zMAGL" text="轻装甲" />
+    <string id="bZFpvup5" text="中装甲" />
+    <string id="ZN5FLF1H" text="重装甲" />
+    <string id="lC9eeLYt" text="超重装甲" />
+    <string id="3We4CtuZ" text="指物/母衣" />
+    <string id="pHbtidGE" text="弓术I" />
+    <string id="ohOBkybB" text="弓术II" />
+    <string id="nRTlsWqJ" text="弓术III" />
+    <string id="vbQ2WC5v" text="弓术IV" />
+    <string id="xVBkFnWB" text="弓术V" />
+    <string id="tOzmJoXm" text="晋升为{SPECIFICTROOP}" />
+    <string id="VCbM6I45" text="晋升为{TROOP}" />
+    <string id="jcvbxSZi" text="晋升为家臣" />
+    <string id="7LmqmX1a" text="晋升" />
+    <string id="YEreN7Gw" text="详情" />
+    <string id="v6q1QbzC" text="服役期间，领用的装备不得变卖" />
+    <string id="FETGqAh9" text="背弃主公" />
+    <string id="9rJXM3tT" text="背弃主公" />
+    <string id="kL4P4RpK" text="你确定要逃离军队吗？此举会让你沦为{FACTION}的逃犯" />
+    <string id="nXXz9sHG" text="上一场战役结束，你的部队获得了{XP}点经验" />
+    <string id="0bOMoQ4e" text="完成任务，你的部队获得了{XP}点经验" />
+    <string id="U56cISN6" text="周常训练结束，你的部队获得了{XP}点经验" />
+    <string id="YLTe8MeM" text="在战场后方待命" />
+    <string id="nE2k6oAS" text="在营地待命" />
+    <string id="W8ijCzl5" text="服役期间，无法招募同伴" />
+    <string id="LGNTb9Xd" text="不可通过使者入伍" />
+    <string id="PRHOd6hT" text="主公正在整编部队，暂不接受入伍" />
+    <string id="cXAO1l67" text="身为一国之臣，无法再行入伍" />
+    <string id="p5ekUAdd" text="加入{LORD}的部队，会导致你当前的军队与同伴就地解散，是否继续？" />
+    <string id="bX5vgton" text="主公正筹备攻打{SETTLEMENT}，你决定..." />
+    <string id="UgKxuI0T" text="主公正筹备守卫{SETTLEMENT}抵御来犯之敌，你决定..." />
+    <string id="AO2gLUfJ" text="{SETTLEMENT}城防已破，你此战功劳微薄，未能缴获任何贵重之物" />
+    <string id="tIuvvVXZ" text="{SETTLEMENT}城防已破，你随大军杀入城中，搜刮府库民财" />
+    <string id="5XvwBNTP" text="{SETTLEMENT}城防已破，你随大军清扫战场，从守军尸身上搜刮物资" />
+    <string id="zD4V3oXP" text="待补充" />
+    <string id="exzMkiBV" text="守军已退守本丸，负隅顽抗。主公正筹备强攻，你决定..." />
+    <string id="18nHB3fp" text="部队遭遇{OPPOSITE}，主公下令进攻，你决定..." />
+    <string id="o5bfN0ac" text="部队遭遇{OPPOSITE}，主公下令防御，你决定..." />
+    <string id="XhCW4div" text="你无权下令撤退" />
+    <string id="2NxoTc2x" text="主公已战死" />
+    <string id="dYMfEcfn" text="主公战死，麾下部队就此溃散" />
+    <string id="Ij5NwQx8" text="我可没忘你当初背弃{LORD}的行径！赶紧滚，免得我下令斩了你" />
+    <string id="V4Z9RUOj" text="你满脸反骨，我可不敢信你" />
+    <string id="N44dvuK3" text="战时背弃{LORD}，你若真想归队，就得接受更苛刻的待遇" />
+    <string id="Rc3EAx4F" text="战时背弃{LORD}！给我滚远点" />
+    <string id="hrwoyKBG" text="欢迎归来，你可以官复原职，就任{TROOP}。这样安排你可满意？" />
+    <string id="b6WRoaX5" text="自你脱离{LORD}麾下，武艺越发精进了" />
+    <string id="pqLdiGoz" text="我本有意招你入队，但你如今已是{LORD}的人，还是先完成那边的差事再说吧" />
+    <string id="mP4QgveQ" text="你既无经验又无功名，只能从最底层做起" />
+    <string id="H95zWT7K" text="你略有历练，可从足轻做起" />
+    <string id="e1UjQEkL" text="你习得些许武艺，可从足轻组头做起" />
+    <string id="EZZTwHcL" text="你武艺尚可，小有名气，可从足轻老手做起" />
+    <string id="6sX8EAeU" text="你武艺不俗，颇有名声，可从精锐士卒做起" />
+    <string id="nds9vQ69" text="你武艺精湛，名声远扬，可从精锐组头做起" />
+    <string id="Er6UrCFj" text="你武艺超群，名震一方，可从精锐老手做起" />
+    <string id="HqrnB5hB" text="你武艺冠绝天下，威名无人不晓，可直接就任我军最精锐的披甲武士" />
+    <string id="9wezZWvh" text="你要投效我军当个小兵？当真如此？以你的声望，大可直接做我的家臣。话虽如此..." />
+    <string id="dXwx8bbz"
+      text="拜见{PLAYER.NAME}。你身为忠勇善战的武士，侍奉我已有一段时日，助我家族成就大业，我理当有所回报。我准许你自立门户，成为{LORD_FACTION}的家臣，享有家臣的一切权利，包括领有封地的资格。你意下如何？" />
+    <string id="P1oNENB6"
+      text="拜见{PLAYER.NAME}。我刚收到主公{LORD_DAIMYO}的手书，你在{LORD_FACTION}的功绩已声名远播，主公有意擢升你为家臣。从此你便可发展自己的家族，还能领有封地。说句心里话，我真是羡慕你。出身你这般境地的人，能得此殊荣者寥寥无几，这都是你为{LORD_FACTION}尽心效力的结果。你即刻离队，速去面见{LORD_DAIMYO}吧" />
+    <string id="wOMWnwO1" text="能侍奉主公，是我的荣幸" />
+    <string id="Q8cvFw93" text="我即刻去面见{LORD_DAIMYO}，多谢主公" />
+    <string id="99wWfjun" text="士卒，有话直说" />
+    <string id="OaMaQkKc" text="啊，你来了，士卒！但说无妨，有何事禀报" />
+    <string id="GAvwUseJ" text="我明白了，你需归还所有领用的装备。你确定要这么做吗？" />
+    <string id="V5yqo06L" text="你竟要在战时离队？真是毫无武士道精神！若你执意如此，留下装备，滚出我的视线" />
+    <string id="qwzmYL5O" text="用火枪射击敌人" />
+    <string id="hggG7KvK" text="铁炮" />
+    <string id="c2qY7kKl" text="弹药" />
+    <string id="QTEPkPMO" text="稻田" />
+    <string id="iQe7HGb7" text="菜园" />
+    <string id="WAhf9mCa" text="苎麻田" />
+    <string id="3DXh2KIZ" text="栗园" />
+    <string id="pygMfSty" text="橘园" />
+    <string id="SzMWcaL9" text="茶园" />
+    <string id="rOnRFNWK" text="桑园" />
+    <string id="7lRezo4s" text="棉田" />
+    <string id="rSKYqzb2" text="渔民" />
+    <string id="B1nxtYsw" text="捕鲸人" />
+    <string id="L9OenDxO" text="牧场" />
+    <string id="76DNL5GT" text="石矿" />
+    <string id="zPnM7yB5" text="银矿" />
+    <string id="NlKM5yGB" text="金矿" />
+    <string id="yocCn66X" text="铜矿" />
+    <string id="qxNNZAD4" text="硫磺矿" />
+    <string id="8LfjJdJM" text="樵夫" />
+    <string id="XNPd0CGF" text="漆园" />
+    <string id="BxPhVdDa" text="猎户" />
+    <string id="asjzMWJH" text="染料田" />
+    <string id="tihrzKPP" text="铁矿" />
+    <string id="QIV930x3" text="黏土矿" />
+    <string id="vZ4xIGZB" text="盐田" />
+    <string id="G1YphUce" text="工匠" />
+    <string id="TLfUsMbZ" text="酒造" />
+    <string id="zU3AJtqp" text="营地" />
+    <string id="EP7b5Dqa" text="管理水军" />
+    <string id="HTxxASUP" text="默认记录" />
+    <string id="kHxaEyBR" text="玩家轻松取胜" />
+    <string id="yKUXNgf0" text="以弱胜强" />
+    <string id="4HgQtNNf" text="玩家孤军奋战" />
+    <string id="C1QgkZnr" text="背信弃义" />
+    <string id="j1fF3RPR" text="获赐封地" />
+    <string id="abex8A2R" text="获封爵位" />
+    <string id="qgWoZrld" text="宣战" />
+    <string id="Mk782mnf" text="议和" />
+    <string id="xquFQzu7" text="无视和约" />
+    <string id="gv5fi1OC" text="叛乱而起" />
+    <string id="CEjmfbb5" text="无纷争" />
+    <string id="k5hfJelm" text="因求亲起纷争" />
+    <string id="UqS4yqi1" text="因封地起纷争" />
+    <string id="LGduFXdz" text="因勇武方略起纷争" />
+    <string id="Ht7VE444" text="因责任方略起纷争" />
+    <string id="r272t3TE" text="因谋算方略起纷争" />
+    <string id="NhGCdS1L" text="因复仇起纷争" />
+    <string id="pszRXuto" text="因欺诈交易起纷争" />
+    <string id="dfZePQ2X" text="因冷酷交易起纷争" />
+    <string id="M1ZwQYm1" text="因盘剥商户起纷争" />
+    <string id="DCd2DZnP" text="因帮派争夺起纷争" />
+    <string id="R1bLECce" text="因滋事生非起纷争" />
+    <string id="whtROWwc" text="因敲诈勒索起纷争" />
+    <string id="JAu9wEJv" text="因异端邪说起纷争" />
+    <string id="8AhFDMXD" text="因土地欺诈起纷争" />
+    <string id="6R4KBFcZ" text="任务背叛" />
+    <string id="qALrH7DT" text="任务成功" />
+    <string id="zfMRK5LW" text="任务失败" />
+    <string id="knFpvJl3" text="战场勇武" />
+    <string id="G00krAyO" text="敌对行为" />
+    <string id="HAVNs7pm" text="劝诱叛逃" />
+    <string id="BWrC5NoW" text="部队断粮" />
+    <string id="j2zPF5LK" text="部队补给充足" />
+    <string id="LCJiiTmN" text="劫掠村落" />
+    <string id="zdTZBBRK" text="牺牲部队" />
+    <string id="Im1O232D" text="解救NPC" />
+    <string id="WWgkJoHa" text="浪人" />
+    <string id="6KTaV7Sl" text="{RANK}" />
+    <string id="OfsDA5TG" text="拿下他！" />
+    <string id="ViYtcsBS" text="左边！不对，是另一边的左边！" />
+    <string id="UPWxQMpj" text="嘶，这一下肯定疼" />
+    <string id="NQUCueoN" text="用点力！" />
+    <string id="psFYPrQx" text="畿内足轻先锋 额外费用" />
+    <string id="VbkKKYfL" text="东海旗本 额外费用" />
+    <string id="M4ydNAS7" text="一领具足 额外费用" />
+    <string id="OROp0LAK" text="铁炮足轻 额外费用" />
+    <string id="J13JMzI3" text="你身无分文" />
+    <string id="rKPe0b8E" text="相较于神道教神社，佛教宗门更看重其他寺院对你的评价" />
+    <string id="EorZaHEK" text="宿茂（Shokuho）在MCM菜单中有独立的设置选项" />
+    <string id="uHCDjiRc" text="蹲伏状态下射击铁炮，精准度会提升" />
+    <string id="tlBJxwv5" text="自动填充" />
+    <string id="qUP6igXN" text="选择舰船" />
+    <string id="K9QS4eWD" text="舰船管理" />
+    <string id="yqAlpNPd" text="建造中的舰船" />
+    <string id="wqlYknP1" text="剩余{DAYS}天{HOURS}小时完成" />
+    <string id="6h99WKv3" text="剩余{HOURS}小时完成" />
+    <string id="JVRU6T5O" text="凿沉舰船" />
+    <string id="H9CNq8xg" text="你的舰队载货空间不足，无法装载凿沉舰船后回收的物资" />
+    <string id="a1fAjjs0" text="取消建造舰船" />
+    <string id="XtY41gHH" text="你正搭乘渡轮前往{TARGET_FERRY_PORT}" />
+    <string id="WIOVk1k3" text="打开新浏览器窗口提交织丰（Shokuho）的BUG报告（感谢支持！）" />
+    <string id="AE4JbYQG" text="发型样式" />
+    <string id="M4iP6HE1" text="胡须样式" />
+    <string id="9NbP7rjT" text="海军载量" />
+    <string id="9lySqp0e" text="舰船维护费" />
+    <string id="8dcJGf4Y" text="部队载量" />
+    <string id="UfubPBGb" text="舰船" />
+    <string id="5LL6tJF1" text="来自舰船" />
+    <string id="zCMfrMFE" text="生产项目" />
+    <string id="eQETfaPq" text="来自生产" />
+    <string id="RDcAv085" text="异族文化治安影响" />
+    <string id="o1uA3x52" text="北陆文化特性" />
+    <string id="pNBYwAZE" text="海战" />
+    <string id="9QNnEpZF" text="测试" />
+    <string id="tFoDjhaJ" text="测试 {CONSOLE_ACTION_KEY}" />
+    <string id="0OQGAye5" text="驻军薪饷减免" />
+    <string id="vNm8fo7R" text="海域" />
+    <string id="rP3o1jH3" text="{FIRSTNAME} 破城者" />
+    <string id="Q6uJcuFa" text="{FIRSTNAME} 浪人" />
+    <string id="SUJMCSnx" text="{FIRSTNAME} 守门人" />
+    <string id="ZIiXw5G9" text="{FIRSTNAME} 南蛮人" />
+    <string id="gJVGhbX1" text="{FIRSTNAME} 取首者" />
+    <string id="kgQAfRmd" text="{FIRSTNAME} 鬼" />
+    <string id="RPyVUdSp" text="{FIRSTNAME} 蝮蛇" />
+    <string id="1WG6Sbxu" text="{FIRSTNAME} 漂泊者" />
+    <string id="YRTy1Jc4" text="{FIRSTNAME} 南越人" />
+    <string id="OqTtI69g" text="{FIRSTNAME} 温泉众" />
+    <string id="6lPKo6Oc" text="{FIRSTNAME} 咒术师" />
+    <string id="je5Ijhzi" text="行刑刀" />
+    <string id="cb5RX3rb" text="酿酒师" />
+    <string id="U3t2qYpM" text="豆匠" />
+    <string id="0OU0Y4yH" text="制弓师" />
+    <string id="A905UuDG" text="船具商" />
+    <string id="JsLwcUPQ" text="工具匠" />
+    <string id="d4Ix3c7F" text="甲胄匠" />
+    <string id="t3wWHSRb" text="武器匠" />
+    <string id="Y8RzTjgt" text="珠宝匠" />
+    <string id="6LJORdIR" text="苎麻织工" />
+    <string id="DUZZdpth" text="棉织工" />
+    <string id="vTvql5JR" text="丝织工" />
+    <string id="sh2tS2Td" text="铁炮锻冶" />
+    <string id="mAVRtypJ" text="铁炮部队招募与晋升费用降低10%" />
+    <string id="URMZx9si" text="商队组建成本降低25%，贸易惩罚减免15%" />
+    <string id="s9og1E3Z" text="领国决策导致的好感度损失增加20%" />
+    <string id="givYhaly" text="水上行军速度提升10%" />
+    <string id="bo8sZ7gY" text="山阳诸大名麾下，与港町相连的城町，赋税增收20%" />
+    <string id="7CbRvVSz" text="山阳诸大名麾下，不与港町相连的城町，赋税减收20%。" />
+    <string id="NQt2a6sQ" text="部队在各类恶劣地形中，移动速度惩罚减免20%" />
+    <string id="b2AGYw9j" text="依附于城砦的村落，生产效率提升10%" />
+    <string id="Pz5Ket4T" text="村落户数增长率降低20%" />
+    <string id="iKA94zCe" text="南海诸大名麾下的城镇，民兵招募速度+1" />
+    <string id="uwWZBGZK" text="依附于城砦的村落，生产效率提升12%" />
+    <string id="WYuxjA6q" text="异族文化聚居的据点，治安度下降速度加快15%" />
+    <string id="4b8Ubs5D" text="异族文化聚居的据点，治安度提升速度加快15%" />
+    <string id="QI1p7YE9" text="战斗获得的声望增加10%" />
+    <string id="RVF6CGON" text="招募领主加入军势，威光消耗增加20%。" />
+    <string id="zOlsKaLs" text="寺院提供的可招募部队数量+1" />
+    <string id="Kky5p3YL" text="战斗与攻城战中，防御能力和据点治安获得加成" />
+    <string id="FliTVZRT" text="该文化所属的据点，忠诚度下降速度加快" />
+    <string id="jBpm2uRR" text="骑兵部队招募与晋升费用降低10%" />
+    <string id="YJVrbH3E" text="村落特定农业与养马产业的生产效率提升25%" />
+    <string id="gnTDti38" text="招募领主加入军势，威光消耗增加30%。" />
+    <string id="8couqJrt" text="部队每日薪饷增加5%" />
+    <string id="WH077FQg" text="军势每日凝聚力流失减少30%" />
+    <string id="FOwGQRxQ" text="村落户数增长率提升15%" />
+    <string id="3IMZVSGa" text="城镇税收收入减少25%" />
+    <string id="WeFMnGf3" text="雪地行军无速度惩罚，暴风雪天气下视野范围提升" />
+    <string id="HitcvETu" text="军势在雪地与暴风雪环境中，粮食消耗减少20%" />
+    <string id="yteJHEJN" text="村落户数增长率降低25%" />
+    <string id="mdTVQKnq" text="编译着色器" />
+    <string id="KopOLwt3"
+      text="着色器编译可能需要较长时间完成。{newline}请确保性能设置中的战斗规模已调至最大值（1000），否则可能导致游戏内加载时间延长。{newline}请确保着色器质量已设为高，这是着色器正常编译的必要条件。{newline}若遇到图形显示问题，请删除已有的着色器文件，路径为：C:\\ProgramData\\Mount and Blade II Bannerlord\\Shaders，删除CoreShaders文件夹后重启游戏" />
+    <string id="UmVIRLwp" text="战斗规模 低" />
+    <string id="eJGH6oel" text="你的战斗规模设置低于最大值（1000），这可能导致游戏内加载时间延长，是否确定继续？" />
+    <string id="oYz4tvSZ" text="着色器质量 低" />
+    <string id="Q09vLHIj" text="你的着色器质量设置低于高画质标准，建议将着色器质量设为高以获得最佳效果" />
+    <string id="G1bAMCTQ" text="警告！" />
+    <string id="lCQYBdsy"
+      text="检测到你同时加载了外交模组与宿茂（Shokuho）模组，外交模组功能已直接整合至宿茂模组中，同时加载会导致游戏崩溃。{newline}请关闭外交模组后重新启动游戏" />
+    <string id="Il0gqhSh" text="铁炮足轻" />
+    <string id="H4P7Jtw5" text="一向一揆远程激进兵" />
+    <string id="BCuRcqLL" text="金碎棒" />
+    <string id="x0l2zvKO" text="南蛮胴" />
+    <string id="J9yYwEDg"
+      text="你抵达了{CURRENT_SETTLEMENT}——一座供奉{FAITH_TEXT}的{TEMPLE_SHRINE}。{PROSPERITY_STATEMENT}" />
+    <string id="u6XoxKje" text="这座{TEMPLE_SHRINE}已半被废弃，鲜有当地民众前来参拜，尽显圣地的破败之态" />
+    <string id="0FF9j9O9" text="这座{TEMPLE_SHRINE}维护得当，吸引着领内不少信众前来，可见圣地的光景平平" />
+    <string id="hFZx9JIv" text="这座{TEMPLE_SHRINE}装饰华美，各地的朝圣者与祈福之人络绎不绝，足见圣地的繁盛之象" />
+    <string id="Iui4QphN" text="提升" />
+    <string id="Jtw5abO5" text="降低" />
+    <string id="a7Fb1Jk2" text="你与{TEMPLE_NAME}的关系{DIRECTION}，从{OLD_LEVEL}变为{NEW_LEVEL}" />
+    <string id="wezcGUlK" text="神社" />
+    <string id="GqUrPhOo" text="寺院" />
+    <string id="DpjrnGrh" text="{ORIGINAL_TITLE}{newline}入口处有个形迹可疑的男子在等候" />
+    <string id="27XjQKbv" text="当然。我想，你会发现我是个身手不凡的对手" />
+    <string id="KINWH0XG" text="抱歉，没兴趣" />
+    <string id="A2RkHuce" text="{DUEL_INQUIRE}
+我会用{WEAPON_TYPE}应战。
+你选何种武器？" />
+    <string id="2Rjo5IaH" text="我用打刀应战" />
+    <string id="NfxQKG1R" text="我用棒术应战" />
+    <string id="iuuBz79C" text="转念一想，我还是告辞了" />
+    <string id="Wg14v6fb" text="既如此，那就开始吧" />
+    <string id="bvMGLEPz" text="远处有个人影在等候" />
+    <string id="x8w3hU4v" text="接近那个人影" />
+    <string id="l34htB5I" text="{SETTLEMENTS}附近的名流将会听闻你{?RESULT}取胜{?}落败{\\?}的消息" />
+    <string id="9XjG5X7t" text="返回" />
+    <string id="6pj4XoLz" text="决斗取胜后，你获得了数件物品" />
+    <string id="Xn0QkL0S" text="港口" />
+    <string id="QeirKB2F" text="搭乘渡轮" />
+    <string id="CVsda4gS" text="启航" />
+    <string id="iw9j1q6y" text="购买船只" />
+    <string id="nWE8pi5T" text="离开港口" />
+    <string id="VGGisUUk" text="搭乘渡轮" />
+    <string id="sZ64W8s3" text="搭乘渡轮前往{PORT_NAME_0}。{GOLD_COST_0}{GOLD_ICON}" />
+    <string id="qP1ekDer" text="搭乘渡轮前往{PORT_NAME_1}。{GOLD_COST_1}{GOLD_ICON}" />
+    <string id="o4GUGE3U" text="搭乘渡轮前往{PORT_NAME_2}。{GOLD_COST_2}{GOLD_ICON}" />
+    <string id="9BMCGLbv" text="搭乘渡轮前往{PORT_NAME_3}。{GOLD_COST_3}{GOLD_ICON}" />
+    <string id="YXj30vc3" text="搭乘渡轮前往{PORT_NAME_4}。{GOLD_COST_4}{GOLD_ICON}" />
+    <string id="wSTrgsrS" text="搭乘渡轮前往{PORT_NAME_5}。{GOLD_COST_5}{GOLD_ICON}" />
+    <string id="Omjhrb65" text="返回菜单" />
+    <string id="pocCosmq"
+      text="此地刚经历过一场大战。尸骸遍布战场，静待拾荒者前来搜刮。看起来这里有{LOOT_AMOUNT_ADJECTIVE}数量的战利品。若你决定进入此地，切记勿贪多。一旦察觉危险，即刻撤离！" />
+    <string id="TBDYMLy9" text="进入战场" />
+    <string id="kj7G2ihH" text="你与手下收拢了所有能找到的战利品" />
+    <string id="QPvDWCC9" text="进入寺院地界" />
+    <string id="f3OXL4mr" text="向寺院捐赠" />
+    <string id="2BtW1OPo" text="招募部队" />
+    <string id="Cdhajh8e" text="交易" />
+    <string id="QvQjIw2K" text="营地" />
+    <string id="K6fHCNeq" text="进入营地" />
+    <string id="q8woT3zz" text="在营地待命" />
+    <string id="Z9Pki9Z1" text="晋升部队" />
+    <string id="L2pvMcw3" text="选择一本书阅读" />
+    <string id="xDyrVb4P" text="在营地中待命
+{TIME_PASSED}" />
+    <string id="kg6AUP13" text="结束待命" />
+    <string id="7FSBWhSq" text="在营地待命" />
+    <string id="svMdxa7a" text="解散营地" />
+    <string id="D13UXlm4" text="返回入伍界面" />
+    <string id="hK1PJUE4" text="我愿投效你的军队" />
+    <string id="9JZPp3Vy" text="{ASK_TO_ENLIST_TEXT}{?PLAYER_HAS_TROOPS}{?} 当然，你需要放弃对当前部队的指挥权。{\?}" />
+    <string id="nEBjy46U" text="既如此" />
+    <string id="rYxVohke" text="甚好。欢迎加入我的军队。尽心效力，必有前程" />
+    <string id="9fR25fGF" text="转念一想，我还是算了" />
+    <string id="uedA5G2N" text="我明白了。若你改变主意，可再来找我" />
+    <string id="Fnt4HOxz" text="哦，对了..." />
+    <string id="UvLq4P5o" text="前往" />
+    <string id="g5FOdxmW" text="我希望结束对你的服役" />
+    <string id="aBYOUP5U" text="抱歉，当我没说" />
+    <string id="hdcYCsjI" text="很抱歉，但我必须结束服役" />
+    <string id="u6BaGEmo" text="既如此，告辞" />
+    <string id="JtLrGtlA" text="转念一想，我还是留下" />
+    <string id="dbMgwhr4" text="甚好。归队吧" />
+    <string id="Vvb2Xwav" text="很好。你定能为我们效力" />
+    <string id="JtKAxYIu" text="我还想将这套装备赠予你。从此它由你处置。愿它能在战场上护你周全" />
+    <string id="jgQL7miG" text="那么，你准备好宣誓效忠了吗？" />
+    <string id="TrY4pcVG" text="是，我已准备就绪" />
+    <string id="oDJ0tufl" text="抱歉，我只能谢绝。我更愿留在你的军队中" />
+    <string id="aroJN44y" text="我明白了...既如此，你可留任原职" />
+    <string id="Sb5wihyo"
+      text="你好，{PLAYER.NAME}。我听闻你在本地比武大会中取胜，特来亲自道贺。干得漂亮。众多好手参赛，而你拔得头筹。望你的武艺更上一层楼。或许有朝一日，你能入我亲卫队效命。话尽于此，退下吧" />
+    <string id="kJH1YzEI" text="多谢主公" />
+    <string id="zrM4ZxGS" text="你目前正效力于{ENLISTEDLORD}。{STRATEGY}" />
+    <string id="rpCpoGfQ" text="与首领交谈" />
+    <string id="RN1dRm0T" text="进入{ENSETTLEMENT}" />
+    <string id="n4IJyR2C" text="查看你在部队中的地位" />
+    <string id="osDxSX9h" text="调试：离开" />
+    <string id="U9u1UeDB" text="继续" />
+    <string id="ssAl8R9H" text="测试" />
+    <string id="0iHCLKGb" text="接近那个形迹可疑的男子" />
+    <string id="ofLgZDbI"
+      text="幸会，我是海斗。我与手下在这片海域讨生活，劝商人交出货物——其余的就不多说了。近来，我们截获了一艘满载珍奇货物的船，如今货多到直接运去市集必会惹人注意。不如你现下就从我们这儿买一箱？咱们不妨赌上一把！" />
+    <string id="oMWZSjlI" text="我这儿还有不少货，要不要再试试？" />
+    <string id="kpenv29V" text="请细说" />
+    <string id="omZaqJlP" text="不必了，多谢" />
+    <string id="9fZNPNmV"
+      text="花费{GOLD_COST}金币，你就能从我这儿拿走一箱货，里面的东西全归你。为显公平，我并未查看箱中何物——可能是我后悔出手的宝贝，也可能是我巴不得甩掉的破烂。究竟如何，只有开了才知道！{newline}意下如何？" />
+    <string id="w6cdMnnp" text="算你亏了，若改主意，我还在这儿" />
+    <string id="6PBlmTf9" text="怎样，要玩一局？" />
+    <string id="4r4s1ZZv" text="当然" />
+    <string id="RvZMTgVy" text="不了，多谢" />
+    <string id="IleLQ9Ay" text="{AFTER_TEXT}
+还要再试一次？" />
+    <string id="4hxngnF7" text="再来！" />
+    <string id="V46m5ilr" text="我想暂时到此为止了" />
+    <string id="wSwjs0RM"
+      text="3" />
+    <string id="BWpR6Ked"
+      text="5" />
+    <string id="AhXvllm9"
+      text="6" />
+    <string id="s38dkWMy"
+      text="10" />
+    <string id="teWOtrew"
+      text="25" />
+    <string id="tjxtU0Ts"
+      text="16" />
+    <string id="2Oi54ALO"
+      text="40" />
+    <string id="9qxrE05F"
+      text="250" />
+    <string id="gNSbsST8"
+      text="0" />
+    <string id="gKcZICPp" text="豪杰入队。" />
+    <string id="7e8Wc0EI" text="本地物产" />
+    <string id="7Pwd7o03" text="市集街区" />
+    <string id="Ohfau1Iw" text="你有多支部队可晋升" />
+    <string id="4JzI7Y4f" text="你有一支部队可晋升" />
+    <string id="PNOUdlaK" text="远程部队" />
+    <string id="UxhnhDg9" text="弓骑兵" />
+    <string id="F9t5hHUJ" text="{NAME_OF_UNIT_TYPE}数量过少，需考虑补充招募" />
+    <string id="2Y3uXKQ2"
+      text="{NAME_OF_UNIT_TYPE}数量过多。你应招募其他类型部队来配合我方{NAME_OF_UNIT_TYPE}作战，或裁撤部分现有{NAME_OF_UNIT_TYPE}" />
+    <string id="bUjvfiLW" text="{NAME_OF_UNIT_TYPE}的配比十分合理" />
+    <string id="1XUTc2Nw" text="我方{NAME_OF_UNIT_TYPE}皆为毫无经验的农兵。必须加紧训练，否则此战必败" />
+    <string id="kRyEZCl7" text="我方{NAME_OF_UNIT_TYPE}虽非毫无还手之力，但缺乏基础战技。必须加紧训练，否则后续战事必遭惨败" />
+    <string id="UmUhAbI6" text="我方{NAME_OF_UNIT_TYPE}训练充足，但仍需精益求精" />
+    <string id="VVqyMSGx" text="我方{NAME_OF_UNIT_TYPE}训练有素，此战定能奋勇杀敌" />
+    <string id="EeSEFEoG" text="我方{NAME_OF_UNIT_TYPE}技艺超群，此战定能摧枯拉朽，大破敌军" />
+    <string id="ynvQ94rJ" text="你本不应看到这段对话。若看到了，让Shrike背锅" />
+    <string id="OV0Jx5tJ" text="总体而言，我方{NAME_OF_UNIT_TYPE}部队编制混乱不堪，一旦开战必溃散无疑。必须立即采取措施整顿" />
+    <string id="dBgTatJ7" text="总体而言，我方{NAME_OF_UNIT_TYPE}部队状况堪忧，需在大战前解决现有问题" />
+    <string id="ssSGwJnV" text="总体而言，我方{NAME_OF_UNIT_TYPE}部队状态尚可，足以应对后续任何战事" />
+    <string id="TvJmOMe1" text="总体而言，我方{NAME_OF_UNIT_TYPE}部队状态精良，足以应对恶战" />
+    <string id="y2IKNpXZ" text="总体而言，我方{NAME_OF_UNIT_TYPE}部队状态极佳，定能将敌军彻底击溃" />
+    <string id="5BdXJHHh"
+      text="我军金库已捉襟见肘，恐怕很快便无力支付军饷。你应考虑建造工坊或组建商队来增加收入；若有闲置装备可变卖，也能解燃眉之急；我们亦可劫掠获利，只是这并非我心仪之选" />
+    <string id="pMcvT77B" text="我军粮草将尽。若要发动任何规模的战事，都急需大量补给，望尽快筹备" />
+    <string id="9UfLd5R9" text="我很担忧军中士气。近来战事艰难，我已听闻有士兵萌生逃意。你应设法改善伙食种类，或用其他方式提振士气" />
+    <string id="fEbUlGlJ" text="我军急需更多马匹供士卒行军代步。骑马远比步行迅捷，能大幅提升我军机动速度" />
+    <string id="UbYESeFl" text="我军运力不足，无法携带全部物资。你应增购驮兽或减轻负重，否则将严重影响行军效率" />
+    <string id="JH5TmMpG" text="我暂无任何顾虑。军队所需物资一应俱全" />
+    <string id="ZMF8uLTX" text="你尚可招募更多同伴。多招募些人手，对你达成目标会大有裨益" />
+    <string id="vxWLuhil" text="你可让同伴另组部队，为我军增添更多战力" />
+    <string id="PMhayatV" text="你应专注于提升声望，让你的功绩名扬天下" />
+    <string id="KTgtJZfN" text="不，我此刻暂无建言" />
+    <string id="cBrMWYYa" text="你的部下将你拖离战场，被迫舍弃那些贵重的战利品" />
+    <string id="85SLFWQT" text="拾荒者将剩余的战利品搜刮一空，把你丢在战场上。你混在尸堆中逃过一劫。许久之后你苏醒过来，战场已被洗劫得一干二净" />
+    <string id="oNW3TBci" text="[DEBUG] ApplyFinalEffect called" />
+    <string id="EkcWhcJj" text="检查颜色" />
+    <string id="x3I1aFDf" text="先川" />
+    <string id="qZJxFCAP" text="神指" />
+    <string id="K3MHJOzf" text="你获得了{item_NAME}" />
+    <string id="fJSTQddC" text="你获得了{QUANTITY}个{ITEM_NAME}" />
+    <string id="6ei05sr5" text="唉，难免失手，下次好运" />
+    <string id="1FAVJU6F" text="这结果本可能更糟" />
+    <string id="FdWQiM9X" text="好价钱！" />
+    <string id="D4WQ03TE" text="这买卖相当划算" />
+    <string id="TlmbVbKk" text="这东西定是要送往某位大人物手中的" />
+    <string id="1jxbLVAb" text="真该把那件东西留给自己！" />
+    <string id="g28Txmy1" text="真好奇那匹马是怎么塞进箱子里的" />
+    <string id="PnRQZEfa" text="对了，我的要价涨到{GOLD_COST}{GOLD_ICON}了。相信你不会介意的" />
+    <string id="FMZ0ghV3" text="井口" />
+    <string id="8x7RoWTn" text="部队出击迎敌时，在平原、道路与滩涂地形造成{VALUE}%额外伤害" />
+    <string id="CxvvRIGF" text="撞城锤生命值提升{VALUE}%" />
+    <string id="uw2EJ926" text="攻城炮击阶段，火箭射击精度提升{VALUE}%" />
+    <string id="lgAUoc4q" text="攻城炮击阶段，大筒与舰载火炮精度提升{VALUE}%" />
+    <string id="6Tur2rrI" text="搭建攻城营地时，直接获得{VALUE}门预制大筒" />
+    <string id="QHIohPDX" text="攻城炮击阶段，火箭装填速度提升{VALUE}%" />
+    <string id="l4cvImeo" text="攻城炮击阶段，大筒与舰载火炮装填速度提升{VALUE}%" />
+    <string id="VWJVxFVU" text="当管辖据点遭围城时，该据点直接获得{VALUE}支预制火箭" />
+    <string id="6xMGGe4p" text="蹲伏射击时，铁炮射击偏差降低{VALUE}%" />
+    <string id="LCsu8rXa" text="铁炮瞄准速度提升{VALUE}%" />
+    <string id="kTtaCTPd" text="我方阵型部队的铁炮伤害提升{VALUE}%" />
+    <string id="529NHHSF" text="妙手" />
+    <string id="W1qqtfBI" text="射击可击倒敌人" />
+    <string id="ySSwKUJh" text="我方阵型部队对步兵的铁炮伤害提升{VALUE}%" />
+    <string id="dGWUzXCL" text="我方阵型部队的铁炮装填速度提升{VALUE}%" />
+    <string id="fHMhFjsD" text="我方阵型铁炮部队对坐骑的伤害提升{VALUE}%" />
+    <string id="Ch0wCBTm" text="弹药匠" />
+    <string id="416yW4ah" text="每个弹药袋可携带{VALUE}发弹药" />
+    <string id="BQlWUEKS" text="我方队伍部队的每个弹药袋可携带{VALUE}发弹药" />
+    <string id="hlpmVD7n" text="子弹穿透敌人的概率提升{VALUE}%" />
+    <string id="25cXavCs" text="我方阵型部队的子弹穿透敌人概率提升{VALUE}%" />
+    <string id="cKMqGHvR" text="游击射击" />
+    <string id="L7EQvOVZ" text="装备铁炮时不会降低移动速度" />
+    <string id="3kmKLMcB" text="装填铁炮时，抵抗击退的概率提升{VALUE}%" />
+    <string id="prp1UaRW" text="我方阵型部队装填铁炮时，抵抗击退的概率提升{VALUE}%" />
+    <string id="sPM9IQlH" text="装备铁炮时，受到的投射物伤害变化{VALUE}%" />
+    <string id="dNIBUrXr" text="可在马背上装填任意铁炮" />
+    <string id="t1UqSzOM" text="骑马状态下使用铁炮，精度惩罚提升{VALUE}%" />
+    <string id="orDZfaJX" text="铁炮瞄准倍率提升{VALUE}%" />
+    <string id="gt4vBKfk" text="龟甲架势" />
+    <string id="toXgBYKx" text="管辖据点内的火箭射击精度提升{VALUE}%" />
+    <string id="Aj8B9yfi" text="站立装填铁炮时，受到的伤害降低{VALUE}%" />
+    <string id="zWnIMyec" text="骑马铁炮手" />
+    <string id="ZpNF5DHO" text="轻足" />
+    <string id="u2eo3AHh" text="手持远程武器时，移动速度提升{VALUE}%" />
+    <string id="RUEgGILC" text="我方阵型部队的铁炮伤害提升{VALUE}%" />
+    <string id="ULhJ2BBR" text="我方阵型部队以铁炮杀敌时，敌军士气流失幅度提升{VALUE}%" />
+    <string id="Uu1lqx60" text="技能等级每超过200点，铁炮精度提升{VALUE}%" />
+    <string id="QMiU3iTm" text="技能等级每超过200点，铁炮装填速度提升{VALUE}%" />
+    <string id="VswZE67u" text="手持单手武器时，移动速度提升{VALUE}%" />
+    <string id="BkfVgwd3" text="疾冲" />
+    <string id="naz45qEY" text="我方阵型步兵部队的 Athletics（ Athletics）技能提升{VALUE}点" />
+    <string id="dSFnJtyc" text="健步" />
+    <string id="3O4C4EC2" text="我方阵型步兵部队的近战伤害提升{VALUE}%" />
+    <string id="8llzDPS0" text="徒步状态下，单手武器伤害提升{VALUE}%" />
+    <string id="loCidkqu" text="步兵" />
+    <string id="iQWCmztO" text="我方阵型部队受到的近战伤害降低{VALUE}%" />
+    <string id="EVlZni6p" text="自身受到的近战伤害降低{VALUE}%" />
+    <string id="oyuPTDvy" text="接刀手" />
+    <string id="bdCxu48B" text="我方阵型部队受到的投射物伤害降低{VALUE}%" />
+    <string id="9snKkMjL" text="自身受到的投射物伤害降低{VALUE}%" />
+    <string id="u4eoqlJV" text="挡箭手" />
+    <string id="TJHe7hZ7" text="徒步状态下，单手武器的速度加成伤害提升{VALUE}%" />
+    <string id="gtAVT3kz" text="疾击" />
+    <string id="DIz9OlI1" text="甲胄大师" />
+    <string id="xaLv74Lz" text="二天一流" />
+    <string id="gvxoDz1A" text="我方阵型持双手武器的步兵移动速度提升{VALUE}%" />
+    <string id="VIj15GK5" text="手持双手武器时，自身移动速度提升{VALUE}%" />
+    <string id="c8E7CgiY" text="迅捷" />
+    <string id="nx99yrQz" text="我方阵型持双手武器的步兵，对头肩部位的伤害提升{VALUE}%" />
+    <string id="Lmdt15MZ" text="手持双手武器时，自身对头肩部位的伤害提升{VALUE}%" />
+    <string id="q1Mv3GSf" text="斩首者" />
+    <string id="xnEMoT62" text="我方阵型部队对骑马敌人的伤害提升{VALUE}%" />
+    <string id="Pj6utnXM" text="使用双手武器时，对骑马敌人的伤害提升{VALUE}%" />
+    <string id="0zKXPzDR" text="讨骑者" />
+    <string id="AzeWnhfQ" text="我方阵型部队受到的骑枪冲刺伤害降低{VALUE}%" />
+    <string id="BeP8m3cM" text="自身受到的骑枪冲刺伤害降低{VALUE}%" />
+    <string id="OzsarGrR" text="格挡" />
+    <string id="1xGrqmyz" text="神射手" />
+    <string id="L9IzUs3N" text="无效果" />
+    <string id="osdDuwdM" text="装备的近战武器附加{VALUE}点伤害" />
+    <string id="wKIM3IR6" text="远程攻城器械的生命值提升{VALUE}%" />
+    <string id="2K682EXF" text="谨慎的攻城者" />
+    <string id="Ol5DdN9s" text="着色器编译" />
+    <string id="Cl1ujhSW" text="神道教" />
+    <string id="UrWGFsmE" text="临济宗佛教" />
+    <string id="aj3IV2f2" text="真言宗佛教" />
+    <string id="LVOCapM2" text="天台宗佛教" />
+    <string id="mGkLxllp" text="曹洞宗佛教" />
+    <string id="NqLVEEEe" text="净土宗佛教" />
+    <string id="WyzxYdII" text="古河" />
+    <string id="ALDVQWST" text="着色器编译中。剩余待编译着色器数量：{NUM}" />
+    <string id="Ho7NV6cW" text="着色器编译中，请稍候。" />
+    <string id="zVxYny6o" text="黄金{@Plural}数车黄金{\@}" />
+    <string id="GrZDgUxn" text="白银{@Plural}数车白银{\@}" />
+    <string id="HwA94EF2" text="原棉{@Plural}数捆棉花{\@}" />
+    <string id="r1cUMuSQ" text="皮革{@Plural}数包皮革{\@}" />
+    <string id="e1Q8zRs1" text="石料{@Plural}数车石料{\@}" />
+    <string id="Rl42WnTL" text="硫磺{@Plural}数车硫磺{\@}" />
+    <string id="sGk6gVe1" text="漆料{@Plural}数车漆料{\@}" />
+    <string id="1jQdEqC6" text="染料{@Plural}数车染料{\@}" />
+    <string id="3fz2Vwcf" text="蜡烛{@Plural}数车蜡烛{\@}" />
+    <string id="K7VXY1Wi" text="{FACTION_NAME_1} 明令禁止交易 {ITEM}" />
+    <string id="n6nnkLxo" text="大名 {RULER.NAME}" />
+    <string id="hGldIz36" text="场景" />
+    <string id="BsBOSmUu" text="规模" />
+    <string id="emENhm0F" text="边界" />
+    <string id="pJ2lDJzO" text="宗教" />
+    <string id="rC4lHHH9" text="繁荣度" />
+    <string id="b1SrSoOO" text="村落5%的收入将作为赋税上缴领主氏族{newline}各氏族的村落收入减少5%" />
+    <string id="8IWeJkxs" text="重新评估农田赋税" />
+    <string id="22jztq3h" text="将市场控制权垄断给单一商人" />
+    <string id="NBa1B6CI"
+      text="家督氏族名下，每座城町每日增收百贯文{newline}所有城邑民忠每日下降1点" />
+    <string id="llEjLwul" text="向港口船只征收通行费" />
+    <string id="FH7tvZJG" text="放宽对商人和市场的管制" />
+    <string id="mbNv1Fmn"
+      text="大名组建军势（军团）的威光消耗降低30%{newline}大名所率军势恢复凝聚力的消耗降低30%{newline}非大名出身的贵族组建军势，威光消耗增加10%" />
+    <string id="WFq6kjg3" text="扩编并整编军势" />
+    <string id="YGMztJ6u" text="组建马廻众" />
+    <string id="2tHK82h3" text="允许领主在战时征收额外赋税" />
+    <string id="nNdNCX7R" text="确立否决权" />
+    <string id="1l2gNRuH" text="任命朝廷官员" />
+    <string id="G4cuQmxm" text="下令让农民返回原籍务农" />
+    <string id="3w9fb5BQ" text="鼓励领主组建大规模军势" />
+    <string id="kV03hiGq" text="授予领主附近领地的专属狩猎权" />
+    <string id="8pTg5PiA" text="允许领主对途经其领地的商路征收过路费" />
+    <string id="fgHiiI8T" text="授予名门贵族征召大规模军势的权利" />
+    <string id="OlsCZYJz" text="允许领主裁决争端" />
+    <string id="VhoIzOFo" text="向亲族授予实权职位" />
+    <string id="miabEuVG" text="下令豁免债务" />
+    <string id="ptsjea9T" text="设立诉讼意见箱" />
+    <string id="WXYQJVDf" text="任命山奉行" />
+    <string id="IllgM7Kx" text="邀请领主参与文化活动" />
+    <string id="f1z5RbSI" text="赋予村落更大的自治权" />
+    <string id="PUIiY4xj" text="动员民众备战" />
+    <string id="cKeAwTgH" text="据点治安度每日提升1点{newline}据点民兵招募速度每日降低1点" />
+    <string id="cZjWy4Gz" text="在领内没收平民的刀具" />
+    <string id="BRVrUrQY"
+      text="据点治安度每日提升1点{newline}据点忠诚度每日提升1点{newline}据点繁荣度每日降低1点{newline}村落户数每日减少0.5" />
+    <string id="gOu38UZd" text="驱逐村落中的新住民" />
+    <string id="yq8o9J0n"
+      text="据点繁荣度每日提升0.5点{newline}据点忠诚度每日降低0.5点{newline}氏族每日损失1点影响力{newline}酒馆中可能出现可招募的外籍佣兵" />
+    <string id="1KUzDD3X" text="采纳外籍顾问的建议" />
+    <string id="PwVPKd1n" text="利用人质作为外交筹码" />
+    <string id="FJDg7P4X"
+      text="招募领主加入军队的影响力消耗降低30%{newline}宗教场所的部队招募数量+1{newline}工坊产量降低15%{newline}氏族每日损失1点影响力" />
+    <string id="EbCONsrh" text="宣扬宗教狂热" />
+    <string id="fF6SC6ma" text="据点上缴给领主的赋税降低5%{newline}船只造价降低25%，建造速度提升25%" />
+    <string id="UanEAi9r" text="为造船匠预留优质材料" />
+    <string id="7kkACxYG" text="捐赠土地供宗教流派使用" />
+    <string id="XNaq1ZGK"
+      text="据点繁荣度每日提升2点{newline}氏族每日损失1点影响力{newline}据点税收收入提升15%{newline}据点忠诚度每日降低1点{newline}据点治安度每日降低1点{newline}每位名流每日向据点所属氏族贡献的影响力减少0.15点{newline}攻城时可使用舰载火炮" />
+    <string id="WKTJ5B9w" text="进口外来商品" />
+    <string id="xchx7qGu" text="据点繁荣度每日降低1点{newline}据点税收收入降低5%{newline}进攻攻城战时可使用弹药库" />
+    <string id="m62vfFP9" text="为战时囤积物资" />
+    <string id="RZnGckTy" text="你的船只数量不足以运输所有部队与俘虏" />
+    <string id="SqdpqFgu" text="你确定吗？" />
+    <string id="W9aYBhyT" text="你确定要晋升这支部队吗？" />
+    <string id="Ui98BXUq" text="奖励某支部队时，其阵型内的所有其他部队也会获得额外经验" />
+    <string id="D5URAD0z" text="服役期间无法查看领国详情" />
+    <string id="oMH9zxwf"
+      text="胁差。要那种锋利、轻便，能藏在衣服里不被守卫发现的好胁差。我们要订购{REQUESTED_AMOUNT}把胁差，我保证每把至少付{REWARD_PER_DAGGER}贯文，若是品质出众还能加价。另外我可以帮你联络{QUEST_SETTLEMENT}的铁匠，让你去他的工坊锻造。" />
+    <string id="OjmOVttG" text="好，我会为你锻造这些胁差" />
+    <string id="grBbtkAN"
+      text="{QUEST_GIVER.LINK}告诉你，{?QUEST_GIVER.GENDER}她{?}他{\\?}的手下需要一批特制胁差，要足够轻便小巧，能躲过城卫的检查。{?QUEST_GIVER.GENDER}她{?}他{\\?}请你去{QUEST_SETTLEMENT}的铁匠铺锻造{REQUESTED_AMOUNT}把胁差，并保证每把至少支付{REWARD_PER_ITEM}贯文，武器品质优异的话还会额外加价。" />
+    <string id="fWvxR6qu" text="你已集齐完成任务所需的胁差，返回{QUEST_GIVER.LINK}处交付吧" />
+    <string id="Tl06cyie" text="胁差就快锻好了，只差最后一点收尾工作……" />
+    <string id="BShw5zoY" text="拿去吧，这些胁差应该够你的手下用了" />
+    <string id="TR6lh3QR"
+      text="{QUEST_GIVER.NAME}不再需要胁差了。你可以回去找{?QUEST_GIVER.GENDER}她{?}他{\\?}领取报酬。" />
+    <string id="JhNOq2CJ" text="单手刀" />
+    <string id="C3cwPzsB" text="双手刀" />
+    <string id="sJ1xR4zT" text="战役设置" />
+    <string id="Ua2CxEoB" text="任务与战斗设置" />
+    <string id="oXTvd5od" text="打开浏览器窗口提交宿茂（Shokuho）模组的BUG报告（感谢支持！）" />
+    <string id="VWn4YikW" text="提交BUG报告" />
+    <string id="qKrU4nRJ" text="启用历史事件" />
+    <string id="7HhF6DhY" text="启用基于史实的世界事件。此类事件大多有时间限制，若在截止日期后启用，相关事件将不会触发" />
+    <string id="q4RLZ9qp" text="决斗失败时降低周边势力好感度" />
+    <string id="sY29YKrW" text="启用/禁用“决斗失败后降低周边名流好感度”功能" />
+    <string id="zNvVoX7w" text="阅读速度倍率" />
+    <string id="2LC0ZuTq" text="提高/降低你与同伴的读书速度（默认值：1.0）" />
+    <string id="RMWxF6Lf" text="服役期间进入城镇时暂停游戏" />
+    <string id="AmF8WwYx" text="勾选后，服役队伍进入城镇时游戏将暂停" />
+    <string id="2UsKvAqP" text="禁用趣味音乐" />
+    <string id="79Bq2VVi" text="勾选后，将禁用可能涉及版权的趣味背景音乐" />
+    <string id="sMUG2nEm" text="战场指物旗显示比例" />
+    <string id="cK5pUQrB" text="控制玩家与AI部队生成时携带指物旗（旗帜）的比例，设为0则禁用" />
+    <string id="4ALcy1NP" text="战斗规模阈值" />
+    <string id="p4Aiv6XG" text="提高/降低战斗需造成的伤亡数阈值，达到阈值后战场会遗留尸体" />
+    <string id="L8jA9CnR" text="启用决斗过场动画" />
+    <string id="dNzM5xNz" text="在决斗开始时启用过场镜头" />
+    <string id="M8VmqKMJ" text="部队晋升速度" />
+    <string id="uFV3PT2z" text="提高/降低部队获得晋升资格的概率" />
+    <string id="mEoHv3E8" text="允许服役期间撤退" />
+    <string id="bNCix8Yc" text="勾选后，玩家在服役期间可撤退，默认禁用" />
+    <string id="5LtYI0Nj" text="启用蹲伏射击" />
+    <string id="dcXYrEZc" text="勾选后，前排铁炮部队会蹲伏，方便后排部队越肩射击" />
+    <string id="eC3o2YrE" text="启用调试工具" />
+    <string id="4GCZqAbv" text="启用织丰（Shokuho）模组的部分调试功能，不影响游戏玩法" />
+    <!--中国地方
+    三好村-->
+    <string id="nVDIrAUN" text="三好" />
+    <string id="FlooLAMd" text="僧兵" />
+    <string id="CKvsb2RB" text="日式" />
+    <string id="X73pTaoL" text="火器" />
+    <string id="Glz6TpKU" text="操作与维护铁炮的相关知识" />
+    <string id="uU8Ibi86" text="你已处于扎营状态" />
+    <string id="WCO6rwqA" text="加入军队期间无法扎营" />
+    <string id="rsz7Ub0w" text="当前无法扎营" />
+    <string id="3jP411a4" text="此处无法扎营" />
+    <string id="ABC123xy" text="我收到消息，{SETTLEMENT}兵力空虚，易受攻城，或许是个不错的目标" />
+    <string id="Q8pzYbKn" text="你的据点{SETTLEMENT}驻军稀少，易遭敌军攻城。我们应招募更多士兵驻守城墙，必要时他们也能充当援军" />
+    <string id="ZpT91jXt" text="你的部队近况如何？" />
+    <string id="mQ5e2DkA"
+      text="我军目前有{NUM_OF_UNIT_TYPE}支{NAME_OF_UNIT_TYPE}，占全军总数的{PERCENT_OF_UNIT_TYPE}%。{RATIO_OF_UNIT_TYPE_StATUS}。{EXPERIENCE_OF_UNIT_TYPE_STATUS}。{OVERALL_STATUS_OF_UNIT_TYPE}。" />
+    <string id="gD4qNxXe" text="你对我军现状有何看法？" />
+    <string id="WnL8sUoR" text="你有何事要向我禀报？" />
+    <!--关东
+    织田家村-->
+    <string id="Z31UOoXV" text="织田" />
+    <string id="p8STbpcO" text="玉钢{@Plural}数车玉钢{\@}" />
+    <string id="Qcs1hp25" text="{CLAN_NAME} 之両国" />
+    <string id="LGjLJV7J" text="一位大名" />
+    <string id="eY1FJhML"
+      text="在芦名盛氏的统领下，芦名藩已崛起为地区性强权，掌控着会津核心地带——这片关东平原与日本北部之间的战略要冲。然而，周边势力的野心正不断挑战芦名的地位：北方崛起的伊达氏、西方的上杉氏、南方的佐竹氏皆虎视眈眈。尽管会津多山的地形令芦名藩防御稳固，但这些防线恐怕很快就要面临多线考验。" />
+    <string id="nYwPDoPH"
+      text="相马藩地处关东与奥羽的交界地带，虽在周边大藩的持续施压下仍维持着独立，但处境岌岌可危。崎岖偏远的地形虽为其构筑了天然的防御屏障，却依旧被更强大、更具侵略性的势力包围：西方的伊达氏刚从内乱中恢复元气，南方的佐竹氏与芦名氏则随时可能趁虚而入，相马的命运已笼罩在新的威胁之下。" />
+    <string id="92JF2pqv"
+      text="以日本北部内陆河谷为核心的伊达藩，经数代经营已成长为强大的地区势力，却因一场惨烈的继承权之争陷入衰弱。如今在伊达稙宗与其子晴宗的治理下，伊达藩虽尚未成为霸主，但掌控着肥沃平原、山地要塞与关键内陆要道的他们，已为日后向芦名、最上等周边对手扩张奠定了根基。" />
+    <string id="Nv7oBbND"
+      text="最上藩盘踞于日本北部偏远的多山地带，核心领地位于以其命名的山形盆地。曾为弱小势力的最上氏，在最上义光的谨慎经营下悄然巩固着影响力，却仍被伊达氏等更强大的对手环绕。" />
+    <string id="VT26i5uM"
+      text="安藤藩孤悬于本州北部的偏远地带，掌控着日本海崎岖的海岸线，占据着独特的战略位置。作为“北方之海的主人”，安藤氏长期掌控着延伸至虾夷（北海道）的航运路线与前哨据点，如今却因东部崛起的南部氏与南部的最上氏联手施压，陷入岌岌可危的境地。" />
+    <string id="o457szOu"
+      text="南部藩占据着本州最北端广袤而崎岖的土地。因遥远的距离与严酷的气候，南部氏世代统治此地，维持着稳定的领地，并与边境的虾夷人、阿伊努人通商。尽管日本其他地区深陷战乱，南部藩暂时未受波及，但这份超然无法永久延续，他们很快便需更坚决地与周边藩国交涉。" />
+    <string id="xsyQs09g"
+      text="以富庶的关东地区为根基、盘踞于宏伟的小田原城的北条藩，在北条氏康的统领下，通过外交与持续的征服不断扩张，如今已是日本东部最令人生畏的势力之一。然而，氏康将藩国大权交予其子氏政后，西方织田信长的崛起，以及边境上武田、上杉两氏的野心，令北条藩陷入四面受敌的险境。" />
+    <string id="Pu1ruQ4o"
+      text="里见藩以房总半岛南端为根据地，掌控着江户湾东岸与关东南部的海上航线，长期以来既反抗足利幕府，也抵御着西方崛起的北条氏，始终坚守独立。尽管领地规模较小，里见藩多年来成功击退北条的入侵，但随着越来越多领地臣服于小田原的北条氏，里见氏或许很快便要独自面对保全文独立的挑战。" />
+    <string id="3Qp3tQAp"
+      text="宇都宫藩坐落于关东肥沃的平原，地处连接北部地区与南方政治中心的要道，既是北关东的门户，也是其屏障。曾为镰仓幕府重臣的宇都宫氏，在地区战乱中势力渐衰；如今在宇都宫广纲的统领下，面对扩张主义的北条氏不断蚕食关东、以及北方上杉氏试图重夺该地区据点的威胁，宇都宫藩艰难地维持着稳定。" />
+    <string id="bNYeItS7"
+      text="以关东东北部为根基的佐竹藩，是日本东部最坚韧、最老牌的势力之一，挺过了足利秩序的瓦解与周边氏族的兴衰沉浮。尽管地理上远离京都周边的核心战乱，佐竹藩却身处冲突中心：北条与上杉为争夺动荡的关东地区霸权激战不休，而北方山地中或许还将涌现新的威胁。" />
+    <string id="CGhEAAEk"
+      text="朝仓藩长期以来都是北陆地区的强权，朝仓氏以一乘谷城为据点，作为越前守护崛起。在战国乱世中，朝仓藩试图维持稳定，如今却不得不为无可避免的军事冲突做准备——织田信长的军队正逼近此地，朝仓氏陷入两难：南方是信长的野心，西方则是与其维持着脆弱同盟的强大浅井氏。" />
+    <string id="223fsYNu"
+      text="姉小路藩藏身于飞驒的多山领国，凭借险峻的地形与天然的隔绝，长期远离低地大名间的激烈纷争。然而，姉小路氏的地位如今愈发受到威胁：东部强大的武田氏、南部扩张的织田氏，都觊觎着飞驒宝贵的山道与木材资源。" />
+    <string id="jsfn2IAQ"
+      text="以德川家康为新领袖的德川藩，以战略要地东海道西部为根基，正处于关乎存亡的转折点。桶狭间之战后，德川氏摆脱了今川氏的附庸枷锁，夺取了前宗主的西部领地；北部边境则因与桶狭间之战的胜利者织田信长缔结盟约而稳固，而信长此刻正准备进军京都。尽管如此，年轻的德川藩仍处境脆弱：卷土重来的今川氏，或是北方野心勃勃的武田氏，都可能趁信长出征之机将其覆灭。" />
+    <string id="z7frdeaW"
+      text="以上野（越后）多山领国为核心的上杉藩，是塑造日本东部政治格局的核心势力之一，对该地区保持着强大影响力，尽管与北条氏争夺关东控制权的连年战争使其领土扩张受阻。在被称为“越后之龙”的上杉谦信统领下，上杉藩正走在重振东国霸权的道路上，但必须先平定反叛的本庄氏——否则，北条氏与新兴的武田氏联手构成的威胁，将动摇上杉氏对关东的掌控，甚至危及藩国核心。" />
+    <string id="YSHijcWu"
+      text="本庄藩藏身于纷争不断的越后国，长期依附于强大的上杉宗主，却在本庄繁长的统领下斩断了附庸关系，试图通过“下克上”（家臣篡夺主家权力）提升自身地位。尽管领地狭小且被强敌环绕，但本庄氏可凭借当地多山的地形，以及各大藩之间的纷争，谋求从上杉氏的控制下独立。" />
+    <string id="wvnuJYRp"
+      text="以甲斐国为核心的武田藩，在被称为“甲斐之虎”的武田信玄的铁血统领下，成为全日本最令人畏惧、最善战的势力之一。信玄通过连年征战，将藩国疆域拓展至本土山地之外。尽管武田氏的主要精力仍放在与宿敌上杉氏的长期对抗上，但桶狭间之战中今川义元的战死，或许将导致维系武田南部边境的三国同盟瓦解——这既带来了新的扩张机遇，也暗藏着新的威胁。" />
+    <string id="S2rrDM36"
+      text="曾是东海道霸主的今川藩，在主公今川义元于桶狭间之战战死后迅速衰落：德川氏等前附庸纷纷叛离，倒向织田信长。新任大名今川氏真坐镇骏府，艰难地维持着对藩国与家臣的控制，而周边势力正伺机而动，企图瓜分这个曾经辉煌的藩国残余领地；甚至与北条、武田的三国同盟，也已出现裂痕。" />
+    <string id="xDXDCM2N"
+      text="赤松藩因支持新兴的足利幕府崛起，一度成为本州西部最强大的势力之一，却因立场反复与内部衰落，势力与领地日渐萎缩。如今的赤松氏已今非昔比，领地仅剩几处据点，还遭到崛起的浦上氏与持续扩张的毛利氏争夺。实力衰弱且被野心勃勃的大名环绕，赤松氏只能依靠残存的家臣保全仅剩的影响力，试图重夺该地区的昔日荣光。" />
+    <string id="l1FNS1s2"
+      text="曾是日本无可争议统治者的足利幕府，在应仁之乱摧毁京都、耗尽幕府仅存的实权后，权威沦为象征性的存在。经过百余年的内乱，如今的幕府将军已成傀儡，连对京都表面上的控制都难以维持。随着又一场继承权纷争分裂足利氏，幕府的存亡已走到十字路口：足利义荣或许仍能逆势而为，试图重振幕府的昔日权威；而足利义昭则追随织田信长进军京都，欲为自己夺回都城——尽管其权威终将受制于信长的野心。" />
+    <string id="X4zkzPVE"
+      text="畠山藩曾在足利幕府鼎盛时期权倾一时（畠山氏曾任管领，掌控幕府），如今却分裂为畿内（本家所在地）与北陆地区（畠山氏能登分支勉强掌控沿海领地）的零散领地。因地理与政治上的分裂而实力大减，畠山藩如今面临彻底消亡的风险：前附庸三好氏企图扩张对京畿地区的控制，而上杉谦信的阴影也笼罩着能登。" />
+    <string id="LhZcrfqy"
+      text="曾是京畿地区最大势力之一、足利幕府麾下强权的六角藩，如今领地仅剩鼎盛时期的一部分——在抵御周边对手与浅井氏等野心家臣叛乱的过程中，其影响力不断被侵蚀。尽管六角义贤试图重振藩国，但来自东部的新致命威胁已至：织田信长计划进军京都，拥立足利义昭为将军，并誓言铲除沿途所有抵抗势力，其中便包括六角氏。" />
+    <string id="lLqaLhzl"
+      text="浅井藩以畿内北部崎岖的山地为根基，在浅井长政的统领下迅速崛起：他摆脱了宗主六角氏的控制，将本家据点确立于小谷城。浅井藩掌控着京都与日本东部之间的关键路线，既掌握着重要的贸易动脉，也成为任何觊觎京都的大名的目标。得益于与邻国朝仓氏的古老同盟，以及近期与织田氏的联姻，浅井藩至今在风云变幻的局势中维持着平衡；但随着织田信长进军京都、拥立足利义昭为将军，浅井氏很快便要在新旧盟友间做出抉择。" />
+    <string id="aHd21BNV"
+      text="以尾张国为核心的织田藩，正处于一场革命性变革的中心。曾是深陷地方纷争的弱小势力，织田氏在果敢而冷酷的织田信长统领下迅速崛起，稳固了本土控制权，并征服了岐阜等周边领地。随着这些征服成果落地，且在击败进军京都的今川氏后与德川氏结盟、稳固南部边境，织田藩已成为征服天下的跳板——信长将目光投向京都，谋划着属于自己的统一天下之路。" />
+    <string id="EHEKPIRb"
+      text="一向宗（意为“专一念佛宗”）并非由大名统治的封建藩国，而是由僧兵与农民信徒组成的神权联盟，以净土真宗（又称一向宗）教义为纽带，在门主显如的统领下联合起来。经过多年对抗武士统治的斗争，一向宗掌控了畿内与北陆地区的关键地带，主寺城位于大阪。因被企图剿灭他们的敌对武士大名团团包围，一向宗只能依靠僧兵与虔诚的信徒求存，并传播其对净土真宗的诠释。" />
+    <string id="6yN2Mn1R"
+      text="浦上藩藏身于山阳道的多山地带，占据着连接日本西部与畿内、京都的要道，战略位置至关重要。尽管领地规模远逊于周边势力，但在浦上宗景的统领下，浦上氏趁赤松氏衰落崛起，成为崛起的毛利氏与旧秩序残余势力之间的缓冲。然而，其能否继续独立，取决于能否让周边各大藩相互制衡。" />
+    <string id="VwQITTl2"
+      text="尼子藩在尼子晴久的统领下崛起，通过激进的征战挑战大内氏与毛利氏对日本西部的霸权。曾是山阳道霸主的尼子藩，却在晴久死后近乎覆灭，领地被昔日的敌人与家臣瓜分。如今的尼子氏分崩离析、实力衰弱，最后的希望寄托于尼子胜久——这位还俗的僧人成为领地继承者，开始召集氏族残部与忠诚武士，试图夺回失去的荣誉与领地。" />
+    <string id="0KYD9IKs"
+      text="毛利藩击败前宗主大内氏后迅速崛起，成为日本最令人生畏的势力之一。前任大名毛利隆元离奇去世五年后，其15岁的儿子毛利辉元即将继位。外祖父毛利元就以摄政身份辅佐家族，但身体每况愈下，整个藩国充满不确定性。山阳道众多的山地与沿海河谷，为入侵的军队构筑了天然屏障，也造就了对众多小氏族的独特分权统治模式。作为海上霸主，毛利氏麾下掌控着濑户内海的村上水军，令过往船只闻风丧胆。在九州站稳脚跟后，毛利氏如今将目光投向由大友氏掌控的贸易重镇博多。" />
+    <string id="3EIYubRB"
+      text="西园寺藩位于四国岛西南部，西园寺氏因京都朝廷动荡迁居至此。以黑濑为据点，西园寺氏巩固了对领国的控制，同时与邻国一条氏竞争。然而，其权威愈发受到威胁：北方扩张的毛利氏、东部的长宗我部氏，都对其虎视眈眈。因多山地形而孤立，西园寺藩必须缔结强力同盟才能保全独立——否则，西园寺氏的贵族传承或将终结。" />
+    <string id="iAlki3Jx"
+      text="一条藩曾是四国岛的核心势力之一，一条氏在应仁之乱期间逃离京都，迁居至此。以中村为据点，一条氏掌控了四国南部大部分地区，并试图重现他们在京都熟悉的有序、文雅的统治。然而，尽管百般努力，其势力仍在日益增长的不满与前家臣的野心中衰落——首当其冲的便是长宗我部氏：他们斩断附庸关系，夺取了土佐国的大部分领地。如今的一条藩脆弱不堪、四面楚歌，要想在即将到来的攻势中幸存，必须重新掌控前家臣，并击退老对手西园寺氏与新兴毛利氏的进一步侵略。" />
+    <string id="hvkG6C1K"
+      text="长期被限制在四国南部的长宗我部藩，在大名长宗我部元亲的统领下近期强势崛起，挑战曾是土佐国无可争议主人的衰弱一条氏。尽管被毛利、西园寺等强敌环绕，但只要长宗我部氏能最终驱逐前宗主，便完全有能力征服整个四国岛。" />
+    <string id="PbLmdBP2"
+      text="三好藩在已故大名三好长庆的统领下，从默默无闻迅速崛起为日本政治核心地带的霸主。曾是细川氏家臣的三好氏，推翻前宗主后夺取了畿内西部与四国东部的大片领地，从摇摇欲坠的足利幕府手中夺权。尽管三好氏的影响力已延伸至日本中部大部分地区，但在魅力领袖长庆去世后，他们站在了失去一切的悬崖边——有传言称，织田信长正计划拥立足利义昭进军京都，一场风暴即将来临。" />
+    <string id="yPkAFvDs"
+      text="岛津藩刚从一场令其分裂衰落的内战中走出。新继位的岛津义久继承父亲统一旧领的夙愿，成功收复了核心地区。岛津氏及其附庸近期的一连串胜利，使其在该地区占据了举足轻重的地位。凭借卓越的领导力、引进的西洋技术，以及繁荣的港口城市，岛津氏在战场内外都占据优势。随着分裂的领地重新统一，义久与其兄弟将目光投向九州其余地区，一场宏大的征服即将开启。" />
+    <string id="ia1G8yFA"
+      text="肝付藩盘踞于九州南部崎岖的地带，地处火山高地与海洋之间；凭借天然防御，肝付氏长期对更强大、更具侵略性的周边势力保持强硬的独立姿态。如今，强大的岛津氏结束内乱、重启扩张，肝付藩必须为生存做最后的抗争。" />
+    <string id="vcfqZy3J"
+      text="伊东氏自称藤原氏旁支后裔，是历史悠久的强大氏族。镰仓时代，伊东氏作为岛津氏的附庸，将据点确立于日向国。现任大名伊东义祐，在一场血腥的家族继承权之争中击败叔父后掌权。在义祐的绝对统治下，伊东氏扩张了对日向国的控制，并将昔日宗主（如今的死敌）岛津氏逐出日向南部。为了不辜负这份独立，伊东氏必须向日本各地寻求盟友——与岛津氏的决战无可避免，这场战争将决定伊东氏的未来。" />
+    <string id="EJu8DweB"
+      text="阿苏藩坐落于九州中部的多山腹地，是日本最古老的藩国之一：阿苏氏因与阿苏神社的特殊关联，在领地内同时拥有精神与世俗权威。然而，尽管出身显赫，阿苏藩早已衰落；如今被争夺九州控制权的各大藩包围，面对周边大友氏、岛津氏的激进扩张，阿苏氏却兵力有限，压力与日俱增。" />
+    <string id="q0eaFPt4"
+      text="相良藩曾击败岛津氏，得以保全独立。尽管取得胜利，但战争已使其处境岌岌可危：兵力枯竭，而敌人依旧强大。相良氏最大的优势是领地内天然的山地，构成了绝佳的防御阵地。这是一个坚韧的氏族，誓要战斗到最后一人。尽管处境凶险，但或许命运会眷顾相良氏，日本或将迎来由他们主导的新时代。" />
+    <string id="L8hNZI3y"
+      text="大友藩是九州地区的主导氏族之一，掌控着岛屿东部丘陵地带的大片领土。沿海繁荣的港口城市将基督教与海外贸易引入大友领地，大友氏与欧洲人的文化、技术交流，使其在日本的技术军备竞赛中占据上风——麾下配备了大量进口的火绳枪。其领地从南部的丰后延伸至北部的博多，横跨九州大片区域。然而，大友氏绝非高枕无忧：毛利氏从山阳道入侵，夺取门司城，威胁到大友氏对贸易重镇博多的控制。毛利氏在九州站稳脚跟，而龙造寺氏又在西部崛起，大友氏必须在大名大友宗麟的统领下团结一心，否则将失去赖以立足的土地与港口。" />
+    <string id="0yO00JvY"
+      text="有马藩因贸易繁荣而成为富庶之地：外国人带来了西洋武器与远方的珍奇货物，试图与日本建立贸易路线。这让有马藩积累了巨额财富，也引来敌人的觊觎。有马氏坐落于肥前国西部，被众多岛屿环绕。凭借贸易优势与西洋武器，有马藩有潜力称霸日本，但必须警惕其他氏族将其领地视为觊觎的目标。" />
+    <string id="qJG8cyGT"
+      text="龙造寺藩令敌人闻风丧胆：其势力不断壮大，领地迅速扩张。曾多次以弱胜强，击败远比自己强大的对手。龙造寺氏最大的优势是战略战术，擅长伏击战并发挥出巨大威力。龙造寺藩位于肥前国东部，被大友、毛利、有马三氏包围。尽管威名远扬，他们仍需步步为营、谨慎周旋——否则，野心或将过早覆灭。" />
+    <!--Muro
+    village in southern Chubu (Tokai)-->
+    <string id="Z1I0sr9p" text="室" />
+    <string id="nYD2Zvp6"
+      text="樱洞城深藏于东山道腹地的群山之中，长期作为姊小路氏的设防居城，扼守着进入日本中部的要道。其居高临下的地势可俯瞰下方崎岖的山谷，是控制该地区交通与通讯的战略要地。" />
+    <string id="WtjHvAqv" text="舰载火炮弹药" />
+    <string id="MfNoq6Ly" text="船只运力超载" />
+    <!--氏族名，非据点名-->
+    <string id="ZXRwWBSj" text="安津氏" />
+    <string id="TI0M6tgm" text="犬山" />
+    <string id="tlwn5jzb" text="多良木" />
+    <string id="SklAINnF" text="新居凑" />
+    <!--九州
+    幸次郎村-->
+    <string id="cpQhL9ZC" text="幸次郎" />
+    <string id="ptsxzysa" text="决斗者" />
+    <string id="mpqw8uFw" text="越府城" />
+    <string id="QQgyTXVh" text="剩余弹药：{AMMO_REMAINING}{newline}弹药库" />
+    <string id="Mo22PrsD" text="农兵" />
+    <string id="bVEZABKY" text="濑户内海武士" />
+    <string id="uTvwkVrj" text="长枪队尉" />
+    <string id="DwpUvrlB" text="剑术家" />
+    <string id="bYnC4PzA" text="野太刀侍" />
+    <string id="ueoTC1aR" text="装甲骑兵队尉" />
+    <string id="LTbhqPDo" text="女武者" />
+    <string id="IcdAbYtB" text="弓手队" />
+    <string id="QtEPHpJz" text="鬼决斗者" />
+    <string id="OvCkKj8K" text="征召僧铁炮手" />
+    <string id="2mAlI14M" text="野研城" />
+    <string id="BaPSdev3" text="富夫" />
+    <string id="3x74cIEb" text="你暂无可晋升的部队" />
+    <string id="NRK5egJn" text="决斗地点" />
+    <string id="Ut0j0gHn" text="旅人，欢迎前来。可愿与我一战？" />
+    <string id="yoxALT1I" text="看你身佩兵刃，可敢一试身手？" />
+    <string id="WVtS6m4x" text="阁下安好，可有意切磋一番？" />
+    <string id="PWBx6hXq" text="就是你！{newline}来与我一战！" />
+    <string id="n1OFscp8" text="甚好。我向来乐与高手过招。{newline}规则简单：以木刃相斗，直至一方无力再战。" />
+    <string id="ctk4Evs3" text="倒要看看你究竟有几分本事。我们用木刃对决，直到其中一人无法再战为止。" />
+    <string id="DgWZcy0G" text="那就来吧。我们用木刃交手，先倒下的一方算输。" />
+    <string id="QvKVaW2Z" text="好！{newline}先倒者败，只许用木刃。" />
+    <string id="TUF1MbMm" text="你赢了我。看来你是位技艺精湛的武者，我尚有许多要学之处。{newline}多谢此番赐教。" />
+    <string id="gJ4ewbF9" text="你确实是位强劲的对手。我必须勤加练习了。愿你此后征战皆能取胜。" />
+    <string id="CslGHVKr" text="哇！最后那一招太精彩了。{newline}或许我日后能向你讨教吗？{newline}多谢赐教。" />
+    <string id="RWsjVJhM" text="我认输！你击败了我！{newline}你果然是位高手，多谢让我明白自己还有许多不足。" />
+    <string id="DXxCfjq7" text="你打得不错，但看来仍有不少要学的地方。" />
+    <string id="uAlokHRw" text="不堪一击。" />
+    <string id="IPRI0kkj" text="好险的一场比试。{newline}我相信下次你定能赢我。" />
+    <string id="DWogzAv1" text="真是可悲。你毫无胜算，快从我眼前消失。" />
+    <string id="yeOhCrN8" text="铁炮装填速度：+{a0}%" />
+    <string id="KQZrWAc8" text="铁炮精准度：+{a0}%" />
+    <string id="FPRIRmVI" text="五戸" />
+    <string id="OVKfZE0B" text="徳巌寺" />
+    <string id="rIe40xil" text="古川凑" />
+    <string id="ZNtlxLOb" text="你暂无可用船只" />
+    <string id="dvmAwCkr"
+      text="服役期间参与海战极易出现BUG。你的领主知晓此事，允许你体面地待在甲板下等待战斗结束，以避免游戏卡死。若选择此选项，你将无法获得本场战斗的经验值。" />
+    <string id="tG0GXnAN" text="允许工坊使用玩家资金" />
+    <string id="O9akBIr6" text="勾选后，设置为“所有产出存入仓库”的工坊将可使用玩家氏族的资金采购原材料" />
+    <string id="tfp4Fwvx" text="无主" />
+    <string id="gShZwf3y" text="{PARENT_KINGDOM} 在内战中落败，未能维持领国统一。" />
+    <string id="YFWH9FG8" text="启用穿透攻击" />
+    <string id="RKM3c49M" text="勾选后，近战武器挥砍时可穿透目标，单次攻击命中多名敌人" />
+    <string id="Ui98BXUq" text="地形画质提示" />
+    <string id="0wK62NqV" text="将地形画质设为“低”时可能导致游戏崩溃。{newline}若遇崩溃问题，请将地形画质调整为“中”或更高。" />
+  </strings>
+</base>

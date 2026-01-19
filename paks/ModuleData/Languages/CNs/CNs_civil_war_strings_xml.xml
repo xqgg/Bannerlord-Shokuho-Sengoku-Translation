@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="0WVHMfN8" text="反乱军土崩瓦解" />
+    <string id="BVNGIAMM" text="{PARENT_KINGDOM} 平定了席卷领国的反乱。{PLAYER_PARTICIPATION}" />
+    <string id="x5ThZR5A" text="新领国崛起" />
+    <string id="nRxyMIEE" text="{PARENT_KINGDOM} 输掉了内乱，领国一统之势尽失。{KINGDOM} 趁势立国。{PLAYER_PARTICIPATION}" />
+    <string id="1OQGJkqb" text="反乱派系举旗" />
+    <string id="pqjZ6wck" text="{KINGDOM} 境内有反乱派系冒头！为首的是{CLAN_NAME}一族。{DEMAND}" />
+    <string id="ZAfNviVS" text="裂领自立" />
+    <string id="wUspUo1y" text="让出督位" />
+    <string id="LF19GulH" text="脱离当前领国！该派系众人将另立领国。仅门第四等及以上的氏族，可发起裂领自立派系。" />
+    <string id="GK1seKeJ" text="逼领国之主退位！新的领国之主将由推举定夺。" />
+    <string id="brEXAKDb" text="反乱军要求其领地脱离领国，裂土自立。" />
+    <string id="8A6JPMWp" text="反乱军要求{LEADER}让出督位！" />
+    <string id="ChzQncc0" text="反乱" />
+    <string id="WUAv0u4U" text="招兵买马" />
+    <string id="fw0k1KFl" text="诉求：{DEMAND_NAME}" />
+    <string id="FajeZClv" text="{REBELS}（{KINGDOM} 反乱军）" />
+    <string id="nAvLFv5Q" text="内乱爆发" />
+    <string id="2PpZkBOB" text="{KINGDOM} 境内爆发内乱！{REBEL_KINGDOM} 由{CLAN_NAME}一族统领。{DEMAND}" />
+    <string id="o0HIAHqg" text="反乱领国不受外交手段针对。" />
+    <string id="GKSaZESx" text="新主君推举定夺，反乱军诉求已了，{PARENT_KINGDOM} 的{REBELS} 就此散伙。" />
+    
+    <string id="BPcKHP0D" text="你身为反乱之首，挣得{INFLUENCE}点威光（影响力）。" />
+    <string id="UoMvwnTb" text="你身为反乱之首，折损{INFLUENCE}点威光（影响力）。" />
+    <string id="QiX6m5cp" text="你身为反乱一员，挣得{INFLUENCE}点威光（影响力）。" />
+    <string id="yrz8GMUb" text="你身为反乱一员，折损{INFLUENCE}点威光（影响力）。" />
+
+    <string id="SNLviWvc" text="你身为保主派之首，折损{INFLUENCE}点威光（影响力）。" />
+    <string id="2I1X5fAC" text="你身为保主派之首，挣得{INFLUENCE}点威光（影响力）。" />
+    <string id="4FfA8RL4" text="你身为保主派一员，折损{INFLUENCE}点威光（影响力）。" />
+    <string id="uUu7DEDU" text="你身为保主派一员，挣得{INFLUENCE}点威光（影响力）。" />
+    
+    <string id="f66sNaiz" text="你无法参与反乱！" />
+
+    <string id="DZ6dpEn3" text="加入派系" />
+    <string id="uTCw0WiH" text="退出派系" />
+    <string id="1OUDq7Ul" text="势力制衡" />
+    <string id="5q7TvMGL" text="举旗反乱" />
+    <string id="Ysrttgis" text="起事时日：{CAMPAIGN_TIME}" />
+    <string id="o3w3jNzZ" text="诉求：{DEMAND_NAME}" />
+    <string id="hbPiVQVK" text="态势：{STATUS}" />
+    <string id="TvSHYACm" text="战力：{STRENGTH}" />
+    <string id="dlANhHUd" text="诸派系" />
+    <string id="hBSo0Ziq" text="创建派系" />
+    <string id="2PglxF8k" text="选定派系诉求" />
+    <string id="gypPPxUJ" text="诸派系" />
+    <string id="aWWzFITw" text="主君退位" />
+    <string id="2Pv3DsVm" text="{PARENT_KINGDOM} 在内乱中败于{REBELS}之手。{LEADER} 将让出督位。{PLAYER_PARTICIPATION}" />
+    <string id="GkhKppOk" text="封地不足" />
+    <string id="Jc1mCVuY" text="特质：精于算计" />
+    <string id="cjbVV7E3" text="氏族门第不足" />
+    <string id="Vp9EcnuC" text="派系倾向" />
+    <string id="dr1OCcmL" text="与主君的关系" />
+    <string id="mouJZAAy" text="与领袖的关系" />
+    <string id="FtX4LPXF" text="领国规模" />
+    <string id="VFwDRHc7" text="参与者" />
+    <string id="IYO5TNTg" text="统治法理" />
+    <string id="YLUocN5e" text="领袖持有统治法理" />
+    <string id="qAcR4Yee" text="派系内亲善氏族" />
+    <string id="1AZK0UVJ" text="主君无统治法理" />
+
+    <string id="ovgs58sT" text="反乱未平，不可另立新派系！" />
+    <string id="VbpiW2bd" text="内乱甫定，不可即刻另立新派系！" />
+    <string id="JDk8ustS" text="浪人（佣兵）无权创建派系。" />
+    <string id="quo5erz6" text="主君无权创建派系。" />
+    <string id="luvsD6Zn" text="不可在反乱领国内创建派系。" />
+    <string id="iXMeCmj0" text="氏族门第需达四等及以上。"/>
+    <string id="Xu3rnEEa" text="须归属于{KINGDOM_NAME}，方可创建{KINGDOM_NAME}派系。" />
+    <string id="DxJH7ciY" text="一领国仅可存一个逼主退位的派系。" />
+    <string id="zTZWwJfN" text="你无法统领两个派系。" />
+    
+    <string id="EYB5Uggd" text="领袖特质：{TRAIT}" />
+    <string id="E00ywbqb" text="主君特质：{TRAIT}" />
+
+    <string id="GeevRiNR" text="{LABEL}{newline} {newline}{REASON}" />
+    <string id="ALSuNVzE" text="{EXCEPTION}{newline} {newline}{DEMAND_HINT}" />
+
+    <!-- 设定项 -->
+    <string id="eDZeFUTH" text="内乱机制" />
+    <string id="VB97zQeJ" text="内乱间隔最低天数" />
+    <string id="5cUqaLk4" text="领国内结束一场内乱后，需间隔此最低天数，才会滋生新的反乱派系。默认值为240日。" />
+    <string id="UdadyqpN" text="每日发起反乱派系概率" />
+    <string id="yznXCi1d" text="某氏族每日发起反乱派系的概率。默认值为100%。" />
+    <string id="r312b3Of" text="每日加入反乱派系概率" />
+    <string id="06oPGRj0" text="某氏族每日加入其支持的反乱派系的概率。默认值为100%。" />
+    <string id="lIbUuQB1" text="每日爆发内乱概率" />
+    <string id="zr10ZS3L" text="获得足够支持的派系，每日爆发内乱的概率。默认值为50%。" />
+    <string id="VNILqmoY" text="派系存续最长天数" />
+    <string id="rNJIvaSm" text="派系若未引发内乱，最长可存续的时长。默认值为120日。" />
+    <string id="6kNmdLxZ" text="创建派系声望消耗" />
+    <string id="EwbXg3va" text="创建派系所需消耗的威光（影响力）。默认值为100点。" />
+    <string id="7wK0mmw1" text="派系倾向" />
+    <string id="aqvIdG7w" text="影响氏族创建/加入派系倾向的评分修正值。提高此数值会增加派系参与度。默认值为0。" />
+  </strings>
+</base>

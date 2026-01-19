@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="简体中文" />
+  </tags>
+  <strings>
+    <string id="MYz8nKqq" text="外交" />
+    <string id="hPERH3u4" text="已加载外交" />
+
+    <string id="TS1iV2pO" text="威光（影响力）不足！" />
+    <string id="XQFxDr11" text="有活跃任务正在进行，无法执行此操作！" />
+    <string id="ONNcmltF" text="此战为时尚短，暂不可议和平！仅持续了{ELAPSED_DAYS}日，需满{REQUIRED_DAYS}日方可行。" />
+    <string id="GuPOCNNZ" text="休战协定刚达成不久，不可贸然撕毁！仅过去{ELAPSED_DAYS}日，需满{REQUIRED_DAYS}日方可行。" />
+
+    <string id="v0cDMIcl" text="无法向该领国宣战。 " />
+    <string id="Pqk3WuGz" text="无法与该领国议和。 " />
+    <string id="9aaZ8Ed4" text="领国主君互为挚友，不可宣战。" />
+    <string id="Zimavbgw" text="领国主君私交甚笃，不可宣战。" />
+    <string id="pXD8Uf2e" text="领国主君氏族有联姻之好，不可宣战。" />
+      
+    <string id="zv12jjyW" text="信使已派出" />
+    <string id="uy86VZX2" text="信使抵达" />
+
+    <string id="JmgAuONd" text="糟了！信使前往面见{HERO_NAME}途中，遭暗处怪诞之物伏击吞噬！" />
+    <string id="YnRmSele" text="{FACTION1_NAME}的信使已抵达{ADDRESSEE_TEXT}处{BRIBE_TEXT}。" />
+    <string id="qNWMZP0z" text="{FACTION1_NAME}的信使将在{TRAVEL_TIME}日内抵达{ADDRESSEE_TEXT}处。" />
+    <string id="nYrezEOX" text="信使遇害" />
+    <string id="A5lug0JY" text="你的信使前往面见{HERO_NAME}途中，遭山贼伏击身亡！" />
+    <string id="vGyBQeEk" text="{HERO_NAME}{?HAS_FACTION}（{FACTION2_NAME}所属）{?}{\?}" />
+    <string id="sQxAljGF" text="{NEW_LINE} {NEW_LINE}可惜信使被拒于本丸之外，只能尝试贿赂守卫。需消耗{?IS_FEMALE}她{?}他{\?}{GOLD_COST}{GOLD_ICON}贯文资金，费用需由你承担{?CAN_AFFORD}。{?}，但你目前无力支付。{\?}" />
+
+    <string id="bLR91Eob" text="{REASON}信使无法抵达收件人处。" />
+    <string id="hPra5uwZ" text="信使要么听不懂你的玩笑，要么对此不满，拒绝执行任务。" />
+    <string id="1mlXBnSs" text="你对{HERO_NAME}知之甚少，无法为信使指明其下落。" />
+
+    <string id="vhsHDMil" text="{HERO_NAME}已身故。 " />
+    <string id="CusN2JMb" text="{HERO_NAME}遭{?IS_MOBILE}俘于{?}囚于{\?}{DETENTION_PLACE}。 " />
+    <string id="1BISlFYx" text="{HERO_NAME}亡命天涯，不愿被人寻获。 " />
+    <string id="ze8KJ1oL" text="{HERO_NAME}刚获释不久，暂不接受会面邀约。 " />
+    <string id="N5T6IXWJ" text="{HERO_NAME}微服出行。 " />
+    <string id="3lknR86H" text="{HERO_NAME}资历尚浅，无权参与正式会面。 " />
+
+    <string id="BkGSVccZ" text="和平提案" />
+    <string id="3fTqLwkC" text="接受" />
+    <string id="dRoMejb0" text="拒绝" />
+
+    <string id="cXfcwzPp" text="派遣信使" />
+
+    <string id="N06wk0dB" text="城池陷落" />
+    <string id="Zy0yjTha" text="你身为{SETTLEMENT_NAME}的攻陷者，享有优先认领权。是否要将此封地收归麾下？" />
+
+    <string id="IWZ91JVk" text="资金不足！" />
+
+    <string id="LpoyhORp" text="授予封地" />
+    <string id="h3b1S5Wq" text="将封地授予{CLAN_NAME}氏族" />
+    <string id="jznJfkfU" text="封地已授予" />
+    <string id="cXbgaPSm" text="{SETTLEMENT_NAME}已授予{CLAN_NAME}氏族。"/>
+
+    <string id="FqeN0fmR" text="你无法将封地授予自家氏族。" />
+    <string id="zdSYUnZQ" text="你并非领国之主。" />
+    <string id="D61vzEC7" text="你暂无封地可授予。" />
+    <string id="98hwXUTp" text="向领国氏族授予封地" />
+    <string id="Q7jRqnez" text="无法将封地授予佣兵氏族。" />
+
+    <string id="DrnXprup" text="你方近期刚结束战事，暂不可缔结盟约。仅过去{ELAPSED_DAYS}日，需满{REQUIRED_DAYS}日方可行。" />
+    <string id="KHJyWj9H" text="无法缔结盟约。" />
+    <string id="UQZmdLzc" text="交战状态下不可缔结盟约。" />
+    <string id="qIa19an4" text="盟约已成" />
+    <string id="3pbwc8sh" text="结盟提案"/>
+    <string id="QbOqatd7" text="{KINGDOM}向{PLAYER_KINGDOM}提议结盟。" />
+
+    <string id="384jX28Q" text="{KINGDOM}宣布与{PLAYER_KINGDOM}解除盟约。"/>
+    <string id="D1ZQKZr1" text="盟约破裂" />
+
+    <string id="0WPWbx70" text="缔结盟约" />
+    <string id="K4GraLTn" text="解除盟约" />
+
+    <string id="VvTTrRpl" text="该势力无意与你缔结盟约。" />
+    <string id="wst0lArp" text="此盟约为时尚短，暂不可解除！仅持续了{ELAPSED_DAYS}日，需满{REQUIRED_DAYS}日方可行。" />
+
+    <string id="KqfNSsBE" text="同盟势力" />
+    <string id="Dirltd6Z" text="盟约功能已禁用。" />
+
+    <string id="Q8ItogIP" text="直接向{ENEMY_LEADER}提议{WAR_REPARATIONS_AND_TRIBUTE}{FIEFS_TO_RETURN}" />
+    <string id="BC7823G2" text="{?REPARATIONS_PAY}，支付{REPARATIONS}贯战争赔款{?TRIBUTE_PAY}，另加每日{TRIBUTE}贯贡金。{?}{?TRIBUTE_GET}，但可获每日{TRIBUTE}贯贡金。{?}{\?}{\?}{?REPARATIONS_GET}，获{REPARATIONS}贯战争赔款{?TRIBUTE_PAY}，但需支付每日{TRIBUTE}贯贡金。{?}{?TRIBUTE_GET}，另加每日{TRIBUTE}贯贡金。{?}{\?}{\?}{?}{?TRIBUTE_PAY}，支付每日{TRIBUTE}贯贡金。{?}{?TRIBUTE_GET}，获每日{TRIBUTE}贯贡金。{?}。{\?}{\?}{\?}{\?}" />
+    <string id="9CvcPwJA" text="{?FIEFS_ANY} 你可能需归还部分攻占的封地！{?}{\?}" />
+
+    <!-- 百万与千的显示 -->
+    <string id="6xcW68Tw" text="{VALUE}百万" />
+    <string id="oD4fZ2tY" text="{VALUE}千" />
+
+    <string id="XlL50Ha9" text="玩家正在攻城期间，无法与该领国议和。" />
+
+    <string id="bCOCjOQM" text="关系" />
+    <string id="RxawrCjg" text="受封者关系提升" />
+
+    <string id="fXcEtO29" text="不可同时拥有生效的互不侵犯条约。" />
+
+    <string id="zpNalMeA" text ="盟约" />
+    <string id="y5tXjbLK" text ="战事" />
+    <string id="noWHMN1W" text ="互不侵犯条约" />
+
+    <string id="yj4XFa5T" text="互不侵犯条约提案"/>
+    <string id="gyLjlpJB" text="{KINGDOM}向{PLAYER_KINGDOM}提议签订互不侵犯条约。"/>
+
+    <string id="9pY0NQrk" text="签订条约"/>
+    <string id="9zlQNtlX" text="签订有效期{DAYS}日的互不侵犯条约。"/>
+
+    <string id="1occw3EF" text="状态"/>
+    <string id="OvbY5qxL" text="总览"/>
+
+    <string id="UDC8eW7s" text="{ALLIED_KINGDOM}将加入盟友{KINGDOM}的战事，共同对抗{ENEMY_KINGDOM}。"/>
+
+    <string id="pdI7Tjtj" text="互不侵犯条约失效"/>
+    <string id="uWY09LJb" text="{KINGDOM}与{OTHER_KINGDOM}的互不侵犯条约已失效。"/>
+
+    <string id="dUCOV7km" text="腐败（封地过多）"/>
+    <string id="koTNaZUX" text="威光衰减（威光过剩）"/>
+    <string id="uZc8Hg01" text="每日最大威光损失"/>
+
+    <string id="kMjfN2fB" text="取消信使派遣"/>
+
+    <string id="q5qphBwi" text="势力薄弱"/>
+    <string id="sygtLRqA" text="关系"/>
+
+    <string id="cmOSpfyW" text="与{ALLIED_KINGDOM}的盟约"/>
+    <string id="RqQ4oqvl"  text="与{ENEMY_KINGDOM}的战事"/>
+    <string id="t6YhBLj7" text="与{KINGDOM}的互不侵犯条约" />
+    <string id="BjkwaNot" text="与{KINGDOM}主君氏族的联姻" />
+
+    <string id="M4SGjzQP" text="该势力无意与你签订互不侵犯条约。"/>
+
+    <string id="Gzq6VHPt" text="捐赠资金"/>
+    <string id="N7goPgiq" text="篡夺君位"/>
+    <string id="WVe7QwhW" text="篡夺该领国君位\n氏族支持度：{SUPPORTING_TIERS} / {OPPOSING_TIERS}"/>
+
+    <string id="CxdpR6w4" text="扩张主义"/>
+
+    <string id="ARNRwPrY" text="联军形成"/>
+	  <!-- 此处已将卡拉迪亚改为日本，其他翻译未改动。源自外交模组 -->
+    <string id="qbLPBlIv" text="日本诸势力对{EXPANSIONIST_KINGDOM}的无休止扩张渐生警惕。由{COALITION_KINGDOM}牵头的联军已组建，共同对抗该势力！"/>
+
+    <string id="vB3RrMNf" text="{KINGDOM}已与{OTHER_KINGDOM}签订互不侵犯条约。" />
+    <string id="PdN5g5ub" text="{KINGDOM}已与{OTHER_KINGDOM}缔结盟约！" />
+    <string id="5r6fsHgm" text="当前点数"/>
+    <string id="XIBUWDlT" text="所需点数"/>
+
+    <string id="5znwaUVC" text="剩余天数：{DAYS_LEFT}"/>
+
+    <string id="Euy6Mwcq" text="需推进主线任务方可解锁此操作。你可在模组设置中关闭剧情保护。"/>
+    <string id="fQxiCdBA" text="主线剧情"/>
+    <string id="3wXqST66" text="篡夺此君位后，你将在主线剧情中承担{STANCE}帝国的责任。"/>
+    <string id="yAFwbD9B" text="统一"/>
+    <string id="IGJVx5XI" text="覆灭"/>
+
+    <string id="lQAaLeSy" text="你无权执行此操作。"/>
+
+    <string id="7QvXkcxH" text="向领国氏族捐赠资金"/>
+    <string id="e7uxH1jc" text="资金消耗：{GOLD_COST}"/>
+    <string id="4lG3JG2e" text="关系提升：{RELATION_GAIN}+"/>
+
+    <string id="Q2vXbwvC" text="外交"/>
+    
+    <!--
+    ||||||||||||||||||||||||||| 模组设置 |||||||||||||||||||||||||||
+    -->
+
+    <string id="sBw5Qzq3" text="领国外交" />
+    <string id="tis8Ddzn" text="允许玩家认领亲自攻陷的城池" />
+    <string id="TfxLCxcD" text="玩家可选择认领亲自攻陷的城池，而非交由选举分配。" />
+    <string id="8VKC3jtN" text="启用无封地领国消亡机制" />
+    <string id="TlymwwPZ" text="启用后，无任何封地的领国在签署和平条约、结束最后一场战事时将被覆灭。默认值为启用。" />
+    <string id="w8Hi9jJf" text="延迟无封地领国消亡" />
+    <string id="GDctI4Kd" text="启用后，无任何封地的领国仅在签署和平条约、结束最后一场战事时被覆灭，而非丢失最后一处封地后立即消亡。默认值为启用。" />      
+    <string id="ZRlNvsev" text="最小战争时长（天数）" />
+    <string id="vuFT5ns8" text="战争需持续的最短时长（天数），之后方可提议和平。默认值为21日（标准游戏年的四分之一）。" />
+    <string id="4MzQHMVj" text="宣战冷却期（天数）" />
+    <string id="q2duqN8d" text="与同一领国议和后，需间隔的最短时长（天数）方可再次宣战。默认值为21日（标准游戏年的四分之一）。" />
+    <string id="2XC8QHkl" text="启用盟约功能" />
+    <string id="5YJBZx28" text="禁用后，玩家与AI领国均无法缔结盟约。默认值为启用。" />
+    <string id="H6XMjwpF" text="最小盟约时长（天数）" />
+    <string id="RrsWhIWi" text="盟约需持续的最短时长（天数），之后方可解除。默认值为42日（标准游戏年的一半）。" />
+    <string id="5a829TiT" text="盟约倾向" />
+    <string id="7nSjs8UL" text="影响领国缔结盟约倾向的评分修正值。提高该值将使AI领国更倾向于结盟。默认值为0。" />
+    <string id="V35hUfcc" text="互不侵犯条约有效期（天数）"/>
+    <string id="KXLGZEPh" text="互不侵犯条约的持续时长（天数）。默认值为84日（一个标准游戏年）。"/>
+    <string id="G8BhBnRG" text="互不侵犯条约倾向" />
+    <string id="907ER5u9" text="影响领国签订互不侵犯条约倾向的评分修正值。提高该值将使AI领国更倾向于签订条约。默认值为0。" />
+    <string id="6m1SspFW" text="启用玩家领国外交控制权" />
+    <string id="N5EouSSj" text="玩家即使仅为家臣而非领国之主，也可完全掌控所属领国的宣战与议和权。默认值为禁用。" />
+    <string id="lhysZl9j" text="行动倾向" />
+    <string id="dRyU9E7Z" text="挚友领国互不交战" />
+    <string id="XyXJSTKr" text="启用后，互为挚友的领国主君不会相互开战。默认值为启用。" />
+    <string id="pWoKQ6HO" text="关系良好则互不交战" />
+    <string id="bOuGhbPt" text="启用后，领国主君关系高于开战阈值时，双方不得开战。默认值为启用。" />
+    <string id="x0Aoiomr" text="关系良好免战阈值" />
+    <string id="aH6rpjt6" text="领国主君关系高于此数值后，双方不得开战。默认值为30。" />
+    <string id="jwNKk8P7" text="联姻领国互不交战" />
+    <string id="xcMzKH48" text="启用后，主君氏族有联姻关系的领国不会相互开战。默认值为启用。" />
+    <string id="xcMzKH48" text="启用后，主君氏族有联姻关系的领国不会相互开战。默认值为启用。" />
+    <string id="xXKKRp99" text="主君氏族联姻影响盟约倾向" />
+    <string id="BGS6mUID" text="启用后，主君氏族有联姻关系的领国，其盟约倾向将获得加成。默认值为启用。" />
+      
+    <string id="ldLFTs92" text="消耗" />      
+    <string id="Ckd1Lsoa" text="资金消耗" />
+    <string id="t4hNAoD7" text="启用资金消耗比例调整" />
+    <string id="5MMIDE5A" text="启用后，外交行动与战争赔款的资金消耗将根据领国规模按比例调整。否则将使用固定倍率（外交行动100倍，战争赔款1000倍）。默认值为启用。" />
+    <string id="vD270X6H" text="资金消耗比例调整乘数" />
+    <string id="Gd52NzBP" text="资金消耗比例调整的乘数。默认值为5。" />
+    <string id="HFtZsD6v" text="战争赔款资金消耗比例调整乘数" />
+    <string id="MIhbrqbr" text="战争赔款资金消耗比例调整的乘数。默认值为50。" />
+    <string id="Cr6a5Jap" text="战败战争赔款资金消耗" />
+    <string id="NH4GNKva" text="与其他领国持久战战败后的基础资金赔偿。受比例调整影响，禁用比例调整时将乘以1000。默认值为200。" />
+
+    <string id="SEViwYTl" text="威光消耗" />
+    <string id="WbOKuWbQ" text="启用威光消耗" />
+    <string id="K2vLGalN" text="禁用后，宣战与议和行动将无需消耗威光。默认值为启用。" />
+    <string id="9PlT57Nl" text="威光消耗/比例调整" />
+    <string id="P1g6Ht1e" text="启用威光消耗比例调整" />
+    <string id="xfVFBxfj" text="启用后，威光消耗将根据领国规模按比例调整。否则使用固定威光消耗。默认值为启用。" />
+    <string id="TvAYJv5Q" text="威光消耗比例调整乘数" />
+    <string id="AQ5gRYN6" text="威光消耗比例调整的乘数。默认值为5。" />
+    <string id="BazjeCZw" text="威光消耗/固定值" />
+    <string id="OnTeAgin" text="固定宣战威光消耗" />
+    <string id="O5XvybTI" text="向其他领国宣战的威光消耗。默认值为500。" />
+    <string id="iNsXQD2q" text="固定议和威光消耗" />
+    <string id="WB5zdvdT" text="与其他领国议和的威光消耗。默认值为500。" />
+
+    <string id="nueOs6m9" text="信使设置" />
+    <string id="nwTyegdV" text="启用信使意外事件" />
+    <string id="T7yybpw3" text="启用后，信使执行任务有一定失败概率。路程越远，途中发生意外的概率越高。默认值为启用。" />
+    <string id="ysYCYvwT" text="限制信使发送对象" />
+    <string id="5O87pSL3" text="启用后，你仅可向已会面或大概率知晓的对象发送信使。否则可向任意对象发送信使，无需知晓其下落。默认值为启用。" />
+    <string id="nnXi6MmH" text="信使最长行程时间（天数）" />
+    <string id="zkvCGLuK" text="信使抵达收件人处的最长耗时（天数）。直接影响信使移动速度。默认值为3。" />
+    <string id="nMwWHj4h" text="派遣信使资金消耗" />
+    <string id="ehMf7xvE" text="向其他角色派遣信使的资金消耗。默认值为100贯文。" />
+
+    <string id="OfEMJWiR" text="关系设置" />
+    <string id="6l9QNMrB" text="授予封地正向关系倍率" />
+    <string id="FQaghHo7" text="授予封地时的关系提升乘数。默认值为1。" />
+    <string id="9qKclHq3" text="授予封地关系惩罚" />
+    <string id="fgc8Dvg0" text="将封地授予其他氏族时的关系惩罚。默认值为-2。"/>
+
+    <string id="8ZPKToTq" text="威光平衡"/>
+    <string id="4jlYRUdZ" text="启用威光平衡"/>
+    <string id="tOMN9DQD" text="控制威光衰减与腐败机制是否生效。为保障模组兼容性，可能需要禁用。"/>
+
+    <string id="vzKRX2JA" text="威光衰减"/>
+    <string id="szYr4OTG" text="启用威光衰减" />
+    <string id="rKS9z4Sz" text="启用后，每日将逐渐衰减部分威光。默认值为启用。"/>
+
+    <string id="pVE1yNlm" text="威光衰减阈值"/>
+    <string id="MnLk08uW" text="豁免威光衰减的基础威光值。默认值为1000。"/>
+    <string id="WTeM4Rba" text="每日最大威光损失"/>
+    <string id="CGixJ6ng" text="每日最多可损失的威光值。默认值为20。"/>
+    <string id="yob5ZHtz" text="每日威光衰减百分比"/>
+    <string id="IYFl4kJx" text="每日威光衰减的百分比。默认值为2.0。" />
+
+    <string id="e5fHDXgl" text="腐败机制" />
+    <string id="KWAH0S4h" text="启用腐败机制" />
+    <string id="trgnZ0pn" text="启用后，氏族持有封地过多时，每日将逐渐衰减部分威光。默认值为启用。"/>
+
+    <string id="ZqQaUIil" text="扩张主义"/>
+    <string id="2raR1ZHv" text="联军机制"/>
+    <string id="Pr4dcRKm" text="单封地最小扩张值"/>
+    <string id="9qcAWjI7" text="单个封地贡献的最小扩张值。默认值为3。"/>
+    <string id="MnhMW8iq" text="每次攻城扩张值"/>
+    <string id="lCbie62E" text="成功攻城后增加的扩张值。默认值为20。"/>
+    <string id="mEXGC0h3" text="每日扩张值衰减"/>
+    <string id="kgPeQvqE" text="每日衰减的扩张值。默认值为1。"/>
+    <string id="ZIf1tRII" text="启用联军机制"/>
+    <string id="8v8q0OGu" text="启用后，势力可联合组建联军，共同对抗强大的扩张主义势力。默认值为启用。"/>
+    <string id="1kSd88X5" text="扩张值阈值"/>
+    <string id="EUnASoee" text="势力扩张值达到此数值后，其他势力将组建联军对抗它。默认值为100。"/>
+    <string id="zwbL9BHe" text="每日联军形成概率（百分比）"/>
+    <string id="9ugCWA3v" text="势力扩张值超过阈值后，每日形成联军的概率（百分比）。默认值为5。"/>
+
+    <string id="lsyl0VSX" text ="剧情保护"/>
+    <string id="EVrErrTR" text="启用后，将阻止玩家破坏主线剧情。使用“自由游玩”等模组时可禁用。默认值为启用。" />
+
+    <string id="f6n2UAEC" text="未完成功能" />
+    <string id="HSoZfvXH" text="启用篡夺君位功能" />
+    <string id="ZIAo4er4" text="启用后，玩家可篡夺领国君位。此功能尚未平衡，有待优化，不建议启用。默认值为关闭。" />
+  </strings>
+</base>
