@@ -31,15 +31,15 @@
         <string id="ZctOTbV9" text="前波 胜秀" />
         <string id="FXVHs6Rl" text="前波 义次" />
         <string id="pTApzZjo" text="前波 杏" />
-        <string id="8NfTd97s" text="姉小路 赖赖" />
-        <string id="khSBd7oA" text="姉小路 萩" />
-        <string id="zgHNjeAc" text="姉小路 赖纲" />
-        <string id="Ozp8uVH2" text="姉小路 芽" />
-        <string id="3t8eBlK9" text="姉小路 信纲" />
-        <string id="50rxSxoL" text="姉小路 秀纲" />
-        <string id="YS6J1DSx" text="姉小路 季纲" />
-        <string id="ChLVdmm5" text="姉小路 久" />
-        <string id="fllPpIHN" text="姉小路 贞" />
+        <string id="8NfTd97s" text="姊小路 良赖" />
+        <string id="khSBd7oA" text="姊小路 萩" />
+        <string id="zgHNjeAc" text="姊小路 赖纲" />
+        <string id="Ozp8uVH2" text="姊小路 芽" />
+        <string id="3t8eBlK9" text="姊小路 信纲" />
+        <string id="50rxSxoL" text="姊小路 秀纲" />
+        <string id="YS6J1DSx" text="姊小路 季纲" />
+        <string id="ChLVdmm5" text="姊小路 久" />
+        <string id="fllPpIHN" text="姊小路 贞" />
         <string id="rmn0keBY" text="三木 国纲" />
         <string id="pOV36qLw" text="三木 嬉" />
         <string id="Mwzg4d94" text="三木 明纲" />
@@ -64,7 +64,7 @@
         <string id="uWUgquZb" text="下妻 桂安院" />
         <string id="ttOsDrht" text="下妻 仲隆" />
         <string id="v3KNHiGz" text="下妻 頼湛" />
-        <string id="vJhGvDMI" text="下妻 広徳院" />
+        <string id="vJhGvDMI" text="下妻 弘德院" />
         <string id="xnKhOXA6" text="下妻 頼龙" />
         <string id="Eh5FcIr3" text="七里 赖近" />
         <string id="HBQgU0KK" text="七里 莲妙院" />
@@ -79,9 +79,9 @@
         <string id="54P6AoCQ" text="长 绢" />
         <string id="BH4qApyf" text="长 纲连" />
         <string id="mxxEQmKL" text="长 智保" />
-        <string id="6UGnlTvg" text="结 継光" />
-        <string id="mtpjGuCC" text="结 末" />
-        <string id="JoEyAqpB" text="结 盛光" />
+        <string id="6UGnlTvg" text="结佐 继光" />
+        <string id="mtpjGuCC" text="结佐 末" />
+        <string id="JoEyAqpB" text="结佐 盛光" />
         <string id="zfaBVnTz" text="额井 景隆" />
         <string id="PkUrZWtb" text="额井 包" />
         <string id="9LHg8tSs" text="额井 継宗" />
@@ -94,7 +94,7 @@
         <string id="16wGsj58" text="前田 长玲院" />
         <string id="gUfblyxg" text="前田 利长" />
         <string id="HNxdD6bx" text="前田 幸" />
-        <string id="KkMduqEv" text="前田 しず" />
+        <string id="KkMduqEv" text="前田 静" />
         <string id="37zNtHHt" text="前田 利久" />
         <string id="pm7cjBgT" text="前田 富" />
         <string id="DCmCs5kM" text="前田 利政" />
@@ -105,11 +105,11 @@
         <string id="JJRp7jcS" text="前田 甲" />
         <string id="EAijrwwg" text="前田 利秀" />
         <string id="FOuyGkLb" text="明智 光秀" />
-        <string id="WM3E1lhn" text="明智 広子" />
+        <string id="WM3E1lhn" text="明智 弘子" />
         <string id="YMwxPbeL" text="明智 光吉" />
         <string id="ADvtqTtw" text="明智 永" />
         <string id="nvlUciWt" text="明智 光忠" />
-        <string id="lQFaxxIJ" text="明智 徳" />
+        <string id="lQFaxxIJ" text="明智 德" />
         <string id="CkNry5Sa" text="明智 秀満" />
         <string id="1R17d0b8" text="明智 玉" />
         <string id="SKcB9YGC" text="丹羽 长秀" />
@@ -119,15 +119,15 @@
         <string id="duYGUbdI" text="池田 恒兴" />
         <string id="Ry3yD8SW" text="池田 禅応院" />
         <string id="ZO4sRBgt" text="池田 恒利" />
-        <string id="U5BbLUHL" text="池田 阳徳院" />
+        <string id="U5BbLUHL" text="池田 阳德院" />
         <string id="UAYyU8nN" text="池田 元助" />
         <string id="KncY4a2p" text="池田 辉政" />
         <string id="d6GG2W3X" text="池田 仙" />
-        <string id="lhX5bcSW" text="徳川 家康" />
-        <string id="0VxHt8iA" text="徳川 筑山" />
-        <string id="KPL2cW75" text="徳川 信康" />
-        <string id="zHBbLO7U" text="徳川 亀" />
-        <string id="T7whzugC" text="徳川 徳" />
+        <string id="lhX5bcSW" text="德川 家康" />
+        <string id="0VxHt8iA" text="德川 筑山" />
+        <string id="KPL2cW75" text="德川 信康" />
+        <string id="zHBbLO7U" text="德川 亀" />
+        <string id="T7whzugC" text="德川 德" />
         <string id="ttXuqvjP" text="本多 忠胜" />
         <string id="wTE64EJ5" text="本多 久" />
         <string id="pzKWxRoL" text="本多 重次" />
@@ -139,7 +139,7 @@
         <string id="dID6ayTM" text="本多 正纯" />
         <string id="9gdMPNbq" text="本多 正重" />
         <string id="7TBN1cQm" text="本多 常" />
-        <string id="A8v1L7R2" text="酒井 雅楽头" />
+        <string id="A8v1L7R2" text="酒井 雅乐头" />
         <string id="Hns8bp7I" text="酒井 雅政" />
         <string id="pe2Jt1Xd" text="酒井 柚子" />
         <string id="46c1t4F9" text="酒井 清政" />
@@ -173,13 +173,13 @@
         <string id="rfdnxhDr" text="服部 康成" />
         <string id="qNbyhQaj" text="上杉 谦信" />
         <string id="6etIEETB" text="上杉 为景" />
-        <string id="Weis43hU" text="上杉 清厳院" />
+        <string id="Weis43hU" text="上杉 青岩院" />
         <string id="8Iv9ecNC" text="上杉 绫" />
         <string id="RWQCCx4o" text="上杉 景胜" />
-        <string id="shVCPmCc" text="上杉 円" />
+        <string id="shVCPmCc" text="上杉 圆" />
         <string id="Cg9EoY4r" text="色部 胜长" />
         <string id="6z9bSHa7" text="色部 小豆" />
-        <string id="luKhUhXh" text="色部 顕长" />
+        <string id="luKhUhXh" text="色部 显长" />
         <string id="bSqEzLcJ" text="色部 长真" />
         <string id="XgIyv7bL" text="柿崎 景家" />
         <string id="wOt7PGWW" text="柿崎 菊" />
@@ -218,7 +218,7 @@
         <string id="jKoS0rtx" text="本间 高雄" />
         <string id="Yb8Jirco" text="本庄 繁长" />
         <string id="NDluCjrj" text="本庄 红叶" />
-        <string id="Ng1qk1bc" text="本庄 顕长" />
+        <string id="Ng1qk1bc" text="本庄 显长" />
         <string id="9107Gylz" text="本庄 実赖" />
         <string id="7U80DoRY" text="本庄 相模" />
         <string id="5LpGgkPs" text="本庄 秀纲" />
@@ -236,7 +236,7 @@
         <string id="y03WXHuV" text="武田 信廉" />
         <string id="XTtGyQDW" text="武田 胧" />
         <string id="08ToFFXf" text="武田 信澄" />
-        <string id="1TVdy9aJ" text="武田 信顕" />
+        <string id="1TVdy9aJ" text="武田 信显" />
         <string id="AnDrohq6" text="武田 露" />
         <string id="zTstz8YU" text="武田 信友" />
         <string id="Kr9vJDJr" text="武田 小春" />
@@ -248,12 +248,12 @@
         <string id="3qyP1ctn" text="马场 文" />
         <string id="gz7lL74b" text="马场 房胜" />
         <string id="njGs760D" text="马场 舞" />
-        <string id="Hkshvmje" text="木曽 义康" />
-        <string id="vbIJLnaE" text="木曽 万纪" />
-        <string id="0glR6o3S" text="木曽 义昌" />
-        <string id="hCph1y6W" text="木曽 茉莉" />
-        <string id="Uh8eLrzj" text="木曽 义豊" />
-        <string id="CST4VZ3y" text="木曽 岩" />
+        <string id="Hkshvmje" text="木曾 义康" />
+        <string id="vbIJLnaE" text="木曾 万纪" />
+        <string id="0glR6o3S" text="木曾 义昌" />
+        <string id="hCph1y6W" text="木曾 茉莉" />
+        <string id="Uh8eLrzj" text="木曾 义豊" />
+        <string id="CST4VZ3y" text="木曾 岩" />
         <string id="nOD4Gqu3" text="真田 信纲" />
         <string id="LLDSUh4P" text="真田 北" />
         <string id="wcz0nDz4" text="真田 幸纲" />
@@ -294,7 +294,7 @@
         <string id="JaOi7kxn" text="今川 早川" />
         <string id="PTuEiwT5" text="今川 贞" />
         <string id="6F0GOTMx" text="朝比奈 泰朝" />
-        <string id="iREsPn2R" text="朝比奈 沢" />
+        <string id="iREsPn2R" text="朝比奈 泽" />
         <string id="LPbuuBT7" text="朝比奈 泰基" />
         <string id="tCqVkzwq" text="朝比奈 信置" />
         <string id="TyQ6HZYx" text="朝比奈 结" />
@@ -312,11 +312,11 @@
         <string id="r9MHER6o" text="冈部 亲纲" />
         <string id="mteALoQA" text="冈部 妙泉尼" />
         <string id="jDEOJ3VU" text="冈部 実隆" />
-        <string id="RGfPAqxo" text="冈部 元顕" />
+        <string id="RGfPAqxo" text="冈部 元显" />
         <string id="9yB1OZBM" text="冈部 政纲" />
         <string id="NzPVJZQJ" text="冈部 亀" />
         <string id="22eOrkcg" text="冈部 长盛" />
-        <string id="FCzQSXcq" text="冈部 长顕" />
+        <string id="FCzQSXcq" text="冈部 长显" />
         <string id="t4DRKSAY" text="小幡 信真" />
         <string id="asA0b5mz" text="小幡 妙" />
         <string id="6U06bX7V" text="小幡 范重" />
@@ -332,8 +332,8 @@
         <string id="nSIP71V7" text="由良 成繁" />
         <string id="Q4wQhlze" text="由良 明院尼" />
         <string id="yWf4nQeJ" text="由良 国繁" />
-        <string id="V5SvHfO0" text="由良 重顕" />
-        <string id="b3YDzA8r" text="由良 顕长" />
+        <string id="V5SvHfO0" text="由良 重显" />
+        <string id="b3YDzA8r" text="由良 显长" />
         <string id="ZiQq8JDT" text="由良 麻" />
         <string id="uog9xjJ7" text="由良 澄" />
         <string id="P3zTiZCm" text="北条 氏政" />
@@ -346,7 +346,7 @@
         <string id="fAdkH6BS" text="北条 氏邦" />
         <string id="Ihhdccnz" text="北条 福" />
         <string id="I6HLatlC" text="北条 氏范" />
-        <string id="XT3whBO1" text="北条 広源院" />
+        <string id="XT3whBO1" text="北条 弘源院" />
         <string id="HMftyqYc" text="北条 玄庵" />
         <string id="IFVBo0UW" text="松田 宪秀" />
         <string id="Koe4GEO4" text="松田 谷" />
@@ -362,7 +362,7 @@
         <string id="WSOVFn2s" text="远山 景纲" />
         <string id="iSVGS3Xg" text="远山 武" />
         <string id="hbrNLVoD" text="远山 纲景" />
-        <string id="KxM5VRa1" text="远山 浄光院" />
+        <string id="KxM5VRa1" text="远山 净光院" />
         <string id="zp5C0etl" text="远山 直景" />
         <string id="lsVY4d0J" text="远山 景宗" />
         <string id="wTLH9970" text="远山 贞" />
@@ -402,9 +402,9 @@
         <string id="73thINiW" text="织田 友原" />
         <string id="40uzrYwA" text="织田 盛原" />
         <string id="KDNrkROu" text="织田 驹" />
-        <string id="QYDzg3jA" text="织田 りく" />
+        <string id="QYDzg3jA" text="织田 陆" />
         <string id="tCf4lIPu" text="古河公方 义氏" />
-        <string id="NxaysxUC" text="古河公方 浄光院" />
+        <string id="NxaysxUC" text="古河公方 净光院" />
         <string id="O06DIhu2" text="古河公方 晴氏" />
         <string id="MsX1Hln6" text="古河公方 法春院" />
         <string id="9zqTKcqA" text="古河公方 藤政" />
@@ -414,11 +414,11 @@
         <string id="lVNG6nvY" text="佐野 昌纲" />
         <string id="OjtJRVA8" text="佐野 元" />
         <string id="2dwqNcV0" text="佐野 康纲" />
-        <string id="aVzIfT5b" text="佐野 広泉院" />
+        <string id="aVzIfT5b" text="佐野 弘泉院" />
         <string id="jTPsXTQs" text="佐野 宗纲" />
         <string id="CimHJY3v" text="佐野 亲纲" />
         <string id="HxOIq1UO" text="佐野 豊纲" />
-        <string id="TtRVEzF9" text="佐野 浄明院" />
+        <string id="TtRVEzF9" text="佐野 净明院" />
         <string id="OjNzZ4z7" text="佐野 房纲" />
         <string id="peuTgDWX" text="结城 晴朝" />
         <string id="2axdqLeU" text="结城 圣子" />
@@ -454,7 +454,7 @@
         <string id="EnNxr4sS" text="酒井 胤治" />
         <string id="L3rcTXEN" text="酒井 桂林尼" />
         <string id="4Ve0NOnj" text="酒井 康治" />
-        <string id="4UF3c1YO" text="宇都宫 広纲" />
+        <string id="4UF3c1YO" text="宇都宫 弘纲" />
         <string id="k8YjNpOk" text="宇都宫 兰溪院" />
         <string id="YMsdSa5O" text="宇都宫 国纲" />
         <string id="gwB9W7mm" text="芳贺 高定" />
@@ -471,15 +471,15 @@
         <string id="IpGWXGXO" text="佐竹 义重" />
         <string id="lTEN0uBO" text="佐竹 法住院" />
         <string id="lEBzZaFW" text="佐竹 义昭" />
-        <string id="NGUNB04b" text="佐竹 広徳院" />
+        <string id="NGUNB04b" text="佐竹 弘德院" />
         <string id="cS0BYmEj" text="佐竹 义久" />
         <string id="O91iIET8" text="佐竹 朱" />
         <string id="TO3KcPYq" text="佐竹 义胤" />
         <string id="di3hvLje" text="佐竹 义纲" />
         <string id="RlQJPV7D" text="佐竹 千歳" />
-        <string id="f5XYXxSk" text="江戸 通政" />
-        <string id="tLFdyt4x" text="江戸 清胜院" />
-        <string id="isJ2mg9v" text="江戸 重通" />
+        <string id="f5XYXxSk" text="江户 通政" />
+        <string id="tLFdyt4x" text="江户 清胜院" />
+        <string id="isJ2mg9v" text="江户 重通" />
         <string id="pRzOVEbH" text="大掾 贞国" />
         <string id="iK6pKdiD" text="大掾 文" />
         <string id="JrCw7IOL" text="大掾 义元" />
@@ -502,24 +502,24 @@
         <string id="BiJQ3gwj" text="那须 资治" />
         <string id="vgzjShtW" text="那须 政" />
         <string id="kLlP5rni" text="赤松 义祐" />
-        <string id="tUcpDeTS" text="赤松 あざみ" />
+        <string id="tUcpDeTS" text="赤松 浅见" />
         <string id="nR1sGRoK" text="赤松 则房" />
         <string id="pRDHDfAf" text="小寺 政职" />
         <string id="YrKWMZru" text="小寺 亀" />
         <string id="AptV40KY" text="小寺 则职" />
         <string id="awh97eY4" text="小寺 红" />
         <string id="964hRB7s" text="小寺 春日" />
-        <string id="uq93RE5H" text="黒田 孝高" />
-        <string id="zFfxKok8" text="黒田 満" />
-        <string id="q2wWaf6n" text="黒田 政高" />
-        <string id="vpp0X2di" text="黒田 政" />
-        <string id="nbMsupjp" text="黒田 长政" />
-        <string id="WBljkXLV" text="黒田 俊高" />
-        <string id="tPBBMN4Z" text="黒田 俊范" />
-        <string id="qgu18aBw" text="黒田 直之" />
-        <string id="jqDkyoQZ" text="黒田 かよ" />
-        <string id="Oew1Bf9P" text="黒田 绢" />
-        <string id="FZ1Eq6lh" text="黒田 福" />
+        <string id="uq93RE5H" text="黑田 孝高" />
+        <string id="zFfxKok8" text="黑田 光" />
+        <string id="q2wWaf6n" text="黑田 元高" />
+        <string id="vpp0X2di" text="黑田 益" />
+        <string id="nbMsupjp" text="黑田 长政" />
+        <string id="WBljkXLV" text="黑田 俊高" />
+        <string id="tPBBMN4Z" text="黑田 俊则" />
+        <string id="qgu18aBw" text="黑田 直之" />
+        <string id="jqDkyoQZ" text="黑田 佳代" />
+        <string id="Oew1Bf9P" text="黑田 绢" />
+        <string id="FZ1Eq6lh" text="黑田 福" />
         <string id="So1hDGim" text="别所 长治" />
         <string id="vbW4lVBo" text="别所 东" />
         <string id="apqhx41m" text="别所 成治" />
@@ -528,7 +528,7 @@
         <string id="VYrrxnX9" text="别所 友行" />
         <string id="19IdACYb" text="别所 治定" />
         <string id="gzC7F4fo" text="别所 义近" />
-        <string id="PVVSjRbo" text="别所 かし" />
+        <string id="PVVSjRbo" text="别所 柏" />
         <string id="qRHfzyUs" text="别所 重宗" />
         <string id="MYV9KYo1" text="别所 芹" />
         <string id="pvqqQutQ" text="松永 香" />
@@ -536,21 +536,21 @@
         <string id="Boxu3rYM" text="松永 若叶" />
         <string id="Xe63ilYA" text="筒井 顺庆" />
         <string id="sTM8QM4l" text="筒井 鹰" />
-        <string id="us2k9KPi" text="筒井 顺兴" />
-        <string id="L3NzXFr3" text="筒井 小夜" />
-        <string id="pnoyota2" text="筒井 顺昭" />
+        <string id="us2k9KPi" text="筒井 顺光" />
+        <string id="L3NzXFr3" text="筒井 沙耶" />
+        <string id="pnoyota2" text="筒井 顺章" />
         <string id="v8k486Cv" text="筒井 方" />
         <string id="kZUzygaP" text="筒井 顺国" />
         <string id="D6cW9BRv" text="筒井 小春" />
         <string id="vwBchbKt" text="筒井 定次" />
-        <string id="YP2fV2hW" text="筒井 利広" />
+        <string id="YP2fV2hW" text="筒井 俊弘" />
         <string id="pAupiXnj" text="筒井 泰" />
-        <string id="z8vSvDSj" text="筒井 顺斎" />
-        <string id="bPdxO4MG" text="筒井 広行" />
+        <string id="z8vSvDSj" text="筒井 顺才" />
+        <string id="bPdxO4MG" text="筒井 弘行" />
         <string id="RenGY8Fh" text="筒井 信康" />
-        <string id="avHcE1yf" text="筒井 沢" />
-        <string id="zSUIhhTo" text="筒井 房康" />
-        <string id="fzgQ5psq" text="筒井 恵天院" />
+        <string id="avHcE1yf" text="筒井 泽" />
+        <string id="zSUIhhTo" text="筒井 冬康" />
+        <string id="fzgQ5psq" text="筒井 庆天院" />
         <string id="U0EMQOWS" text="筒井 清康" />
         <string id="FlzkbFch" text="足利 义晴" />
         <string id="o05gJRtq" text="足利 恵智院" />
@@ -564,17 +564,17 @@
         <string id="iYqL2Vy6" text="细川 千" />
         <string id="7oUfZNuF" text="细川 弥" />
         <string id="CHalr5aK" text="一色 义道" />
-        <string id="ruz4z36n" text="一色 つな子" />
+        <string id="ruz4z36n" text="一色 纲子" />
         <string id="CzufOZcO" text="一色 义幸" />
-        <string id="RurSjEyY" text="一色 恵徳院" />
+        <string id="RurSjEyY" text="一色 恵德院" />
         <string id="K0rUvzyH" text="一色 义定" />
         <string id="Ez9wouSk" text="一色 义清" />
         <string id="oNEiBB2d" text="山名 祐豊" />
         <string id="kJXoV9Pb" text="山名 知子" />
         <string id="NmILYBIw" text="山名 宗豊" />
         <string id="nMjExeXI" text="山名 义近" />
-        <string id="QbkbZH6B" text="山名 顕広" />
-        <string id="vs49SDks" text="畠山 顕高" />
+        <string id="QbkbZH6B" text="山名 显弘" />
+        <string id="vs49SDks" text="畠山 显高" />
         <string id="BeVxuHbe" text="畠山 政国" />
         <string id="eHD3yI8F" text="畠山 圣子" />
         <string id="0TdWVoYC" text="畠山 高政" />
@@ -597,7 +597,7 @@
         <string id="W3XjwTmf" text="隈部 亲房" />
         <string id="aACMcMnP" text="隈部 赤藤" />
         <string id="7s4dxFt3" text="岛津 义久" />
-        <string id="gv3wrMe3" text="岛津 円心院伝" />
+        <string id="gv3wrMe3" text="岛津 圆信院殿" />
         <string id="czGM0U4X" text="岛津 大平" />
         <string id="yquLAovd" text="岛津 新城" />
         <string id="p9NeUjUw" text="岛津 义弘" />
@@ -626,14 +626,14 @@
         <string id="jp7XzhCN" text="本郷 忠虎" />
         <string id="9j0CtAEy" text="本郷 忠亲" />
         <string id="Fm7HitzI" text="本郷 莲" />
-        <string id="J1KrYoB2" text="肝付 良兼" />
-        <string id="blCzYNBm" text="肝付 鹰城" />
-        <string id="xk81zGz1" text="肝付 兼光" />
+        <string id="J1KrYoB2" text="肝付 义兼" />
+        <string id="blCzYNBm" text="肝付 高城" />
+        <string id="xk81zGz1" text="肝付 兼起" />
         <string id="Ywbdn3tH" text="肝付 泉" />
         <string id="Z7OeNcGK" text="肝付 兼辅" />
         <string id="N5VldQQt" text="肝付 兼盛" />
-        <string id="aUgD8yWg" text="肝付 兼次" />
-        <string id="A8Iz9ZZT" text="肝付 小茄子" />
+        <string id="aUgD8yWg" text="肝付 兼继" />
+        <string id="A8Iz9ZZT" text="肝付 阿南" />
         <string id="qyCDkM5m" text="种子岛 时尧" />
         <string id="QF3JI70b" text="种子岛 西" />
         <string id="zy3vzsD2" text="种子岛 久时" />
@@ -674,13 +674,13 @@
         <string id="B8yOZDB1" text="二吕 末江" />
         <string id="wqENKt24" text="二吕 久敦" />
         <string id="NkRdYQ2Z" text="二吕 忠秀" />
-        <string id="bMfqWjqk" text="西园寺 公広" />
+        <string id="bMfqWjqk" text="西园寺 公弘" />
         <string id="g5pzHuFm" text="西园寺 西" />
         <string id="kHOJ0Awe" text="西园寺 信久" />
         <string id="Jb6FawOB" text="西园寺 久" />
         <string id="gTFSsjbm" text="西园寺 公宣" />
         <string id="qwJbUUQV" text="西园寺 清光院" />
-        <string id="RzWxJC41" text="劝修寺 基顕" />
+        <string id="RzWxJC41" text="劝修寺 基显" />
         <string id="vT8u3noP" text="劝修寺 吹" />
         <string id="GZEDDxOG" text="劝修寺 基教" />
         <string id="KDfcebZ7" text="劝修寺 小百合" />
@@ -699,7 +699,7 @@
         <string id="PGjI36Ae" text="土居 宗山" />
         <string id="pvhvN7QV" text="安芸 国虎" />
         <string id="rHKVyyVc" text="安芸 西" />
-        <string id="kCyapaMi" text="安芸 広常" />
+        <string id="kCyapaMi" text="安芸 弘常" />
         <string id="qsvolxnV" text="安芸 家朝" />
         <string id="qnY9HZY8" text="津野 定胜" />
         <string id="q7dRw8dj" text="津野 澄" />
@@ -717,7 +717,7 @@
         <string id="hvyaWDgX" text="吉良 亲定" />
         <string id="DeCbQeHC" text="吉良 弓" />
         <string id="1YCmAvvP" text="吉良 実连" />
-        <string id="FXZNXucw" text="吉良 浄円" />
+        <string id="FXZNXucw" text="吉良 净圆" />
         <string id="zcC4TL48" text="吉良 亲政" />
         <string id="pGrd03pI" text="久武 亲信" />
         <string id="kKdyVFsm" text="久武 縁" />
@@ -727,7 +727,7 @@
         <string id="NMjVGI7u" text="久武 鹰" />
         <string id="m3YajwyO" text="吉田 重俊" />
         <string id="uht0Icck" text="吉田 久" />
-        <string id="YK0QNAGY" text="吉田 范広" />
+        <string id="YK0QNAGY" text="吉田 范弘" />
         <string id="uuCL0VJy" text="吉田 竹" />
         <string id="1OhuHuRD" text="吉田 重康" />
         <string id="pOfNSi6V" text="吉田 仲" />
@@ -737,7 +737,7 @@
         <string id="HAaOI8lO" text="吉田 定重" />
         <string id="CLvsoPtJ" text="吉田 绢" />
         <string id="KyUYLo0G" text="吉田 亲重" />
-        <string id="mfPg78eX" text="吉田 徳" />
+        <string id="mfPg78eX" text="吉田 德" />
         <string id="HVP1iekL" text="福留 义重" />
         <string id="g2mr3QCM" text="福留 亲政" />
         <string id="Hlkt9zR1" text="福留 梅" />
@@ -810,11 +810,11 @@
         <string id="BGJzNDaJ" text="二本松 义国" />
         <string id="1NJGIP9x" text="二本松 秋" />
         <string id="4zIz7SLR" text="二本松 义継" />
-        <string id="nlu9kbj8" text="田村 隆顕" />
+        <string id="nlu9kbj8" text="田村 隆显" />
         <string id="aZssFvBr" text="田村 筧" />
-        <string id="sxbLtOpV" text="田村 清顕" />
+        <string id="sxbLtOpV" text="田村 清显" />
         <string id="DuxfRUZv" text="田村 芽郷" />
-        <string id="oEJsVsvL" text="田村 氏顕" />
+        <string id="oEJsVsvL" text="田村 氏显" />
         <string id="AabIiWIA" text="冈田 重胤" />
         <string id="o5Zq7Oek" text="冈田 戒" />
         <string id="MCup3o6i" text="冈田 义胤" />
@@ -855,20 +855,20 @@
         <string id="yKztqf7Y" text="大崎 谷" />
         <string id="PdMyVeC2" text="大崎 寿代" />
         <string id="GfI6uQA0" text="葛西 晴信" />
-        <string id="V03JK8Wj" text="葛西 徳" />
+        <string id="V03JK8Wj" text="葛西 德" />
         <string id="4enjcrq2" text="葛西 清隆" />
         <string id="uLgRyxxy" text="葛西 信秀" />
         <string id="qyv1DVLK" text="岩城 亲隆" />
         <string id="zS1xCtvl" text="岩城 恵受院" />
         <string id="A91ldYIn" text="岩城 重隆" />
-        <string id="OMoDuAqu" text="岩城 浄明院" />
+        <string id="OMoDuAqu" text="岩城 净明院" />
         <string id="uGlEqEJX" text="岩城 纲隆" />
         <string id="NpV12vkH" text="岩城 隆时" />
         <string id="rg6sw1Q9" text="岩城 恵受院" />
         <string id="JkZOorvD" text="岩城 隆宗" />
         <string id="uxzJmlwA" text="岩城 虎" />
         <string id="2vUBdY6S" text="留守 政景" />
-        <string id="bs10mHWo" text="留守 顕宗" />
+        <string id="bs10mHWo" text="留守 显宗" />
         <string id="qLjgsdLd" text="留守 春" />
         <string id="BabGjggN" text="最上 义光" />
         <string id="hxOrAtOY" text="最上 莲心院" />
@@ -883,16 +883,16 @@
         <string id="dUHmrYee" text="天童 赖景" />
         <string id="6AupeJ2N" text="氏家 盛宗" />
         <string id="tY6vS3gw" text="氏家 皐月" />
-        <string id="KqISOYEY" text="氏家 顕宗" />
-        <string id="ZbVonqWL" text="延沢 光信" />
-        <string id="D0DDSMQY" text="延沢 米" />
-        <string id="gyhJohjp" text="延沢 光明" />
+        <string id="KqISOYEY" text="氏家 显宗" />
+        <string id="ZbVonqWL" text="延泽 光信" />
+        <string id="D0DDSMQY" text="延泽 米" />
+        <string id="gyhJohjp" text="延泽 光明" />
         <string id="mWkIbjPO" text="楯冈 义国" />
         <string id="Txz2u8Oq" text="楯冈 尼" />
         <string id="a2OoRcJh" text="楯冈 光重" />
-        <string id="vktTGyQq" text="楯冈 光広" />
+        <string id="vktTGyQq" text="楯冈 光弘" />
         <string id="XUP0oREf" text="大宝寺 义増" />
-        <string id="jg1L0wFo" text="大宝寺 おね" />
+        <string id="jg1L0wFo" text="大宝寺 乙" />
         <string id="p4t1iXm5" text="大宝寺 义氏" />
         <string id="8hFeGd0I" text="大宝寺 弓" />
         <string id="RhHRQkPQ" text="大宝寺 义兴" />
@@ -922,31 +922,31 @@
         <string id="ghllwrCJ" text="浅利 胜頼" />
         <string id="PZT6X6Nv" text="浅利 美奈" />
         <string id="EhjiWov4" text="浅利 頼平" />
-        <string id="J4YAWqUc" text="浅利 頼広" />
-        <string id="Y4g7oumw" text="垣木 末広" />
+        <string id="J4YAWqUc" text="浅利 頼弘" />
+        <string id="Y4g7oumw" text="垣木 末弘" />
         <string id="AfDpOut5" text="垣木 淡路" />
-        <string id="iLroIUcH" text="垣木 义広" />
+        <string id="iLroIUcH" text="垣木 义弘" />
         <string id="hStRHmEI" text="垣木 舞" />
-        <string id="GsSSWLlB" text="垣木 定広" />
-        <string id="NYdIhl32" text="垣木 仲広" />
-        <string id="xxpsHzns" text="垣木 盛広" />
+        <string id="GsSSWLlB" text="垣木 定弘" />
+        <string id="NYdIhl32" text="垣木 仲弘" />
+        <string id="xxpsHzns" text="垣木 盛弘" />
         <string id="5cfM2Wsd" text="垣木 千" />
         <string id="xzgrBlXk" text="垣木 幸" />
-        <string id="kmuEpByR" text="戸沢 通盛" />
-        <string id="ZPBJZyhY" text="戸沢 菊" />
-        <string id="97vWqS1S" text="戸沢 盛重" />
-        <string id="tePWyu1J" text="戸沢 盛安" />
+        <string id="kmuEpByR" text="户泽 通盛" />
+        <string id="ZPBJZyhY" text="户泽 菊" />
+        <string id="97vWqS1S" text="户泽 盛重" />
+        <string id="tePWyu1J" text="户泽 盛安" />
         <string id="qDo4xRn3" text="南部 晴政" />
         <string id="kD2IsTSN" text="南部 月" />
         <string id="4HJGGKQV" text="南部 信直" />
         <string id="oG7Xj5F1" text="南部 丸" />
-        <string id="sD4FqEXl" text="七戸 直国" />
-        <string id="4fsMSmDZ" text="七戸 鹤" />
-        <string id="DjV342Vx" text="七戸 家国" />
-        <string id="L0wrNKVa" text="七戸 梅" />
-        <string id="50jyluRi" text="八戸 政吉" />
-        <string id="ly1rOf4V" text="八戸 时" />
-        <string id="IaI3rd8b" text="八戸 直吉" />
+        <string id="sD4FqEXl" text="七户 直国" />
+        <string id="4fsMSmDZ" text="七户 鹤" />
+        <string id="DjV342Vx" text="七户 家国" />
+        <string id="L0wrNKVa" text="七户 梅" />
+        <string id="50jyluRi" text="八户 政吉" />
+        <string id="ly1rOf4V" text="八户 时" />
+        <string id="IaI3rd8b" text="八户 直吉" />
         <string id="U2fcoM3V" text="籾毛 政実" />
         <string id="OnWob7FY" text="籾毛 蛍" />
         <string id="ybA8C3Pn" text="籾毛 信仲" />
@@ -968,23 +968,23 @@
         <string id="Yhd8MKk4" text="斯波 诠直" />
         <string id="aXv9jGz0" text="斯波 艶" />
         <string id="LQ4LfBqy" text="斯波 诠胤" />
-        <string id="rQvhIKmk" text="浅沼 広里" />
+        <string id="rQvhIKmk" text="浅沼 弘里" />
         <string id="Loa2z2lg" text="浅沼 米" />
-        <string id="k0VTBlM1" text="浅沼 広长" />
-        <string id="N8YxPOIs" text="浅沼 広纲" />
+        <string id="k0VTBlM1" text="浅沼 弘长" />
+        <string id="N8YxPOIs" text="浅沼 弘纲" />
         <string id="PH6vnz2s" text="浪冈 友一" />
         <string id="UUC5lMpW" text="浪冈 珠" />
         <string id="7VsSFAbY" text="浪冈 友宗" />
-        <string id="aCGR0aAJ" text="浪冈 浄光院" />
-        <string id="vi4WkU82" text="浪冈 顕村" />
-        <string id="A3IWaEnQ" text="浪冈 顕则" />
+        <string id="aCGR0aAJ" text="浪冈 净光院" />
+        <string id="vi4WkU82" text="浪冈 显村" />
+        <string id="A3IWaEnQ" text="浪冈 显则" />
         <string id="JcbZs4It" text="浪冈 方" />
-        <string id="ETIKKEst" text="浪冈 顕忠" />
+        <string id="ETIKKEst" text="浪冈 显忠" />
         <string id="aCNFnmpJ" text="前家 蛍光院" />
         <string id="L6k0BihZ" text="下妻 宗清" />
         <string id="Pd02cWIP" text="张 连胤" />
         <string id="7PtkKC5L" text="池田 纲利" />
-        <string id="a8fhiErH" text="池田 融徳院" />
+        <string id="a8fhiErH" text="池田 融德院" />
         <string id="mZrml2Ov" text="池田 元助" />
         <string id="VylcfU2r" text="池田 辉政" />
         <string id="qiIMdezD" text="池田 千" />
@@ -1031,12 +1031,12 @@
         <string id="6pWBEhfi" text="里见 酒" />
         <string id="eCgQgJ32" text="真木 时忠" />
         <string id="JgzJTQRD" text="酒井 康治" />
-        <string id="cyPZnisM" text="佐竹 広徳院" />
+        <string id="cyPZnisM" text="佐竹 弘德院" />
         <string id="oRMj5Dw4" text="那须 资胤" />
         <string id="qaSYtI7f" text="小寺 氏职" />
         <string id="pyD59qMo" text="松永 久秀" />
         <string id="3Cbdw30u" text="安宅 信康" />
-        <string id="QZU9vMWY" text="安宅 沢" />
+        <string id="QZU9vMWY" text="安宅 泽" />
         <string id="M8CaIjW3" text="安宅 冬康" />
         <string id="pDYIBBAa" text="安宅 桂殿院" />
         <string id="DakzCL2f" text="安宅 清康" />
@@ -1050,17 +1050,17 @@
         <string id="ewils0Dz" text="川上 きた" />
         <string id="b8DHDVJl" text="锅岛 岩切" />
         <string id="y7KNSSPN" text="大村 纯忠" />
-        <string id="6VZ8rqKC" text="大村 円円" />
+        <string id="6VZ8rqKC" text="大村 圆圆" />
         <string id="qtwaI7LN" text="大村 义昭" />
         <string id="XqAwpT3d" text="大村 夕颜" />
         <string id="YgGJdujN" text="大村 白鲛" />
         <string id="qjFeheme" text="安富 纯治" />
         <string id="5EDIHiUN" text="福田 庚子" />
-        <string id="gcJhVyAL" text="吉広 时" />
+        <string id="gcJhVyAL" text="吉弘 时" />
         <string id="j1RRxloG" text="高桥 要" />
         <string id="XYmKfVXX" text="名和 幸直" />
         <string id="hv1qJGAV" text="竹崎 惟光" />
-        <string id="P62eOd0e" text="竹崎 沢" />
+        <string id="P62eOd0e" text="竹崎 泽" />
         <string id="L7lfoFu7" text="竹崎 长秀" />
         <string id="WRBJMAxG" text="竹崎 珠" />
         <string id="3IgBMBjO" text="竹崎 月" />
@@ -1093,7 +1093,7 @@
         <string id="rV9fvZPM" text="佐久间 信盛" />
         <string id="zccColGo" text="佐久间 躑躅" />
         <string id="1Auqkl29" text="佐久间 信春" />
-        <string id="llqgj9e4" text="佐久间 広松院" />
+        <string id="llqgj9e4" text="佐久间 弘松院" />
         <string id="9GlIn49d" text="佐久间 信秀" />
         <string id="I0VAUSEq" text="佐久间 信辰" />
         <string id="sc9FjP2E" text="滝川 一益" />
@@ -1149,7 +1149,7 @@
         <string id="NWi3RA0H" text="相良 赖贞" />
         <string id="dvyfGKTU" text="相良 蛍" />
         <string id="bbvlOOs5" text="相良 海雾" />
-        <string id="YNU67geV" text="相良 治広" />
+        <string id="YNU67geV" text="相良 治弘" />
         <string id="916pH86X" text="相良 内城" />
         <string id="dKC0bSr2" text="印东 赖安" />
         <string id="0K6M8tdY" text="印东 妙庆尼" />
@@ -1178,7 +1178,7 @@
         <string id="iIKYURwu" text="纪 祐房" />
         <string id="QhQNpW8c" text="纪 长房" />
         <string id="vTJsC4OH" text="纪 青桐" />
-        <string id="ccbI0eaO" text="蒲池 顕盛" />
+        <string id="ccbI0eaO" text="蒲池 显盛" />
         <string id="l20Tre0E" text="蒲池 乙鹤" />
         <string id="mZZiN58r" text="蒲池 重久" />
         <string id="4UMLD8VG" text="蒲池 重并" />
@@ -1189,15 +1189,15 @@
         <string id="DjUMn7At" text="毛利 妙玖" />
         <string id="14vUfETg" text="毛利 隆元" />
         <string id="BSWxMZFE" text="毛利 彩" />
-        <string id="x08M6xh2" text="毛利 元顕" />
+        <string id="x08M6xh2" text="毛利 元显" />
         <string id="HzJdFNL7" text="毛利 秀包" />
         <string id="ljrQK9ik" text="小早川 隆景" />
-        <string id="VQH0SYq0" text="小早川 戸井田" />
+        <string id="VQH0SYq0" text="小早川 户井田" />
         <string id="9BscWFYJ" text="吉川 元春" />
         <string id="PqjmlE5W" text="吉川 岩国" />
         <string id="QnqH5KZ0" text="吉川 元长" />
         <string id="3OyxaM6M" text="吉川 蓬" />
-        <string id="0wrHmcK7" text="吉川 広家" />
+        <string id="0wrHmcK7" text="吉川 弘家" />
         <string id="BrDafz9a" text="吉川 富" />
         <string id="akFMV6yS" text="吉川 天音" />
         <string id="UENAABaj" text="吉川 常安" />
@@ -1208,9 +1208,9 @@
         <string id="9tqn5PPq" text="吉川 巴" />
         <string id="3gl90OC4" text="吉见 正頼" />
         <string id="ujpvQZRt" text="吉见 大宫" />
-        <string id="tMK6TwxL" text="吉见 広頼" />
+        <string id="tMK6TwxL" text="吉见 弘頼" />
         <string id="O6uSZlqz" text="吉见 杢" />
-        <string id="p4gAtQ44" text="吉见 広政" />
+        <string id="p4gAtQ44" text="吉见 弘政" />
         <string id="fFw7eVr9" text="吉见 萩" />
         <string id="eqnHNZTn" text="内藤 隆春" />
         <string id="FjERkhTK" text="内藤 ひさぎ" />
@@ -1221,18 +1221,18 @@
         <string id="3t890NFw" text="南条 木槿" />
         <string id="IoiBIuNR" text="南条 元次" />
         <string id="3WRBgvB5" text="南条 行" />
-        <string id="Y4IdPEjO" text="南条 元顕" />
+        <string id="Y4IdPEjO" text="南条 元显" />
         <string id="Num8z5UZ" text="南条 信政" />
         <string id="JNbU5CCb" text="南条 常磐" />
         <string id="0LcWeO9q" text="南条 宗信" />
         <string id="0VdMZ0JH" text="南条 岛" />
-        <string id="VUZ97dN1" text="沟沢 为清" />
-        <string id="U4DnOQh4" text="沟沢 仓" />
-        <string id="gYclqkoJ" text="沟沢 为虎" />
-        <string id="WCuytuAF" text="沟沢 早苗" />
+        <string id="VUZ97dN1" text="沟泽 为清" />
+        <string id="U4DnOQh4" text="沟泽 仓" />
+        <string id="gYclqkoJ" text="沟泽 为虎" />
+        <string id="WCuytuAF" text="沟泽 早苗" />
         <string id="gzGocQQH" text="天野 隆重" />
         <string id="e97cGhbY" text="天野 橘" />
-        <string id="VDpeZ1bz" text="天野 元顕" />
+        <string id="VDpeZ1bz" text="天野 元显" />
         <string id="OCQRIum4" text="天野 仲" />
         <string id="5v6c3AmS" text="天野 元助" />
         <string id="MQjGjSgA" text="天野 千瀬" />
@@ -1258,7 +1258,7 @@
         <string id="Vcpfb24L" text="浦上 宗辰" />
         <string id="N1n8pWTZ" text="浦上 辰" />
         <string id="4JsopToS" text="宇喜多 兴家" />
-        <string id="E1ylj5fW" text="宇喜多 善浄院" />
+        <string id="E1ylj5fW" text="宇喜多 善净院" />
         <string id="FOH3wIT7" text="宇喜多 直家" />
         <string id="0Gm8PH8I" text="宇喜多 涡" />
         <string id="yEwFRYGg" text="宇喜多 爱" />
@@ -1283,13 +1283,13 @@
         <string id="QQ62CWn2" text="汤川 信春" />
         <string id="Bqky19ae" text="汤川 广春" />
         <string id="NbKeRcPM" text="汤川 晴信" />
-        <string id="vVdUl9kZ" text="本愿寺 顕如" />
+        <string id="vVdUl9kZ" text="本愿寺 显如" />
         <string id="uhGVlVcb" text="本愿寺 如春尼" />
         <string id="ZHgHiq5g" text="本愿寺 教如" />
-        <string id="dLk4Mfmb" text="本愿寺 顕尊" />
-        <string id="CGMTB5IR" text="巌鐘寺 証意" />
-        <string id="RqrjjOwd" text="巌鐘寺 証明院" />
-        <string id="dcTmgzR2" text="巌鐘寺 顕忍" />
+        <string id="dLk4Mfmb" text="本愿寺 显尊" />
+        <string id="CGMTB5IR" text="愿胜寺 证意" />
+        <string id="RqrjjOwd" text="愿胜寺 正明院" />
+        <string id="dcTmgzR2" text="愿胜寺 显忍" />
         <string id="KyBM4EGe" text="六角 义贤" />
         <string id="YKfuhIdz" text="六角 静乃" />
         <string id="5c4QE4T3" text="六角 义治" />
@@ -1311,7 +1311,7 @@
         <string id="A73fNqDB" text="藤堂 虎隆" />
         <string id="wATMO4SF" text="藤堂 菖蒲" />
         <string id="ZkYr4Q04" text="藤堂 高虎" />
-        <string id="MRwSxq1k" text="藤堂 高徳" />
+        <string id="MRwSxq1k" text="藤堂 高德" />
         <string id="6F2ikYXs" text="藤堂 藤" />
         <string id="VejCmIYn" text="藤堂 蔦" />
         <string id="kHIiTY6k" text="矶野 员昌" />
@@ -1329,7 +1329,7 @@
         <string id="3k7drsea" text="织田 信忠" />
         <string id="0JPVJU94" text="织田 信雄" />
         <string id="ITHpOHC1" text="织田 信孝" />
-        <string id="XFJfiBaw" text="织田 信広" />
+        <string id="XFJfiBaw" text="织田 信弘" />
         <string id="Asdctfqh" text="织田 信包" />
         <string id="7whQnMzi" text="织田 久" />
         <string id="8BhkuRWC" text="织田 长益" />
@@ -1343,40 +1343,40 @@
         <string id="LmtF2OEL" text="木下 吉房" />
         <string id="78tz8gaC" text="木下 旭" />
         <string id="TDa0KpyV" text="木下 吉成" />
-        <string id="NkAfByDU" text="别来 顕连" />
+        <string id="NkAfByDU" text="别来 显连" />
         <string id="c5eoivff" text="别来 初" />
         <string id="ovVdGXOn" text="别来 吟千代" />
         <string id="ZlHul9Zt" text="别来 重连" />
         <string id="HQk5m5lx" text="别来 亲幸" />
-        <string id="b9gzn2hY" text="别来 顕方" />
-        <string id="lKbRz6eD" text="吉広 顕忠" />
-        <string id="0Y43uQrL" text="吉広 石谷院" />
-        <string id="Sj68FhWp" text="吉広 重信" />
-        <string id="NkhLWVag" text="吉広 时" />
-        <string id="lpweWPGd" text="吉広 宗幸" />
-        <string id="LeuCYp9y" text="吉広 宗一" />
-        <string id="dmMvttf2" text="吉広 宗贞" />
-        <string id="m19CQd6x" text="吉広 鹿之子" />
-        <string id="1yDEuokr" text="吉広 山百合" />
-        <string id="E46uMtvl" text="高桥 重忠" />
+        <string id="b9gzn2hY" text="别来 显方" />
+        <string id="lKbRz6eD" text="吉弘 鉴忠" />
+        <string id="0Y43uQrL" text="吉弘 雪谷院" />
+        <string id="Sj68FhWp" text="吉弘 镇信" />
+        <string id="NkhLWVag" text="吉弘 时" />
+        <string id="lpweWPGd" text="吉弘 宗幸" />
+        <string id="LeuCYp9y" text="吉弘 宗员" />
+        <string id="dmMvttf2" text="吉弘 宗贞" />
+        <string id="m19CQd6x" text="吉弘 鹿子" />
+        <string id="1yDEuokr" text="吉弘 山百合" />
+        <string id="E46uMtvl" text="高桥 绍运" />
         <string id="ILKZCqYF" text="高桥 要" />
-        <string id="2GaQofVb" text="高桥 宗虎" />
-        <string id="uBCOrdQV" text="高桥 甲" />
-        <string id="Z2GCOUtm" text="高桥 お千代" />
-        <string id="x6R93cIi" text="高桥 茅" />
-        <string id="NYlbLufq" text="麻生 惟政" />
-        <string id="fo7AmZvZ" text="麻生 雏罂粟" />
-        <string id="VwVczw6S" text="麻生 惟胤" />
-        <string id="LRFeUoJn" text="麻生 蓟" />
-        <string id="9rmhZ9SX" text="甲 宗运" />
-        <string id="0YMRJmlt" text="甲 黄梅" />
-        <string id="AwDyF3fr" text="甲 亲秀" />
-        <string id="0dn4iBEk" text="甲 亲政" />
-        <string id="1erzaD8X" text="甲 信成" />
+        <string id="2GaQofVb" text="高桥 统虎" />
+        <string id="uBCOrdQV" text="高桥 甲斐" />
+        <string id="Z2GCOUtm" text="高桥 千代" />
+        <string id="x6R93cIi" text="高桥 佳耶" />
+        <string id="NYlbLufq" text="阿苏 惟将" />
+        <string id="fo7AmZvZ" text="阿苏 雏芥子" />
+        <string id="VwVczw6S" text="阿苏 惟种" />
+        <string id="LRFeUoJn" text="阿苏 蓟" />
+        <string id="9rmhZ9SX" text="甲斐 宗运" />
+        <string id="0YMRJmlt" text="甲斐 黄梅" />
+        <string id="AwDyF3fr" text="甲斐 亲秀" />
+        <string id="0dn4iBEk" text="甲斐 亲政" />
+        <string id="1erzaD8X" text="甲斐 信成" />
         <string id="nCvG3JeX" text="名和 幸直" />
         <string id="ZQpSL7UA" text="名和 杏" />
-        <string id="SQP2yZeu" text="名和 顕孝" />
-        <string id="KrF8FmSs" text="名和 顕辉" />
+        <string id="SQP2yZeu" text="名和 显孝" />
+        <string id="KrF8FmSs" text="名和 显辉" />
         <string id="1btPFqMR" text="名和 幸吉" />
         <string id="XoV0TPFq" text="西 惟光" />
         <string id="saxrxGki" text="西 驹" />
@@ -1386,7 +1386,7 @@
         <string id="jpK0zLw5" text="西 惟秀" />
         <string id="cCBVwKSj" text="西 关" />
         <string id="lNlmN4wG" text="竹崎 惟光" />
-        <string id="85PKWhYi" text="竹崎 沢" />
+        <string id="85PKWhYi" text="竹崎 泽" />
         <string id="ahYt1SDs" text="竹崎 长秀" />
         <string id="GA5dFkPJ" text="竹崎 珠" />
         <string id="q4kHT4nt" text="竹崎 月" />
@@ -1398,7 +1398,7 @@
         <string id="B67b5TXq" text="有马 亲" />
         <string id="HbzP5AAB" text="有马 晴信" />
         <string id="DrxNkMPh" text="大村 纯忠" />
-        <string id="adfnCVYV" text="大村 円円" />
+        <string id="adfnCVYV" text="大村 圆圆" />
         <string id="i2ihnVmH" text="大村 义昭" />
         <string id="38sUEkUk" text="大村 夕颜" />
         <string id="Y7RBrR1o" text="大村 白鲛" />
@@ -1411,7 +1411,7 @@
         <string id="gP7qZ1sx" text="安富 福" />
         <string id="xzrz8EdV" text="安富 澄兴" />
         <string id="0u4eOAjF" text="安富 弓" />
-        <string id="99cmIBLl" text="福田 忠包" />
+        <string id="99cmIBLl" text="福田 忠兼" />
         <string id="IqQ6wbYX" text="福田 桃" />
         <string id="3DxSAP5P" text="福田 兼继" />
         <string id="m9ddTE2d" text="福田 千瀬" />
@@ -1428,7 +1428,7 @@
         <string id="dJrycT5U" text="龙造寺 安" />
         <string id="Bun8uTcC" text="龙造寺 信包" />
         <string id="QoJqPtiQ" text="龙造寺 忍" />
-        <string id="1U8b3UIP" text="龙造寺 信顕" />
+        <string id="1U8b3UIP" text="龙造寺 信显" />
         <string id="tITu2Ofm" text="龙造寺 长信" />
         <string id="jmFzBD6r" text="龙造寺 皐月" />
         <string id="oKY3txxT" text="龙造寺 安俊" />
@@ -1468,7 +1468,7 @@
         <string id="LboIPHhY" text="内㭴岛氏" />
         <string id="8Kqhx9R1" text="下妻氏" />
         <string id="kXGcCns5" text="七里氏" />
-        <string id="1iyE0PaI" text="能登畠山氏" />
+        <string id="1iyE0PaI" text="能登畠（田）山氏" />
         <string id="oooOrCfb" text="长氏" />
         <string id="iilNBXIF" text="游佐氏" />
         <string id="IqeslrzB" text="额氏" />
@@ -1517,6 +1517,9 @@
         <string id="dKQsidWH" text="越前柴田氏" />
         <!--Kanto
         Oda clan-->
+
+        <!-- 无论是关东织田氏还是尾张织田氏，“织田” 都是其氏族名称的标准汉字写法，不能译为 “小田”——“小田” 对应的是关东小众氏族
+    “小田氏”，与织田氏是完全不同的两个家族，读音虽同（Oda）但氏族属性截然不同。 -->
         <string id="obBB8IMs" text="关东织田氏" />
         <string id="JcaTBEWg" text="古河公方氏" />
         <string id="4YXW6utE" text="佐野氏" />
@@ -1542,9 +1545,9 @@
         <string id="j0760mT5" text="细川氏" />
         <string id="gq9NGwvB" text="一色氏" />
         <string id="kwCYCFhQ" text="山名氏" />
-        <string id="xRnrOdTc" text="本愿寺氏" />
-        <string id="Hkaz0M4C" text="巌松寺氏" />
-        <string id="lx34RrxX" text="畠山氏" />
+        <string id="xRnrOdTc" text="本愿寺众" />
+        <string id="Hkaz0M4C" text="愿胜寺众" />
+        <string id="lx34RrxX" text="畠（田）山氏" />
         <string id="99Mh6vBQ" text="安住氏" />
         <string id="ikViyOmi" text="汤川氏" />
         <string id="AFuBZx4V" text="六角氏" />
@@ -1565,7 +1568,7 @@
         <string id="DRRT6Yh1" text="川上氏" />
         <string id="prFVNkLc" text="上井氏" />
         <string id="6WeEzXMc" text="二领氏" />
-        <string id="2nPDxvvU" text="麻生氏" />
+        <string id="2nPDxvvU" text="阿苏氏" />
         <string id="PcbbEMKz" text="甲斐氏" />
         <string id="yJvoBlCU" text="名和氏" />
         <string id="qfHKfquH" text="西氏" />
@@ -1640,10 +1643,10 @@
         <string id="pI6YjX8M" text="仁贺保氏" />
         <string id="6NWgGmYf" text="安藤氏" />
         <string id="6LMl0tI8" text="浅利氏" />
-        <string id="4IKyEBDc" text="戸沢氏" />
+        <string id="4IKyEBDc" text="户泽氏" />
         <string id="c006Hx4r" text="南部氏" />
-        <string id="kHne65Y9" text="七戸氏" />
-        <string id="flBMJ4Es" text="八戸氏" />
+        <string id="kHne65Y9" text="七户氏" />
+        <string id="flBMJ4Es" text="八户氏" />
         <string id="ZVlwFZZv" text="籾井氏" />
         <string id="NyMA6A7K" text="北氏" />
         <string id="UyMq8aDj" text="浦氏" />
@@ -1682,8 +1685,8 @@
         <string id="U71vvdhm" text="骏河众是专攻水战的佣兵团，在中部地方南部一带，向来以后勤支援能力著称。" />
         <string id="qX0hsHoS" text="风间众" />
         <string id="jycPZTp7" text="风间众是专攻谍报与侦查的佣兵团，虽因劫掠盗抢声名狼藉，却在战场上战力卓绝。" />
-        <string id="kEoddDyL" text="黒羽枭众" />
-        <string id="bgA6na9m" text="黒羽枭众是专攻谍报与破坏的佣兵团，以不拘一格、扰乱敌阵的战术闻名于世。" />
+        <string id="kEoddDyL" text="黑羽枭众" />
+        <string id="bgA6na9m" text="黑羽枭众是专攻谍报与破坏的佣兵团，以不拘一格、扰乱敌阵的战术闻名于世。" />
 
 
         <!-- 名 -->
@@ -1698,12 +1701,12 @@
         <string id="u7lr2CeS" text="孫吉" />
         <string id="SQPfPWOw" text="优奈" />
         <string id="tFdd1GPj" text="光" />
-        <string id="4DPIxoKe" text="ひし" />
+        <string id="4DPIxoKe" text="菱" />
         <string id="5n2wTzWg" text="仲" />
-        <string id="za5d9NWg" text="歳" />
+        <string id="za5d9NWg" text="俊" />
         <string id="fzXdDFUf" text="空" />
         <string id="evkgbLwl" text="庚子" />
-        <string id="ltuJdbxe" text="木曽" />
+        <string id="ltuJdbxe" text="木曾" />
         <string id="19Iasms7" text="葦" />
         <string id="686xcJ5S" text="太郎" />
         <string id="xbwRkO5Z" text="一郎" />
@@ -1833,19 +1836,19 @@
         <string id="hDYNv8cs" text="又兵卫" />
         <string id="iXpL1lbL" text="又左卫门" />
         <string id="P4kQzauj" text="又卫门" />
-        <string id="5i4ToX51" text="徳太郎" />
-        <string id="pMvZ04mm" text="徳一郎" />
-        <string id="INK1MJlR" text="徳二郎" />
-        <string id="jlDVjQnu" text="徳三郎" />
-        <string id="HQ7qfRgD" text="徳五郎" />
-        <string id="clrovKXi" text="徳十郎" />
-        <string id="FQlRLvY9" text="徳助" />
-        <string id="CCUwTZYL" text="徳之助" />
-        <string id="9qQ9evZv" text="徳吉" />
-        <string id="ijnOHHSh" text="徳藏" />
-        <string id="30Z0KoSI" text="徳兵卫" />
-        <string id="lIvG7CnE" text="徳左卫门" />
-        <string id="RdMNMHrY" text="徳卫门" />
+        <string id="5i4ToX51" text="德太郎" />
+        <string id="pMvZ04mm" text="德一郎" />
+        <string id="INK1MJlR" text="德二郎" />
+        <string id="jlDVjQnu" text="德三郎" />
+        <string id="HQ7qfRgD" text="德五郎" />
+        <string id="clrovKXi" text="德十郎" />
+        <string id="FQlRLvY9" text="德助" />
+        <string id="CCUwTZYL" text="德之助" />
+        <string id="9qQ9evZv" text="德吉" />
+        <string id="ijnOHHSh" text="德藏" />
+        <string id="30Z0KoSI" text="德兵卫" />
+        <string id="lIvG7CnE" text="德左卫门" />
+        <string id="RdMNMHrY" text="德卫门" />
         <string id="U58ZOdQG" text="弥太郎" />
         <string id="ny1aqEL7" text="弥一郎" />
         <string id="k0kehmUu" text="弥二郎" />
@@ -2098,7 +2101,7 @@
         <string id="CMxdilZo" text="秋" />
         <string id="oldI3981" text="朝" />
         <string id="IrnQzBvz" text="苇" />
-        <string id="ONWqd9Hd" text="麻" />
+        <string id="ONWqd9Hd" text="阿苏" />
         <string id="u9Pq27aa" text="天" />
         <string id="bLckTBYg" text="网" />
         <string id="Yk5AaGis" text="绫" />
@@ -2238,7 +2241,7 @@
         <string id="VPUvGEii" text="縄" />
         <string id="kVvV6i76" text="西" />
         <string id="NyCRcnms" text="宁" />
-        <string id="AiQKTb3M" text="ねね" />
+        <string id="AiQKTb3M" text="宁宁" />
         <string id="HEKsNIc0" text="野江" />
         <string id="nFeGwvdW" text="能登" />
         <string id="CGlpxIRk" text="珀" />
@@ -2295,17 +2298,17 @@
         <string id="zLwhd8EY" text="泪" />
         <string id="IVbOeER4" text="瑠璃" />
         <string id="ZdBXMo7L" text="秋月" />
-        <string id="46fsk7gw" text="麻生" />
+        <string id="46fsk7gw" text="浅生" />
         <string id="JWeFzVlO" text="抜" />
         <string id="pwYAuMyG" text="香月" />
-        <string id="YgTsZMc0" text="黒木" />
+        <string id="YgTsZMc0" text="黑木" />
         <string id="UeORdILD" text="筑紫" />
         <string id="KssObQt2" text="西郷" />
         <string id="VSE45J5r" text="志贺" />
         <string id="JkFrZzdM" text="镰田" />
         <string id="p0krwhS7" text="姫野" />
-        <string id="TztBu7HI" text="渋江" />
-        <string id="ac95GhXU" text="紫舎" />
+        <string id="TztBu7HI" text="涉江" />
+        <string id="ac95GhXU" text="志佐" />
         <string id="pdwy8MTC" text="见台" />
         <string id="gWlW80aW" text="深堀" />
         <string id="Ie9Vn818" text="明星" />
@@ -2330,11 +2333,11 @@
         <string id="P1I5mIT8" text="笙" />
         <string id="x8A5c8Wk" text="新见" />
         <string id="KO6lqs1w" text="仁哉" />
-        <string id="HnHDgRY0" text="円屋" />
+        <string id="HnHDgRY0" text="圆屋" />
         <string id="Kq7WRvBH" text="真司" />
         <string id="8eBExVTe" text="杉原" />
         <string id="hY1KrG2x" text="平贺" />
-        <string id="OfficN1P" text="児玉" />
+        <string id="OfficN1P" text="儿玉" />
         <string id="tPGBJUID" text="杉" />
         <string id="KiR6iXcV" text="二穂" />
         <string id="pQS7UiSK" text="三屋" />
@@ -2345,7 +2348,7 @@
         <string id="JuSWnmm9" text="小机" />
         <string id="TwGHHEo4" text="细野" />
         <string id="4ryYW6y1" text="大河内" />
-        <string id="yMlYRwy8" text="あかほり" />
+        <string id="yMlYRwy8" text="赤堀" />
         <string id="Z01eNIVq" text="高岛" />
         <string id="jahoJ9Op" text="朽木" />
         <string id="DQfBZni2" text="多郎" />
@@ -2368,7 +2371,7 @@
         <string id="bcjz1Olb" text="新津" />
         <string id="8zGZnSvv" text="鮎川" />
         <string id="j3VYrogu" text="大井田" />
-        <string id="VFSpSdTs" text="石黒" />
+        <string id="VFSpSdTs" text="石黑" />
         <string id="LNL0fpnx" text="仓光" />
         <string id="H4V33j6B" text="横山" />
         <string id="sdBWDJQR" text="瓜生" />
@@ -2378,13 +2381,13 @@
         <string id="HNMqBFKC" text="山吉" />
         <string id="IBH0fyiq" text="安田" />
         <string id="Z1qR2REA" text="东山" />
-        <string id="Ugk9KYNS" text="藤沢" />
+        <string id="Ugk9KYNS" text="藤泽" />
         <string id="BAvYCzuQ" text="下条" />
         <string id="jdxpV7wS" text="望月" />
         <string id="kq6avh9h" text="大井" />
         <string id="gGGTekAP" text="社" />
         <string id="JSR07qWX" text="片桐" />
-        <string id="VZKnCOUM" text="長谷" />
+        <string id="VZKnCOUM" text="长谷" />
         <string id="GfcPzkoQ" text="霜根" />
         <string id="hBk9SoIe" text="河西" />
         <string id="x2WcAdbW" text="栗田" />
@@ -2395,7 +2398,7 @@
         <string id="KoUScJZu" text="国安" />
         <string id="pDDXXt20" text="竹腰" />
         <string id="yveyAGxB" text="丸茂" />
-        <string id="yBr808vb" text="広瀬" />
+        <string id="yBr808vb" text="弘瀬" />
         <string id="KYbMt1uP" text="岩下" />
         <string id="7scrIsjj" text="迹部" />
         <string id="701yWNGe" text="东海" />
@@ -2421,14 +2424,14 @@
         <string id="QO79qs4N" text="山川" />
         <string id="Mw9s0qdq" text="皆川" />
         <string id="eRxuWdyL" text="君岛" />
-        <string id="DOFQ3gnN" text="宍戸" />
+        <string id="DOFQ3gnN" text="宍户" />
         <string id="RGTiMI8a" text="菅谷" />
         <string id="NV5iGpZr" text="小野崎" />
         <string id="4OxgVPT4" text="小栗" />
         <string id="D6bCvKQA" text="富冈" />
         <string id="an9XJN76" text="白井" />
         <string id="lXZFYdGf" text="梁田" />
-        <string id="lYQNsFhs" text="木戸" />
+        <string id="lYQNsFhs" text="木户" />
         <string id="Y4HcFUBF" text="秋元" />
         <string id="OBENaFLm" text="大森" />
         <string id="2AjEhHx1" text="间宫" />
@@ -2441,7 +2444,7 @@
         <string id="09bt9j1U" text="矢岛" />
         <string id="kZwk4hVf" text="寒河江" />
         <string id="Q0gbHS9t" text="东根" />
-        <string id="bs7UCwiP" text="穴沢" />
+        <string id="bs7UCwiP" text="穴泽" />
         <string id="B0gvz3h4" text="鮎贝" />
         <string id="5CjjZL3Q" text="毛内" />
         <string id="CQHHJRGn" text="平" />
@@ -2474,8 +2477,8 @@
         <string id="0QhvafT9" text="佐竹领国" />
         <string id="Hwgq2oHf" text="朝仓" />
         <string id="97tn9Agd" text="朝仓领国" />
-        <string id="QqEJybge" text="姉小路" />
-        <string id="4c5OF6TQ" text="姉小路领国" />
+        <string id="QqEJybge" text="姊小路" />
+        <string id="4c5OF6TQ" text="姊小路领国" />
         <string id="nAUwT8JG" text="德川" />
         <string id="OHqGIRhL" text="德川领国" />
         <string id="r3wkuN0u" text="上杉" />
@@ -2516,7 +2519,7 @@
         <string id="nuOTMFnL" text="肝付" />
         <string id="KrJolclO" text="肝付领国" />
         <string id="16fyo47M" text="伊东领国" />
-        <string id="aFBneNkA" text="麻生领国" />
+        <string id="aFBneNkA" text="阿苏领国" />
         <string id="qZ86Dhcd" text="相良" />
         <string id="aiTAusH5" text="相良领国" />
         <string id="p6llIAZ9" text="大友" />

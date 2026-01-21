@@ -443,7 +443,7 @@
       text="这是一套记载岸和田流炮术的卷轴，由吉田盛贞编撰。卷轴中详述了火炮的发射技巧与火药配方，同时融入大量密宗思想，将火炮与密教佛法相联系，称其具有驱邪避凶之效。" />
     <!-- ========== 宗教/文史典籍 ========== -->
     <string id="2wY88rzX" text="这是一卷收录三十余年密宗图像与经文的卷轴，由金泰坊覚禅编撰，全书共计百余卷，是密宗典籍中卷帙浩繁的巨著之一。" />
-    <string id="RuQ4TZhh" text="这是一卷收录诸派密宗经义与口传心法的卷轴，由极乐坊浄澄编撰，全书共计二百二十八卷，历时三十余年方才成书。" />
+    <string id="RuQ4TZhh" text="这是一卷收录诸派密宗经义与口传心法的卷轴，由极乐坊净澄编撰，全书共计二百二十八卷，历时三十余年方才成书。" />
     <string id="OBbYaTVr" text="这是一卷收录诸派密宗口传心法、典故仪轨的卷轴，由天台宗高僧宗空院光宗编撰。光宗曾登临比叡山，研习山中独传的佛教宗派。" />
     <string id="unC8XMbS" text="这是一本收录修验道山岳修行仪轨与教义的典籍，由日光山修验者悪熊坊息伝所著。" />
     <string id="pYmNTiMK" text="这是一本记载修验道仪轨传承的书信集，由日光山修验者悪熊坊息伝所著。" />
@@ -667,8 +667,8 @@
     <string id="zEXjYqDm" text="此处为港口。" />
     <!-- ========== 日本战国港口名称（音译+规范译法） ========== -->
     <string id="dmNn1iRw" text="新岛港" />
-    <string id="ei2gsY4H" text="黒瀬港" />
-    <string id="hTC8JuAs" text="日之江港" />
+    <string id="ei2gsY4H" text="黑瀬港" />
+    <string id="hTC8JuAs" text="日野江港" />
     <string id="Bco2qodf" text="中村港" />
     <string id="5shgbY6h" text="大河港" />
     <string id="ow0uuaTv" text="牛来港" />
@@ -709,7 +709,7 @@
     <string id="VAaXYzk9" text="升山港" />
     <string id="TbIzhjae" text="小山港" />
     <string id="3CR4mFPR" text="与板港" />
-    <string id="yl0zzzXE" text="鹿鹿ヶ岛港" />
+    <string id="yl0zzzXE" text="鹿鹿岛港" />
     <string id="DhClW9IC" text="下田港" />
     <string id="NlznDDm5" text="滨松港" />
     <string id="9yS2RBqp" text="大久保港" />
@@ -718,14 +718,14 @@
     <string id="puuqlRZm" text="饭沼港" />
     <string id="SalUETQ2" text="讃岐港" />
     <string id="mHdDMayp" text="小高港" />
-    <string id="ReVfe0NF" text="戸次凑港" />
+    <string id="ReVfe0NF" text="户次凑港" />
     <string id="VXRdkiBV" text="石卷港" />
-    <string id="o1XXcFEZ" text="千徳港" />
+    <string id="o1XXcFEZ" text="千德港" />
     <string id="TOysuqoi" text="根港" />
     <string id="xQ1Z7KBR" text="巡法寺港" />
     <string id="tW8oIaVj" text="土崎港" />
     <string id="xNlFGjFX" text="春日山港" />
-    <string id="HoKuRuB7" text="新潟港" />
+    <string id="HoKuRuB7" text="新泻港" />
     <!-- ========== 玩法场景标识 ========== -->
     <string id="Q47m8zth" text="战后搜刮区域" />
     <string id="KEX5sbP0" text="替换描述" />
@@ -752,15 +752,15 @@
     <string id="vHOOBCB9" text="萩" />
     <string id="aK0HSc4W" text="大井" />
     <string id="GxkGnl8i" text="三日月" />
-    <string id="NSAkQv1M" text="吉田郡山城" />
+    <string id="NSAkQv1M" text="吉田郡山" />
     <string id="ntbMy243" text="东乡" />
     <string id="uxffoc1I" text="壁" />
     <string id="YhbInKsq" text="三好" />
     <string id="ihU3yZM0" text="石见" />
-    <string id="ryejJvC5" text="友ヶ浦" />
+    <string id="ryejJvC5" text="友浦" />
     <string id="VDGlQJwd" text="石金" />
     <string id="r5ANVqKb" text="羽根" />
-    <string id="5CN8ewVp" text="月山富田城" />
+    <string id="5CN8ewVp" text="月山富田" />
     <string id="LwUShO8j" text="安来" />
     <string id="EOMv6L5Q" text="美保关" />
     <string id="9aMOSRHh" text="淀江" />
@@ -770,7 +770,7 @@
     <string id="wwAiZo2v" text="西大寺" />
     <string id="sZfJiRtF" text="新高山城" />
     <string id="rdMHs0On" text="比集" />
-    <string id="Tk7cr6rz" text="瀬戸崎" />
+    <string id="Tk7cr6rz" text="瀬户崎" />
     <string id="ggBeWjpi" text="神峰城" />
     <string id="hYa3ko4i" text="三田尻" />
     <string id="vuFxEg9A" text="宫市" />
@@ -812,7 +812,7 @@
     <string id="qMUrlmZh" text="因美" />
     <string id="aWGi78Ll" text="天王山城" />
     <string id="Nr6GaOhH" text="塩汤" />
-    <string id="MTe8tb9b" text="戸川" />
+    <string id="MTe8tb9b" text="户川" />
     <string id="6ccxu05w" text="上杉城" />
     <string id="0WX9hA8s" text="桥津" />
     <string id="04PwDqo1" text="苅吕" />
@@ -832,7 +832,7 @@
     <string id="POZGi4zI" text="府内" />
     <string id="fLVmeCsk" text="直江津" />
     <string id="RVCdQOAQ" text="新居" />
-    <string id="CK6roQ1s" text="新潟" />
+    <string id="CK6roQ1s" text="新泻" />
     <string id="2UhVzhNg" text="蒲原" />
     <string id="FXLQqRDx" text="新发田" />
     <string id="4Hvmfg62" text="津川" />
@@ -872,7 +872,7 @@
     <string id="ijmNcreb" text="小滨" />
     <string id="kePZsN6S" text="府中城" />
     <string id="qEewJDux" text="木浦" />
-    <string id="DUDOlYTC" text="惠曽福" />
+    <string id="DUDOlYTC" text="惠曾福" />
     <string id="BznGdbFo" text="沟江城砦" />
     <string id="P5SW4Or6" text="三国凑" />
     <string id="9VFHLA3r" text="金津" />
@@ -894,21 +894,21 @@
     <string id="fhMckOAE" text="与板城" />
     <string id="vcwfVYcz" text="出云崎" />
     <string id="Lsn74WcF" text="寺泊" />
-    <string id="c149C2cR" text="鹿鹿ヶ岛城" />
+    <string id="c149C2cR" text="鹿鹿岛城" />
     <string id="7t3vyHmx" text="泽根" />
-    <string id="d7QHPRHE" text="松ヶ崎" />
+    <string id="d7QHPRHE" text="松崎" />
     <string id="HwZEw9mI" text="平林城" />
     <string id="8qvbF7TU" text="平林" />
     <string id="hWQ6aSCk" text="岩舟" />
     <string id="BSK7ThAp" text="本庄城" />
     <string id="Ko1h36Co" text="村上" />
-    <string id="J9ywrIPV" text="猿沢" />
+    <string id="J9ywrIPV" text="猿泽" />
     <string id="NudqZujm" text="栃尾城" />
     <string id="n7NdjTwb" text="蔵王堂" />
     <string id="F0FJSIJ3" text="三条" />
-    <string id="6MHOv64n" text="坂戸城" />
+    <string id="6MHOv64n" text="坂户城" />
     <string id="RJ7ntwZm" text="饭山" />
-    <string id="1soJweIO" text="米沢" />
+    <string id="1soJweIO" text="米泽" />
     <string id="JDqrBEiT" text="海津城" />
     <string id="ESwxpHkr" text="妹石" />
     <string id="0auCw7Uk" text="日野" />
@@ -947,85 +947,85 @@
     <string id="d1uSH7Lb" text="常願寺城" />
     <string id="drRb1eJx" text="常願寺" />
     <string id="ZwLyRZ4l" text="前波" />
-    <string id="bMmdlGU7" text="帰雲城" />
-    <string id="ccQlu1Kg" text="帰雲" />
+    <string id="bMmdlGU7" text="归云城" />
+    <string id="ccQlu1Kg" text="归云" />
     <string id="ckPgXqYM" text="白河" />
-    <string id="yyGbsWow" text="鍋山城" />
-    <string id="RYgkBrwy" text="鉢賀" />
-    <string id="JddcPSQa" text="吉木" />
-    <string id="3iExDKs3" text="小鷹狩城" />
+    <string id="yyGbsWow" text="锅山城" />
+    <string id="RYgkBrwy" text="蜂贺" />
+    <string id="JddcPSQa" text="义生" />
+    <string id="3iExDKs3" text="小鹰狩城" />
     <string id="zNtx1PQ0" text="古河" />
-    <string id="AIzmEXqU" text="児島" />
+    <string id="AIzmEXqU" text="小岛" />
     <string id="NY1GGm2P" text="毛利城" />
     <string id="sNI8ZZHb" text="池田" />
-    <string id="Jo0WieRJ" text="更級" />
-    <string id="JXcJCRXa" text="木曽福島城" />
-    <string id="4nFCr6ZB" text="瀬場" />
-    <string id="qVMNO1bw" text="妻籠" />
-    <string id="xsrz8R6S" text="高遠城" />
+    <string id="Jo0WieRJ" text="更级" />
+    <string id="JXcJCRXa" text="木曾福岛城" />
+    <string id="4nFCr6ZB" text="瀬场" />
+    <string id="qVMNO1bw" text="妻笼" />
+    <string id="xsrz8R6S" text="高远城" />
     <string id="kpvsA1WL" text="寺" />
     <string id="Gc9lqI9K" text="福地" />
-    <string id="SPg1xeg2" text="韮崎" />
+    <string id="SPg1xeg2" text="韭崎" />
     <string id="A3cOvSag" text="市川" />
     <string id="6JVWOV78" text="小田原" />
-    <string id="rSHDe4X7" text="熱海" />
+    <string id="rSHDe4X7" text="热海" />
     <string id="wpQ2ndaa" text="菅" />
-    <string id="w4XrPFPx" text="鎌倉" />
-    <string id="0V7RNUk1" text="江戸" />
+    <string id="w4XrPFPx" text="镰仓" />
+    <string id="0V7RNUk1" text="江户" />
     <string id="dIIiTxyA" text="品川" />
-    <string id="TbCoWKJH" text="船橋" />
+    <string id="TbCoWKJH" text="船桥" />
     <string id="aTuhwpl9" text="太田" />
-    <string id="3afDSFUm" text="額田" />
-    <string id="OeVsHQQJ" text="葛浜" />
+    <string id="3afDSFUm" text="额田" />
+    <string id="OeVsHQQJ" text="葛滨" />
     <string id="BEXJ1F23" text="大久保" />
-    <string id="9iMMapjE" text="宇都宮" />
+    <string id="9iMMapjE" text="宇都宫" />
     <string id="71698EPm" text="鹿沼" />
-    <string id="jVHfshhL" text="飯山" />
+    <string id="jVHfshhL" text="饭山" />
     <string id="9hFMeM35" text="塩谷" />
-    <string id="g5NTSS2Y" text="箕輪" />
+    <string id="g5NTSS2Y" text="箕轮" />
     <string id="BuDdh2hN" text="安中" />
-    <string id="IwK2OW0t" text="倉賀野" />
-    <string id="BYtxHdvg" text="厩橋" />
+    <string id="IwK2OW0t" text="仓贺野" />
+    <string id="BYtxHdvg" text="厩桥" />
     <string id="qmGxdT6U" text="三崎城" />
     <string id="m6eYZWMH" text="三崎" />
-    <string id="AcrA0peb" text="浦賀" />
+    <string id="AcrA0peb" text="浦贺" />
     <string id="mQQksGbP" text="小机城" />
-    <string id="UmtiRMvI" text="六浦" />
+    <string id="UmtiRMvI" text="睦泽" />
     <string id="qsDR6nPt" text="神奈川" />
-    <string id="JkjaieKD" text="本桜城" />
-    <string id="8K5XNHMS" text="佐倉" />
+    <string id="JkjaieKD" text="本佐仓城" />
+    <string id="8K5XNHMS" text="佐仓" />
     <string id="8uc0Kj7G" text="成田" />
-    <string id="MKOOPTCF" text="土気城" />
+    <string id="MKOOPTCF" text="土气城" />
     <string id="4Qm8SgWv" text="市原" />
-    <string id="Gv5tERn8" text="大弓" />
-    <string id="CfzXQacm" text="石津城" />
+    <string id="Gv5tERn8" text="大多喜" />
+    <string id="CfzXQacm" text="椎津城" />
     <string id="VBw6AtIt" text="木更津" />
-    <string id="6OLFNFPW" text="石津" />
-    <string id="fUMpuOOb" text="讃岐城" />
-    <string id="1s4zTkO1" text="讃岐" />
+    <string id="6OLFNFPW" text="椎津" />
+    <string id="fUMpuOOb" text="佐贯城" />
+    <string id="1s4zTkO1" text="佐贯" />
     <string id="cPnEh9c9" text="富津" />
-    <string id="Ij0Ax0W7" text="岡本城" />
-    <string id="o9lZQluw" text="館山" />
+    <string id="Ij0Ax0W7" text="冈本城" />
+    <string id="o9lZQluw" text="馆山" />
     <string id="3vIIUJfX" text="保田" />
     <string id="LWEAx25N" text="大多喜城" />
-    <string id="JaeqMZbL" text="小湊" />
-    <string id="1czltRYb" text="勝浦" />
+    <string id="JaeqMZbL" text="小凑" />
+    <string id="1czltRYb" text="胜浦" />
     <string id="wP9NMb9t" text="久留里城" />
     <string id="mlDukSZk" text="久留里" />
-    <string id="vRxccLfw" text="鞠谷" />
-    <string id="zSObBDHa" text="飯沼城" />
-    <string id="2cLzFoE1" text="廿日市" />
-    <string id="vehvdeEq" text="飯沼" />
-    <string id="63kkGmr0" text="高浜" />
-    <string id="t7zPXy1y" text="鉾田" />
-    <string id="5GFPjyZy" text="水戸城" />
-    <string id="unBMdPnQ" text="水戸" />
-    <string id="S3r12ca1" text="那珂湊" />
-    <string id="QR0ARLZq" text="烏山城" />
+    <string id="vRxccLfw" text="真里谷" />
+    <string id="zSObBDHa" text="饭沼城" />
+    <string id="2cLzFoE1" text="初市" />
+    <string id="vehvdeEq" text="饭沼" />
+    <string id="63kkGmr0" text="高滨" />
+    <string id="t7zPXy1y" text="保田" />
+    <string id="5GFPjyZy" text="水户城" />
+    <string id="unBMdPnQ" text="水户" />
+    <string id="S3r12ca1" text="那珂凑" />
+    <string id="QR0ARLZq" text="乌山城" />
     <string id="dr8GFyIJ" text="福原" />
     <string id="EalLYsws" text="大田原" />
     <string id="r6clYwLT" text="沼田城" />
-    <string id="GuVB0o4t" text="渋川" />
+    <string id="GuVB0o4t" text="涩川" />
     <string id="yNbrNqwD" text="沼田" />
     <string id="1BrRu6lB" text="国峰城" />
     <string id="t1inD5Lx" text="小幡" />
@@ -1038,21 +1038,23 @@
     <string id="zRanyUdc" text="浦和" />
     <string id="x0qpsNZw" text="金山城" />
     <string id="8UOoxztL" text="新田" />
-    <string id="rZXDni5c" text="館林" />
-    <string id="fVwXqwlO" text="烏山山城" />
+    <string id="rZXDni5c" text="馆林" />
+    <string id="fVwXqwlO" text="唐泽山城" />
     <string id="xRwhSNem" text="赤见" />
     <string id="TuSOLp1h" text="佐野" />
     <string id="C8avRQxs" text="结城城" />
     <string id="VWIh1O6T" text="壬生" />
     <string id="CwUpZL5t" text="下馆" />
-    <string id="Rw5bAtwn" text="增子城" />
+    <string id="Rw5bAtwn" text="益子城" />
     <string id="GXGaCaHX" text="芳贺" />
     <string id="9OKrr8tM" text="真冈" />
     <string id="S931liPY" text="笠间城" />
     <string id="uapC71GC" text="笠间" />
-    <string id="lKDCjpUw" text="赤沢" />
-    <string id="2nt5o1X2" text="小田城" />
-    <string id="NBk1hBZz" text="小田" />
+    <string id="lKDCjpUw" text="赤泽" />
+    <!-- 1568 年织丰 MOD 的核心是尾张织田氏（织田信长），关东织田氏属于小众旁支。若直接译为 “织田城”，玩家会默认关联到尾张织田的本据（如清洲城），添加 “关东”
+    前缀能清晰区分地域与氏族分支 -->
+    <string id="2nt5o1X2" text="关东织田城" />
+    <string id="NBk1hBZz" text="织田" />
     <string id="XneOdQah" text="土浦" />
     <string id="UWvQEtSF" text="牛久城" />
     <string id="5JkMs0GN" text="牛久" />
@@ -1087,7 +1089,7 @@
     <string id="UombAy1F" text="亀冈" />
     <string id="fc4uciRX" text="大津" />
     <string id="SqhunkSg" text="山科" />
-    <string id="fxIwAwp3" text="観音寺" />
+    <string id="fxIwAwp3" text="观音寺" />
     <string id="svF9a3AO" text="坂本" />
     <string id="zPlJZ4Et" text="坚田" />
     <string id="GdmtbPuu" text="安土" />
@@ -1101,7 +1103,7 @@
     <string id="UORxMVZv" text="生野城" />
     <string id="B4rIgAXu" text="朝来" />
     <string id="kvIfk7Pn" text="粟贺" />
-    <string id="b5ROKqKn" text="籾曽山城" />
+    <string id="b5ROKqKn" text="籾曾山城" />
     <string id="FQrxDEty" text="藪" />
     <string id="AKm44xSa" text="城崎" />
     <string id="jIlbYCaV" text="建部山城" />
@@ -1139,10 +1141,10 @@
     <string id="3XWs4TyE" text="岩室城" />
     <string id="LZQI2qYV" text="加太" />
     <string id="JiCy0cGU" text="木ノ港" />
-    <string id="My5AlIjm" text="鳥屋城" />
+    <string id="My5AlIjm" text="鸟屋城" />
     <string id="dfHStZUp" text="湯浅" />
     <string id="dXkBXUQ2" text="紀伊由良" />
-    <string id="td8qkkz0" text="鳥羽城" />
+    <string id="td8qkkz0" text="鸟羽城" />
     <string id="scbRMDG2" text="桑崎" />
     <string id="Z06Isd7R" text="大湊" />
     <string id="t2ioc3tv" text="津城" />
@@ -1158,7 +1160,7 @@
     <string id="rogs3NNl" text="伊勢亀山城" />
     <string id="4VCQnnAN" text="白子" />
     <string id="8ikUEhbQ" text="久須" />
-    <string id="tJBWAjyZ" text="長島城" />
+    <string id="tJBWAjyZ" text="长岛城" />
     <string id="ZnlA58aj" text="桑名" />
     <string id="P5GkX0F8" text="中江" />
     <string id="1VIjjKWB" text="松尾山城" />
@@ -1173,7 +1175,7 @@
     <string id="DvfCu92X" text="内" />
     <string id="L6kjepZF" text="川上" />
     <string id="p6O0gMzu" text="井牟田" />
-    <string id="eJyaOfUD" text="知覧" />
+    <string id="eJyaOfUD" text="知览" />
     <string id="9w6vlX8J" text="佐土原" />
     <string id="4XJg880P" text="宮崎" />
     <string id="SVbVfUM2" text="木脇" />
@@ -1182,12 +1184,12 @@
     <string id="4HuxiIxy" text="大庭" />
     <string id="oFXG6Da7" text="木之上" />
     <string id="5eaNziO9" text="山田" />
-    <string id="sgEq01Iv" text="丹牛島" />
-    <string id="ffcYS6qW" text="疋地" />
-    <string id="sRoPcqQk" text="一舎屋" />
-    <string id="HHWkdmFT" text="鬼谷" />
+    <string id="sgEq01Iv" text="丹牛岛" />
+    <string id="ffcYS6qW" text="引地" />
+    <string id="sRoPcqQk" text="一尺屋" />
+    <string id="HHWkdmFT" text="城井谷" />
     <string id="ASyaMblp" text="本荘" />
-    <string id="ZqZ1vTUG" text="広津" />
+    <string id="ZqZ1vTUG" text="弘津" />
     <string id="mlSVyux6" text="嬉野" />
     <string id="p7K9495f" text="柳川" />
     <string id="HsmYTQSG" text="塩塚" />
@@ -1197,13 +1199,13 @@
     <string id="r0VfhBU0" text="御船" />
     <string id="RGjU5dz5" text="梅尾" />
     <string id="DAWFhgck" text="菊池" />
-    <string id="tfwfgbGr" text="橘山" />
+    <string id="tfwfgbGr" text="立花山" />
     <string id="vAe5refA" text="水城" />
     <string id="CpUJiWgf" text="菰野" />
     <string id="eL3o2vmZ" text="村中" />
-    <string id="XVb1ehch" text="徳島" />
+    <string id="XVb1ehch" text="德岛" />
     <string id="0aitRUqP" text="猿串" />
-    <string id="NjWKX8LI" text="日之江" />
+    <string id="NjWKX8LI" text="日野江" />
     <string id="EjeToav7" text="口之津" />
     <string id="9YfwfCjt" text="小路" />
     <string id="UxE57P3d" text="浜野" />
@@ -1212,8 +1214,8 @@
     <string id="WZH3w9tF" text="野间" />
     <string id="MoJR4iq9" text="志布志城" />
     <string id="tQmhIOIF" text="志布志津" />
-    <string id="OIi5cXVf" text="安楽" />
-    <string id="72CP6gNY" text="傘下ヶ城" />
+    <string id="OIi5cXVf" text="安乐" />
+    <string id="72CP6gNY" text="加濑田城" />
     <string id="1Fr3VoTo" text="垂水" />
     <string id="hLETw6Gd" text="直方" />
     <string id="Z6xvSsd1" text="都之城" />
@@ -1228,112 +1230,112 @@
     <string id="YlHG1uim" text="江城" />
     <string id="1PXeijMQ" text="山川" />
     <string id="f1qlejME" text="指宿" />
-    <string id="cVBxmTT1" text="飯野城" />
-    <string id="fCbUH9xs" text="池島" />
-    <string id="ABY7N8bq" text="白鳥" />
+    <string id="cVBxmTT1" text="饭野城" />
+    <string id="fCbUH9xs" text="池岛" />
+    <string id="ABY7N8bq" text="白鸟" />
     <string id="kQ3nFXBb" text="一宇治城" />
     <string id="5cBCgUn1" text="串木野" />
     <string id="fzrGQOuD" text="藤川" />
     <string id="e0V4GJYO" text="出水城" />
     <string id="FKAHnPeI" text="阿久根" />
     <string id="HT1TJQRB" text="堂崎" />
-    <string id="m9VjNH76" text="飫肥城" />
+    <string id="m9VjNH76" text="沃肥城" />
     <string id="cXYrWwnD" text="坂谷" />
     <string id="hih1prHh" text="油津" />
     <string id="0peuGHvI" text="清武城" />
-    <string id="JHhvCoXG" text="鏡水" />
-    <string id="o7OrcwcK" text="曽於" />
-    <string id="UVF2azp9" text="綾城" />
+    <string id="JHhvCoXG" text="镜水" />
+    <string id="o7OrcwcK" text="曾井" />
+    <string id="UVF2azp9" text="绫城" />
     <string id="3DfoUkQy" text="野尻" />
-    <string id="UysYG0ST" text="三尾" />
-    <string id="0LHvahhd" text="門川城" />
-    <string id="qiAah3xb" text="塩見" />
-    <string id="8sz0tXhd" text="県" />
-    <string id="J0Mo41hV" text="鍋城" />
+    <string id="UysYG0ST" text="水尾" />
+    <string id="0LHvahhd" text="门川城" />
+    <string id="qiAah3xb" text="盐见" />
+    <string id="8sz0tXhd" text="县" />
+    <string id="J0Mo41hV" text="锅城" />
     <string id="RnY20xbi" text="久米" />
     <string id="xRmEtOTl" text="大口城" />
     <string id="7CLX8g0B" text="初月" />
-    <string id="UiKJPgNh" text="牛玖惣院" />
-    <string id="dENmoFnW" text="古麓城" />
-    <string id="VtJMB9Su" text="徳分" />
+    <string id="UiKJPgNh" text="牛来宗园" />
+    <string id="dENmoFnW" text="古府本城" />
+    <string id="VtJMB9Su" text="德分室" />
     <string id="MnzEGhcs" text="佐敷" />
-    <string id="kXl5DF4d" text="鶴崎城" />
+    <string id="kXl5DF4d" text="鹤崎城" />
     <string id="3E9YRaFR" text="寺地浜" />
     <string id="TLZ8fwHD" text="千歳" />
-    <string id="r0l7lIjW" text="岡城" />
+    <string id="r0l7lIjW" text="冈城" />
     <string id="RJwm8sOR" text="藤北" />
     <string id="OHnTDMNl" text="市又" />
-    <string id="6weMf3aJ" text="杵築城" />
-    <string id="QsnLEOc2" text="那太" />
+    <string id="6weMf3aJ" text="杵筑城" />
+    <string id="QsnLEOc2" text="那田" />
     <string id="GP8I3F8l" text="高田" />
-    <string id="HrvBj1b6" text="高井田城" />
+    <string id="HrvBj1b6" text="高井田岳城" />
     <string id="dCD739MX" text="石松" />
     <string id="MfCOiZMx" text="山下城" />
-    <string id="eBLaHjSJ" text="溝口" />
+    <string id="eBLaHjSJ" text="沟口" />
     <string id="YIGWJwKV" text="矢部" />
-    <string id="EOUbYBPk" text="玉丘城" />
-    <string id="5OrsY3Wz" text="巻" />
-    <string id="Ucg7oX28" text="高葉" />
+    <string id="EOUbYBPk" text="玉冈城" />
+    <string id="5OrsY3Wz" text="牧村" />
+    <string id="Ucg7oX28" text="高场" />
     <string id="LKUxUR8Y" text="河原岳城" />
-    <string id="aopAmhHp" text="奥山" />
+    <string id="aopAmhHp" text="大仓山" />
     <string id="XqBNIq9G" text="添田" />
     <string id="Eux6uT73" text="松山城" />
-    <string id="0QTdZKo2" text="門司" />
-    <string id="aALll4Gm" text="長野" />
-    <string id="lJKoL9IH" text="蓮池城" />
-    <string id="qTl7CJAl" text="鼎" />
+    <string id="0QTdZKo2" text="门司" />
+    <string id="aALll4Gm" text="长野" />
+    <string id="lJKoL9IH" text="莲池城" />
+    <string id="qTl7CJAl" text="粥江" />
     <string id="5u0Pc117" text="崎村" />
-    <string id="Qhvj6XO9" text="清福寺城" />
+    <string id="Qhvj6XO9" text="清净寺城" />
     <string id="SBckHhdZ" text="知夫" />
     <string id="2lDJWmDh" text="今山" />
-    <string id="bsA0vCZ7" text="加美根城" />
-    <string id="TMiJJOHo" text="狭間" />
-    <string id="kYDrfyq9" text="春鹿" />
+    <string id="bsA0vCZ7" text="梶峰城" />
+    <string id="TMiJJOHo" text="狭间" />
+    <string id="kYDrfyq9" text="治家" />
     <string id="MBqlRZU5" text="三条城" />
     <string id="nBaMGgNo" text="岩松" />
-    <string id="b7yO79tn" text="長崎" />
-    <string id="40woqJi6" text="巣鷹城" />
-    <string id="0AIh4sLQ" text="小島" />
-    <string id="pyqR4PGc" text="杵島" />
+    <string id="b7yO79tn" text="长崎" />
+    <string id="40woqJi6" text="须古城" />
+    <string id="0AIh4sLQ" text="小岛" />
+    <string id="pyqR4PGc" text="杵岛" />
     <string id="DhFnievF" text="御船城" />
     <string id="j1XEMyqn" text="益城" />
-    <string id="Tr73jAZQ" text="鵜戸" />
+    <string id="Tr73jAZQ" text="鹈户" />
     <string id="TvyJMitP" text="岩尾城" />
-    <string id="y19oi5PN" text="堅田" />
-    <string id="ROS1fAAN" text="古佐" />
+    <string id="y19oi5PN" text="肩田" />
+    <string id="ROS1fAAN" text="甲佐" />
     <string id="Xycc7oGz" text="中村" />
-    <string id="r2zh2zgG" text="柏島" />
+    <string id="r2zh2zgG" text="柏岛" />
     <string id="htHL9YA2" text="清水" />
     <string id="v1JzXhFl" text="入野" />
-    <string id="2W7Fq6SK" text="黒瀬" />
-    <string id="nP4eDvur" text="板島" />
-    <string id="5RlNrax2" text="八幡浜" />
-    <string id="Y3U6iVbc" text="穂傑" />
+    <string id="2W7Fq6SK" text="黑濑" />
+    <string id="nP4eDvur" text="板岛" />
+    <string id="5RlNrax2" text="八幡滨" />
+    <string id="Y3U6iVbc" text="北约" />
     <string id="buxaDLVS" text="柚木" />
     <string id="cOkHyAGW" text="荏原" />
     <string id="nlTcnzDH" text="真崎" />
-    <string id="wQMWYpmM" text="三津浜" />
-    <string id="BkQ18hKt" text="大口" />
-    <string id="q6ybFEVI" text="浦戸" />
+    <string id="wQMWYpmM" text="三津滨" />
+    <string id="BkQ18hKt" text="冈丰" />
+    <string id="q6ybFEVI" text="浦户" />
     <string id="7XDTcaQb" text="本山" />
-    <string id="nmm8Bu6b" text="古曽" />
-    <string id="uqoP6awr" text="天城" />
-    <string id="AnrHVvKK" text="仁尾" />
+    <string id="nmm8Bu6b" text="甲宗" />
+    <string id="uqoP6awr" text="天雾" />
+    <string id="AnrHVvKK" text="仁王" />
     <string id="aMpkMmHq" text="多度津" />
-    <string id="0R2n2Ghr" text="牛敷" />
-    <string id="ku69fD7c" text="橘" />
-    <string id="x0ujuUWA" text="平島" />
-    <string id="vOc88PUp" text="結城" />
-    <string id="KDinodgg" text="姫野城" />
-    <string id="k2dvsiaD" text="四ツ" />
-    <string id="vEYNurYp" text="無解説" />
-    <string id="nAzazSPE" text="須崎" />
+    <string id="0R2n2Ghr" text="牛岐" />
+    <string id="ku69fD7c" text="立花" />
+    <string id="x0ujuUWA" text="平岛" />
+    <string id="vOc88PUp" text="结城" />
+    <string id="KDinodgg" text="姬野城" />
+    <string id="k2dvsiaD" text="四津" />
+    <string id="vEYNurYp" text="无描述" />
+    <string id="nAzazSPE" text="须崎" />
     <string id="gv26VlxV" text="大洲城" />
     <string id="kPVN94M0" text="内子" />
-    <string id="xnMIkc2w" text="常盤城" />
+    <string id="xnMIkc2w" text="常磐城" />
     <string id="IOanxV4Y" text="深浦" />
     <string id="zmnn621o" text="宿毛" />
-    <string id="PLiqyrst" text="国府山城" />
+    <string id="PLiqyrst" text="国分山城" />
     <string id="VtFXe1Li" text="今治" />
     <string id="FmvBJPlM" text="大浦" />
     <string id="WZE9iw0B" text="吉良城" />
@@ -1344,17 +1346,17 @@
     <string id="NR5KAE14" text="川之江" />
     <string id="ehKkRG65" text="大西城" />
     <string id="3Gtl1ZWV" text="马路" />
-    <string id="Ydi2eMWL" text="新居" />
+    <string id="Ydi2eMWL" text="洲津" />
     <string id="o1iKzaRQ" text="安艺城" />
-    <string id="NbT4Swom" text="名烟" />
+    <string id="NbT4Swom" text="奈半利" />
     <string id="PlKW3dYT" text="崎滨城" />
     <string id="BwdDTePk" text="室津" />
-    <string id="tC73LOrW" text="甲浦" />
-    <string id="cvw8Hsv2" text="惣乡城" />
-    <string id="hxnWpK6g" text="广济" />
+		<string id="tC73LOrW" text="甲浦" />
+		<string id="cvw8Hsv2" text="十河城" />
+		<string id="hxnWpK6g" text="香西" />
     <string id="hE6MmVcF" text="宍道" />
     <string id="PaZTWp5t" text="土佐泊城" />
-    <string id="5Y2Acdc9" text="别久" />
+    <string id="5Y2Acdc9" text="别宫" />
     <string id="yMHAPvF7" text="小松岛" />
     <string id="5avzU4Vd" text="黑川" />
     <string id="lUgrIbsy" text="新宫" />
@@ -1372,7 +1374,7 @@
     <string id="7rgGkG5A" text="萩滨" />
     <string id="iIBfwKXU" text="酒田" />
     <string id="mv5V2ut6" text="吹浦" />
-    <string id="HYWVIvb5" text="龟ヶ崎" />
+    <string id="HYWVIvb5" text="龟崎" />
     <string id="hMUcPr79" text="出羽大浦" />
     <string id="KGp4U6ZT" text="土崎凑" />
     <string id="31TCIXhh" text="胁本" />
@@ -1382,10 +1384,10 @@
     <string id="REnRF8j7" text="奥州" />
     <string id="g5nOB4NF" text="斗内" />
     <string id="JD0A5H5Z" text="多胡" />
-    <string id="d2r4B3vq" text="土佐凑" />
+    <string id="d2r4B3vq" text="十三凑" />
     <string id="PUlURumW" text="三厩" />
     <string id="fBj65a4D" text="矶松" />
-    <string id="1SYbPUL2" text="牛ヶ形" />
+    <string id="1SYbPUL2" text="牛泻" />
     <string id="cSv4dDYF" text="船冈城" />
     <string id="bQNPHfvT" text="关柴" />
     <string id="QaEH7Dir" text="船冈" />
@@ -1406,17 +1408,17 @@
     <string id="i3yQgaJa" text="草野" />
     <string id="QF5ogRWa" text="小高" />
     <string id="WyYgoD82" text="相马中村城" />
-    <string id="C2H4DaQK" text="筧田" />
+    <string id="C2H4DaQK" text="挂田" />
     <string id="6lW35QHG" text="中牟田" />
-    <string id="2O1LTj6A" text="梁川城" />
+    <string id="2O1LTj6A" text="柳川城" />
     <string id="QOPgjGHV" text="西山" />
     <string id="bD7XR9fp" text="丸森" />
     <string id="UZpcsghh" text="亘理城" />
-    <string id="FXqfnZn9" text="坂蔦田" />
+    <string id="FXqfnZn9" text="坂津田" />
     <string id="ZwoRpuj0" text="亘理" />
     <string id="oaO9LGPD" text="天童城" />
     <string id="bK3dj8lF" text="白岩" />
-    <string id="gBu1s21m" text="值泽" />
+    <string id="gBu1s21m" text="左泽" />
     <string id="uUTWektF" text="岩切城" />
     <string id="OMLWJ5Fr" text="盐釜" />
     <string id="vsV1qXqp" text="仙台" />
@@ -1424,8 +1426,8 @@
     <string id="FvBaL0TE" text="大平" />
     <string id="sofCUqLo" text="岩出山城" />
     <string id="76tvhW5p" text="市来" />
-    <string id="Z4W1hXLz" text="礒田" />
-    <string id="eehsgWjf" text="鹰清水城" />
+    <string id="Z4W1hXLz" text="矶田" />
+    <string id="eehsgWjf" text="高清水城" />
     <string id="wqtco3R9" text="宫泽" />
     <string id="KySQHYm3" text="寺池城" />
     <string id="nWaehi3F" text="砂沼" />
@@ -1433,16 +1435,16 @@
     <string id="bdNND23Q" text="延泽城" />
     <string id="9FV8t8dZ" text="尾花泽" />
     <string id="pJZ7r6bs" text="延泽" />
-    <string id="xyaQJs4i" text="酒部城" />
-    <string id="Zofovajl" text="象潟" />
+    <string id="xyaQJs4i" text="酒延城" />
+    <string id="Zofovajl" text="象泻" />
     <string id="UKEAbrPY" text="庭月" />
     <string id="RDni1NjO" text="仁贺保城" />
-    <string id="Slnm1ecp" text="安津附" />
+    <string id="Slnm1ecp" text="安津" />
     <string id="ocaoj1QX" text="木浦" />
     <string id="v3MePHaA" text="稻庭城" />
     <string id="vjlhfzst" text="岩崎" />
     <string id="Euog4rMA" text="横手城" />
-    <string id="Izs9VpaL" text="亥冈" />
+    <string id="Izs9VpaL" text="猪冈" />
     <string id="6gi0UGoC" text="锅仓" />
     <string id="P9LlpXym" text="赤水城" />
     <string id="BONgbdKq" text="唐桑" />
@@ -1450,12 +1452,12 @@
     <string id="ZT8MEupe" text="横田城" />
     <string id="7CRT9rFq" text="远野" />
     <string id="7wjzzonU" text="大槌" />
-    <string id="c6WgdqDP" text="千徳城" />
-    <string id="UogO5FoZ" text="宅摺" />
+    <string id="c6WgdqDP" text="千德城" />
+    <string id="UogO5FoZ" text="田锁" />
     <string id="5c3BJNVM" text="宫古" />
-    <string id="2UZWHWxt" text="香椎寺城" />
-    <string id="pbXTKvQy" text="细小田" />
-    <string id="AzsAhFFD" text="栄ヶ崎" />
+    <string id="2UZWHWxt" text="高水寺城" />
+    <string id="pbXTKvQy" text="小机" />
+    <string id="AzsAhFFD" text="丰崎" />
     <string id="Aq4agpBP" text="角馆城" />
     <string id="FVZd8Tl0" text="奈良冈" />
     <string id="o9liYcr7" text="苫木" />
@@ -1464,34 +1466,50 @@
     <string id="0V9ZvruS" text="米内泽" />
     <string id="ld7y4DJs" text="大馆城" />
     <string id="uces05JF" text="花冈" />
-    <string id="YlXMYatL" text="杉沢" />
-    <string id="YSsAfEU9" text="九戸城" />
-    <string id="QZ9ZAS3I" text="浄法寺" />
-    <string id="kcAqbMj0" text="葛巻" />
+    <string id="YlXMYatL" text="杉泽" />
+    <string id="YSsAfEU9" text="九户城" />
+    <string id="QZ9ZAS3I" text="净法寺" />
+    <string id="kcAqbMj0" text="葛卷" />
     <string id="MR2TmeTe" text="久慈城" />
     <string id="IrLmW3mx" text="久慈" />
     <string id="uk7bwWFE" text="玉川" />
     <string id="4gUUbuqA" text="根城" />
-    <string id="pAmrC57D" text="八戸" />
-    <string id="Yyc80YCh" text="七戸城" />
+    <string id="pAmrC57D" text="八户" />
+    <string id="Yyc80YCh" text="七户城" />
     <string id="j8k6HP7X" text="横浜" />
     <string id="aUExdpE1" text="辺地" />
     <string id="fVzszw07" text="大浦城" />
-    <string id="0gDY3o31" text="鰺ヶ沢" />
+    <string id="0gDY3o31" text="鲹泽" />
     <string id="2YQh9dGU" text="一打田" />
     <string id="FHNWihyd" text="浪冈城" />
     <string id="EUW4qdGe" text="油川" />
-    <string id="hXqRZVEA" text="広田" />
+    <string id="hXqRZVEA" text="弘田" />
     <string id="FTjRvoSv" text="准宝寺城" />
     <string id="w65n9Jva" text="大畑" />
     <string id="ojRLdFub" text="隐秘据点" />
+    <string id="pTwgbeAF" text="此处为隐居退隐之所" />
+
+
+    <!-- 规则描述类：攻城器械相关 -->
     <string id="8zqqDTbp" text="火盆" />
+    <string id="nQPLbUa6" text="攻城火盆与配套物资可让弓手为箭矢引燃火焰" />
     <string id="kpzK0X9u" text="大筒" />
     <string id="uPDOEMCR" text="大筒（复数）" />
     <string id="8Ewallt6" text="竹垣" />
+    <string id="yVf1b2wm" text="立楯" />
+    <string id="7NqA9UJd" text="立式大盾，用于战场阵地布设，专门为弓手、铁炮足轻等远程部曲提供掩护。它的核心特征是体积大、可固定于地面为远程部曲提供掩护防御" />
+    <string id="Gc0UxEgr" text="弹药武库" />
+    <string id="GzRqki8Q" text="弹药武库可为弓手与铁炮足轻提供补给" />
+
+
+    <!-- 描述文本类：舰船相关（贴合战国水军装备语境） -->
+    <string id="IdWKpEhI" text="北国行船为超大型慢速运输船，可承载海量物资，然战力薄弱，战时极易受损" />
+    <string id="JgVn435E" text="小早船为小型快船，专司近海哨探、游击袭扰之责" />
+    <string id="79intRVd" text="关船为中型运兵船，可载部曲跨海出征，正面水战亦能一战" />
     <string id="U53M9G9W" text="舰载火炮" />
-    <string id="yVf1b2wm" text="楯盾" />
-    <string id="Gc0UxEgr" text="弹药库" />
+    <string id="2pSICaQU" text="舰载火炮极为稀有，布设颇费时日，然轰击城防工事时威力堪称摧枯拉朽" />
+
+
     <!-- ========== 城郭/地名背景描述（贴合战国历史语境） ========== -->
     <string id="BDnW3J67" text="栉崎地处山阳道最西端，毗邻分隔本州与九州的关门海峡，这座港口城郭最初由内藤氏筑造，掌控此地即可扼守西海航路，垄断西国的商贸与人员往来。" />
     <string id="sRgUwjnw"
@@ -1500,7 +1518,7 @@
       text="这座沿海城郭最初仅是毛利氏的一座小型城馆，随着城主势力的不断扩张，其战略地位日益凸显。城郭建于山顶之上，凭此地势可将周边领土与海上航路尽收掌控之中。" />
     <string id="GYTyXmZN" text="石见因盛产优质银矿而闻名，是日本境内最为富庶的聚居地之一。多年来，西国各大名围绕石见银山征战不休，这座宝库如今已落入毛利氏之手。" />
     <string id="eDhJwiwf"
-      text="月山富田城是山阴地区的一座城郭，其历史可追溯至镰仓时代，更早的平安时代，此地便筑有要塞，用以守护商道与当地久负盛名的制铁产业。近年间，月山富田城成为了昔日霸主尼子氏的最终战场，他们在此抵御崛起的大内氏与毛利氏联军，而毛利元就的最终征服，也标志着这一地区的权力格局彻底洗牌。" />
+      text="月山富田是山阴地区的一座城郭，其历史可追溯至镰仓时代，更早的平安时代，此地便筑有要塞，用以守护商道与当地久负盛名的制铁产业。近年间，月山富田城成为了昔日霸主尼子氏的最终战场，他们在此抵御崛起的大内氏与毛利氏联军，而毛利元就的最终征服，也标志着这一地区的权力格局彻底洗牌。" />
     <string id="ALnnHm7B" text="冈山是一座位于中国地方西部的城郭，凭借便捷的海上贸易航路，以及连通本州与四国的战略通道，这里兼具军事与经济双重优势。" />
     <string id="0GYO9OBo"
       text="一乘谷是北陆道西部的一座防御性城郭，四周山河环绕，凭借天然屏障构建起易守难攻的防线，令来犯之敌束手无策。这座城郭由朝仓氏筑造，应仁之乱期间，朝仓氏收留了大量从京都流亡而来的难民，此举也让一乘谷逐渐发展为文化、工艺与宗教的繁盛之地，其璀璨风貌足以与皇都京都比肩。" />
@@ -1509,7 +1527,7 @@
     <string id="uk2xGbQl"
       text="春日山城郭雄踞陡峭山巅，最初是长尾氏的领地。自出身长尾氏的上杉谦信入主之后，这里便成为了上杉氏的主城。谦信将春日山打造成越后地区的军事中心，曾多次率领大军自此出征，与宿敌武田氏争锋。" />
     <string id="mhnNNG3m"
-      text="新潟坐落于越后国沿海地带，凭借海上贸易与肥沃的农田，此地发展为一座繁荣的港口城镇。信浓川为稻米与各类物资的内陆运输提供了关键通道。新潟处于上杉谦信的势力范围之内，得益于领主的强势治理，区域内安定祥和。渔民、盐商与造船工匠共同支撑起新潟的经济，使其成为谦信征战四方的重要后盾。" />
+      text="新泻坐落于越后国沿海地带，凭借海上贸易与肥沃的农田，此地发展为一座繁荣的港口城镇。信浓川为稻米与各类物资的内陆运输提供了关键通道。新泻处于上杉谦信的势力范围之内，得益于领主的强势治理，区域内安定祥和。渔民、盐商与造船工匠共同支撑起新泻的经济，使其成为谦信征战四方的重要后盾。" />
     <string id="bF0R3AqG"
       text="深志是一座建于信浓群山之中的城郭，最初由小笠原氏筑造，用以守护家族领地。武田信玄率军围城并将其攻克后，这座城郭便被纳入武田氏麾下，成为武田势力扩张的前沿据点。" />
     <string id="G1Gwql28"
@@ -1542,7 +1560,7 @@
     <string id="bYxqhFC3"
       text="京都曾是日本无可匹敌的帝都，却因中央权柄之争沦为一片焦土。足利氏的威光早已烟消云散，整座都城任由各路大名肆意摆布，皇居之中的朝廷只能束手旁观。即便如此，京都依旧是世俗传统的传承之地，虽已不复往日的权柄中枢之位，其宗教与文化的影响力却从未消减。" />
     <string id="8xv7T88d"
-      text="観音寺城建在衣笠山之巅，看似是座安宁的城町，却因历代领主六角氏的争乱屡遭波及。唯有凭藉天险构筑的防御，才让这座城郭数次抵挡住敌军的围城攻势。" />
+      text="观音寺城建在衣笠山之巅，看似是座安宁的城町，却因历代领主六角氏的争乱屡遭波及。唯有凭藉天险构筑的防御，才让这座城郭数次抵挡住敌军的围城攻势。" />
     <string id="OZsf12k6"
       text="小谷城乃是浅井氏的居城，为统御周边领国所筑，雄踞陡峭山脊之上。其坚固的防御令此城成为难攻的坚垒，加之地处核心商道要冲，城町的富庶程度也与日俱增。" />
     <string id="7o1ufRGz" text="神山乃是九州南部的战略要冲，坐落在大隅国崎岖的山地之间，此地的山道连通着内陆领国与西海岸，是控扼九州南部的关键所在。" />
@@ -1551,23 +1569,25 @@
       text="佐土原城町地处九州南部，乃是伊东氏数代以来的居城。凭借肥沃的平原与临近海路的地利，佐土原既为行政中枢，亦是农产重地，日渐繁盛，更成了伊东氏图谋扩张领国的核心据点。" />
     <string id="reqICg9a"
       text="人吉城町深藏于九州西南部的群山之中，自镰仓时代起便是相良氏的本城。相传筑城之时，曾掘出一轮月形巨石，故此城亦有「月城」的俗称。抛开坊间传闻不谈，人吉城本就是一座易守难攻的坚垒，历年来仅遭一次敌军来犯，且来犯之敌最终全军覆没。" />
-    <string id="1OHDyEtH" text="丹牛島凭藉关键的海上商路位置，加之毗邻九州北部诸领，再得大友氏的扶持，被立为地方治政的中心，如今已是一座繁盛的城町。" />
+    <string id="1OHDyEtH" text="丹牛岛凭藉关键的海上商路位置，加之毗邻九州北部诸领，再得大友氏的扶持，被立为地方治政的中心，如今已是一座繁盛的城町。" />
     <string id="DFE7hHDt"
-      text="鬼谷深藏于九州北部的险峻高地，历来皆是设防严密的聚居地，扼守着进入日本西岛的要道。此地俯瞰内陆核心通路，在九州控制权之争日趋激烈的当下，战略价值愈发凸显；往昔大内氏与大友氏也曾为争夺鬼谷，在此掀起数次争乱。" />
+      text="城井谷深藏于九州北部的险峻高地，历来皆是设防严密的聚居地，扼守着进入日本西岛的要道。此地俯瞰内陆核心通路，在九州控制权之争日趋激烈的当下，战略价值愈发凸显；往昔大内氏与大友氏也曾为争夺城井谷，在此掀起数次争乱。" />
     <string id="fOOOFAf4" text="柳川地处九州西北部，坐落在筑后川沿岸的要冲，乃是连通区域内多数商路的交汇点，无论商贸往来还是兵马调动，都可借此地之便。" />
     <string id="JwSGTyTV" text="熊本地处九州西部的沿海商路与山地要塞之间，凭藉商贸流通与本地物产，日渐发展为一座守备坚固、市井繁盛的城町。" />
-    <string id="QK5trJCE" text="橘山雄踞九州北部的高地之上，最初是橘氏为镇守一方所筑的城町。掌控此地，便能扼守核心商路，兼得水陆往来之利，对周边领国的掌控至关重要。" />
+    <string id="QK5trJCE" text="立花山雄踞九州北部的高地之上，最初是橘氏为镇守一方所筑的城町。掌控此地，便能扼守核心商路，兼得水陆往来之利，对周边领国的掌控至关重要。" />
     <string id="kw7kEnWY"
       text="村中历来是九州西部的一处地方要塞，曾是阿苏氏麾下的治政小据点，阿苏氏的威光一度遍及中央高地。如今阿苏氏受南边岛津、东边大友的压迫，势力急剧衰退，村中也随之陷入岌岌可危的境地。" />
     <string id="rRdiqxwR"
-      text="日之江城町坐落在九州西海岸的岛原半岛之上，始建于镰仓时代初期。此地既是有马氏的本据，也是其重要的财源之地，有马氏从这里掌控海上商路，近年更垄断了南蛮通商之利。" />
+      text="日野江城町坐落在九州西海岸的岛原半岛之上，始建于镰仓时代初期。此地既是有马氏的本据，也是其重要的财源之地，有马氏从这里掌控海上商路，近年更垄断了南蛮通商之利。" />
     <string id="RzWkXm61" text="中村乃是四国西部的一座城町，被山河环绕，坐拥天险之利。周遭沃土盛产稻米与木材，让这座城町愈发富庶殷实。" />
-    <string id="lhPHAUHU" text="黒瀬地处四国内陆腹地，是一座控扼要道的城町。掌控此地便能把持内陆通路，更可凭险要地势抵御邻境大名的来犯，战略价值举足轻重。" />
+    <string id="lhPHAUHU" text="黑瀬地处四国内陆腹地，是一座控扼要道的城町。掌控此地便能把持内陆通路，更可凭险要地势抵御邻境大名的来犯，战略价值举足轻重。" />
     <string id="nyUeGzWY" text="柚木是四国西部的一座海防城町，由河野氏所筑，乃是海上通商的门户。虽规模不大，但河野氏暗结本地水贼，再加上城防坚固，柚木町就此日渐繁盛。" />
-    <string id="wWXECumA" text="大口地处四国南部的要冲之地，自镰仓时代起便是长宗我部氏的世代居城。近年长宗我部元亲能顺利整合领国势力，大口城的支撑功不可没。" />
-    <string id="QF8vgBEz" text="天城筑于天城山巅，是香川氏在四国北部的本据。此地城防坚固且毗邻濑户内海，既能控扼周边领国，又能把持海上商路，乃是一方战略重镇。" />
+    <string id="wWXECumA"
+      text="冈丰是一座坐落于四国南部战略要地的城下町，自镰仓时代起便作为长宗我部氏的祖居之地。在长宗我部元亲统一四国、整合势力的过程中，此地扮演了至关重要的核心角色。" />
+    <string id="QF8vgBEz"
+      text="天雾是筑于天雾山巅的一座城下町，为香川氏镇守四国北部的本据之地。凭借易守难攻的险要地势与毗邻濑户内海沿岸的便利条件，天雾成为掌控周边领土与商贸要道的战略要冲。" />
     <string id="McWUwCaM"
-      text="牛敷地处南海道东海岸，是一座战略地位显要的港口城町。此地扼守濑户内海航路，如今诸氏战乱不休，海上商贸与兵马调动愈发频繁，牛敷的价值也随之水涨船高。" />
+      text="牛岐地处南海道东海岸，是一座战略地位显要的港口城町。此地扼守濑户内海航路，如今诸氏战乱不休，海上商贸与兵马调动愈发频繁，牛敷的价值也随之水涨船高。" />
     <string id="eIQDsF1J" text="黑川城町由芦名氏筑造，作为本据立于奥羽地区最南端；此地地处偏远，令黑川得以避开邻近诸氏间无休止的纷争，稳步发展壮大。" />
     <string id="mq4zhe9z" text="米泽城町始建于镰仓时代，伊达氏驱逐旧主后便以此为本据，自此处筹谋对周边领国的制霸之策。" />
     <string id="ullPdzCT" text="山形自最上氏未冠此名前便为其本据，境内群山环绕、河川纵横，既为之构筑天然屏障，亦使其成为周边地域往来联结的要冲。" />
@@ -1575,101 +1595,61 @@
       text="石卷是奥羽南部的一处繁华港町，凭借松岛湾的天然屏障与北上川贯通内陆的水运优势，发展为商贸与渔业并重的要地。其战略要冲的地位虽带来了繁荣，却也沦为地方诸氏扩张图谋中的兵家必争之地。" />
     <string id="69FUsSqB" text="酒田是东北地区北部的核心港埠，这座城町凭借日本海的通航之便，以及邻近周边肥沃农地的地利，已然发展为举足轻重的商贸枢纽。" />
     <string id="oUeaHLhb"
-      text="土佐凑坐落于本州最北端，曾是与北海道阿依努人通商的枢纽；奈何此地冬日酷寒且地处偏远，守备实属不易，时常遭袭扰之患。这里一度是安东氏的繁荣商港与治政中心，却因氏族遭驱逐而走向衰落。" />
+      text="十三凑坐落于本州最北端，曾是与北海道阿依努人通商的枢纽；奈何此地冬日酷寒且地处偏远，守备实属不易，时常遭袭扰之患。这里一度是安东氏的繁荣商港与治政中心，却因氏族遭驱逐而走向衰落。" />
     <string id="QBjyZBVp" text="土崎凑地处本州北部海风凛冽的海岸，长久以来都是海上通商的要冲，亦是本岛与北方诸国间转运货物的关键之地。" />
     <string id="4i6COw8g" text="三户地处要害山口，乃是一座军防重镇，作为戍卫关卡扼守着商贸要道与行军通路，正立于诸强争锋的边境之地。" />
-    <string id="5CFJRxEX"
-      text="Serdar" />
-    <string id="Vsguc1Lx"
-      text="ashigaru_lord_male_medium" />
-    <string id="sdOtGck6"
-      text="ashigaru_lord_female_medium" />
-    <string id="GbDv1icE"
-      text="buddhists_lord_male_medium" />
-    <string id="m4K0OYw7"
-      text="buddhists_lord_female_medium" />
-    <string id="MaSkmJNV"
-      text="Saikai_lord_male_medium" />
-    <string id="vBwIgcny"
-      text="Saikai_lord_female_medium" />
-    <string id="99zwO24i"
-      text="Nankai_lord_male_medium" />
-    <string id="lBkE3R6F"
-      text="Nankai_lord_female_medium" />
-    <string id="t7PimHDx"
-      text="sanyo_lord_male_medium" />
-    <string id="zQSTAUW8"
-      text="sanyo_lord_female_medium" />
-    <string id="zza15b86"
-      text="kinai_lord_male_medium" />
-    <string id="3gpYElrn"
-      text="kinai_lord_female_medium" />
-    <string id="2Ps9NMLR"
-      text="hokuriku_lord_male_medium" />
-    <string id="skxW79Zp"
-      text="hokuriku_lord_female_medium" />
-    <string id="GP4yEOC5"
-      text="tosan_lord_male_medium" />
-    <string id="bqfXC4cC"
-      text="tosan_lord_female_medium" />
-    <string id="SzvgTuSx"
-      text="tokai_lord_male_medium" />
-    <string id="lr3mT0r7"
-      text="tokai_lord_female_medium" />
-    <string id="azP1adC6"
-      text="kanto_lord_male_medium" />
-    <string id="b1AEBITk"
-      text="kanto_lord_female_medium" />
-    <string id="JXEKBgra"
-      text="ou_lord_male_medium" />
-    <string id="mdtmu3O5"
-      text="ou_lord_female_medium" />
-    <string id="EaGHKTSd"
-      text="ashigaru_lord_male_noncom" />
-    <string id="aoYJE4uC"
-      text="ashigaru_lord_female_noncom" />
-    <string id="IIsgOIvi"
-      text="buddhists_lord_male_noncom" />
-    <string id="YYeT0OEU"
-      text="buddhists_lord_female_noncom" />
-    <string id="RHCjoJlb"
-      text="saikai_lord_male_noncom" />
-    <string id="0NFqOCWr"
-      text="saikai_lord_female_noncom" />
-    <string id="S6PYiprG"
-      text="nankai_lord_male_noncom" />
-    <string id="XFulZeG8"
-      text="nankai_lord_female_noncom" />
-    <string id="7atyprrF"
-      text="sanyo_lord_male_noncom" />
-    <string id="ijotfwAA"
-      text="sanyo_lord_female_noncom" />
-    <string id="CD3aAB20"
-      text="kinai_lord_male_noncom" />
-    <string id="awoVTLmW"
-      text="kinai_lord_female_noncom" />
-    <string id="mkwYVnXA"
-      text="hokuriku_lord_male_noncom" />
-    <string id="qQQg3q6F"
-      text="hokuriku_lord_female_noncom" />
-    <string id="LXrdrTMd"
-      text="tosan_lord_male_noncom" />
-    <string id="FwhVU70r"
-      text="tosan_lord_female_noncom" />
-    <string id="60OOy5ia"
-      text="tokai_lord_male_noncom" />
-    <string id="5wK2kbIW"
-      text="tokai_lord_female_noncom" />
-    <string id="UuJU4i5k"
-      text="kanto_lord_male_noncom" />
-    <string id="4lttvj0j"
-      text="kanto_lord_female_noncom" />
-    <string id="J8sGPqm1"
-      text="ou_lord_male_noncom" />
-    <string id="6S0rpE6T"
-      text="ou_lord_female_noncom" />
-    <string id="iuUFimFm"
-      text="wanderer_equipment" />
+
+    <!-- Serdar 是奥斯曼土耳其 / 中亚地区的军事头衔，意为 “军事首领、领军贵族”，在《骑马与砍杀》系列中常指代具有异域背景的武士阶层。
+结合织丰 MOD 1568 年战国背景（此时日本与南蛮、中亚已有间接商贸 / 军事交流），译为塞尔达尔武士，既保留异域身份辨识度，又用 “武士” 一词贴合战国军事体系的称谓习惯，避免玩家认知断层。 -->
+    <string id="5CFJRxEX" text="塞尔达尔武士" />
+
+    <!-- 名称标识类：身份称谓（势力/兵种+性别+品级） -->
+    <string id="Vsguc1Lx" text="足轻头领·男·中等" />
+    <string id="sdOtGck6" text="足轻头领·女·中等" />
+    <string id="GbDv1icE" text="僧兵头领·男·中等" />
+    <string id="m4K0OYw7" text="僧兵头领·女·中等" />
+    <string id="MaSkmJNV" text="西海领主·男·中等" />
+    <string id="vBwIgcny" text="西海领主·女·中等" />
+    <string id="99zwO24i" text="南海领主·男·中等" />
+    <string id="lBkE3R6F" text="南海领主·女·中等" />
+    <string id="t7PimHDx" text="山阳领主·男·中等" />
+    <string id="zQSTAUW8" text="山阳领主·女·中等" />
+    <string id="zza15b86" text="畿内领主·男·中等" />
+    <string id="3gpYElrn" text="畿内领主·女·中等" />
+    <string id="2Ps9NMLR" text="北陆领主·男·中等" />
+    <string id="skxW79Zp" text="北陆领主·女·中等" />
+    <string id="GP4yEOC5" text="东山领主·男·中等" />
+    <string id="bqfXC4cC" text="东山领主·女·中等" />
+    <string id="SzvgTuSx" text="东海领主·男·中等" />
+    <string id="lr3mT0r7" text="东海领主·女·中等" />
+    <string id="azP1adC6" text="关东领主·男·中等" />
+    <string id="b1AEBITk" text="关东领主·女·中等" />
+    <string id="JXEKBgra" text="奥羽领主·男·中等" />
+    <string id="mdtmu3O5" text="奥羽领主·女·中等" />
+    <string id="EaGHKTSd" text="足轻头领·男·无品级" />
+    <string id="aoYJE4uC" text="足轻头领·女·无品级" />
+    <string id="IIsgOIvi" text="僧兵头领·男·无品级" />
+    <string id="YYeT0OEU" text="僧兵头领·女·无品级" />
+    <string id="RHCjoJlb" text="西海领主·男·无品级" />
+    <string id="0NFqOCWr" text="西海领主·女·无品级" />
+    <string id="S6PYiprG" text="南海领主·男·无品级" />
+    <string id="XFulZeG8" text="南海领主·女·无品级" />
+    <string id="7atyprrF" text="山阳领主·男·无品级" />
+    <string id="ijotfwAA" text="山阳领主·女·无品级" />
+    <string id="CD3aAB20" text="畿内领主·男·无品级" />
+    <string id="awoVTLmW" text="畿内领主·女·无品级" />
+    <string id="mkwYVnXA" text="北陆领主·男·无品级" />
+    <string id="qQQg3q6F" text="北陆领主·女·无品级" />
+    <string id="LXrdrTMd" text="东山领主·男·无品级" />
+    <string id="FwhVU70r" text="东山领主·女·无品级" />
+    <string id="60OOy5ia" text="东海领主·男·无品级" />
+    <string id="5wK2kbIW" text="东海领主·女·无品级" />
+    <string id="UuJU4i5k" text="关东领主·男·无品级" />
+    <string id="4lttvj0j" text="关东领主·女·无品级" />
+    <string id="J8sGPqm1" text="奥羽领主·男·无品级" />
+    <string id="6S0rpE6T" text="奥羽领主·女·无品级" />
+    <string id="iuUFimFm" text="浪人装备" />
+
     <!-- 功能 / 职业 / 设施标识 -->
     <string id="Yy1o9iCp" text="武者" />
     <string id="n7TzRCjv" text="女儿" />
@@ -1711,7 +1691,7 @@
     <string id="Fh93w5KA" text="鹈户神社" />
     <string id="aw4yZS3Z" text="都农神社" />
     <string id="506uOr0t" text="八坂寺" />
-    <string id="zf2Nix5X" text="黒滝寺" />
+    <string id="zf2Nix5X" text="黑滝寺" />
     <string id="FTb5qBNu" text="大宁寺" />
     <string id="CzFzF6JY" text="严岛神社" />
     <string id="8HaDQkiS" text="安国寺" />
@@ -1719,7 +1699,7 @@
     <string id="5df7Fkj0" text="大山寺" />
     <string id="s4HcHt8z" text="吉备津神社" />
     <string id="eFFFYdX4" text="宇部神社" />
-    <string id="4km8JvuA" text="円通寺" />
+    <string id="4km8JvuA" text="圆通寺" />
     <string id="UhssI9wI" text="相国寺" />
     <string id="Ip43Hzlk" text="阿贺神社" />
     <string id="5XYyFXoo" text="延历寺" />
@@ -1734,22 +1714,22 @@
     <string id="ngGmkx81" text="平乐寺" />
     <string id="GNqy3kcD" text="热田神宫" />
     <string id="UO9D69pD" text="天园寺" />
-    <string id="mehE9vcH" text="昌徳寺" />
-    <string id="TARKzLog" text="大円寺" />
-    <string id="fgxZttfG" text="善徳寺" />
+    <string id="mehE9vcH" text="昌德寺" />
+    <string id="TARKzLog" text="大圆寺" />
+    <string id="fgxZttfG" text="善德寺" />
     <string id="NB4iE6LD" text="恵林寺" />
     <string id="AjDRS76B" text="诹访大社" />
     <string id="Ccdy6bqL" text="善光寺" />
-    <string id="nQn0ACae" text="戸隠神社" />
+    <string id="nQn0ACae" text="户隠神社" />
     <string id="nR7WMWdY" text="平泉寺" />
     <string id="nOnqP9yy" text="松林寺" />
-    <string id="JSicPK3A" text="広徳寺" />
+    <string id="JSicPK3A" text="弘德寺" />
     <string id="0dsvBndi" text="天平寺" />
     <string id="3slk01d5" text="林泉寺" />
     <string id="CVwSl3hk" text="瑞林寺" />
     <string id="ejDtH8Y0" text="赤城神社" />
     <string id="GUFqF8DN" text="贯前神社" />
-    <string id="2oq4lE3Y" text="長楽寺" />
+    <string id="2oq4lE3Y" text="长乐寺" />
     <string id="yUnpSlWs" text="冰川神社" />
     <string id="GYBhJBcH" text="法要寺" />
     <string id="OZevhEZP" text="寒川神社" />
@@ -1761,11 +1741,11 @@
     <string id="9YK5P3zV" text="瑞巌寺" />
     <string id="ykaB9sA8" text="二荒山神社" />
     <string id="d0Kti2EG" text="轮王寺" />
-    <string id="dkIkCHIA" text="円地寺" />
+    <string id="dkIkCHIA" text="慧日寺" />
     <string id="tB7LnnOo" text="汤殿山神社" />
     <string id="sF2SuBSg" text="立石寺" />
     <string id="aMP9NGXm" text="玉轮寺" />
-    <string id="F3HACKlw" text="百沢寺" />
+    <string id="F3HACKlw" text="百泽寺" />
     <string id="0UCCvP98" text="当愿寺" />
     <string id="BqiXh4Ub" text="中尊寺" />
     <string id="bBB5fI4t" text="此处为练武场。" />
@@ -2982,10 +2962,10 @@
     <string id="tDyOs33I" text="风间众 新蔵" />
     <string id="4MEC7NCo" text="风间众 辰五郎" />
     <string id="FAMP0ZXN" text="风间众 源助" />
-    <string id="xw0Kltyn" text="黒羽枭众 蔵人" />
-    <string id="PBCfHu7Z" text="黒羽枭众 藤兵卫" />
-    <string id="2hJS88Ov" text="黒羽枭众 金兵卫" />
-    <string id="3bY5KuXN" text="黒羽枭众 春海" />
+    <string id="xw0Kltyn" text="黑羽枭众 蔵人" />
+    <string id="PBCfHu7Z" text="黑羽枭众 藤兵卫" />
+    <string id="2hJS88Ov" text="黑羽枭众 金兵卫" />
+    <string id="3bY5KuXN" text="黑羽枭众 春海" />
     <string id="fBoiescJ" text="暴徒" />
     <string id="HTLKGRI7" text="产婆" />
     <string id="CvQoBHzQ" text="婚仪僧" />
@@ -3218,7 +3198,7 @@
     <string id="OROp0LAK" text="铁炮足轻 额外费用" />
     <string id="J13JMzI3" text="你身无分文" />
     <string id="rKPe0b8E" text="相较于神道教神社，佛教宗门更看重其他寺院对你的评价" />
-    <string id="EorZaHEK" text="宿茂（Shokuho）在MCM菜单中有独立的设置选项" />
+    <string id="EorZaHEK" text="织丰（Shokuho）在MCM菜单中有独立的设置选项" />
     <string id="uHCDjiRc" text="蹲伏状态下射击铁炮，精准度会提升" />
     <string id="tlBJxwv5" text="自动填充" />
     <string id="qUP6igXN" text="选择舰船" />
@@ -3308,7 +3288,7 @@
     <string id="Q09vLHIj" text="你的着色器质量设置低于高画质标准，建议将着色器质量设为高以获得最佳效果" />
     <string id="G1bAMCTQ" text="警告！" />
     <string id="lCQYBdsy"
-      text="检测到你同时加载了外交模组与宿茂（Shokuho）模组，外交模组功能已直接整合至宿茂模组中，同时加载会导致游戏崩溃。{newline}请关闭外交模组后重新启动游戏" />
+      text="检测到你同时加载了外交模组与织丰（Shokuho）模组，外交模组功能已直接整合至织丰模组中，同时加载会导致游戏崩溃。{newline}请关闭外交模组后重新启动游戏" />
     <string id="Il0gqhSh" text="铁炮足轻" />
     <string id="H4P7Jtw5" text="一向一揆远程激进兵" />
     <string id="BCuRcqLL" text="金碎棒" />
@@ -3525,7 +3505,7 @@
     <string id="QMiU3iTm" text="技能等级每超过200点，铁炮装填速度提升{VALUE}%" />
     <string id="VswZE67u" text="手持单手武器时，移动速度提升{VALUE}%" />
     <string id="BkfVgwd3" text="疾冲" />
-    <string id="naz45qEY" text="我方阵型步兵部队的 Athletics（ Athletics）技能提升{VALUE}点" />
+    <string id="naz45qEY" text="我方阵型步兵部队的跑动技能提升{VALUE}点" />
     <string id="dSFnJtyc" text="健步" />
     <string id="3O4C4EC2" text="我方阵型步兵部队的近战伤害提升{VALUE}%" />
     <string id="8llzDPS0" text="徒步状态下，单手武器伤害提升{VALUE}%" />
@@ -3649,7 +3629,7 @@
     <string id="C3cwPzsB" text="双手刀" />
     <string id="sJ1xR4zT" text="战役设置" />
     <string id="Ua2CxEoB" text="任务与战斗设置" />
-    <string id="oXTvd5od" text="打开浏览器窗口提交宿茂（Shokuho）模组的BUG报告（感谢支持！）" />
+    <string id="oXTvd5od" text="打开浏览器窗口提交织丰（Shokuho）模组的BUG报告（感谢支持！）" />
     <string id="VWn4YikW" text="提交BUG报告" />
     <string id="qKrU4nRJ" text="启用历史事件" />
     <string id="7HhF6DhY" text="启用基于史实的世界事件。此类事件大多有时间限制，若在截止日期后启用，相关事件将不会触发" />
@@ -3722,7 +3702,7 @@
     <string id="CGhEAAEk"
       text="朝仓藩长期以来都是北陆地区的强权，朝仓氏以一乘谷城为据点，作为越前守护崛起。在战国乱世中，朝仓藩试图维持稳定，如今却不得不为无可避免的军事冲突做准备——织田信长的军队正逼近此地，朝仓氏陷入两难：南方是信长的野心，西方则是与其维持着脆弱同盟的强大浅井氏。" />
     <string id="223fsYNu"
-      text="姉小路藩藏身于飞驒的多山领国，凭借险峻的地形与天然的隔绝，长期远离低地大名间的激烈纷争。然而，姉小路氏的地位如今愈发受到威胁：东部强大的武田氏、南部扩张的织田氏，都觊觎着飞驒宝贵的山道与木材资源。" />
+      text="姊小路藩藏身于飞驒的多山领国，凭借险峻的地形与天然的隔绝，长期远离低地大名间的激烈纷争。然而，姊小路氏的地位如今愈发受到威胁：东部强大的武田氏、南部扩张的织田氏，都觊觎着飞驒宝贵的山道与木材资源。" />
     <string id="jsfn2IAQ"
       text="以德川家康为新领袖的德川藩，以战略要地东海道西部为根基，正处于关乎存亡的转折点。桶狭间之战后，德川氏摆脱了今川氏的附庸枷锁，夺取了前宗主的西部领地；北部边境则因与桶狭间之战的胜利者织田信长缔结盟约而稳固，而信长此刻正准备进军京都。尽管如此，年轻的德川藩仍处境脆弱：卷土重来的今川氏，或是北方野心勃勃的武田氏，都可能趁信长出征之机将其覆灭。" />
     <string id="z7frdeaW"
@@ -3827,8 +3807,8 @@
     <string id="DWogzAv1" text="真是可悲。你毫无胜算，快从我眼前消失。" />
     <string id="yeOhCrN8" text="铁炮装填速度：+{a0}%" />
     <string id="KQZrWAc8" text="铁炮精准度：+{a0}%" />
-    <string id="FPRIRmVI" text="五戸" />
-    <string id="OVKfZE0B" text="徳巌寺" />
+    <string id="FPRIRmVI" text="五户" />
+    <string id="OVKfZE0B" text="东观音寺" />
     <string id="rIe40xil" text="古川凑" />
     <string id="ZNtlxLOb" text="你暂无可用船只" />
     <string id="dvmAwCkr"
