@@ -1116,8 +1116,8 @@
     <string id="ZqMNObKk" text="三木" />
     <string id="CQHwBFdV" text="明石" />
     <string id="M0osfYXn" text="滝山城" />
-    <string id="TA6vAIHp" text="兵庫" />
-    <string id="HCBBJbxX" text="有馬" />
+    <string id="TA6vAIHp" text="兵库" />
+    <string id="HCBBJbxX" text="有马" />
     <string id="PKP1FMJk" text="芥川山城" />
     <string id="1lijcoPq" text="伊丹" />
     <string id="8RAd0mOi" text="富田" />
@@ -1351,9 +1351,9 @@
     <string id="NbT4Swom" text="奈半利" />
     <string id="PlKW3dYT" text="崎滨城" />
     <string id="BwdDTePk" text="室津" />
-		<string id="tC73LOrW" text="甲浦" />
-		<string id="cvw8Hsv2" text="十河城" />
-		<string id="hxnWpK6g" text="香西" />
+    <string id="tC73LOrW" text="甲浦" />
+    <string id="cvw8Hsv2" text="十河城" />
+    <string id="hxnWpK6g" text="香西" />
     <string id="hE6MmVcF" text="宍道" />
     <string id="PaZTWp5t" text="土佐泊城" />
     <string id="5Y2Acdc9" text="别宫" />
@@ -2304,11 +2304,11 @@
     <string id="frd6g7E0" text="圆流新阴流目录" />
     <string id="7oGHcWiG" text="宝藏院流兵法目录" />
     <string id="qQ5Qe8Wa" text="枪术试割术" />
-    <string id="EXkXfJZA" text="空堀之次第" />
-    <string id="je3n5qAB" text="狮子脚之次第" />
-    <string id="6ojmtwR3" text="梅葱纸" />
-    <string id="pB9o3dAO" text="梅传书" />
-    <string id="RKFy2nfR" text="両马图说" />
+    <string id="EXkXfJZA" text="矢壶之次第" />
+    <string id="je3n5qAB" text="狮鞍之次第" />
+    <string id="6ojmtwR3" text="马医草纸" />
+    <string id="pB9o3dAO" text="马医传书" />
+    <string id="RKFy2nfR" text="疗马图说" />
     <string id="RukLXS5c" text="缰锁之事" />
     <string id="Fc6fFeIM" text="流镝马次第" />
     <string id="PHjULD4d" text="笠悬记" />
@@ -2331,11 +2331,11 @@
     <string id="7JBmkj8x" text="东鉴记考" />
     <string id="kwdX0sXa" text="街道记" />
     <string id="DzRtTokT" text="十六夜日记" />
-    <string id="IGw1F6NE" text="开国雑记" />
-    <string id="f9NQFLGe" text="尽国记" />
+    <string id="IGw1F6NE" text="回国杂记" />
+    <string id="f9NQFLGe" text="人国记" />
     <string id="KzzriYoO" text="日本一鉴" />
     <string id="XVSN8760" text="海道诸国记" />
-    <string id="xddPDjBw" text="腾潜镜" />
+    <string id="xddPDjBw" text="斗战经" />
     <string id="wtuE6Ll9" text="孙子" />
     <string id="yt7Uv0U9" text="吴子" />
     <string id="GXle1JL8" text="尉缭子" />
@@ -2343,7 +2343,7 @@
     <string id="fcDYAFnd" text="三略" />
     <string id="ie46ITLX" text="司马法" />
     <string id="pkYCz3JJ" text="李卫公问对" />
-    <string id="Svsj5eBn" text="李卫公兵法" />
+    <string id="Svsj5eBn" text="连理秘抄" />
     <string id="G9luekCQ" text="吾妻问答" />
     <string id="byz0t5lF" text="新撰菟玖波集" />
     <string id="AUqLkz89" text="庭训往来" />
@@ -2360,7 +2360,7 @@
     <string id="VEuXwb4n" text="集外抄" />
     <string id="8nWqHiiH" text="雅学集" />
     <string id="0OzFc2Cb" text="节用集" />
-    <string id="IAfPmCEO" text="皆戦仕置" />
+    <string id="IAfPmCEO" text="军船式目" />
     <string id="gfTwgNWr" text="御成败式目" />
     <string id="sAs2rbg4" text="仕置抄" />
     <string id="rQ1RiaVi" text="朝仓景高状" />
@@ -2372,8 +2372,8 @@
     <string id="dWCGYQD6" text="医心方" />
     <string id="ZvOqsITf" text="遁异抄" />
     <string id="3qPZwQmw" text="万安方" />
-    <string id="RZNHzUvJ" text="医済大全" />
-    <string id="TIBuEAb7" text="経済集" />
+    <string id="RZNHzUvJ" text="医济大全" />
+    <string id="TIBuEAb7" text="启迪集" />
     <string id="gQb6YCnw" text="地镜记" />
     <string id="vlCFfp1l" text="武家诸用" />
     <string id="c6TFxi8r" text="野伏弓" />
@@ -2539,17 +2539,17 @@
     <string id="6Ey2sWrU" text="熊皮纹太刀" />
     <string id="y8fn9D9l" text="鹿皮纹太刀" />
     <string id="siP5Zlut" text="狸皮纹太刀" />
-    <string id="Bnhchkdv" text="华丽筒缀雪駄" />
-    <string id="BTbFe7YS" text="立挙萩缀雪駄" />
-    <string id="ZEAspayX" text="萩缀雪駄" />
-    <string id="gzyTfOUS" text="西班牙长靴" />
-    <string id="O5nFZ4vF" text="草鞋" />
-    <string id="w7ublENG" text="赤足布制雪駄" />
-    <string id="pp01Hcyc" text="布制雪駄" />
-    <string id="TcYIXW4C" text="筒缀雪駄" />
-    <string id="uvzoh6Ri" text="毛皮筒缀雪駄" />
-    <string id="E2QlAoyf" text="锁子甲筒缀雪駄" />
-    <string id="jtXzAqSU" text="毛皮锁子甲筒缀雪駄" />
+    <string id="Bnhchkdv" text="雕花筒式臑当" />
+    <string id="BTbFe7YS" text="加高式笕楯臑当" />
+    <string id="ZEAspayX" text="笕楯臑当" />
+    <string id="gzyTfOUS" text="南蛮战靴" />
+    <string id="O5nFZ4vF" text="足轻草鞋" />
+    <string id="w7ublENG" text="赤足布制臑当" />
+    <string id="pp01Hcyc" text="布制臑当" />
+    <string id="TcYIXW4C" text="筒式臑当" />
+    <string id="uvzoh6Ri" text="毛皮筒式臑当" />
+    <string id="E2QlAoyf" text="锁甲筒式臑当" />
+    <string id="jtXzAqSU" text="毛皮锁甲筒式臑当" />
     <string id="e2b5I0ph" text="稻米{@Plural}数担稻米{\@}" />
     <string id="u9uJ9vFm" text="大豆{@Plural}数担大豆{\@}" />
     <string id="gVjlpiFD" text="紫苏{@Plural}数担紫苏{\@}" />
@@ -2572,7 +2572,7 @@
     <string id="Ga1YH1B8" text="丝绸{@Plural}数匹丝绸{\@}" />
     <string id="OojobBYZ" text="苎麻布{@Plural}数匹苎麻布{\@}" />
     <string id="5mZjzDV5" text="金币" />
-    <string id="1uZ1NNgF" text="御赐太刀" />
+    <string id="1uZ1NNgF" text="西洋骑士剑" />
     <string id="bJgwkEq6" text="西洋细剑" />
     <string id="rdQYTTI4" text="军用品" />
     <string id="oIBBRf9w" text="猫_a" />
@@ -2657,7 +2657,7 @@
     <string id="BzV8iZGW" text="钢制薙刀" />
     <string id="cFL3f28k" text="磨损的薙刀" />
     <string id="IXWgp1Kb" text="蓑衣" />
-    <string id="yANNztZH" text="阵羽织（异体字）" />
+    <string id="yANNztZH" text="阵羽织" />
     <string id="RN0CjgA0" text="阵羽织" />
     <string id="kxzCYmvt" text="追鹤僧衣" />
     <string id="vJJSYEjX" text="小札袖甲" />
@@ -2701,8 +2701,8 @@
     <string id="vDXmF9nx" text="浪人服" />
     <string id="eJK1kPV3" text="桶川胴甲" />
     <string id="wqZRgWso" text="桶川胴佩楯" />
-    <string id="WjvswJs2" text="大鎧" />
-    <string id="6gpCytKe" text="大鎧胴甲" />
+    <string id="WjvswJs2" text="大铠" />
+    <string id="6gpCytKe" text="大铠胴甲" />
     <string id="56EX4QYD" text="裃" />
     <string id="VO0yxSgI" text="西班牙铠甲" />
     <string id="PKye4haM" text="川堤胴甲" />
@@ -2753,7 +2753,7 @@
     <string id="Vfsbslpv" text="逃兵" />
     <string id="gVZxlFB4" text="足轻" />
     <string id="5HSblONo" text="龙造寺" />
-    <string id="uIMPOA8l" text="龙造寺の両国" />
+    <string id="uIMPOA8l" text="龙造寺领国" />
     <string id="hCsqAorV" text="决斗武士" />
     <string id="gNJVca2H" text="普通武士" />
     <string id="zkA950i3" text="畿内番头" />
@@ -3227,18 +3227,18 @@
     <string id="tFoDjhaJ" text="测试 {CONSOLE_ACTION_KEY}" />
     <string id="0OQGAye5" text="驻军薪饷减免" />
     <string id="vNm8fo7R" text="海域" />
-    <string id="rP3o1jH3" text="{FIRSTNAME} 破城者" />
-    <string id="Q6uJcuFa" text="{FIRSTNAME} 浪人" />
-    <string id="SUJMCSnx" text="{FIRSTNAME} 守门人" />
-    <string id="ZIiXw5G9" text="{FIRSTNAME} 南蛮人" />
-    <string id="gJVGhbX1" text="{FIRSTNAME} 取首者" />
-    <string id="kgQAfRmd" text="{FIRSTNAME} 鬼" />
-    <string id="RPyVUdSp" text="{FIRSTNAME} 蝮蛇" />
-    <string id="1WG6Sbxu" text="{FIRSTNAME} 漂泊者" />
-    <string id="YRTy1Jc4" text="{FIRSTNAME} 南越人" />
-    <string id="OqTtI69g" text="{FIRSTNAME} 温泉众" />
-    <string id="6lPKo6Oc" text="{FIRSTNAME} 咒术师" />
-    <string id="je5Ijhzi" text="行刑刀" />
+    <string id="rP3o1jH3" text="“破城者”{FIRSTNAME}" />
+    <string id="Q6uJcuFa" text="“浪人”{FIRSTNAME}" />
+    <string id="SUJMCSnx" text="“守门人”{FIRSTNAME}" />
+    <string id="ZIiXw5G9" text="“南蛮人”{FIRSTNAME}" />
+    <string id="gJVGhbX1" text="“取首者”{FIRSTNAME}" />
+    <string id="kgQAfRmd" text="“鬼”{FIRSTNAME}" />
+    <string id="RPyVUdSp" text="“蝮蛇”{FIRSTNAME}" />
+    <string id="1WG6Sbxu" text="“漂泊者”{FIRSTNAME}" />
+    <string id="YRTy1Jc4" text="“南越人”{FIRSTNAME}" />
+    <string id="OqTtI69g" text="“温泉众”{FIRSTNAME}" />
+    <string id="6lPKo6Oc" text="“咒术师”{FIRSTNAME}" />
+    <string id="je5Ijhzi" text="行刑薙刀" />
     <string id="cb5RX3rb" text="酿酒师" />
     <string id="U3t2qYpM" text="豆匠" />
     <string id="0OU0Y4yH" text="制弓师" />
@@ -3677,7 +3677,7 @@
     织田家村-->
     <string id="Z31UOoXV" text="织田" />
     <string id="p8STbpcO" text="玉钢{@Plural}数车玉钢{\@}" />
-    <string id="Qcs1hp25" text="{CLAN_NAME} 之両国" />
+    <string id="Qcs1hp25" text="{CLAN_NAME} 之领国" />
     <string id="LGjLJV7J" text="一位大名" />
     <string id="eY1FJhML"
       text="在芦名盛氏的统领下，芦名藩已崛起为地区性强权，掌控着会津核心地带——这片关东平原与日本北部之间的战略要冲。然而，周边势力的野心正不断挑战芦名的地位：北方崛起的伊达氏、西方的上杉氏、南方的佐竹氏皆虎视眈眈。尽管会津多山的地形令芦名藩防御稳固，但这些防线恐怕很快就要面临多线考验。" />
