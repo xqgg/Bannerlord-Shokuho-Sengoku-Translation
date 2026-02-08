@@ -3477,21 +3477,21 @@
     <string id="VWJVxFVU" text="当管辖据点遭围城时，该据点直接获得{VALUE}支预制火箭" />
     <string id="6xMGGe4p" text="蹲伏射击时，铁炮射击偏差降低{VALUE}%" />
     <string id="LCsu8rXa" text="铁炮瞄准速度提升{VALUE}%" />
-    <string id="kTtaCTPd" text="我方阵型部队的铁炮伤害提升{VALUE}%" />
+    <string id="kTtaCTPd" text="你编队中的士兵的铁炮伤害提升{VALUE}%" />
     <string id="529NHHSF" text="妙手" />
     <string id="W1qqtfBI" text="射击可击倒敌人" />
-    <string id="ySSwKUJh" text="我方阵型部队对步兵的铁炮伤害提升{VALUE}%" />
-    <string id="dGWUzXCL" text="我方阵型部队的铁炮装填速度提升{VALUE}%" />
+    <string id="ySSwKUJh" text="你编队中的士兵对步兵的铁炮伤害提升{VALUE}%" />
+    <string id="dGWUzXCL" text="你编队中的士兵的铁炮装填速度提升{VALUE}%" />
     <string id="fHMhFjsD" text="我方阵型铁炮部队对坐骑的伤害提升{VALUE}%" />
     <string id="Ch0wCBTm" text="弹药匠" />
     <string id="416yW4ah" text="每个弹药袋可携带{VALUE}发弹药" />
     <string id="BQlWUEKS" text="我方队伍部队的每个弹药袋可携带{VALUE}发弹药" />
     <string id="hlpmVD7n" text="子弹穿透敌人的概率提升{VALUE}%" />
-    <string id="25cXavCs" text="我方阵型部队的子弹穿透敌人概率提升{VALUE}%" />
+    <string id="25cXavCs" text="你编队中的士兵的子弹穿透敌人概率提升{VALUE}%" />
     <string id="cKMqGHvR" text="游击射击" />
     <string id="L7EQvOVZ" text="装备铁炮时不会降低移动速度" />
     <string id="3kmKLMcB" text="装填铁炮时，抵抗击退的概率提升{VALUE}%" />
-    <string id="prp1UaRW" text="我方阵型部队装填铁炮时，抵抗击退的概率提升{VALUE}%" />
+    <string id="prp1UaRW" text="你编队中的士兵装填铁炮时，抵抗击退的概率提升{VALUE}%" />
     <string id="sPM9IQlH" text="装备铁炮时，受到的投射物伤害变化{VALUE}%" />
     <string id="dNIBUrXr" text="可在马背上装填任意铁炮" />
     <string id="t1UqSzOM" text="骑马状态下使用铁炮，精度惩罚提升{VALUE}%" />
@@ -3502,8 +3502,8 @@
     <string id="zWnIMyec" text="骑马铁炮手" />
     <string id="ZpNF5DHO" text="轻足" />
     <string id="u2eo3AHh" text="手持远程武器时，移动速度提升{VALUE}%" />
-    <string id="RUEgGILC" text="我方阵型部队的铁炮伤害提升{VALUE}%" />
-    <string id="ULhJ2BBR" text="我方阵型部队以铁炮杀敌时，敌军士气流失幅度提升{VALUE}%" />
+    <string id="RUEgGILC" text="你编队中的士兵的铁炮伤害提升{VALUE}%" />
+    <string id="ULhJ2BBR" text="你编队中的士兵以铁炮杀敌时，敌军士气流失幅度提升{VALUE}%" />
     <string id="Uu1lqx60" text="技能等级每超过200点，铁炮精度提升{VALUE}%" />
     <string id="QMiU3iTm" text="技能等级每超过200点，铁炮装填速度提升{VALUE}%" />
     <string id="VswZE67u" text="手持单手武器时，移动速度提升{VALUE}%" />
@@ -3513,10 +3513,10 @@
     <string id="3O4C4EC2" text="我方阵型步兵部队的近战伤害提升{VALUE}%" />
     <string id="8llzDPS0" text="徒步状态下，单手武器伤害提升{VALUE}%" />
     <string id="loCidkqu" text="步兵" />
-    <string id="iQWCmztO" text="我方阵型部队受到的近战伤害降低{VALUE}%" />
+    <string id="iQWCmztO" text="你编队中的士兵受到的近战伤害降低{VALUE}%" />
     <string id="EVlZni6p" text="自身受到的近战伤害降低{VALUE}%" />
     <string id="oyuPTDvy" text="接刀手" />
-    <string id="bdCxu48B" text="我方阵型部队受到的投射物伤害降低{VALUE}%" />
+    <string id="bdCxu48B" text="你编队中的士兵受到的投射物伤害降低{VALUE}%" />
     <string id="9snKkMjL" text="自身受到的投射物伤害降低{VALUE}%" />
     <string id="u4eoqlJV" text="挡箭手" />
     <string id="TJHe7hZ7" text="徒步状态下，单手武器的速度加成伤害提升{VALUE}%" />
@@ -3529,10 +3529,10 @@
     <string id="nx99yrQz" text="我方阵型持双手武器的步兵，对头肩部位的伤害提升{VALUE}%" />
     <string id="Lmdt15MZ" text="手持双手武器时，自身对头肩部位的伤害提升{VALUE}%" />
     <string id="q1Mv3GSf" text="斩首者" />
-    <string id="xnEMoT62" text="我方阵型部队对骑马敌人的伤害提升{VALUE}%" />
+    <string id="xnEMoT62" text="你编队中的士兵对骑马敌人的伤害提升{VALUE}%" />
     <string id="Pj6utnXM" text="使用双手武器时，对骑马敌人的伤害提升{VALUE}%" />
     <string id="0zKXPzDR" text="讨骑者" />
-    <string id="AzeWnhfQ" text="我方阵型部队受到的骑枪冲刺伤害降低{VALUE}%" />
+    <string id="AzeWnhfQ" text="你编队中的士兵受到的骑枪冲刺伤害降低{VALUE}%" />
     <string id="BeP8m3cM" text="自身受到的骑枪冲刺伤害降低{VALUE}%" />
     <string id="OzsarGrR" text="格挡" />
     <string id="1xGrqmyz" text="神射手" />
